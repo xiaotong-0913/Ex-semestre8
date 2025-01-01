@@ -1,0 +1,2 @@
+HTTP/1.0 request is not supported.
+
