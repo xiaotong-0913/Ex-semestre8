@@ -9,8 +9,20 @@ fi
 fichier=$1  # Fichier contenant les URLs
 aspirations="/home/hxt/Projet-PPE1/aspirations/html_ch"
 dumps="/home/hxt/Projet-PPE1/dumps-text/dump_ch"
+output_html="/home/hxt/Projet-PPE1/tableaux/tableau_ch.html"
+mot="开放"
 n=1  # Initialisation du compteur de lignes
 
+# Initialisation du fichier HTML
+echo "<!DOCTYPE html>" > "$output_html"
+echo "<html>" >> "$output_html"
+echo "<head><meta charset=\"UTF-8\"><title>Résultats des URLs</title>" >> "$output_html"
+echo "<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css\">" >> "$output_html"
+echo "</head><body><div class=\"container\">" >> "$output_html"
+echo "<h1 class=\"title\">Résultats des URLs</h1>" >> "$output_html"
+echo "<table class=\"table is-bordered is-striped is-fullwidth\">" >> "$output_html"
+echo "<thead><tr><th>ligne</th><th>URL</th><th>Code HTTP</th><th>Encodage</th><th>DumpText</th><th>HTML</th><th>Occurrences</th></tr></thead>" >> "$output_html"
+echo "<tbody>" >> "$output_html"
 
 # Lecture ligne par ligne du fichier contenant les URLs
 while read -r line; do
@@ -27,14 +39,25 @@ while read -r line; do
 
 	lynx -dump -nolist "$line" > "$dump_file"
 
-        # URL valide, affichage des informations
-        echo -e "${n}\t${line}\t${code}\t${encoding:-N/A}\t<a href=\"$dump_file\" target=\"_blank\"text</a>\t<a href=\"$aspiration_file\" target=\"_blank\">html</a>"
+	compte=$(grep -o "$mot" "$dump_file" | wc -l)
+
+	 # Ajouter une ligne au tableau avec des liens HTML
+        echo "<tr>" >> "$output_html"
+        echo "<td>$n</td><td><a href=\"$line\" target=\"_blank\">$line</a></td><td>$code</td><td>${encoding:-N/A}</td>" >> "$output_html"
+        echo "<td><a href=\"$dump_file\" target=\"_blank\">text</a></td><td><a href=\"$aspiration_file\" target=\"_blank\">html</a></td>" >> "$output_html"
+        echo "<td>$compte</td></tr>" >> "$output_html"
     else
-        # URL invalide, affichage d'un message d'erreur
+        # URL invalide
         echo "Erreur : $line renvoie un code HTTP $code. Ignorée." >&2
-        echo -e "${n}\t${line}\t${code}\tN/A\tN/A\tN/A"
+        echo "<tr>" >> "$output_html"
+        echo "<td>$n</td><td><a href=\"$line\" target=\"_blank\">$line</a></td><td>$code</td><td>N/A</td>" >> "$output_html"
+        echo "<td>N/A</td><td>N/A</td><td>0</td></tr>" >> "$output_html"
     fi
 
     n=$((n + 1))  # compteur
 done < "$fichier"
+
+# Finalisation du fichier HTML
+echo "</tbody></table></div></body></html>" >> "$output_html"
+echo "Résultats enregistrés dans $output_html."
 
