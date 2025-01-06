@@ -1,0 +1,14 @@
+   Compsa WAF
+   La solicitud a sido detenida.
+   Lo sentimos, su petición ha sido bloqueada por las reglas de bloqueo
+   establecidas por el WAF.
+   Verifique el contenido del envío o comuníquese con el administrador del
+   sitio web para su procesamiento.
+   Provided by Compsa WAF
+   Compsa WAF
+   La solicitud a sido detenida.
+   Lo sentimos, su petición ha sido bloqueada por las reglas de bloqueo
+   establecidas por el WAF.
+   Verifique el contenido del envío o comuníquese con el administrador del
+   sitio web para su procesamiento.
+   Provided by Compsa WAF

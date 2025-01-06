@@ -1,0 +1,753 @@
+   #alternate Modifica Viquipèdia (ca) Canal de sindicació Atom Viquipèdia
+
+   Vés al contingut
+
+   [ ] Menú principal
+   Menú principal
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+   Navegació
+     * Portada
+     * Article a l'atzar
+     * Articles de qualitat
+
+   Comunitat
+     * Portal viquipedista
+     * Agenda d'actes
+     * Canvis recents
+     * La taverna
+     * Contacte
+     * Xat
+     * Ajuda
+
+   Viquipèdia l'Enciclopèdia Lliure
+   Cerca
+   ____________________
+   (BUTTON) Cerca
+
+   [ ] Aparença
+
+     * Donatius
+     * Crea un compte
+     * Inicia la sessió
+
+   [ ] Eines personals
+     * Donatius
+     * Crea un compte
+     * Inicia la sessió
+
+   Pàgines per a editors no registrats més informació
+     * Contribucions
+     * Discussió per aquest IP
+
+Contingut
+
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+     * Inici
+     * 1 Obertura màxima i mínima d'un objectiu
+     * 2 Profunditat de camp
+     * 3 Vegeu també
+     * 4 Referències
+     * 5 Enllaços externs
+
+   [ ] Commuta la taula de continguts.
+
+Obertura (diafragma)
+
+   [ ] 41 llengües
+     * Afrikaans
+     * العربية
+     * Azərbaycanca
+     * Беларуская
+     * বাংলা
+     * Deutsch
+     * English
+     * Español
+     * Eesti
+     * Euskara
+     * فارسی
+     * Gaeilge
+     * עברית
+     * हिन्दी
+     * Bahasa Indonesia
+     * 日本語
+     * 한국어
+     * Lëtzebuergesch
+     * Limburgs
+     * Latviešu
+     * മലയാളം
+     * Bahasa Melayu
+     * Nederlands
+     * Norsk nynorsk
+     * Norsk bokmål
+     * Polski
+     * Português
+     * Română
+     * Русский
+     * Simple English
+     * Slovenčina
+     * தமிழ்
+     * Тоҷикӣ
+     * ไทย
+     * Tagalog
+     * Українська
+     * اردو
+     * Tiếng Việt
+     * 中文
+     * 文言
+     * 粵語
+
+   Modifica els enllaços
+
+     * Pàgina
+     * Discussió
+
+   [ ] català
+
+     * Mostra
+     * Modifica
+     * Mostra l'historial
+
+   [ ] Eines
+   Eines
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+   Accions
+     * Mostra
+     * Modifica
+     * Mostra l'historial
+
+   General
+     * Què hi enllaça
+     * Canvis relacionats
+     * Pàgines especials
+     * Enllaç permanent
+     * Informació de la pàgina
+     * Citau aquest article
+     * Obtén una URL abreujada
+     * Descarrega el codi QR
+
+   Imprimeix/exporta
+     * Crea un llibre
+     * Baixa com a PDF
+     * Versió per a impressora
+
+   En altres projectes
+     * Commons
+     * Element a Wikidata
+
+   Aparença
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+   De la Viquipèdia, l'enciclopèdia lliure
+   [220px-Apertures.jpg] Diferents obertures del diafragma
+
+   En fotografia, l'obertura és un forat a través del qual passa la
+   llum.^[1] Més específicament, l'obertura d'un sistema òptic és aquella
+   magnitud que determina l'angle del con d'un feix de raigs que enfoca en
+   el pla d'imatge.
+
+   La magnitud d'obertura és controlada pel diafragma, una estructura
+   interposada en la trajectoria de la llum per regular la quantitat
+   admesa en el sistema. El diafragma és un mecanisme de l'objectiu
+   compost per una sèrie de plaques, aspes o aletes que es mouen cap a
+   dins o cap a fora formant una obertura de témany regulable que deixa
+   passar més o menys llum en funció del seu diàmetre. En combinació amb
+   la velocitat d'obturació, la mida de l'obertura regula el grau
+   d'exposició a la llum del sensor, determinant d'aquesta manera el valor
+   d'exposició.
+
+Obertura màxima i mínima d'un objectiu
+
+   [modifica]
+
+   Les especificacions dels objectius fotográfics acostumen a incluir les
+   obertures máximes i mínimes. Aquestes s'expressen indirectament a
+   través dels números f o relació focal, la qual un número menor
+   determina una major obertura i a la inversa. L'obertura del diafragma
+   es regula per passos:^[2]^[3]
+
+   Escala de mig pas: f/2.8 - f/3.2 - f/4 - f/4.8 - f/5.6 - f/6.7 - f/8 -
+   f/9.5 - f/11 - f/13 - f/16 - f/19 - f/22
+
+   Escala d'un terç de pas: f/4 - f/4.5 - f/6.3 - f./7.1 - f/8 - f/9 -
+   f/10 - f/11 - f/13 - f/14 - f/16 - f/18 - f/22
+
+Profunditat de camp
+
+   [modifica]
+
+   La profunditat de camp en fotografia i cinematografia és l'espai que hi
+   ha entre dos punts, pròxim i llunyà, de manera que els objectes que hi
+   ha entre aquests dos punts queden enfocats. Els objectes que queden més
+   propers a la càmera que el punt pròxim surten desenfocats, i també els
+   que queden més allunyats que el punt llunyà. La profunditat de camp
+   també s'entén com l'espai per davant i per darrere del pla enfocat,
+   comprès entre el primer i l'últim punt apreciablement nítid reproduïts
+   en el mateix pla d'enfocament.^[4]
+
+   Quant més s'obre el diafragma (valors f baixos) més profunditat de
+   camp. Per contrapart, quant més es tanca (valors f alts) més
+   profunditat de camp.
+   [220px-Take_a_picture_of_me_jumping.jpg] Fotografia amb molta
+   profunditat de camp[220px-Ploceus_velatus_beak_open.jpg] Fotografia amb
+   poca profunditat de camp
+
+Vegeu també
+
+   [modifica]
+     * Diafragma (fotografia)
+     * nombre f
+     * Valor d'exposició
+     * Velocitat d'obturació
+     * Objectiu (fotografia)
+     * Composició fotogràfica
+     * Fotografia
+     * Càmera fotogràfica
+
+Referències
+
+   [modifica]
+    1. ↑ Obertura del diafragma a Optimot
+    2. ↑ «La apertura del diafragma explicada con ejemplos».
+    3. ↑ «LA CÁMARA FOTOGRÁFICA CUERPO Y CONTROLES BÁSICOS». Universidad
+       Autónoma del Estado de México Centro Universitario UAEM Valle de
+       Chalco.
+    4. ↑ Alba Ambròs Pallarès, Ramon Breu Pañella. Cinema i educació: El
+       cinema a l'aula de primària i secundària., p. Grao, 2007, p. 77..
+       ISBN ISBN 849980263X..
+
+Enllaços externs
+
+   [modifica]
+   A Wikimedia Commons hi ha contingut multimèdia relatiu a: Obertura
+     * Principis bàsics de la fotografia: entenent l'obertura (castellà)
+
+   Viccionari
+   Obtingut de
+   «https://ca.wikipedia.org/w/index.php?title=Obertura_(diafragma)&oldid=
+   33810792»
+   Categories:
+     * Terminologia fotogràfica
+     * Òptica
+
+   Categoria oculta:
+     * Pàgines amb enllaç commonscat des de Wikidata
+
+     * La pàgina va ser modificada per darrera vegada el 20 ago 2024 a les
+       06:10.
+     * El text està disponible sota la Llicència de Creative Commons
+       Reconeixement i Compartir-Igual; es poden aplicar termes
+       addicionals. Vegeu les Condicions d'ús. Wikipedia® (Viquipèdia™) és
+       una marca registrada de Wikimedia Foundation, Inc.
+
+     * Política de privadesa
+     * Quant al projecte Viquipèdia
+     * Descàrrec de responsabilitat
+     * Codi de conducta
+     * Desenvolupadors
+     * Estadístiques
+     * Declaració de cookies
+     * Versió per a mòbils
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+   #alternate Modifica Viquipèdia (ca) Canal de sindicació Atom Viquipèdia
+
+   Vés al contingut
+
+   [ ] Menú principal
+   Menú principal
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+   Navegació
+     * Portada
+     * Article a l'atzar
+     * Articles de qualitat
+
+   Comunitat
+     * Portal viquipedista
+     * Agenda d'actes
+     * Canvis recents
+     * La taverna
+     * Contacte
+     * Xat
+     * Ajuda
+
+   Viquipèdia l'Enciclopèdia Lliure
+   Cerca
+   ____________________
+   (BUTTON) Cerca
+
+   [ ] Aparença
+
+     * Donatius
+     * Crea un compte
+     * Inicia la sessió
+
+   [ ] Eines personals
+     * Donatius
+     * Crea un compte
+     * Inicia la sessió
+
+   Pàgines per a editors no registrats més informació
+     * Contribucions
+     * Discussió per aquest IP
+
+Contingut
+
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+     * Inici
+     * 1 Obertura màxima i mínima d'un objectiu
+     * 2 Profunditat de camp
+     * 3 Vegeu també
+     * 4 Referències
+     * 5 Enllaços externs
+
+   [ ] Commuta la taula de continguts.
+
+Obertura (diafragma)
+
+   [ ] 41 llengües
+     * Afrikaans
+     * العربية
+     * Azərbaycanca
+     * Беларуская
+     * বাংলা
+     * Deutsch
+     * English
+     * Español
+     * Eesti
+     * Euskara
+     * فارسی
+     * Gaeilge
+     * עברית
+     * हिन्दी
+     * Bahasa Indonesia
+     * 日本語
+     * 한국어
+     * Lëtzebuergesch
+     * Limburgs
+     * Latviešu
+     * മലയാളം
+     * Bahasa Melayu
+     * Nederlands
+     * Norsk nynorsk
+     * Norsk bokmål
+     * Polski
+     * Português
+     * Română
+     * Русский
+     * Simple English
+     * Slovenčina
+     * தமிழ்
+     * Тоҷикӣ
+     * ไทย
+     * Tagalog
+     * Українська
+     * اردو
+     * Tiếng Việt
+     * 中文
+     * 文言
+     * 粵語
+
+   Modifica els enllaços
+
+     * Pàgina
+     * Discussió
+
+   [ ] català
+
+     * Mostra
+     * Modifica
+     * Mostra l'historial
+
+   [ ] Eines
+   Eines
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+   Accions
+     * Mostra
+     * Modifica
+     * Mostra l'historial
+
+   General
+     * Què hi enllaça
+     * Canvis relacionats
+     * Pàgines especials
+     * Enllaç permanent
+     * Informació de la pàgina
+     * Citau aquest article
+     * Obtén una URL abreujada
+     * Descarrega el codi QR
+
+   Imprimeix/exporta
+     * Crea un llibre
+     * Baixa com a PDF
+     * Versió per a impressora
+
+   En altres projectes
+     * Commons
+     * Element a Wikidata
+
+   Aparença
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+   De la Viquipèdia, l'enciclopèdia lliure
+   [220px-Apertures.jpg] Diferents obertures del diafragma
+
+   En fotografia, l'obertura és un forat a través del qual passa la
+   llum.^[1] Més específicament, l'obertura d'un sistema òptic és aquella
+   magnitud que determina l'angle del con d'un feix de raigs que enfoca en
+   el pla d'imatge.
+
+   La magnitud d'obertura és controlada pel diafragma, una estructura
+   interposada en la trajectoria de la llum per regular la quantitat
+   admesa en el sistema. El diafragma és un mecanisme de l'objectiu
+   compost per una sèrie de plaques, aspes o aletes que es mouen cap a
+   dins o cap a fora formant una obertura de témany regulable que deixa
+   passar més o menys llum en funció del seu diàmetre. En combinació amb
+   la velocitat d'obturació, la mida de l'obertura regula el grau
+   d'exposició a la llum del sensor, determinant d'aquesta manera el valor
+   d'exposició.
+
+Obertura màxima i mínima d'un objectiu
+
+   [modifica]
+
+   Les especificacions dels objectius fotográfics acostumen a incluir les
+   obertures máximes i mínimes. Aquestes s'expressen indirectament a
+   través dels números f o relació focal, la qual un número menor
+   determina una major obertura i a la inversa. L'obertura del diafragma
+   es regula per passos:^[2]^[3]
+
+   Escala de mig pas: f/2.8 - f/3.2 - f/4 - f/4.8 - f/5.6 - f/6.7 - f/8 -
+   f/9.5 - f/11 - f/13 - f/16 - f/19 - f/22
+
+   Escala d'un terç de pas: f/4 - f/4.5 - f/6.3 - f./7.1 - f/8 - f/9 -
+   f/10 - f/11 - f/13 - f/14 - f/16 - f/18 - f/22
+
+Profunditat de camp
+
+   [modifica]
+
+   La profunditat de camp en fotografia i cinematografia és l'espai que hi
+   ha entre dos punts, pròxim i llunyà, de manera que els objectes que hi
+   ha entre aquests dos punts queden enfocats. Els objectes que queden més
+   propers a la càmera que el punt pròxim surten desenfocats, i també els
+   que queden més allunyats que el punt llunyà. La profunditat de camp
+   també s'entén com l'espai per davant i per darrere del pla enfocat,
+   comprès entre el primer i l'últim punt apreciablement nítid reproduïts
+   en el mateix pla d'enfocament.^[4]
+
+   Quant més s'obre el diafragma (valors f baixos) més profunditat de
+   camp. Per contrapart, quant més es tanca (valors f alts) més
+   profunditat de camp.
+   [220px-Take_a_picture_of_me_jumping.jpg] Fotografia amb molta
+   profunditat de camp[220px-Ploceus_velatus_beak_open.jpg] Fotografia amb
+   poca profunditat de camp
+
+Vegeu també
+
+   [modifica]
+     * Diafragma (fotografia)
+     * nombre f
+     * Valor d'exposició
+     * Velocitat d'obturació
+     * Objectiu (fotografia)
+     * Composició fotogràfica
+     * Fotografia
+     * Càmera fotogràfica
+
+Referències
+
+   [modifica]
+    1. ↑ Obertura del diafragma a Optimot
+    2. ↑ «La apertura del diafragma explicada con ejemplos».
+    3. ↑ «LA CÁMARA FOTOGRÁFICA CUERPO Y CONTROLES BÁSICOS». Universidad
+       Autónoma del Estado de México Centro Universitario UAEM Valle de
+       Chalco.
+    4. ↑ Alba Ambròs Pallarès, Ramon Breu Pañella. Cinema i educació: El
+       cinema a l'aula de primària i secundària., p. Grao, 2007, p. 77..
+       ISBN ISBN 849980263X..
+
+Enllaços externs
+
+   [modifica]
+   A Wikimedia Commons hi ha contingut multimèdia relatiu a: Obertura
+     * Principis bàsics de la fotografia: entenent l'obertura (castellà)
+
+   Viccionari
+   Obtingut de
+   «https://ca.wikipedia.org/w/index.php?title=Obertura_(diafragma)&oldid=
+   33810792»
+   Categories:
+     * Terminologia fotogràfica
+     * Òptica
+
+   Categoria oculta:
+     * Pàgines amb enllaç commonscat des de Wikidata
+
+     * La pàgina va ser modificada per darrera vegada el 20 ago 2024 a les
+       06:10.
+     * El text està disponible sota la Llicència de Creative Commons
+       Reconeixement i Compartir-Igual; es poden aplicar termes
+       addicionals. Vegeu les Condicions d'ús. Wikipedia® (Viquipèdia™) és
+       una marca registrada de Wikimedia Foundation, Inc.
+
+     * Política de privadesa
+     * Quant al projecte Viquipèdia
+     * Descàrrec de responsabilitat
+     * Codi de conducta
+     * Desenvolupadors
+     * Estadístiques
+     * Declaració de cookies
+     * Versió per a mòbils
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+   #alternate Modifica Viquipèdia (ca) Canal de sindicació Atom Viquipèdia
+
+   Vés al contingut
+
+   [ ] Menú principal
+   Menú principal
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+   Navegació
+     * Portada
+     * Article a l'atzar
+     * Articles de qualitat
+
+   Comunitat
+     * Portal viquipedista
+     * Agenda d'actes
+     * Canvis recents
+     * La taverna
+     * Contacte
+     * Xat
+     * Ajuda
+
+   Viquipèdia l'Enciclopèdia Lliure
+   Cerca
+   ____________________
+   (BUTTON) Cerca
+
+   [ ] Aparença
+
+     * Donatius
+     * Crea un compte
+     * Inicia la sessió
+
+   [ ] Eines personals
+     * Donatius
+     * Crea un compte
+     * Inicia la sessió
+
+   Pàgines per a editors no registrats més informació
+     * Contribucions
+     * Discussió per aquest IP
+
+Contingut
+
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+     * Inici
+     * 1 Obertura màxima i mínima d'un objectiu
+     * 2 Profunditat de camp
+     * 3 Vegeu també
+     * 4 Referències
+     * 5 Enllaços externs
+
+   [ ] Commuta la taula de continguts.
+
+Obertura (diafragma)
+
+   [ ] 41 llengües
+     * Afrikaans
+     * العربية
+     * Azərbaycanca
+     * Беларуская
+     * বাংলা
+     * Deutsch
+     * English
+     * Español
+     * Eesti
+     * Euskara
+     * فارسی
+     * Gaeilge
+     * עברית
+     * हिन्दी
+     * Bahasa Indonesia
+     * 日本語
+     * 한국어
+     * Lëtzebuergesch
+     * Limburgs
+     * Latviešu
+     * മലയാളം
+     * Bahasa Melayu
+     * Nederlands
+     * Norsk nynorsk
+     * Norsk bokmål
+     * Polski
+     * Português
+     * Română
+     * Русский
+     * Simple English
+     * Slovenčina
+     * தமிழ்
+     * Тоҷикӣ
+     * ไทย
+     * Tagalog
+     * Українська
+     * اردو
+     * Tiếng Việt
+     * 中文
+     * 文言
+     * 粵語
+
+   Modifica els enllaços
+
+     * Pàgina
+     * Discussió
+
+   [ ] català
+
+     * Mostra
+     * Modifica
+     * Mostra l'historial
+
+   [ ] Eines
+   Eines
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+   Accions
+     * Mostra
+     * Modifica
+     * Mostra l'historial
+
+   General
+     * Què hi enllaça
+     * Canvis relacionats
+     * Pàgines especials
+     * Enllaç permanent
+     * Informació de la pàgina
+     * Citau aquest article
+     * Obtén una URL abreujada
+     * Descarrega el codi QR
+
+   Imprimeix/exporta
+     * Crea un llibre
+     * Baixa com a PDF
+     * Versió per a impressora
+
+   En altres projectes
+     * Commons
+     * Element a Wikidata
+
+   Aparença
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+   De la Viquipèdia, l'enciclopèdia lliure
+   [220px-Apertures.jpg] Diferents obertures del diafragma
+
+   En fotografia, l'obertura és un forat a través del qual passa la
+   llum.^[1] Més específicament, l'obertura d'un sistema òptic és aquella
+   magnitud que determina l'angle del con d'un feix de raigs que enfoca en
+   el pla d'imatge.
+
+   La magnitud d'obertura és controlada pel diafragma, una estructura
+   interposada en la trajectoria de la llum per regular la quantitat
+   admesa en el sistema. El diafragma és un mecanisme de l'objectiu
+   compost per una sèrie de plaques, aspes o aletes que es mouen cap a
+   dins o cap a fora formant una obertura de témany regulable que deixa
+   passar més o menys llum en funció del seu diàmetre. En combinació amb
+   la velocitat d'obturació, la mida de l'obertura regula el grau
+   d'exposició a la llum del sensor, determinant d'aquesta manera el valor
+   d'exposició.
+
+Obertura màxima i mínima d'un objectiu
+
+   [modifica]
+
+   Les especificacions dels objectius fotográfics acostumen a incluir les
+   obertures máximes i mínimes. Aquestes s'expressen indirectament a
+   través dels números f o relació focal, la qual un número menor
+   determina una major obertura i a la inversa. L'obertura del diafragma
+   es regula per passos:^[2]^[3]
+
+   Escala de mig pas: f/2.8 - f/3.2 - f/4 - f/4.8 - f/5.6 - f/6.7 - f/8 -
+   f/9.5 - f/11 - f/13 - f/16 - f/19 - f/22
+
+   Escala d'un terç de pas: f/4 - f/4.5 - f/6.3 - f./7.1 - f/8 - f/9 -
+   f/10 - f/11 - f/13 - f/14 - f/16 - f/18 - f/22
+
+Profunditat de camp
+
+   [modifica]
+
+   La profunditat de camp en fotografia i cinematografia és l'espai que hi
+   ha entre dos punts, pròxim i llunyà, de manera que els objectes que hi
+   ha entre aquests dos punts queden enfocats. Els objectes que queden més
+   propers a la càmera que el punt pròxim surten desenfocats, i també els
+   que queden més allunyats que el punt llunyà. La profunditat de camp
+   també s'entén com l'espai per davant i per darrere del pla enfocat,
+   comprès entre el primer i l'últim punt apreciablement nítid reproduïts
+   en el mateix pla d'enfocament.^[4]
+
+   Quant més s'obre el diafragma (valors f baixos) més profunditat de
+   camp. Per contrapart, quant més es tanca (valors f alts) més
+   profunditat de camp.
+   [220px-Take_a_picture_of_me_jumping.jpg] Fotografia amb molta
+   profunditat de camp[220px-Ploceus_velatus_beak_open.jpg] Fotografia amb
+   poca profunditat de camp
+
+Vegeu també
+
+   [modifica]
+     * Diafragma (fotografia)
+     * nombre f
+     * Valor d'exposició
+     * Velocitat d'obturació
+     * Objectiu (fotografia)
+     * Composició fotogràfica
+     * Fotografia
+     * Càmera fotogràfica
+
+Referències
+
+   [modifica]
+    1. ↑ Obertura del diafragma a Optimot
+    2. ↑ «La apertura del diafragma explicada con ejemplos».
+    3. ↑ «LA CÁMARA FOTOGRÁFICA CUERPO Y CONTROLES BÁSICOS». Universidad
+       Autónoma del Estado de México Centro Universitario UAEM Valle de
+       Chalco.
+    4. ↑ Alba Ambròs Pallarès, Ramon Breu Pañella. Cinema i educació: El
+       cinema a l'aula de primària i secundària., p. Grao, 2007, p. 77..
+       ISBN ISBN 849980263X..
+
+Enllaços externs
+
+   [modifica]
+   A Wikimedia Commons hi ha contingut multimèdia relatiu a: Obertura
+     * Principis bàsics de la fotografia: entenent l'obertura (castellà)
+
+   Viccionari
+   Obtingut de
+   «https://ca.wikipedia.org/w/index.php?title=Obertura_(diafragma)&oldid=
+   33810792»
+   Categories:
+     * Terminologia fotogràfica
+     * Òptica
+
+   Categoria oculta:
+     * Pàgines amb enllaç commonscat des de Wikidata
+
+     * La pàgina va ser modificada per darrera vegada el 20 ago 2024 a les
+       06:10.
+     * El text està disponible sota la Llicència de Creative Commons
+       Reconeixement i Compartir-Igual; es poden aplicar termes
+       addicionals. Vegeu les Condicions d'ús. Wikipedia® (Viquipèdia™) és
+       una marca registrada de Wikimedia Foundation, Inc.
+
+     * Política de privadesa
+     * Quant al projecte Viquipèdia
+     * Descàrrec de responsabilitat
+     * Codi de conducta
+     * Desenvolupadors
+     * Estadístiques
+     * Declaració de cookies
+     * Versió per a mòbils
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

@@ -1,0 +1,1230 @@
+   #alternate Modifica Viquipèdia (ca) Canal de sindicació Atom Viquipèdia
+
+   Vés al contingut
+
+   [ ] Menú principal
+   Menú principal
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+   Navegació
+     * Portada
+     * Article a l'atzar
+     * Articles de qualitat
+
+   Comunitat
+     * Portal viquipedista
+     * Agenda d'actes
+     * Canvis recents
+     * La taverna
+     * Contacte
+     * Xat
+     * Ajuda
+
+   Viquipèdia l'Enciclopèdia Lliure
+   Cerca
+   ____________________
+   (BUTTON) Cerca
+
+   [ ] Aparença
+
+     * Donatius
+     * Crea un compte
+     * Inicia la sessió
+
+   [ ] Eines personals
+     * Donatius
+     * Crea un compte
+     * Inicia la sessió
+
+   Pàgines per a editors no registrats més informació
+     * Contribucions
+     * Discussió per aquest IP
+
+Contingut
+
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+     * Inici
+     * 1 Classificació
+     * 2 Referències
+     * 3 Bibliografia
+
+   [ ] Commuta la taula de continguts.
+
+Obertura (escacs)
+
+   [ ] 53 llengües
+     * العربية
+     * Azərbaycanca
+     * Беларуская
+     * Беларуская (тарашкевіца)
+     * Български
+     * Čeština
+     * Cymraeg
+     * Dansk
+     * Deutsch
+     * Ελληνικά
+     * English
+     * Esperanto
+     * Español
+     * Euskara
+     * فارسی
+     * Suomi
+     * Français
+     * Galego
+     * עברית
+     * हिन्दी
+     * Magyar
+     * Հայերեն
+     * Bahasa Indonesia
+     * Íslenska
+     * Italiano
+     * 日本語
+     * Қазақша
+     * 한국어
+     * Latina
+     * Lëtzebuergesch
+     * Lietuvių
+     * Latviešu
+     * Македонски
+     * മലയാളം
+     * Bahasa Melayu
+     * Plattdüütsch
+     * Nederlands
+     * Norsk nynorsk
+     * Norsk bokmål
+     * Polski
+     * Português
+     * Română
+     * Русский
+     * Slovenčina
+     * Slovenščina
+     * Shqip
+     * Svenska
+     * தமிழ்
+     * Türkçe
+     * Українська
+     * Oʻzbekcha / ўзбекча
+     * 中文
+     * 粵語
+
+   Modifica els enllaços
+
+     * Pàgina
+     * Discussió
+
+   [ ] català
+
+     * Mostra
+     * Modifica
+     * Mostra l'historial
+
+   [ ] Eines
+   Eines
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+   Accions
+     * Mostra
+     * Modifica
+     * Mostra l'historial
+
+   General
+     * Què hi enllaça
+     * Canvis relacionats
+     * Pàgines especials
+     * Enllaç permanent
+     * Informació de la pàgina
+     * Citau aquest article
+     * Obtén una URL abreujada
+     * Descarrega el codi QR
+
+   Imprimeix/exporta
+     * Crea un llibre
+     * Baixa com a PDF
+     * Versió per a impressora
+
+   En altres projectes
+     * Commons
+     * Viquillibres
+     * Element a Wikidata
+
+   Aparença
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+   De la Viquipèdia, l'enciclopèdia lliure
+     a b c d e f g h
+   8
+   [208px-Chessboard480.svg.png]
+   a8 negres torre
+   b8 negres cavall
+   c8 negres alfil
+   d8 negres dama
+   e8 negres rei
+   f8 negres alfil
+   g8 negres cavall
+   h8 negres torre
+   a7 negres peó
+   b7 negres peó
+   c7 negres peó
+   d7 negres peó
+   e7 negres peó
+   f7 negres peó
+   g7 negres peó
+   h7 negres peó
+   a2 blanques peó
+   b2 blanques peó
+   c2 blanques peó
+   d2 blanques peó
+   e2 blanques peó
+   f2 blanques peó
+   g2 blanques peó
+   h2 blanques peó
+   a1 blanques torre
+   b1 blanques cavall
+   c1 blanques alfil
+   d1 blanques dama
+   e1 blanques rei
+   f1 blanques alfil
+   g1 blanques cavall
+   h1 blanques torre
+   8
+   7                 7
+   6                 6
+   5                 5
+   4                 4
+   3                 3
+   2                 2
+   1 1
+     a b c d e f g h
+
+                   Posició inicial en un tauler d'escacs
+
+   Una obertura d'escacs és el conjunt de moviments amb què comença una
+   partida del joc dels escacs. Les seqüències estàndard de jugades
+   inicials són anomenades obertures quan són jugades per les blanques, o
+   bé defenses, quan són jugades per les negres. Hi ha unes quantes
+   dotzenes d'obertures diferents, amb centenars o milers de variants i
+   subvariants. The Oxford Companion to Chess llista 1.327 variants
+   d'obertura amb un nom concret.^[1] Les obertures tenen una gran
+   varietat, i van des de les tranquil·les representants del joc
+   posicional (per exemple, l'obertura Réti, l'obertura catalana, o
+   algunes línies del gambit de dama refusat) fins a les salvatges de joc
+   tàctic (per exemple, el gambit Letó o la defensa dels dos cavalls, en
+   particular la Variant Traxler). A més de referir-se a seqüències
+   específiques de jugades, l'obertura és, en general, la primera fase
+   d'una partida d'escacs; les altres fases són el mig joc i el final.
+
+   Una seqüència de moviments que es consideri estàndard (sovint
+   catalogada en alguna publicació de referència com ara l'Enciclopèdia
+   d'Obertures d'Escacs) és anomenada com "les jugades de llibre", o "del
+   llibre", o "teòriques". Els llibres de referència sovint mostren
+   aquestes seqüències de jugades en notació algebraica, arbres de
+   variants, o bé taules. Quan la partida comença a desviar-se de la
+   teoria d'obertures coneguda, hom diu que els jugadors són "fora del
+   llibre". En moltes línies d'obertura, les jugades considerades millors
+   per ambdós bàndols han estat estudiades per vint, vint-i-cinc, o més
+   jugades. Algunes anàlisis arriben fins a trenta o trenta-cinc jugades,
+   com a les clàssiques Defensa índia de rei, la Sveshnikov, o la Najdorf,
+   variants (les dues darreres) de la defensa siciliana.^[2] Els jugadors
+   professionals dediquen anys a l'estudi de les obertures, i ho continuen
+   fent durant les seves carreres, atès que la teoria d'obertures
+   progressa i es modifica contínuament.
+
+   Una nova seqüència de jugades a l'obertura és coneguda com una "Novetat
+   teòrica" (o, simplement, "Novetat". Una novetat mantinguda en secret
+   fins que és usada en una partida de competició es coneix com a "variant
+   preparada", una arma molt poderosa sobretot en l'alta competició.^[3]
+
+Classificació
+
+   [modifica]
+
+   La classificació clàssica d'obertures estableix entre quatre i sis
+   grans grups:
+     * Obertures obertes: S'inicien amb els moviments 1.e4 e5.
+     * Obertures semiobertes: Després d'iniciar-se amb 1.e4 les negres fan
+       una jugada que no és 1...e5.
+     * Obertures tancades: S'inicien amb els moviments 1.d4 d5.
+     * Obertures semitancades: Després d'iniciar-se amb 1.d4 les negres
+       fan una jugada que no és 1...d5. En molts manuals són considerades
+       tancades.
+     * Obertures irregulars: Les que no s'inclouen en les categories
+       anteriors. Acostumen a considerar-se extravagants o poc profitoses
+       per les blanques.
+     * Obertures de flanc: En alguns manuals discriminen aquestes
+       obertures del grup d'irregulars. Són plantejaments en què les
+       blanques inicien movent un peó diferent de 1.e4 o de 1.d4, o alguns
+       moviments de cavall: avançar els peons de b i g una casella; els de
+       b, c o f, dues o moure el cavall 1.Cf3. La intenció és atacar el
+       joc central, més que ocupar-lo.
+
+   La Defensa índia (1.d4 Cf6) és el sistema més important^[4] del joc
+   semitancat, i acostuma a tractar-se de manera separada.
+
+Referències
+
+   [modifica]
+    1. ↑ Hooper, David; Whyld, Kenneth. The Oxford Companion to Chess. 2.
+       Oxford University Press, 1992, p. 461–480. ISBN 0-19-280049-3.
+    2. ↑ Garri Kaspàrov, Modern Chess 1a part, p. 353
+    3. ↑ Fine, R.. The Worlds Great Chess Games. Andre Deutsch, 1952.
+    4. ↑ Chess Opening Essentials 3, p. 38, ISBN 978-90-5691-308-3
+
+Bibliografia
+
+   [modifica]
+   A Wikimedia Commons hi ha contingut multimèdia relatiu a: Obertura
+     * Collins, Sam. Understanding the Chess Openings. Gambit
+       Publications, 2005. ISBN 1-904600-28-X.
+
+     * Vegeu aquesta plantilla
+
+   Escacs
+   Història  · Reglament  · Teoria  · Bibliografia  · Cronologia  ·
+   Obertures  · Mig joc  · Final  · Estratègia · Tàctica · Escoles  ·
+   Campionat del món  · Torneigs  · Olimpíades  · Ordinadors  · Títols  ·
+   Variacions
+     * Vegeu aquesta plantilla
+
+   Obertures d'escacs
+   Obertures obertes
+   (simètriques: 1. e4 e5)
+                                 Sense 2.Cf3
+   Obertura Alapín  · Obertura del centre  · Gambit danès  · Obertura
+   Ponziani  · Obertura de l'alfil  · Obertura vienesa  · Variant
+   Frankenstein–Dràcula  · Obertura Napoleó  · Atac Parham  · Gambit de
+   rei  · Contragambit Falkbeer  · Gambit Muzio  · Gambit Rice
+                               2.Cf3 sense Cc6
+   Obertura de cavall de rei  · Defensa Damiano  · Defensa Petrov  ·
+   Gambit letó
+                                  2.Cf3 Cc6
+   Defensa dels dos cavalls  · Atac Fegatello  · Gambit Blackburne
+   Shilling  · Gambit italià  · Gambit Rousseau  · Obertura escocesa  ·
+   Obertura italiana  · Gambit elefant  · Gambit Evans  · Gambit vienès  ·
+   Defensa Greco  · Defensa hongaresa  · Giuoco piano  · Defensa París  ·
+   Atac Max Lange  · Defensa Philidor  · Obertura portuguesa  · Obertura
+   dels quatre cavalls  · Contraatac Traxler  · Obertura dels tres cavalls
+   Obertura Ruy López
+   (1. e4 e5 2. Cf3 Cc6
+   3. Ab5)
+   Defensa berlinesa  · Defensa Bird  · Defensa berlinesa clàssica  ·
+   Defensa Cordel  · Defensa Cozio  · Gambit Schliemann  · Defensa Smyslov
+    · Defensa Steinitz  · Ruy López tancada  · Ruy López oberta  · Gambit
+   Marshall  · Parany de l'Arca de Noè  · Variant Breyer  · Variant
+   Arkhangelsk  · Variant del canvi  · Variant Kàrpov  · Variant Kholmov
+   · Variant Möller  · Variant Smyslov  · Variant Steinitz diferida  ·
+   Variante Txigorin  · Variant Zaitsev
+   Obertures semiobertes
+   (Defenses assimètriques
+   contra 1. e4)
+                                  Sense 1...c5
+   Defensa Alekhin 1. e4 Cf6  · Defensa Barnes 1. e4 f6  · Defensa
+   Caro-Kann 1. e4 c6  · Defensa Desprez  · Atac indi de rei  · Defensa
+   francesa 1.e4 e6  · Defensa moderna  · Defensa Nimzowitsch 1. e4 Cc6  ·
+   Defensa Owen 1. e4 b6  · Atac Panov  · Defensa Pirc 1. e4 d6  · Defensa
+   Saint-Georges 1. e4 a6  · Defensa escandinava 1. e4 d5
+   Defensa siciliana
+   (1. e4 c5)
+   Gambit de l'ala  · Variant Alapín  · Atac anglès  · Variant cobra  ·
+   Variant del drac accelerat  · Variant del drac  · Siciliana tancada  ·
+   Atac grand prix  · Variant Kalaixnikov  · Variant Kan  · Sistema Kopec
+    · Variant La Bourdonnais  · Anell de Maróczy  · Gambit Morra  ·
+   Variant Moscou  · Variant Najdorf  · Variant Paulsen  · Variant del peó
+   enverinat  · Variant Polugaevski  · Variant dels quatre cavalls  · Atac
+   Richter-Rauzer  · Variant Rossolimo  · Variant Scheveninguen  · Atac
+   Sozin  · Variant Svéixnikov  · Variant Taimanov  · Variant Txekhover
+   Gambit de dama
+   (1. d4 d5 2. c4)
+   (obertures tancades)
+   Gambit de dama  · Contragambit Albin  · Defensa bàltica  · Defensa
+   Cambridge Springs  · Gambit de dama  · Gambit de dama acceptat  ·
+   Gambit de dama refusat  · Gambit de dama refusat, variant del canvi  ·
+   Parany de l'elefant  · Defensa Marshall  · Defensa Merano  · Defensa
+   ortodoxa  · Defensa semieslava  · Defensa semi-Tarrasch  · Defensa
+   eslava  · Defensa Tarrasch  · Defensa simètrica  · Variant Tartakover
+   · Defensa Txigorin  · Variant anti-Tartakover  · Gambit de dama
+   refusat, variant Lasker
+   Defenses índies
+   (obertures semitancades)
+   Gambit Volga  · Defensa Benoni  · Defensa franco Benoni  · Contragambit
+   Blumenfeld  · Defensa Bogoíndia  · Gambit de Budapest  · Atac indi de
+   rei  · Defensa índia de rei  · Defensa Grünfeld  · Tango dels cavalls
+   · Defensa Nimzoíndia  · Defensa índia de dama  · Defensa índia antiga
+   Altres defenses
+   contra 1. d4
+   (Obertures semitancades)
+   Defensa anglesa  · Atac Barry  · Gambit Blackmar-Diemer  · Obertura
+   catalana  · Sistema Colle  · Defensa holandesa 1. d4 f5  · Defensa
+   Keres  · Defensa polonesa 1. d4 b5  · Atac Richter-Veressov  · Gambit
+   Staunton 1. d4 f5 2. e4  · Sistema Stonewall  · Sistema Londres  · Atac
+   Torre  · Obertura Trompowsky  · Obertura del peó de dama  · Gambit
+   Englund
+   Obertures de flanc
+   Obertura anglesa 1. c4  · Obertura Zukertort 1.Cf3  · Obertura Réti
+   1.Cf3 d5 2.c4
+   Obertures de flanc
+   menors
+   Obertura Bird 1. f4  · Obertura Benko 1. g3  · Obertura Larsen 1. b3 e5
+   Obertures irregulars
+   Obertura París 1. Ch3  · Obertura Anderssen 1. a3  · Obertura Barnes 1.
+   f3  · Obertura Clemenz 1. h3  · Obertura Desprez 1. h4  · Obertura
+   Durkin 1. Ca3  · Obertura Grob 1. g4  · Obertura Mieses 1. d3  ·
+   Obertura saragossana 1. c3  · Obertura Sokolski 1. b4  · Obertura Dunst
+   1. Cc3  · Obertura Van 't Kruijs 1. e3  · Obertura Ware 1. a4
+   Lèxic
+   Llista d'obertures d'escacs  · Llista d'obertures d'escacs amb nom de
+   persona  · ECO  · Gambit  · Transposició  · Eriçó
+   Registres d'autoritat
+     * BNE (1)
+     * BNF (1)
+     * GND (1)
+     * LCCN (1)
+     * SUDOC (1)
+     * NKC (1)
+
+   Viccionari
+   Obtingut de
+   «https://ca.wikipedia.org/w/index.php?title=Obertura_(escacs)&oldid=285
+   18194»
+   Categories:
+     * Obertures d'escacs
+     * Termes d'escacs
+
+   Categories ocultes:
+     * Pàgines amb enllaç commonscat des de Wikidata
+     * Control d'autoritats
+
+     * La pàgina va ser modificada per darrera vegada el 30 oct 2021 a les
+       13:12.
+     * El text està disponible sota la Llicència de Creative Commons
+       Reconeixement i Compartir-Igual; es poden aplicar termes
+       addicionals. Vegeu les Condicions d'ús. Wikipedia® (Viquipèdia™) és
+       una marca registrada de Wikimedia Foundation, Inc.
+
+     * Política de privadesa
+     * Quant al projecte Viquipèdia
+     * Descàrrec de responsabilitat
+     * Codi de conducta
+     * Desenvolupadors
+     * Estadístiques
+     * Declaració de cookies
+     * Versió per a mòbils
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+   #alternate Modifica Viquipèdia (ca) Canal de sindicació Atom Viquipèdia
+
+   Vés al contingut
+
+   [ ] Menú principal
+   Menú principal
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+   Navegació
+     * Portada
+     * Article a l'atzar
+     * Articles de qualitat
+
+   Comunitat
+     * Portal viquipedista
+     * Agenda d'actes
+     * Canvis recents
+     * La taverna
+     * Contacte
+     * Xat
+     * Ajuda
+
+   Viquipèdia l'Enciclopèdia Lliure
+   Cerca
+   ____________________
+   (BUTTON) Cerca
+
+   [ ] Aparença
+
+     * Donatius
+     * Crea un compte
+     * Inicia la sessió
+
+   [ ] Eines personals
+     * Donatius
+     * Crea un compte
+     * Inicia la sessió
+
+   Pàgines per a editors no registrats més informació
+     * Contribucions
+     * Discussió per aquest IP
+
+Contingut
+
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+     * Inici
+     * 1 Classificació
+     * 2 Referències
+     * 3 Bibliografia
+
+   [ ] Commuta la taula de continguts.
+
+Obertura (escacs)
+
+   [ ] 53 llengües
+     * العربية
+     * Azərbaycanca
+     * Беларуская
+     * Беларуская (тарашкевіца)
+     * Български
+     * Čeština
+     * Cymraeg
+     * Dansk
+     * Deutsch
+     * Ελληνικά
+     * English
+     * Esperanto
+     * Español
+     * Euskara
+     * فارسی
+     * Suomi
+     * Français
+     * Galego
+     * עברית
+     * हिन्दी
+     * Magyar
+     * Հայերեն
+     * Bahasa Indonesia
+     * Íslenska
+     * Italiano
+     * 日本語
+     * Қазақша
+     * 한국어
+     * Latina
+     * Lëtzebuergesch
+     * Lietuvių
+     * Latviešu
+     * Македонски
+     * മലയാളം
+     * Bahasa Melayu
+     * Plattdüütsch
+     * Nederlands
+     * Norsk nynorsk
+     * Norsk bokmål
+     * Polski
+     * Português
+     * Română
+     * Русский
+     * Slovenčina
+     * Slovenščina
+     * Shqip
+     * Svenska
+     * தமிழ்
+     * Türkçe
+     * Українська
+     * Oʻzbekcha / ўзбекча
+     * 中文
+     * 粵語
+
+   Modifica els enllaços
+
+     * Pàgina
+     * Discussió
+
+   [ ] català
+
+     * Mostra
+     * Modifica
+     * Mostra l'historial
+
+   [ ] Eines
+   Eines
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+   Accions
+     * Mostra
+     * Modifica
+     * Mostra l'historial
+
+   General
+     * Què hi enllaça
+     * Canvis relacionats
+     * Pàgines especials
+     * Enllaç permanent
+     * Informació de la pàgina
+     * Citau aquest article
+     * Obtén una URL abreujada
+     * Descarrega el codi QR
+
+   Imprimeix/exporta
+     * Crea un llibre
+     * Baixa com a PDF
+     * Versió per a impressora
+
+   En altres projectes
+     * Commons
+     * Viquillibres
+     * Element a Wikidata
+
+   Aparença
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+   De la Viquipèdia, l'enciclopèdia lliure
+     a b c d e f g h
+   8
+   [208px-Chessboard480.svg.png]
+   a8 negres torre
+   b8 negres cavall
+   c8 negres alfil
+   d8 negres dama
+   e8 negres rei
+   f8 negres alfil
+   g8 negres cavall
+   h8 negres torre
+   a7 negres peó
+   b7 negres peó
+   c7 negres peó
+   d7 negres peó
+   e7 negres peó
+   f7 negres peó
+   g7 negres peó
+   h7 negres peó
+   a2 blanques peó
+   b2 blanques peó
+   c2 blanques peó
+   d2 blanques peó
+   e2 blanques peó
+   f2 blanques peó
+   g2 blanques peó
+   h2 blanques peó
+   a1 blanques torre
+   b1 blanques cavall
+   c1 blanques alfil
+   d1 blanques dama
+   e1 blanques rei
+   f1 blanques alfil
+   g1 blanques cavall
+   h1 blanques torre
+   8
+   7                 7
+   6                 6
+   5                 5
+   4                 4
+   3                 3
+   2                 2
+   1 1
+     a b c d e f g h
+
+                   Posició inicial en un tauler d'escacs
+
+   Una obertura d'escacs és el conjunt de moviments amb què comença una
+   partida del joc dels escacs. Les seqüències estàndard de jugades
+   inicials són anomenades obertures quan són jugades per les blanques, o
+   bé defenses, quan són jugades per les negres. Hi ha unes quantes
+   dotzenes d'obertures diferents, amb centenars o milers de variants i
+   subvariants. The Oxford Companion to Chess llista 1.327 variants
+   d'obertura amb un nom concret.^[1] Les obertures tenen una gran
+   varietat, i van des de les tranquil·les representants del joc
+   posicional (per exemple, l'obertura Réti, l'obertura catalana, o
+   algunes línies del gambit de dama refusat) fins a les salvatges de joc
+   tàctic (per exemple, el gambit Letó o la defensa dels dos cavalls, en
+   particular la Variant Traxler). A més de referir-se a seqüències
+   específiques de jugades, l'obertura és, en general, la primera fase
+   d'una partida d'escacs; les altres fases són el mig joc i el final.
+
+   Una seqüència de moviments que es consideri estàndard (sovint
+   catalogada en alguna publicació de referència com ara l'Enciclopèdia
+   d'Obertures d'Escacs) és anomenada com "les jugades de llibre", o "del
+   llibre", o "teòriques". Els llibres de referència sovint mostren
+   aquestes seqüències de jugades en notació algebraica, arbres de
+   variants, o bé taules. Quan la partida comença a desviar-se de la
+   teoria d'obertures coneguda, hom diu que els jugadors són "fora del
+   llibre". En moltes línies d'obertura, les jugades considerades millors
+   per ambdós bàndols han estat estudiades per vint, vint-i-cinc, o més
+   jugades. Algunes anàlisis arriben fins a trenta o trenta-cinc jugades,
+   com a les clàssiques Defensa índia de rei, la Sveshnikov, o la Najdorf,
+   variants (les dues darreres) de la defensa siciliana.^[2] Els jugadors
+   professionals dediquen anys a l'estudi de les obertures, i ho continuen
+   fent durant les seves carreres, atès que la teoria d'obertures
+   progressa i es modifica contínuament.
+
+   Una nova seqüència de jugades a l'obertura és coneguda com una "Novetat
+   teòrica" (o, simplement, "Novetat". Una novetat mantinguda en secret
+   fins que és usada en una partida de competició es coneix com a "variant
+   preparada", una arma molt poderosa sobretot en l'alta competició.^[3]
+
+Classificació
+
+   [modifica]
+
+   La classificació clàssica d'obertures estableix entre quatre i sis
+   grans grups:
+     * Obertures obertes: S'inicien amb els moviments 1.e4 e5.
+     * Obertures semiobertes: Després d'iniciar-se amb 1.e4 les negres fan
+       una jugada que no és 1...e5.
+     * Obertures tancades: S'inicien amb els moviments 1.d4 d5.
+     * Obertures semitancades: Després d'iniciar-se amb 1.d4 les negres
+       fan una jugada que no és 1...d5. En molts manuals són considerades
+       tancades.
+     * Obertures irregulars: Les que no s'inclouen en les categories
+       anteriors. Acostumen a considerar-se extravagants o poc profitoses
+       per les blanques.
+     * Obertures de flanc: En alguns manuals discriminen aquestes
+       obertures del grup d'irregulars. Són plantejaments en què les
+       blanques inicien movent un peó diferent de 1.e4 o de 1.d4, o alguns
+       moviments de cavall: avançar els peons de b i g una casella; els de
+       b, c o f, dues o moure el cavall 1.Cf3. La intenció és atacar el
+       joc central, més que ocupar-lo.
+
+   La Defensa índia (1.d4 Cf6) és el sistema més important^[4] del joc
+   semitancat, i acostuma a tractar-se de manera separada.
+
+Referències
+
+   [modifica]
+    1. ↑ Hooper, David; Whyld, Kenneth. The Oxford Companion to Chess. 2.
+       Oxford University Press, 1992, p. 461–480. ISBN 0-19-280049-3.
+    2. ↑ Garri Kaspàrov, Modern Chess 1a part, p. 353
+    3. ↑ Fine, R.. The Worlds Great Chess Games. Andre Deutsch, 1952.
+    4. ↑ Chess Opening Essentials 3, p. 38, ISBN 978-90-5691-308-3
+
+Bibliografia
+
+   [modifica]
+   A Wikimedia Commons hi ha contingut multimèdia relatiu a: Obertura
+     * Collins, Sam. Understanding the Chess Openings. Gambit
+       Publications, 2005. ISBN 1-904600-28-X.
+
+     * Vegeu aquesta plantilla
+
+   Escacs
+   Història  · Reglament  · Teoria  · Bibliografia  · Cronologia  ·
+   Obertures  · Mig joc  · Final  · Estratègia · Tàctica · Escoles  ·
+   Campionat del món  · Torneigs  · Olimpíades  · Ordinadors  · Títols  ·
+   Variacions
+     * Vegeu aquesta plantilla
+
+   Obertures d'escacs
+   Obertures obertes
+   (simètriques: 1. e4 e5)
+                                 Sense 2.Cf3
+   Obertura Alapín  · Obertura del centre  · Gambit danès  · Obertura
+   Ponziani  · Obertura de l'alfil  · Obertura vienesa  · Variant
+   Frankenstein–Dràcula  · Obertura Napoleó  · Atac Parham  · Gambit de
+   rei  · Contragambit Falkbeer  · Gambit Muzio  · Gambit Rice
+                               2.Cf3 sense Cc6
+   Obertura de cavall de rei  · Defensa Damiano  · Defensa Petrov  ·
+   Gambit letó
+                                  2.Cf3 Cc6
+   Defensa dels dos cavalls  · Atac Fegatello  · Gambit Blackburne
+   Shilling  · Gambit italià  · Gambit Rousseau  · Obertura escocesa  ·
+   Obertura italiana  · Gambit elefant  · Gambit Evans  · Gambit vienès  ·
+   Defensa Greco  · Defensa hongaresa  · Giuoco piano  · Defensa París  ·
+   Atac Max Lange  · Defensa Philidor  · Obertura portuguesa  · Obertura
+   dels quatre cavalls  · Contraatac Traxler  · Obertura dels tres cavalls
+   Obertura Ruy López
+   (1. e4 e5 2. Cf3 Cc6
+   3. Ab5)
+   Defensa berlinesa  · Defensa Bird  · Defensa berlinesa clàssica  ·
+   Defensa Cordel  · Defensa Cozio  · Gambit Schliemann  · Defensa Smyslov
+    · Defensa Steinitz  · Ruy López tancada  · Ruy López oberta  · Gambit
+   Marshall  · Parany de l'Arca de Noè  · Variant Breyer  · Variant
+   Arkhangelsk  · Variant del canvi  · Variant Kàrpov  · Variant Kholmov
+   · Variant Möller  · Variant Smyslov  · Variant Steinitz diferida  ·
+   Variante Txigorin  · Variant Zaitsev
+   Obertures semiobertes
+   (Defenses assimètriques
+   contra 1. e4)
+                                  Sense 1...c5
+   Defensa Alekhin 1. e4 Cf6  · Defensa Barnes 1. e4 f6  · Defensa
+   Caro-Kann 1. e4 c6  · Defensa Desprez  · Atac indi de rei  · Defensa
+   francesa 1.e4 e6  · Defensa moderna  · Defensa Nimzowitsch 1. e4 Cc6  ·
+   Defensa Owen 1. e4 b6  · Atac Panov  · Defensa Pirc 1. e4 d6  · Defensa
+   Saint-Georges 1. e4 a6  · Defensa escandinava 1. e4 d5
+   Defensa siciliana
+   (1. e4 c5)
+   Gambit de l'ala  · Variant Alapín  · Atac anglès  · Variant cobra  ·
+   Variant del drac accelerat  · Variant del drac  · Siciliana tancada  ·
+   Atac grand prix  · Variant Kalaixnikov  · Variant Kan  · Sistema Kopec
+    · Variant La Bourdonnais  · Anell de Maróczy  · Gambit Morra  ·
+   Variant Moscou  · Variant Najdorf  · Variant Paulsen  · Variant del peó
+   enverinat  · Variant Polugaevski  · Variant dels quatre cavalls  · Atac
+   Richter-Rauzer  · Variant Rossolimo  · Variant Scheveninguen  · Atac
+   Sozin  · Variant Svéixnikov  · Variant Taimanov  · Variant Txekhover
+   Gambit de dama
+   (1. d4 d5 2. c4)
+   (obertures tancades)
+   Gambit de dama  · Contragambit Albin  · Defensa bàltica  · Defensa
+   Cambridge Springs  · Gambit de dama  · Gambit de dama acceptat  ·
+   Gambit de dama refusat  · Gambit de dama refusat, variant del canvi  ·
+   Parany de l'elefant  · Defensa Marshall  · Defensa Merano  · Defensa
+   ortodoxa  · Defensa semieslava  · Defensa semi-Tarrasch  · Defensa
+   eslava  · Defensa Tarrasch  · Defensa simètrica  · Variant Tartakover
+   · Defensa Txigorin  · Variant anti-Tartakover  · Gambit de dama
+   refusat, variant Lasker
+   Defenses índies
+   (obertures semitancades)
+   Gambit Volga  · Defensa Benoni  · Defensa franco Benoni  · Contragambit
+   Blumenfeld  · Defensa Bogoíndia  · Gambit de Budapest  · Atac indi de
+   rei  · Defensa índia de rei  · Defensa Grünfeld  · Tango dels cavalls
+   · Defensa Nimzoíndia  · Defensa índia de dama  · Defensa índia antiga
+   Altres defenses
+   contra 1. d4
+   (Obertures semitancades)
+   Defensa anglesa  · Atac Barry  · Gambit Blackmar-Diemer  · Obertura
+   catalana  · Sistema Colle  · Defensa holandesa 1. d4 f5  · Defensa
+   Keres  · Defensa polonesa 1. d4 b5  · Atac Richter-Veressov  · Gambit
+   Staunton 1. d4 f5 2. e4  · Sistema Stonewall  · Sistema Londres  · Atac
+   Torre  · Obertura Trompowsky  · Obertura del peó de dama  · Gambit
+   Englund
+   Obertures de flanc
+   Obertura anglesa 1. c4  · Obertura Zukertort 1.Cf3  · Obertura Réti
+   1.Cf3 d5 2.c4
+   Obertures de flanc
+   menors
+   Obertura Bird 1. f4  · Obertura Benko 1. g3  · Obertura Larsen 1. b3 e5
+   Obertures irregulars
+   Obertura París 1. Ch3  · Obertura Anderssen 1. a3  · Obertura Barnes 1.
+   f3  · Obertura Clemenz 1. h3  · Obertura Desprez 1. h4  · Obertura
+   Durkin 1. Ca3  · Obertura Grob 1. g4  · Obertura Mieses 1. d3  ·
+   Obertura saragossana 1. c3  · Obertura Sokolski 1. b4  · Obertura Dunst
+   1. Cc3  · Obertura Van 't Kruijs 1. e3  · Obertura Ware 1. a4
+   Lèxic
+   Llista d'obertures d'escacs  · Llista d'obertures d'escacs amb nom de
+   persona  · ECO  · Gambit  · Transposició  · Eriçó
+   Registres d'autoritat
+     * BNE (1)
+     * BNF (1)
+     * GND (1)
+     * LCCN (1)
+     * SUDOC (1)
+     * NKC (1)
+
+   Viccionari
+   Obtingut de
+   «https://ca.wikipedia.org/w/index.php?title=Obertura_(escacs)&oldid=285
+   18194»
+   Categories:
+     * Obertures d'escacs
+     * Termes d'escacs
+
+   Categories ocultes:
+     * Pàgines amb enllaç commonscat des de Wikidata
+     * Control d'autoritats
+
+     * La pàgina va ser modificada per darrera vegada el 30 oct 2021 a les
+       13:12.
+     * El text està disponible sota la Llicència de Creative Commons
+       Reconeixement i Compartir-Igual; es poden aplicar termes
+       addicionals. Vegeu les Condicions d'ús. Wikipedia® (Viquipèdia™) és
+       una marca registrada de Wikimedia Foundation, Inc.
+
+     * Política de privadesa
+     * Quant al projecte Viquipèdia
+     * Descàrrec de responsabilitat
+     * Codi de conducta
+     * Desenvolupadors
+     * Estadístiques
+     * Declaració de cookies
+     * Versió per a mòbils
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+   #alternate Modifica Viquipèdia (ca) Canal de sindicació Atom Viquipèdia
+
+   Vés al contingut
+
+   [ ] Menú principal
+   Menú principal
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+   Navegació
+     * Portada
+     * Article a l'atzar
+     * Articles de qualitat
+
+   Comunitat
+     * Portal viquipedista
+     * Agenda d'actes
+     * Canvis recents
+     * La taverna
+     * Contacte
+     * Xat
+     * Ajuda
+
+   Viquipèdia l'Enciclopèdia Lliure
+   Cerca
+   ____________________
+   (BUTTON) Cerca
+
+   [ ] Aparença
+
+     * Donatius
+     * Crea un compte
+     * Inicia la sessió
+
+   [ ] Eines personals
+     * Donatius
+     * Crea un compte
+     * Inicia la sessió
+
+   Pàgines per a editors no registrats més informació
+     * Contribucions
+     * Discussió per aquest IP
+
+Contingut
+
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+     * Inici
+     * 1 Classificació
+     * 2 Referències
+     * 3 Bibliografia
+
+   [ ] Commuta la taula de continguts.
+
+Obertura (escacs)
+
+   [ ] 53 llengües
+     * العربية
+     * Azərbaycanca
+     * Беларуская
+     * Беларуская (тарашкевіца)
+     * Български
+     * Čeština
+     * Cymraeg
+     * Dansk
+     * Deutsch
+     * Ελληνικά
+     * English
+     * Esperanto
+     * Español
+     * Euskara
+     * فارسی
+     * Suomi
+     * Français
+     * Galego
+     * עברית
+     * हिन्दी
+     * Magyar
+     * Հայերեն
+     * Bahasa Indonesia
+     * Íslenska
+     * Italiano
+     * 日本語
+     * Қазақша
+     * 한국어
+     * Latina
+     * Lëtzebuergesch
+     * Lietuvių
+     * Latviešu
+     * Македонски
+     * മലയാളം
+     * Bahasa Melayu
+     * Plattdüütsch
+     * Nederlands
+     * Norsk nynorsk
+     * Norsk bokmål
+     * Polski
+     * Português
+     * Română
+     * Русский
+     * Slovenčina
+     * Slovenščina
+     * Shqip
+     * Svenska
+     * தமிழ்
+     * Türkçe
+     * Українська
+     * Oʻzbekcha / ўзбекча
+     * 中文
+     * 粵語
+
+   Modifica els enllaços
+
+     * Pàgina
+     * Discussió
+
+   [ ] català
+
+     * Mostra
+     * Modifica
+     * Mostra l'historial
+
+   [ ] Eines
+   Eines
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+   Accions
+     * Mostra
+     * Modifica
+     * Mostra l'historial
+
+   General
+     * Què hi enllaça
+     * Canvis relacionats
+     * Pàgines especials
+     * Enllaç permanent
+     * Informació de la pàgina
+     * Citau aquest article
+     * Obtén una URL abreujada
+     * Descarrega el codi QR
+
+   Imprimeix/exporta
+     * Crea un llibre
+     * Baixa com a PDF
+     * Versió per a impressora
+
+   En altres projectes
+     * Commons
+     * Viquillibres
+     * Element a Wikidata
+
+   Aparença
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+   De la Viquipèdia, l'enciclopèdia lliure
+     a b c d e f g h
+   8
+   [208px-Chessboard480.svg.png]
+   a8 negres torre
+   b8 negres cavall
+   c8 negres alfil
+   d8 negres dama
+   e8 negres rei
+   f8 negres alfil
+   g8 negres cavall
+   h8 negres torre
+   a7 negres peó
+   b7 negres peó
+   c7 negres peó
+   d7 negres peó
+   e7 negres peó
+   f7 negres peó
+   g7 negres peó
+   h7 negres peó
+   a2 blanques peó
+   b2 blanques peó
+   c2 blanques peó
+   d2 blanques peó
+   e2 blanques peó
+   f2 blanques peó
+   g2 blanques peó
+   h2 blanques peó
+   a1 blanques torre
+   b1 blanques cavall
+   c1 blanques alfil
+   d1 blanques dama
+   e1 blanques rei
+   f1 blanques alfil
+   g1 blanques cavall
+   h1 blanques torre
+   8
+   7                 7
+   6                 6
+   5                 5
+   4                 4
+   3                 3
+   2                 2
+   1 1
+     a b c d e f g h
+
+                   Posició inicial en un tauler d'escacs
+
+   Una obertura d'escacs és el conjunt de moviments amb què comença una
+   partida del joc dels escacs. Les seqüències estàndard de jugades
+   inicials són anomenades obertures quan són jugades per les blanques, o
+   bé defenses, quan són jugades per les negres. Hi ha unes quantes
+   dotzenes d'obertures diferents, amb centenars o milers de variants i
+   subvariants. The Oxford Companion to Chess llista 1.327 variants
+   d'obertura amb un nom concret.^[1] Les obertures tenen una gran
+   varietat, i van des de les tranquil·les representants del joc
+   posicional (per exemple, l'obertura Réti, l'obertura catalana, o
+   algunes línies del gambit de dama refusat) fins a les salvatges de joc
+   tàctic (per exemple, el gambit Letó o la defensa dels dos cavalls, en
+   particular la Variant Traxler). A més de referir-se a seqüències
+   específiques de jugades, l'obertura és, en general, la primera fase
+   d'una partida d'escacs; les altres fases són el mig joc i el final.
+
+   Una seqüència de moviments que es consideri estàndard (sovint
+   catalogada en alguna publicació de referència com ara l'Enciclopèdia
+   d'Obertures d'Escacs) és anomenada com "les jugades de llibre", o "del
+   llibre", o "teòriques". Els llibres de referència sovint mostren
+   aquestes seqüències de jugades en notació algebraica, arbres de
+   variants, o bé taules. Quan la partida comença a desviar-se de la
+   teoria d'obertures coneguda, hom diu que els jugadors són "fora del
+   llibre". En moltes línies d'obertura, les jugades considerades millors
+   per ambdós bàndols han estat estudiades per vint, vint-i-cinc, o més
+   jugades. Algunes anàlisis arriben fins a trenta o trenta-cinc jugades,
+   com a les clàssiques Defensa índia de rei, la Sveshnikov, o la Najdorf,
+   variants (les dues darreres) de la defensa siciliana.^[2] Els jugadors
+   professionals dediquen anys a l'estudi de les obertures, i ho continuen
+   fent durant les seves carreres, atès que la teoria d'obertures
+   progressa i es modifica contínuament.
+
+   Una nova seqüència de jugades a l'obertura és coneguda com una "Novetat
+   teòrica" (o, simplement, "Novetat". Una novetat mantinguda en secret
+   fins que és usada en una partida de competició es coneix com a "variant
+   preparada", una arma molt poderosa sobretot en l'alta competició.^[3]
+
+Classificació
+
+   [modifica]
+
+   La classificació clàssica d'obertures estableix entre quatre i sis
+   grans grups:
+     * Obertures obertes: S'inicien amb els moviments 1.e4 e5.
+     * Obertures semiobertes: Després d'iniciar-se amb 1.e4 les negres fan
+       una jugada que no és 1...e5.
+     * Obertures tancades: S'inicien amb els moviments 1.d4 d5.
+     * Obertures semitancades: Després d'iniciar-se amb 1.d4 les negres
+       fan una jugada que no és 1...d5. En molts manuals són considerades
+       tancades.
+     * Obertures irregulars: Les que no s'inclouen en les categories
+       anteriors. Acostumen a considerar-se extravagants o poc profitoses
+       per les blanques.
+     * Obertures de flanc: En alguns manuals discriminen aquestes
+       obertures del grup d'irregulars. Són plantejaments en què les
+       blanques inicien movent un peó diferent de 1.e4 o de 1.d4, o alguns
+       moviments de cavall: avançar els peons de b i g una casella; els de
+       b, c o f, dues o moure el cavall 1.Cf3. La intenció és atacar el
+       joc central, més que ocupar-lo.
+
+   La Defensa índia (1.d4 Cf6) és el sistema més important^[4] del joc
+   semitancat, i acostuma a tractar-se de manera separada.
+
+Referències
+
+   [modifica]
+    1. ↑ Hooper, David; Whyld, Kenneth. The Oxford Companion to Chess. 2.
+       Oxford University Press, 1992, p. 461–480. ISBN 0-19-280049-3.
+    2. ↑ Garri Kaspàrov, Modern Chess 1a part, p. 353
+    3. ↑ Fine, R.. The Worlds Great Chess Games. Andre Deutsch, 1952.
+    4. ↑ Chess Opening Essentials 3, p. 38, ISBN 978-90-5691-308-3
+
+Bibliografia
+
+   [modifica]
+   A Wikimedia Commons hi ha contingut multimèdia relatiu a: Obertura
+     * Collins, Sam. Understanding the Chess Openings. Gambit
+       Publications, 2005. ISBN 1-904600-28-X.
+
+     * Vegeu aquesta plantilla
+
+   Escacs
+   Història  · Reglament  · Teoria  · Bibliografia  · Cronologia  ·
+   Obertures  · Mig joc  · Final  · Estratègia · Tàctica · Escoles  ·
+   Campionat del món  · Torneigs  · Olimpíades  · Ordinadors  · Títols  ·
+   Variacions
+     * Vegeu aquesta plantilla
+
+   Obertures d'escacs
+   Obertures obertes
+   (simètriques: 1. e4 e5)
+                                 Sense 2.Cf3
+   Obertura Alapín  · Obertura del centre  · Gambit danès  · Obertura
+   Ponziani  · Obertura de l'alfil  · Obertura vienesa  · Variant
+   Frankenstein–Dràcula  · Obertura Napoleó  · Atac Parham  · Gambit de
+   rei  · Contragambit Falkbeer  · Gambit Muzio  · Gambit Rice
+                               2.Cf3 sense Cc6
+   Obertura de cavall de rei  · Defensa Damiano  · Defensa Petrov  ·
+   Gambit letó
+                                  2.Cf3 Cc6
+   Defensa dels dos cavalls  · Atac Fegatello  · Gambit Blackburne
+   Shilling  · Gambit italià  · Gambit Rousseau  · Obertura escocesa  ·
+   Obertura italiana  · Gambit elefant  · Gambit Evans  · Gambit vienès  ·
+   Defensa Greco  · Defensa hongaresa  · Giuoco piano  · Defensa París  ·
+   Atac Max Lange  · Defensa Philidor  · Obertura portuguesa  · Obertura
+   dels quatre cavalls  · Contraatac Traxler  · Obertura dels tres cavalls
+   Obertura Ruy López
+   (1. e4 e5 2. Cf3 Cc6
+   3. Ab5)
+   Defensa berlinesa  · Defensa Bird  · Defensa berlinesa clàssica  ·
+   Defensa Cordel  · Defensa Cozio  · Gambit Schliemann  · Defensa Smyslov
+    · Defensa Steinitz  · Ruy López tancada  · Ruy López oberta  · Gambit
+   Marshall  · Parany de l'Arca de Noè  · Variant Breyer  · Variant
+   Arkhangelsk  · Variant del canvi  · Variant Kàrpov  · Variant Kholmov
+   · Variant Möller  · Variant Smyslov  · Variant Steinitz diferida  ·
+   Variante Txigorin  · Variant Zaitsev
+   Obertures semiobertes
+   (Defenses assimètriques
+   contra 1. e4)
+                                  Sense 1...c5
+   Defensa Alekhin 1. e4 Cf6  · Defensa Barnes 1. e4 f6  · Defensa
+   Caro-Kann 1. e4 c6  · Defensa Desprez  · Atac indi de rei  · Defensa
+   francesa 1.e4 e6  · Defensa moderna  · Defensa Nimzowitsch 1. e4 Cc6  ·
+   Defensa Owen 1. e4 b6  · Atac Panov  · Defensa Pirc 1. e4 d6  · Defensa
+   Saint-Georges 1. e4 a6  · Defensa escandinava 1. e4 d5
+   Defensa siciliana
+   (1. e4 c5)
+   Gambit de l'ala  · Variant Alapín  · Atac anglès  · Variant cobra  ·
+   Variant del drac accelerat  · Variant del drac  · Siciliana tancada  ·
+   Atac grand prix  · Variant Kalaixnikov  · Variant Kan  · Sistema Kopec
+    · Variant La Bourdonnais  · Anell de Maróczy  · Gambit Morra  ·
+   Variant Moscou  · Variant Najdorf  · Variant Paulsen  · Variant del peó
+   enverinat  · Variant Polugaevski  · Variant dels quatre cavalls  · Atac
+   Richter-Rauzer  · Variant Rossolimo  · Variant Scheveninguen  · Atac
+   Sozin  · Variant Svéixnikov  · Variant Taimanov  · Variant Txekhover
+   Gambit de dama
+   (1. d4 d5 2. c4)
+   (obertures tancades)
+   Gambit de dama  · Contragambit Albin  · Defensa bàltica  · Defensa
+   Cambridge Springs  · Gambit de dama  · Gambit de dama acceptat  ·
+   Gambit de dama refusat  · Gambit de dama refusat, variant del canvi  ·
+   Parany de l'elefant  · Defensa Marshall  · Defensa Merano  · Defensa
+   ortodoxa  · Defensa semieslava  · Defensa semi-Tarrasch  · Defensa
+   eslava  · Defensa Tarrasch  · Defensa simètrica  · Variant Tartakover
+   · Defensa Txigorin  · Variant anti-Tartakover  · Gambit de dama
+   refusat, variant Lasker
+   Defenses índies
+   (obertures semitancades)
+   Gambit Volga  · Defensa Benoni  · Defensa franco Benoni  · Contragambit
+   Blumenfeld  · Defensa Bogoíndia  · Gambit de Budapest  · Atac indi de
+   rei  · Defensa índia de rei  · Defensa Grünfeld  · Tango dels cavalls
+   · Defensa Nimzoíndia  · Defensa índia de dama  · Defensa índia antiga
+   Altres defenses
+   contra 1. d4
+   (Obertures semitancades)
+   Defensa anglesa  · Atac Barry  · Gambit Blackmar-Diemer  · Obertura
+   catalana  · Sistema Colle  · Defensa holandesa 1. d4 f5  · Defensa
+   Keres  · Defensa polonesa 1. d4 b5  · Atac Richter-Veressov  · Gambit
+   Staunton 1. d4 f5 2. e4  · Sistema Stonewall  · Sistema Londres  · Atac
+   Torre  · Obertura Trompowsky  · Obertura del peó de dama  · Gambit
+   Englund
+   Obertures de flanc
+   Obertura anglesa 1. c4  · Obertura Zukertort 1.Cf3  · Obertura Réti
+   1.Cf3 d5 2.c4
+   Obertures de flanc
+   menors
+   Obertura Bird 1. f4  · Obertura Benko 1. g3  · Obertura Larsen 1. b3 e5
+   Obertures irregulars
+   Obertura París 1. Ch3  · Obertura Anderssen 1. a3  · Obertura Barnes 1.
+   f3  · Obertura Clemenz 1. h3  · Obertura Desprez 1. h4  · Obertura
+   Durkin 1. Ca3  · Obertura Grob 1. g4  · Obertura Mieses 1. d3  ·
+   Obertura saragossana 1. c3  · Obertura Sokolski 1. b4  · Obertura Dunst
+   1. Cc3  · Obertura Van 't Kruijs 1. e3  · Obertura Ware 1. a4
+   Lèxic
+   Llista d'obertures d'escacs  · Llista d'obertures d'escacs amb nom de
+   persona  · ECO  · Gambit  · Transposició  · Eriçó
+   Registres d'autoritat
+     * BNE (1)
+     * BNF (1)
+     * GND (1)
+     * LCCN (1)
+     * SUDOC (1)
+     * NKC (1)
+
+   Viccionari
+   Obtingut de
+   «https://ca.wikipedia.org/w/index.php?title=Obertura_(escacs)&oldid=285
+   18194»
+   Categories:
+     * Obertures d'escacs
+     * Termes d'escacs
+
+   Categories ocultes:
+     * Pàgines amb enllaç commonscat des de Wikidata
+     * Control d'autoritats
+
+     * La pàgina va ser modificada per darrera vegada el 30 oct 2021 a les
+       13:12.
+     * El text està disponible sota la Llicència de Creative Commons
+       Reconeixement i Compartir-Igual; es poden aplicar termes
+       addicionals. Vegeu les Condicions d'ús. Wikipedia® (Viquipèdia™) és
+       una marca registrada de Wikimedia Foundation, Inc.
+
+     * Política de privadesa
+     * Quant al projecte Viquipèdia
+     * Descàrrec de responsabilitat
+     * Codi de conducta
+     * Desenvolupadors
+     * Estadístiques
+     * Declaració de cookies
+     * Versió per a mòbils
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

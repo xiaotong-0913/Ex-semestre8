@@ -1,0 +1,1188 @@
+   #alternate Modifica Viquipèdia (ca) Canal de sindicació Atom Viquipèdia
+
+   Vés al contingut
+
+   [ ] Menú principal
+   Menú principal
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+   Navegació
+     * Portada
+     * Article a l'atzar
+     * Articles de qualitat
+
+   Comunitat
+     * Portal viquipedista
+     * Agenda d'actes
+     * Canvis recents
+     * La taverna
+     * Contacte
+     * Xat
+     * Ajuda
+
+   Viquipèdia l'Enciclopèdia Lliure
+   Cerca
+   ____________________
+   (BUTTON) Cerca
+
+   [ ] Aparença
+
+     * Donatius
+     * Crea un compte
+     * Inicia la sessió
+
+   [ ] Eines personals
+     * Donatius
+     * Crea un compte
+     * Inicia la sessió
+
+   Pàgines per a editors no registrats més informació
+     * Contribucions
+     * Discussió per aquest IP
+
+Contingut
+
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+     * Inici
+     * 1 Introducció
+     * 2 Variant clàssica de la catalana oberta
+     * 3 Bibliografia
+     * 4 Notes i referències
+     * 5 Vegeu també
+
+   [ ] Commuta la taula de continguts.
+
+Obertura catalana
+
+   [ ] 28 llengües
+     * Azərbaycanca
+     * Bosanski
+     * Čeština
+     * Deutsch
+     * Ελληνικά
+     * English
+     * Esperanto
+     * Español
+     * Euskara
+     * Suomi
+     * Français
+     * עברית
+     * Italiano
+     * 日本語
+     * Қазақша
+     * Lëtzebuergesch
+     * Latviešu
+     * മലയാളം
+     * Nederlands
+     * Occitan
+     * Polski
+     * Português
+     * Русский
+     * Српски / srpski
+     * Svenska
+     * Türkçe
+     * Українська
+     * 中文
+
+   Modifica els enllaços
+
+     * Pàgina
+     * Discussió
+
+   [ ] català
+
+     * Mostra
+     * Modifica
+     * Mostra l'historial
+
+   [ ] Eines
+   Eines
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+   Accions
+     * Mostra
+     * Modifica
+     * Mostra l'historial
+
+   General
+     * Què hi enllaça
+     * Canvis relacionats
+     * Pàgines especials
+     * Enllaç permanent
+     * Informació de la pàgina
+     * Citau aquest article
+     * Obtén una URL abreujada
+     * Descarrega el codi QR
+
+   Imprimeix/exporta
+     * Crea un llibre
+     * Baixa com a PDF
+     * Versió per a impressora
+
+   En altres projectes
+     * Element a Wikidata
+
+   Aparença
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+   De la Viquipèdia, l'enciclopèdia lliure
+
+   CAPTION: Obertura catalana
+
+     a b c d e f g h
+   8
+   [208px-Chessboard480.svg.png]
+   a8 negres torre
+   b8 negres cavall
+   c8 negres alfil
+   d8 negres dama
+   e8 negres rei
+   f8 negres alfil
+   h8 negres torre
+   a7 negres peó
+   b7 negres peó
+   c7 negres peó
+   f7 negres peó
+   g7 negres peó
+   h7 negres peó
+   e6 negres peó
+   f6 negres cavall
+   d5 negres peó
+   c4 blanques peó
+   d4 blanques peó
+   g3 blanques peó
+   a2 blanques peó
+   b2 blanques peó
+   e2 blanques peó
+   f2 blanques peó
+   g2 blanques alfil
+   h2 blanques peó
+   a1 blanques torre
+   b1 blanques cavall
+   c1 blanques alfil
+   d1 blanques dama
+   e1 blanques rei
+   g1 blanques cavall
+   h1 blanques torre
+   8
+   7                 7
+   6                 6
+   5                 5
+   4                 4
+   3                 3
+   2                 2
+   1 1
+     a b c d e f g h
+   Moviments 1.d4 Cf6 2.c4 e6 3.g3 d5 4.Ag2
+   ECO E01-E09
+   Naixement Barcelona, 1929, per Savielly Tartakower
+   Origen del nom Catalunya
+   Classificació Obertura tancada
+   Sinònim(s) Partida catalana
+   Chessgames.com Fitxa
+
+   S'anomena catalana una coneguda obertura hipermoderna en el joc dels
+   escacs, que pot ser considerada per les blanques com una barreja del
+   gambit de dama i l'obertura de Réti.
+
+   Aquest article empra la notació algebraica per descriure moviments
+   d'escacs.
+
+Introducció
+
+   [modifica]
+
+   Les blanques juguen d4 i c4 i fan un fianchetto amb l'alfil a g2. Una
+   seqüència d'obertura comuna és 1.d4 Cf6 2.c4 e6 3.g3 d5 4.Ag2, tot i
+   que a la posició resultant s'hi pot arribar des de molts ordres de
+   jugades diferents, i pot derivar un gran nombre de variants.
+
+   Les negres han de triar entre dues opcions. A la catalana " oberta "
+   poden jugar ...dxc4 i poden tractar de mantenir el peó amb ...b5, o bé
+   cedir-lo guanyant temps per aclarir el seu joc. A la catalana " tancada
+   ", les negres no capturen a c4; el joc pot semblar incòmode durant unes
+   jugades, però és una posició força sòlida.
+
+   El terme prové del torneig organitzat el 1929 a Barcelona, en el marc
+   de l'Exposició Universal, quan se li va demanar a Savielly Tartakower
+   que creés una nova variant en homenatge a la singular història i
+   antiguitat dels escacs a Catalunya.^[1] Tanmateix s'havia fet servir
+   alguns cops abans que Tartakower la fes servir al torneig. Sense anar
+   gaire lluny, a la partida Réti-Leonhardt de l'any 1928 a Berlín, es va
+   fer un intercanvi inicial gairebé idèntic.
+
+   Pocs jugadors de la màxima categoria mundial han jugat la Catalana amb
+   regularitat, tot i que molts s'han interessat per ella. Una de les
+   vegades més recordades succeí quan a Londres, el 1983, Garri Kaspàrov i
+   Víktor Kortxnoi la van fer servir amb regularitat en el seu
+   enfrontament a les semifinals de candidats, en el camí per decidir qui
+   lluitaria contra Anatoli Kàrpov pel títol de campió del món. En total 5
+   de les 11 partides tingueren aquesta obertura.
+
+   Magnus Carlsen és un dels jugadors contemporanis que més vegades fa
+   servir l'obertura catalana a les seves partides. Al campionat del món
+   d'escacs del 2021 que se celebrà a Dubai, l'obertura catalana va ser la
+   més utilitzada per l'actual campió del món.
+
+   L'any 2004 Ruben Felgaer va guanyar un torneig que celebrava el 75è
+   aniversari del torneig de l'any 1929 i el naixement de l'obertura, amb
+   Grans Mestres com Víktor Kortxnoi, Mihail Marin, Lluís Comas i Viktor
+   Moskalenko, i l'MI Manel Granados. Totes les partides del torneig, que
+   també es va disputar a Barcelona, van començar amb els moviments 1.d4
+   d5 2.c4 e6 3.g3 Cf6.
+
+Variant clàssica de la catalana oberta
+
+   [modifica]
+
+   La variant clàssica de la catalana comença amb 1.d4 Cf6 2.c4 e6 3.g3 d5
+   4.Ag2 dxc4 5.Cf3 Ae7. Les blanques donen un peó a canvi de temps per
+   desenvolupar-se, canvi similar al d'un gambit. A més, sense el peó de
+   d5, l'alfil blanc de caselles negres dificulta el desenvolupament del
+   flanc de dama negre.
+
+   Aquesta variant ha estat una de les preferides d'Anatoli Kàrpov i de
+   Iefim Hèl·ler amb negres i d'Oleg Romànixin amb blanques. El seu codi
+   ECO és l'E05.
+
+Bibliografia
+
+   [modifica]
+     * Neistadt, Iàkov. Play the Catalan: Open Variation. Pergamon, 1987.
+       ISBN 0080297412.
+     * Dunnington, Angus. Winning With the Catalan. International Chess
+       Enterprises, 1998. ISBN 9781879479692.
+     * Davies, Nigel. Play the Catalan. Everyman Chess, 2009. ISBN
+       9781857445916.
+
+Notes i referències
+
+   [modifica]
+    1. ↑ L'any 1008, el Comte Ermengol d'Urgell va especificar al seu
+       testament que les seves peces d'escacs havien de ser cedides al
+       Convent de Sant Giles (Sant Iú), a prop de Nimes, ara a França i
+       llavors dominis catalans. Aquest és el testimoni escrit més antic
+       que es té dels escacs a Europa. Vegeu «Brief notes on the history
+       of chess». Arxivat de l'original el 2010-02-07. [Consulta: 26
+       novembre 2013]. o «Geography of Chess by Bill Wall». Arxivat de
+       l'original el 2013-12-02. [Consulta: 26 novembre 2013].
+
+Vegeu també
+
+   [modifica]
+     * Escola Hipermoderna d'escacs
+     * Reglament dels escacs
+     * Exposició Universal de Barcelona 1929
+
+     * Vegeu aquesta plantilla
+
+   Obertures d'escacs
+   Obertures obertes
+   (simètriques: 1. e4 e5)
+                                 Sense 2.Cf3
+   Obertura Alapín  · Obertura del centre  · Gambit danès  · Obertura
+   Ponziani  · Obertura de l'alfil  · Obertura vienesa  · Variant
+   Frankenstein–Dràcula  · Obertura Napoleó  · Atac Parham  · Gambit de
+   rei  · Contragambit Falkbeer  · Gambit Muzio  · Gambit Rice
+                               2.Cf3 sense Cc6
+   Obertura de cavall de rei  · Defensa Damiano  · Defensa Petrov  ·
+   Gambit letó
+                                  2.Cf3 Cc6
+   Defensa dels dos cavalls  · Atac Fegatello  · Gambit Blackburne
+   Shilling  · Gambit italià  · Gambit Rousseau  · Obertura escocesa  ·
+   Obertura italiana  · Gambit elefant  · Gambit Evans  · Gambit vienès  ·
+   Defensa Greco  · Defensa hongaresa  · Giuoco piano  · Defensa París  ·
+   Atac Max Lange  · Defensa Philidor  · Obertura portuguesa  · Obertura
+   dels quatre cavalls  · Contraatac Traxler  · Obertura dels tres cavalls
+   Obertura Ruy López
+   (1. e4 e5 2. Cf3 Cc6
+   3. Ab5)
+   Defensa berlinesa  · Defensa Bird  · Defensa berlinesa clàssica  ·
+   Defensa Cordel  · Defensa Cozio  · Gambit Schliemann  · Defensa Smyslov
+    · Defensa Steinitz  · Ruy López tancada  · Ruy López oberta  · Gambit
+   Marshall  · Parany de l'Arca de Noè  · Variant Breyer  · Variant
+   Arkhangelsk  · Variant del canvi  · Variant Kàrpov  · Variant Kholmov
+   · Variant Möller  · Variant Smyslov  · Variant Steinitz diferida  ·
+   Variante Txigorin  · Variant Zaitsev
+   Obertures semiobertes
+   (Defenses assimètriques
+   contra 1. e4)
+                                  Sense 1...c5
+   Defensa Alekhin 1. e4 Cf6  · Defensa Barnes 1. e4 f6  · Defensa
+   Caro-Kann 1. e4 c6  · Defensa Desprez  · Atac indi de rei  · Defensa
+   francesa 1.e4 e6  · Defensa moderna  · Defensa Nimzowitsch 1. e4 Cc6  ·
+   Defensa Owen 1. e4 b6  · Atac Panov  · Defensa Pirc 1. e4 d6  · Defensa
+   Saint-Georges 1. e4 a6  · Defensa escandinava 1. e4 d5
+   Defensa siciliana
+   (1. e4 c5)
+   Gambit de l'ala  · Variant Alapín  · Atac anglès  · Variant cobra  ·
+   Variant del drac accelerat  · Variant del drac  · Siciliana tancada  ·
+   Atac grand prix  · Variant Kalaixnikov  · Variant Kan  · Sistema Kopec
+    · Variant La Bourdonnais  · Anell de Maróczy  · Gambit Morra  ·
+   Variant Moscou  · Variant Najdorf  · Variant Paulsen  · Variant del peó
+   enverinat  · Variant Polugaevski  · Variant dels quatre cavalls  · Atac
+   Richter-Rauzer  · Variant Rossolimo  · Variant Scheveninguen  · Atac
+   Sozin  · Variant Svéixnikov  · Variant Taimanov  · Variant Txekhover
+   Gambit de dama
+   (1. d4 d5 2. c4)
+   (obertures tancades)
+   Gambit de dama  · Contragambit Albin  · Defensa bàltica  · Defensa
+   Cambridge Springs  · Gambit de dama  · Gambit de dama acceptat  ·
+   Gambit de dama refusat  · Gambit de dama refusat, variant del canvi  ·
+   Parany de l'elefant  · Defensa Marshall  · Defensa Merano  · Defensa
+   ortodoxa  · Defensa semieslava  · Defensa semi-Tarrasch  · Defensa
+   eslava  · Defensa Tarrasch  · Defensa simètrica  · Variant Tartakover
+   · Defensa Txigorin  · Variant anti-Tartakover  · Gambit de dama
+   refusat, variant Lasker
+   Defenses índies
+   (obertures semitancades)
+   Gambit Volga  · Defensa Benoni  · Defensa franco Benoni  · Contragambit
+   Blumenfeld  · Defensa Bogoíndia  · Gambit de Budapest  · Atac indi de
+   rei  · Defensa índia de rei  · Defensa Grünfeld  · Tango dels cavalls
+   · Defensa Nimzoíndia  · Defensa índia de dama  · Defensa índia antiga
+   Altres defenses
+   contra 1. d4
+   (Obertures semitancades)
+   Defensa anglesa  · Atac Barry  · Gambit Blackmar-Diemer  · Obertura
+   catalana  · Sistema Colle  · Defensa holandesa 1. d4 f5  · Defensa
+   Keres  · Defensa polonesa 1. d4 b5  · Atac Richter-Veressov  · Gambit
+   Staunton 1. d4 f5 2. e4  · Sistema Stonewall  · Sistema Londres  · Atac
+   Torre  · Obertura Trompowsky  · Obertura del peó de dama  · Gambit
+   Englund
+   Obertures de flanc
+   Obertura anglesa 1. c4  · Obertura Zukertort 1.Cf3  · Obertura Réti
+   1.Cf3 d5 2.c4
+   Obertures de flanc
+   menors
+   Obertura Bird 1. f4  · Obertura Benko 1. g3  · Obertura Larsen 1. b3 e5
+   Obertures irregulars
+   Obertura París 1. Ch3  · Obertura Anderssen 1. a3  · Obertura Barnes 1.
+   f3  · Obertura Clemenz 1. h3  · Obertura Desprez 1. h4  · Obertura
+   Durkin 1. Ca3  · Obertura Grob 1. g4  · Obertura Mieses 1. d3  ·
+   Obertura saragossana 1. c3  · Obertura Sokolski 1. b4  · Obertura Dunst
+   1. Cc3  · Obertura Van 't Kruijs 1. e3  · Obertura Ware 1. a4
+   Lèxic
+   Llista d'obertures d'escacs  · Llista d'obertures d'escacs amb nom de
+   persona  · ECO  · Gambit  · Transposició  · Eriçó
+   Registres d'autoritat
+     * GND (1)
+
+    Bases d'informació
+     * EEC (1)
+
+   Obtingut de
+   «https://ca.wikipedia.org/w/index.php?title=Obertura_catalana&oldid=337
+   25048»
+   Categoria:
+     * Obertures d'escacs
+
+   Categoria oculta:
+     * Control d'autoritats
+
+     * La pàgina va ser modificada per darrera vegada el 27 jul 2024 a les
+       22:15.
+     * El text està disponible sota la Llicència de Creative Commons
+       Reconeixement i Compartir-Igual; es poden aplicar termes
+       addicionals. Vegeu les Condicions d'ús. Wikipedia® (Viquipèdia™) és
+       una marca registrada de Wikimedia Foundation, Inc.
+
+     * Política de privadesa
+     * Quant al projecte Viquipèdia
+     * Descàrrec de responsabilitat
+     * Codi de conducta
+     * Desenvolupadors
+     * Estadístiques
+     * Declaració de cookies
+     * Versió per a mòbils
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+   #alternate Modifica Viquipèdia (ca) Canal de sindicació Atom Viquipèdia
+
+   Vés al contingut
+
+   [ ] Menú principal
+   Menú principal
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+   Navegació
+     * Portada
+     * Article a l'atzar
+     * Articles de qualitat
+
+   Comunitat
+     * Portal viquipedista
+     * Agenda d'actes
+     * Canvis recents
+     * La taverna
+     * Contacte
+     * Xat
+     * Ajuda
+
+   Viquipèdia l'Enciclopèdia Lliure
+   Cerca
+   ____________________
+   (BUTTON) Cerca
+
+   [ ] Aparença
+
+     * Donatius
+     * Crea un compte
+     * Inicia la sessió
+
+   [ ] Eines personals
+     * Donatius
+     * Crea un compte
+     * Inicia la sessió
+
+   Pàgines per a editors no registrats més informació
+     * Contribucions
+     * Discussió per aquest IP
+
+Contingut
+
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+     * Inici
+     * 1 Introducció
+     * 2 Variant clàssica de la catalana oberta
+     * 3 Bibliografia
+     * 4 Notes i referències
+     * 5 Vegeu també
+
+   [ ] Commuta la taula de continguts.
+
+Obertura catalana
+
+   [ ] 28 llengües
+     * Azərbaycanca
+     * Bosanski
+     * Čeština
+     * Deutsch
+     * Ελληνικά
+     * English
+     * Esperanto
+     * Español
+     * Euskara
+     * Suomi
+     * Français
+     * עברית
+     * Italiano
+     * 日本語
+     * Қазақша
+     * Lëtzebuergesch
+     * Latviešu
+     * മലയാളം
+     * Nederlands
+     * Occitan
+     * Polski
+     * Português
+     * Русский
+     * Српски / srpski
+     * Svenska
+     * Türkçe
+     * Українська
+     * 中文
+
+   Modifica els enllaços
+
+     * Pàgina
+     * Discussió
+
+   [ ] català
+
+     * Mostra
+     * Modifica
+     * Mostra l'historial
+
+   [ ] Eines
+   Eines
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+   Accions
+     * Mostra
+     * Modifica
+     * Mostra l'historial
+
+   General
+     * Què hi enllaça
+     * Canvis relacionats
+     * Pàgines especials
+     * Enllaç permanent
+     * Informació de la pàgina
+     * Citau aquest article
+     * Obtén una URL abreujada
+     * Descarrega el codi QR
+
+   Imprimeix/exporta
+     * Crea un llibre
+     * Baixa com a PDF
+     * Versió per a impressora
+
+   En altres projectes
+     * Element a Wikidata
+
+   Aparença
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+   De la Viquipèdia, l'enciclopèdia lliure
+
+   CAPTION: Obertura catalana
+
+     a b c d e f g h
+   8
+   [208px-Chessboard480.svg.png]
+   a8 negres torre
+   b8 negres cavall
+   c8 negres alfil
+   d8 negres dama
+   e8 negres rei
+   f8 negres alfil
+   h8 negres torre
+   a7 negres peó
+   b7 negres peó
+   c7 negres peó
+   f7 negres peó
+   g7 negres peó
+   h7 negres peó
+   e6 negres peó
+   f6 negres cavall
+   d5 negres peó
+   c4 blanques peó
+   d4 blanques peó
+   g3 blanques peó
+   a2 blanques peó
+   b2 blanques peó
+   e2 blanques peó
+   f2 blanques peó
+   g2 blanques alfil
+   h2 blanques peó
+   a1 blanques torre
+   b1 blanques cavall
+   c1 blanques alfil
+   d1 blanques dama
+   e1 blanques rei
+   g1 blanques cavall
+   h1 blanques torre
+   8
+   7                 7
+   6                 6
+   5                 5
+   4                 4
+   3                 3
+   2                 2
+   1 1
+     a b c d e f g h
+   Moviments 1.d4 Cf6 2.c4 e6 3.g3 d5 4.Ag2
+   ECO E01-E09
+   Naixement Barcelona, 1929, per Savielly Tartakower
+   Origen del nom Catalunya
+   Classificació Obertura tancada
+   Sinònim(s) Partida catalana
+   Chessgames.com Fitxa
+
+   S'anomena catalana una coneguda obertura hipermoderna en el joc dels
+   escacs, que pot ser considerada per les blanques com una barreja del
+   gambit de dama i l'obertura de Réti.
+
+   Aquest article empra la notació algebraica per descriure moviments
+   d'escacs.
+
+Introducció
+
+   [modifica]
+
+   Les blanques juguen d4 i c4 i fan un fianchetto amb l'alfil a g2. Una
+   seqüència d'obertura comuna és 1.d4 Cf6 2.c4 e6 3.g3 d5 4.Ag2, tot i
+   que a la posició resultant s'hi pot arribar des de molts ordres de
+   jugades diferents, i pot derivar un gran nombre de variants.
+
+   Les negres han de triar entre dues opcions. A la catalana " oberta "
+   poden jugar ...dxc4 i poden tractar de mantenir el peó amb ...b5, o bé
+   cedir-lo guanyant temps per aclarir el seu joc. A la catalana " tancada
+   ", les negres no capturen a c4; el joc pot semblar incòmode durant unes
+   jugades, però és una posició força sòlida.
+
+   El terme prové del torneig organitzat el 1929 a Barcelona, en el marc
+   de l'Exposició Universal, quan se li va demanar a Savielly Tartakower
+   que creés una nova variant en homenatge a la singular història i
+   antiguitat dels escacs a Catalunya.^[1] Tanmateix s'havia fet servir
+   alguns cops abans que Tartakower la fes servir al torneig. Sense anar
+   gaire lluny, a la partida Réti-Leonhardt de l'any 1928 a Berlín, es va
+   fer un intercanvi inicial gairebé idèntic.
+
+   Pocs jugadors de la màxima categoria mundial han jugat la Catalana amb
+   regularitat, tot i que molts s'han interessat per ella. Una de les
+   vegades més recordades succeí quan a Londres, el 1983, Garri Kaspàrov i
+   Víktor Kortxnoi la van fer servir amb regularitat en el seu
+   enfrontament a les semifinals de candidats, en el camí per decidir qui
+   lluitaria contra Anatoli Kàrpov pel títol de campió del món. En total 5
+   de les 11 partides tingueren aquesta obertura.
+
+   Magnus Carlsen és un dels jugadors contemporanis que més vegades fa
+   servir l'obertura catalana a les seves partides. Al campionat del món
+   d'escacs del 2021 que se celebrà a Dubai, l'obertura catalana va ser la
+   més utilitzada per l'actual campió del món.
+
+   L'any 2004 Ruben Felgaer va guanyar un torneig que celebrava el 75è
+   aniversari del torneig de l'any 1929 i el naixement de l'obertura, amb
+   Grans Mestres com Víktor Kortxnoi, Mihail Marin, Lluís Comas i Viktor
+   Moskalenko, i l'MI Manel Granados. Totes les partides del torneig, que
+   també es va disputar a Barcelona, van començar amb els moviments 1.d4
+   d5 2.c4 e6 3.g3 Cf6.
+
+Variant clàssica de la catalana oberta
+
+   [modifica]
+
+   La variant clàssica de la catalana comença amb 1.d4 Cf6 2.c4 e6 3.g3 d5
+   4.Ag2 dxc4 5.Cf3 Ae7. Les blanques donen un peó a canvi de temps per
+   desenvolupar-se, canvi similar al d'un gambit. A més, sense el peó de
+   d5, l'alfil blanc de caselles negres dificulta el desenvolupament del
+   flanc de dama negre.
+
+   Aquesta variant ha estat una de les preferides d'Anatoli Kàrpov i de
+   Iefim Hèl·ler amb negres i d'Oleg Romànixin amb blanques. El seu codi
+   ECO és l'E05.
+
+Bibliografia
+
+   [modifica]
+     * Neistadt, Iàkov. Play the Catalan: Open Variation. Pergamon, 1987.
+       ISBN 0080297412.
+     * Dunnington, Angus. Winning With the Catalan. International Chess
+       Enterprises, 1998. ISBN 9781879479692.
+     * Davies, Nigel. Play the Catalan. Everyman Chess, 2009. ISBN
+       9781857445916.
+
+Notes i referències
+
+   [modifica]
+    1. ↑ L'any 1008, el Comte Ermengol d'Urgell va especificar al seu
+       testament que les seves peces d'escacs havien de ser cedides al
+       Convent de Sant Giles (Sant Iú), a prop de Nimes, ara a França i
+       llavors dominis catalans. Aquest és el testimoni escrit més antic
+       que es té dels escacs a Europa. Vegeu «Brief notes on the history
+       of chess». Arxivat de l'original el 2010-02-07. [Consulta: 26
+       novembre 2013]. o «Geography of Chess by Bill Wall». Arxivat de
+       l'original el 2013-12-02. [Consulta: 26 novembre 2013].
+
+Vegeu també
+
+   [modifica]
+     * Escola Hipermoderna d'escacs
+     * Reglament dels escacs
+     * Exposició Universal de Barcelona 1929
+
+     * Vegeu aquesta plantilla
+
+   Obertures d'escacs
+   Obertures obertes
+   (simètriques: 1. e4 e5)
+                                 Sense 2.Cf3
+   Obertura Alapín  · Obertura del centre  · Gambit danès  · Obertura
+   Ponziani  · Obertura de l'alfil  · Obertura vienesa  · Variant
+   Frankenstein–Dràcula  · Obertura Napoleó  · Atac Parham  · Gambit de
+   rei  · Contragambit Falkbeer  · Gambit Muzio  · Gambit Rice
+                               2.Cf3 sense Cc6
+   Obertura de cavall de rei  · Defensa Damiano  · Defensa Petrov  ·
+   Gambit letó
+                                  2.Cf3 Cc6
+   Defensa dels dos cavalls  · Atac Fegatello  · Gambit Blackburne
+   Shilling  · Gambit italià  · Gambit Rousseau  · Obertura escocesa  ·
+   Obertura italiana  · Gambit elefant  · Gambit Evans  · Gambit vienès  ·
+   Defensa Greco  · Defensa hongaresa  · Giuoco piano  · Defensa París  ·
+   Atac Max Lange  · Defensa Philidor  · Obertura portuguesa  · Obertura
+   dels quatre cavalls  · Contraatac Traxler  · Obertura dels tres cavalls
+   Obertura Ruy López
+   (1. e4 e5 2. Cf3 Cc6
+   3. Ab5)
+   Defensa berlinesa  · Defensa Bird  · Defensa berlinesa clàssica  ·
+   Defensa Cordel  · Defensa Cozio  · Gambit Schliemann  · Defensa Smyslov
+    · Defensa Steinitz  · Ruy López tancada  · Ruy López oberta  · Gambit
+   Marshall  · Parany de l'Arca de Noè  · Variant Breyer  · Variant
+   Arkhangelsk  · Variant del canvi  · Variant Kàrpov  · Variant Kholmov
+   · Variant Möller  · Variant Smyslov  · Variant Steinitz diferida  ·
+   Variante Txigorin  · Variant Zaitsev
+   Obertures semiobertes
+   (Defenses assimètriques
+   contra 1. e4)
+                                  Sense 1...c5
+   Defensa Alekhin 1. e4 Cf6  · Defensa Barnes 1. e4 f6  · Defensa
+   Caro-Kann 1. e4 c6  · Defensa Desprez  · Atac indi de rei  · Defensa
+   francesa 1.e4 e6  · Defensa moderna  · Defensa Nimzowitsch 1. e4 Cc6  ·
+   Defensa Owen 1. e4 b6  · Atac Panov  · Defensa Pirc 1. e4 d6  · Defensa
+   Saint-Georges 1. e4 a6  · Defensa escandinava 1. e4 d5
+   Defensa siciliana
+   (1. e4 c5)
+   Gambit de l'ala  · Variant Alapín  · Atac anglès  · Variant cobra  ·
+   Variant del drac accelerat  · Variant del drac  · Siciliana tancada  ·
+   Atac grand prix  · Variant Kalaixnikov  · Variant Kan  · Sistema Kopec
+    · Variant La Bourdonnais  · Anell de Maróczy  · Gambit Morra  ·
+   Variant Moscou  · Variant Najdorf  · Variant Paulsen  · Variant del peó
+   enverinat  · Variant Polugaevski  · Variant dels quatre cavalls  · Atac
+   Richter-Rauzer  · Variant Rossolimo  · Variant Scheveninguen  · Atac
+   Sozin  · Variant Svéixnikov  · Variant Taimanov  · Variant Txekhover
+   Gambit de dama
+   (1. d4 d5 2. c4)
+   (obertures tancades)
+   Gambit de dama  · Contragambit Albin  · Defensa bàltica  · Defensa
+   Cambridge Springs  · Gambit de dama  · Gambit de dama acceptat  ·
+   Gambit de dama refusat  · Gambit de dama refusat, variant del canvi  ·
+   Parany de l'elefant  · Defensa Marshall  · Defensa Merano  · Defensa
+   ortodoxa  · Defensa semieslava  · Defensa semi-Tarrasch  · Defensa
+   eslava  · Defensa Tarrasch  · Defensa simètrica  · Variant Tartakover
+   · Defensa Txigorin  · Variant anti-Tartakover  · Gambit de dama
+   refusat, variant Lasker
+   Defenses índies
+   (obertures semitancades)
+   Gambit Volga  · Defensa Benoni  · Defensa franco Benoni  · Contragambit
+   Blumenfeld  · Defensa Bogoíndia  · Gambit de Budapest  · Atac indi de
+   rei  · Defensa índia de rei  · Defensa Grünfeld  · Tango dels cavalls
+   · Defensa Nimzoíndia  · Defensa índia de dama  · Defensa índia antiga
+   Altres defenses
+   contra 1. d4
+   (Obertures semitancades)
+   Defensa anglesa  · Atac Barry  · Gambit Blackmar-Diemer  · Obertura
+   catalana  · Sistema Colle  · Defensa holandesa 1. d4 f5  · Defensa
+   Keres  · Defensa polonesa 1. d4 b5  · Atac Richter-Veressov  · Gambit
+   Staunton 1. d4 f5 2. e4  · Sistema Stonewall  · Sistema Londres  · Atac
+   Torre  · Obertura Trompowsky  · Obertura del peó de dama  · Gambit
+   Englund
+   Obertures de flanc
+   Obertura anglesa 1. c4  · Obertura Zukertort 1.Cf3  · Obertura Réti
+   1.Cf3 d5 2.c4
+   Obertures de flanc
+   menors
+   Obertura Bird 1. f4  · Obertura Benko 1. g3  · Obertura Larsen 1. b3 e5
+   Obertures irregulars
+   Obertura París 1. Ch3  · Obertura Anderssen 1. a3  · Obertura Barnes 1.
+   f3  · Obertura Clemenz 1. h3  · Obertura Desprez 1. h4  · Obertura
+   Durkin 1. Ca3  · Obertura Grob 1. g4  · Obertura Mieses 1. d3  ·
+   Obertura saragossana 1. c3  · Obertura Sokolski 1. b4  · Obertura Dunst
+   1. Cc3  · Obertura Van 't Kruijs 1. e3  · Obertura Ware 1. a4
+   Lèxic
+   Llista d'obertures d'escacs  · Llista d'obertures d'escacs amb nom de
+   persona  · ECO  · Gambit  · Transposició  · Eriçó
+   Registres d'autoritat
+     * GND (1)
+
+    Bases d'informació
+     * EEC (1)
+
+   Obtingut de
+   «https://ca.wikipedia.org/w/index.php?title=Obertura_catalana&oldid=337
+   25048»
+   Categoria:
+     * Obertures d'escacs
+
+   Categoria oculta:
+     * Control d'autoritats
+
+     * La pàgina va ser modificada per darrera vegada el 27 jul 2024 a les
+       22:15.
+     * El text està disponible sota la Llicència de Creative Commons
+       Reconeixement i Compartir-Igual; es poden aplicar termes
+       addicionals. Vegeu les Condicions d'ús. Wikipedia® (Viquipèdia™) és
+       una marca registrada de Wikimedia Foundation, Inc.
+
+     * Política de privadesa
+     * Quant al projecte Viquipèdia
+     * Descàrrec de responsabilitat
+     * Codi de conducta
+     * Desenvolupadors
+     * Estadístiques
+     * Declaració de cookies
+     * Versió per a mòbils
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+   #alternate Modifica Viquipèdia (ca) Canal de sindicació Atom Viquipèdia
+
+   Vés al contingut
+
+   [ ] Menú principal
+   Menú principal
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+   Navegació
+     * Portada
+     * Article a l'atzar
+     * Articles de qualitat
+
+   Comunitat
+     * Portal viquipedista
+     * Agenda d'actes
+     * Canvis recents
+     * La taverna
+     * Contacte
+     * Xat
+     * Ajuda
+
+   Viquipèdia l'Enciclopèdia Lliure
+   Cerca
+   ____________________
+   (BUTTON) Cerca
+
+   [ ] Aparença
+
+     * Donatius
+     * Crea un compte
+     * Inicia la sessió
+
+   [ ] Eines personals
+     * Donatius
+     * Crea un compte
+     * Inicia la sessió
+
+   Pàgines per a editors no registrats més informació
+     * Contribucions
+     * Discussió per aquest IP
+
+Contingut
+
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+     * Inici
+     * 1 Introducció
+     * 2 Variant clàssica de la catalana oberta
+     * 3 Bibliografia
+     * 4 Notes i referències
+     * 5 Vegeu també
+
+   [ ] Commuta la taula de continguts.
+
+Obertura catalana
+
+   [ ] 28 llengües
+     * Azərbaycanca
+     * Bosanski
+     * Čeština
+     * Deutsch
+     * Ελληνικά
+     * English
+     * Esperanto
+     * Español
+     * Euskara
+     * Suomi
+     * Français
+     * עברית
+     * Italiano
+     * 日本語
+     * Қазақша
+     * Lëtzebuergesch
+     * Latviešu
+     * മലയാളം
+     * Nederlands
+     * Occitan
+     * Polski
+     * Português
+     * Русский
+     * Српски / srpski
+     * Svenska
+     * Türkçe
+     * Українська
+     * 中文
+
+   Modifica els enllaços
+
+     * Pàgina
+     * Discussió
+
+   [ ] català
+
+     * Mostra
+     * Modifica
+     * Mostra l'historial
+
+   [ ] Eines
+   Eines
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+   Accions
+     * Mostra
+     * Modifica
+     * Mostra l'historial
+
+   General
+     * Què hi enllaça
+     * Canvis relacionats
+     * Pàgines especials
+     * Enllaç permanent
+     * Informació de la pàgina
+     * Citau aquest article
+     * Obtén una URL abreujada
+     * Descarrega el codi QR
+
+   Imprimeix/exporta
+     * Crea un llibre
+     * Baixa com a PDF
+     * Versió per a impressora
+
+   En altres projectes
+     * Element a Wikidata
+
+   Aparença
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+   De la Viquipèdia, l'enciclopèdia lliure
+
+   CAPTION: Obertura catalana
+
+     a b c d e f g h
+   8
+   [208px-Chessboard480.svg.png]
+   a8 negres torre
+   b8 negres cavall
+   c8 negres alfil
+   d8 negres dama
+   e8 negres rei
+   f8 negres alfil
+   h8 negres torre
+   a7 negres peó
+   b7 negres peó
+   c7 negres peó
+   f7 negres peó
+   g7 negres peó
+   h7 negres peó
+   e6 negres peó
+   f6 negres cavall
+   d5 negres peó
+   c4 blanques peó
+   d4 blanques peó
+   g3 blanques peó
+   a2 blanques peó
+   b2 blanques peó
+   e2 blanques peó
+   f2 blanques peó
+   g2 blanques alfil
+   h2 blanques peó
+   a1 blanques torre
+   b1 blanques cavall
+   c1 blanques alfil
+   d1 blanques dama
+   e1 blanques rei
+   g1 blanques cavall
+   h1 blanques torre
+   8
+   7                 7
+   6                 6
+   5                 5
+   4                 4
+   3                 3
+   2                 2
+   1 1
+     a b c d e f g h
+   Moviments 1.d4 Cf6 2.c4 e6 3.g3 d5 4.Ag2
+   ECO E01-E09
+   Naixement Barcelona, 1929, per Savielly Tartakower
+   Origen del nom Catalunya
+   Classificació Obertura tancada
+   Sinònim(s) Partida catalana
+   Chessgames.com Fitxa
+
+   S'anomena catalana una coneguda obertura hipermoderna en el joc dels
+   escacs, que pot ser considerada per les blanques com una barreja del
+   gambit de dama i l'obertura de Réti.
+
+   Aquest article empra la notació algebraica per descriure moviments
+   d'escacs.
+
+Introducció
+
+   [modifica]
+
+   Les blanques juguen d4 i c4 i fan un fianchetto amb l'alfil a g2. Una
+   seqüència d'obertura comuna és 1.d4 Cf6 2.c4 e6 3.g3 d5 4.Ag2, tot i
+   que a la posició resultant s'hi pot arribar des de molts ordres de
+   jugades diferents, i pot derivar un gran nombre de variants.
+
+   Les negres han de triar entre dues opcions. A la catalana " oberta "
+   poden jugar ...dxc4 i poden tractar de mantenir el peó amb ...b5, o bé
+   cedir-lo guanyant temps per aclarir el seu joc. A la catalana " tancada
+   ", les negres no capturen a c4; el joc pot semblar incòmode durant unes
+   jugades, però és una posició força sòlida.
+
+   El terme prové del torneig organitzat el 1929 a Barcelona, en el marc
+   de l'Exposició Universal, quan se li va demanar a Savielly Tartakower
+   que creés una nova variant en homenatge a la singular història i
+   antiguitat dels escacs a Catalunya.^[1] Tanmateix s'havia fet servir
+   alguns cops abans que Tartakower la fes servir al torneig. Sense anar
+   gaire lluny, a la partida Réti-Leonhardt de l'any 1928 a Berlín, es va
+   fer un intercanvi inicial gairebé idèntic.
+
+   Pocs jugadors de la màxima categoria mundial han jugat la Catalana amb
+   regularitat, tot i que molts s'han interessat per ella. Una de les
+   vegades més recordades succeí quan a Londres, el 1983, Garri Kaspàrov i
+   Víktor Kortxnoi la van fer servir amb regularitat en el seu
+   enfrontament a les semifinals de candidats, en el camí per decidir qui
+   lluitaria contra Anatoli Kàrpov pel títol de campió del món. En total 5
+   de les 11 partides tingueren aquesta obertura.
+
+   Magnus Carlsen és un dels jugadors contemporanis que més vegades fa
+   servir l'obertura catalana a les seves partides. Al campionat del món
+   d'escacs del 2021 que se celebrà a Dubai, l'obertura catalana va ser la
+   més utilitzada per l'actual campió del món.
+
+   L'any 2004 Ruben Felgaer va guanyar un torneig que celebrava el 75è
+   aniversari del torneig de l'any 1929 i el naixement de l'obertura, amb
+   Grans Mestres com Víktor Kortxnoi, Mihail Marin, Lluís Comas i Viktor
+   Moskalenko, i l'MI Manel Granados. Totes les partides del torneig, que
+   també es va disputar a Barcelona, van començar amb els moviments 1.d4
+   d5 2.c4 e6 3.g3 Cf6.
+
+Variant clàssica de la catalana oberta
+
+   [modifica]
+
+   La variant clàssica de la catalana comença amb 1.d4 Cf6 2.c4 e6 3.g3 d5
+   4.Ag2 dxc4 5.Cf3 Ae7. Les blanques donen un peó a canvi de temps per
+   desenvolupar-se, canvi similar al d'un gambit. A més, sense el peó de
+   d5, l'alfil blanc de caselles negres dificulta el desenvolupament del
+   flanc de dama negre.
+
+   Aquesta variant ha estat una de les preferides d'Anatoli Kàrpov i de
+   Iefim Hèl·ler amb negres i d'Oleg Romànixin amb blanques. El seu codi
+   ECO és l'E05.
+
+Bibliografia
+
+   [modifica]
+     * Neistadt, Iàkov. Play the Catalan: Open Variation. Pergamon, 1987.
+       ISBN 0080297412.
+     * Dunnington, Angus. Winning With the Catalan. International Chess
+       Enterprises, 1998. ISBN 9781879479692.
+     * Davies, Nigel. Play the Catalan. Everyman Chess, 2009. ISBN
+       9781857445916.
+
+Notes i referències
+
+   [modifica]
+    1. ↑ L'any 1008, el Comte Ermengol d'Urgell va especificar al seu
+       testament que les seves peces d'escacs havien de ser cedides al
+       Convent de Sant Giles (Sant Iú), a prop de Nimes, ara a França i
+       llavors dominis catalans. Aquest és el testimoni escrit més antic
+       que es té dels escacs a Europa. Vegeu «Brief notes on the history
+       of chess». Arxivat de l'original el 2010-02-07. [Consulta: 26
+       novembre 2013]. o «Geography of Chess by Bill Wall». Arxivat de
+       l'original el 2013-12-02. [Consulta: 26 novembre 2013].
+
+Vegeu també
+
+   [modifica]
+     * Escola Hipermoderna d'escacs
+     * Reglament dels escacs
+     * Exposició Universal de Barcelona 1929
+
+     * Vegeu aquesta plantilla
+
+   Obertures d'escacs
+   Obertures obertes
+   (simètriques: 1. e4 e5)
+                                 Sense 2.Cf3
+   Obertura Alapín  · Obertura del centre  · Gambit danès  · Obertura
+   Ponziani  · Obertura de l'alfil  · Obertura vienesa  · Variant
+   Frankenstein–Dràcula  · Obertura Napoleó  · Atac Parham  · Gambit de
+   rei  · Contragambit Falkbeer  · Gambit Muzio  · Gambit Rice
+                               2.Cf3 sense Cc6
+   Obertura de cavall de rei  · Defensa Damiano  · Defensa Petrov  ·
+   Gambit letó
+                                  2.Cf3 Cc6
+   Defensa dels dos cavalls  · Atac Fegatello  · Gambit Blackburne
+   Shilling  · Gambit italià  · Gambit Rousseau  · Obertura escocesa  ·
+   Obertura italiana  · Gambit elefant  · Gambit Evans  · Gambit vienès  ·
+   Defensa Greco  · Defensa hongaresa  · Giuoco piano  · Defensa París  ·
+   Atac Max Lange  · Defensa Philidor  · Obertura portuguesa  · Obertura
+   dels quatre cavalls  · Contraatac Traxler  · Obertura dels tres cavalls
+   Obertura Ruy López
+   (1. e4 e5 2. Cf3 Cc6
+   3. Ab5)
+   Defensa berlinesa  · Defensa Bird  · Defensa berlinesa clàssica  ·
+   Defensa Cordel  · Defensa Cozio  · Gambit Schliemann  · Defensa Smyslov
+    · Defensa Steinitz  · Ruy López tancada  · Ruy López oberta  · Gambit
+   Marshall  · Parany de l'Arca de Noè  · Variant Breyer  · Variant
+   Arkhangelsk  · Variant del canvi  · Variant Kàrpov  · Variant Kholmov
+   · Variant Möller  · Variant Smyslov  · Variant Steinitz diferida  ·
+   Variante Txigorin  · Variant Zaitsev
+   Obertures semiobertes
+   (Defenses assimètriques
+   contra 1. e4)
+                                  Sense 1...c5
+   Defensa Alekhin 1. e4 Cf6  · Defensa Barnes 1. e4 f6  · Defensa
+   Caro-Kann 1. e4 c6  · Defensa Desprez  · Atac indi de rei  · Defensa
+   francesa 1.e4 e6  · Defensa moderna  · Defensa Nimzowitsch 1. e4 Cc6  ·
+   Defensa Owen 1. e4 b6  · Atac Panov  · Defensa Pirc 1. e4 d6  · Defensa
+   Saint-Georges 1. e4 a6  · Defensa escandinava 1. e4 d5
+   Defensa siciliana
+   (1. e4 c5)
+   Gambit de l'ala  · Variant Alapín  · Atac anglès  · Variant cobra  ·
+   Variant del drac accelerat  · Variant del drac  · Siciliana tancada  ·
+   Atac grand prix  · Variant Kalaixnikov  · Variant Kan  · Sistema Kopec
+    · Variant La Bourdonnais  · Anell de Maróczy  · Gambit Morra  ·
+   Variant Moscou  · Variant Najdorf  · Variant Paulsen  · Variant del peó
+   enverinat  · Variant Polugaevski  · Variant dels quatre cavalls  · Atac
+   Richter-Rauzer  · Variant Rossolimo  · Variant Scheveninguen  · Atac
+   Sozin  · Variant Svéixnikov  · Variant Taimanov  · Variant Txekhover
+   Gambit de dama
+   (1. d4 d5 2. c4)
+   (obertures tancades)
+   Gambit de dama  · Contragambit Albin  · Defensa bàltica  · Defensa
+   Cambridge Springs  · Gambit de dama  · Gambit de dama acceptat  ·
+   Gambit de dama refusat  · Gambit de dama refusat, variant del canvi  ·
+   Parany de l'elefant  · Defensa Marshall  · Defensa Merano  · Defensa
+   ortodoxa  · Defensa semieslava  · Defensa semi-Tarrasch  · Defensa
+   eslava  · Defensa Tarrasch  · Defensa simètrica  · Variant Tartakover
+   · Defensa Txigorin  · Variant anti-Tartakover  · Gambit de dama
+   refusat, variant Lasker
+   Defenses índies
+   (obertures semitancades)
+   Gambit Volga  · Defensa Benoni  · Defensa franco Benoni  · Contragambit
+   Blumenfeld  · Defensa Bogoíndia  · Gambit de Budapest  · Atac indi de
+   rei  · Defensa índia de rei  · Defensa Grünfeld  · Tango dels cavalls
+   · Defensa Nimzoíndia  · Defensa índia de dama  · Defensa índia antiga
+   Altres defenses
+   contra 1. d4
+   (Obertures semitancades)
+   Defensa anglesa  · Atac Barry  · Gambit Blackmar-Diemer  · Obertura
+   catalana  · Sistema Colle  · Defensa holandesa 1. d4 f5  · Defensa
+   Keres  · Defensa polonesa 1. d4 b5  · Atac Richter-Veressov  · Gambit
+   Staunton 1. d4 f5 2. e4  · Sistema Stonewall  · Sistema Londres  · Atac
+   Torre  · Obertura Trompowsky  · Obertura del peó de dama  · Gambit
+   Englund
+   Obertures de flanc
+   Obertura anglesa 1. c4  · Obertura Zukertort 1.Cf3  · Obertura Réti
+   1.Cf3 d5 2.c4
+   Obertures de flanc
+   menors
+   Obertura Bird 1. f4  · Obertura Benko 1. g3  · Obertura Larsen 1. b3 e5
+   Obertures irregulars
+   Obertura París 1. Ch3  · Obertura Anderssen 1. a3  · Obertura Barnes 1.
+   f3  · Obertura Clemenz 1. h3  · Obertura Desprez 1. h4  · Obertura
+   Durkin 1. Ca3  · Obertura Grob 1. g4  · Obertura Mieses 1. d3  ·
+   Obertura saragossana 1. c3  · Obertura Sokolski 1. b4  · Obertura Dunst
+   1. Cc3  · Obertura Van 't Kruijs 1. e3  · Obertura Ware 1. a4
+   Lèxic
+   Llista d'obertures d'escacs  · Llista d'obertures d'escacs amb nom de
+   persona  · ECO  · Gambit  · Transposició  · Eriçó
+   Registres d'autoritat
+     * GND (1)
+
+    Bases d'informació
+     * EEC (1)
+
+   Obtingut de
+   «https://ca.wikipedia.org/w/index.php?title=Obertura_catalana&oldid=337
+   25048»
+   Categoria:
+     * Obertures d'escacs
+
+   Categoria oculta:
+     * Control d'autoritats
+
+     * La pàgina va ser modificada per darrera vegada el 27 jul 2024 a les
+       22:15.
+     * El text està disponible sota la Llicència de Creative Commons
+       Reconeixement i Compartir-Igual; es poden aplicar termes
+       addicionals. Vegeu les Condicions d'ús. Wikipedia® (Viquipèdia™) és
+       una marca registrada de Wikimedia Foundation, Inc.
+
+     * Política de privadesa
+     * Quant al projecte Viquipèdia
+     * Descàrrec de responsabilitat
+     * Codi de conducta
+     * Desenvolupadors
+     * Estadístiques
+     * Declaració de cookies
+     * Versió per a mòbils
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
