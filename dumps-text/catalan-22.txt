@@ -1,0 +1,534 @@
+     __________________________________________________________________
+
+   La descripció fonètica i fonològica del català: l’estructura sil·làbica
+     __________________________________________________________________
+
+   Descripció fonètica i fonològica del català
+     __________________________________________________________________
+
+                          L’estructura sil·làbica
+
+   ❯ Constituents de la síl·laba
+
+Obertura o atac
+
+  Sense obertura
+
+   V    [ˈu]    u
+   VC   [ˈam]   ham
+   VCC  [ˈark]  arc
+   VCCC [ˈerms] erms
+
+   Prieto, P. (2004). Fonètica i fonologia: els sons del català. Editorial
+   UOC.
+
+  Obertura simple
+
+   CV    [ˈbɔ]       bo
+   CVC   [ˈpam]      pam
+   CVCC  [ˈpark]     parc
+   CVCCC [ˈt̪eks̪t̪] text
+
+   Prieto, P. (2004). Fonètica i fonologia: els sons del català. Editorial
+   UOC.
+
+  Obertura complexa
+
+   Una obertura complexa pot tenir un màxim de dues consonants.
+
+   La primera consonant d’una obertura complexa ha de ser una oclusiva
+   sorda ([p], [t], [k]), una oclusiva sonora ([b], [d], [ɡ]), una
+   aproximant ([β̞], [ð̞], [ɣ̞]) o una fricativa labiodental ([f]).
+
+   La segona consonant d’una obertura complexa ha de ser una bategant
+   ([ɾ]) o una lateral alveolar ([l]).
+
+   No són possibles els grups *[tl], *[dl] o *[ð̞l].
+
+   CCV    [ˈt̪ɾɔ]   tro
+   CCVC   [ˈt̪ɾam]  tram
+   CCVCC  [ˈt̪ɾams] trams
+   CCVCCC [ˈbɾusks] bruscs
+
+   Prieto, P. (2004). Fonètica i fonologia: els sons del català. Editorial
+   UOC.
+
+Nucli
+
+   Pot ser simple (format per una vocal) o complex.
+
+   Nucli complex: format per dos elements (diftong) o per tres elements
+   (triftong).
+
+  Diftongs
+
+   ❯ Transcripció fonètica
+
+   Combinacions formades per una vocal tancada (paravocal [i̯] o [u̯]) i
+   per una vocal més oberta.
+
+   Diftongs decreixents: vocal més oberta + vocal tancada (paravocal [i̯]
+   o [u̯]).
+
+   [e] [i̯] [ˈrei̯]     rei
+   [ɛ] [i̯] [ˈfɛi̯.nə]  feina
+   [a] [i̯] [ˈmai̯]     mai
+   [o] [i̯] [ˈroi̯.nə]  roina (dialectal)
+   [ɔ] [i̯] [ˈnɔi̯]     noi
+   [u] [i̯] [ˈbui̯.ð̞ə] buida
+   [ə] [i̯] [fəi̯.ˈne]  feiner
+   [i] [u̯] [ˈriu̯]     riu
+   [e] [u̯] [ˈmeu̯]     meu
+   [ɛ] [u̯] [ˈbɛu̯]     veu
+   [a] [u̯] [ˈkau̯]     cau
+   [o] [u̯] [ˈtou̯]     tou
+   [ɔ] [u̯] [ˈsɔu̯]     sou
+   [ə] [u̯] [gəu̯.ˈð̞i] gaudir
+
+   Recasens, D. (1993). Fonètica i fonologia. Enciclopèdia Catalana.
+
+   Diftongs creixents: vocal tancada (paravocal [i̯] o [u̯]) + vocal més
+   oberta.
+
+   [i̯] [e]  [sə.ˈi̯es]            seiés
+   [i̯] [ɛ]  [kɾə.ˈi̯ɛm]           creiem
+   [i̯] [a]  [i̯am.ˈbə]            iambe
+   [i̯] [o]  [t̪ə.ˈi̯os]           teiós
+   [i̯] [ɔ]  [t̪ə.lə.ˈi̯ɔt̪]       talaiot
+   [i̯] [u]  [ˈi̯u.kə]             iuca
+   [i̯] [ə]  [ˈsɛ.i̯əs]            seies
+   [u̯] [i]  [linˠ.ˈɡu̯is̪.t̪i.kə] lingüística
+   [u̯] [e]  [unˠ.ˈɡu̯en]          ungüent
+   [u̯] [ɛ]  [pə.ˈu̯ɛt]            peuet
+   [u̯] [a]  [əi̯.ˈɣ̞u̯at]         aiguat
+   [u̯] [o]  [ə.ˈku̯os]            aquós
+   [u̯] [ɔ]  [ri.ˈu̯ɔt̪]           riuot
+   [u]  [u̯] [ə.ku̯u.zi.ˈt̪at̪]    aquositat (estil acurat)
+   [u̯] [ə]  [əi̯.ɣ̞u̯ə.ˈlit̪]     aigualit
+
+   Recasens, D. (1993). Fonètica i fonologia. Barcelona: Enciclopèdia
+   Catalana.
+
+   Diftongs creixents normatius:
+     * Quan la vocal tancada [u] es troba darrere de consonants velars
+       ([k], [ɡ], [ɣ̞]) i seguida de vocal: [ˈku̯an] (quan), [ˈɡu̯an]
+       (guant), [əi̯.ˈɣ̞u̯at] (aiguat).
+     * Quan la vocal tancada [i] o [u] es troba en posició inicial en una
+       síl·laba sense obertura (atac): [kɾə.ˈi̯ɛm] (creiem), [i̯am.ˈbə]
+       (iambe).
+
+   Sil·labificació normativa: [kun̪.d̪i.si.ˈo], [si.ˈɛn.si.ə]
+   *[ˈsi̯o], *[ˈsi̯ɛn], *[si̯ə]: la vocal tancada [i] es troba en una
+   síl·laba CV̯V amb obertura (atac)
+
+   Sil·labificació acceptada en registres informals: [kun̪.d̪i.ˈsi̯o],
+   [ˈsi̯ɛn.si̯ə]
+   (cast. [kon̪.d̪i.ˈθ̟i̯on], [ˈθ̟i̯en̟.θ̟i̯a])
+
+   «És admissible en l’àmbit general —només, però, en registres informals—
+   la pronunciació unisil·làbica de i seguida d’una altra vocal en casos
+   com condició, ciència, etc.» (p. 17).
+
+   Institut d’Estudis Catalans. Secció Filològica. (2009). Proposta per a
+   un estàndard oral de la llengua catalana, I: fonètica (3a ed. rev.).
+   Institut d’Estudis Catalans.
+   https://publicacions.iec.cat/repository/pdf/00000246/00000047.pdf
+
+   «Excepte en els grups qu- gu- (/kw/, /gw/) seguits de vocal (com en
+   lingüístic o cinquanta), la i i la u postconsonàntiques seguides de
+   vocal han rebut tradicionalment pronúncia de vocals, sense formar, per
+   tant, diftong (con.di.ci.ó, in.gè.nu.a).
+   Avui dia, però, en molts casos són habituals, i fins i tot generals,
+   les pronúncies amb diftong creixent. Pel que fa a la i, la pronunciació
+   amb diftong és general quan es troba en posició posttònica seguida de
+   vocal (ab.sèn.cia, grà.cia, es.pè.cies, sè.rie) i és freqüent quan el
+   diftong és tònic i va precedit de consonant sibilant (ac.ció,
+   pre.ten.sió). La vocal u, en canvi, és més resistent a formar diftong,
+   tot i que és habitual en els grups àtons acabats en -ua i -ues,
+   sobretot en mots que altrament tindrien més de tres síl·labes:
+   con.tí.nua, cons.pí.cua (cf. i.ni.qua), in.gè.nua, a.ssí.dues. La
+   pronúncia amb diftong és acceptable en tots els registres en el primer
+   cas, quan la i es troba darrere de síl·laba tònica (ab.sèn.cia,
+   grà.cia, es.pè.cies, sè.rie) o va precedida de consonant sibilant i
+   seguida de vocal tònica (ac.ció, pre.ten.sió). En la resta de casos, en
+   una dicció molt acurada, és preferible mantenir el hiat.»
+
+   Institut d’Estudis Catalans. (2018). Els diftongs i els triftongs. A
+   Gramàtica essencial de la llengua catalana.
+   https://geiec.iec.cat/text/1.4.1
+
+  Triftongs
+
+   Combinacions formades per una vocal tancada (paravocal [i̯] o [u̯])
+   seguida d’una vocal més oberta (nucli vocàlic) i seguida d’una segona
+   vocal tancada (paravocal [i̯] o [u̯]).
+
+   [i̯ɛu̯] [kɾə.ˈi̯ɛu̯]    creieu
+   [i̯əu̯] [ˈsɛ.i̯əu̯]     sèieu
+   [u̯ai̯] [ə.ˈɣ̞u̯ai̯t̪]  aguait
+   [u̯iu̯] [ər.ˈɣ̞u̯iu̯]   argüiu
+   [u̯ɛu̯] [ə.ð̞ə.ˈku̯ɛu̯] adeqüeu
+
+   Julià, J. (2005). Fonètica aplicada catalana: dels fonaments a les
+   aplicacions de les ciències fonètiques. Ariel.
+
+Coda
+
+  Sense coda
+
+   V   [ˈu]    u
+   CV  [ˈbɔ]   bo
+   CCV [ˈt̪ɾɔ] tro
+
+  Coda simple
+
+   VC   [ˈam]    ham
+   CVC  [ˈpam]   pam
+   CCVC [ˈt̪ɾam] tram
+
+   Prieto, P. (2004). Fonètica i fonologia: els sons del català. Editorial
+   UOC.
+
+  Coda complexa
+
+   En interior de paraula les codes complexes tenen dues consonants.
+
+   En final de paraula les codes complexes poden tenir tres consonants, la
+   darrera de les quals sol ser la fricativa alveolar [s].
+
+   VCC    [ˈark]      arc
+   CVCC   [ˈpark]     parc
+   CCVCC  [ˈt̪ɾams]   trams
+   VCCC   [ˈerms]     erms
+   CVCCC  [ˈt̪eks̪t̪] text
+   CCVCCC [ˈbɾusks]   bruscs
+
+   Prieto, P. (2004). Fonètica i fonologia: els sons del català. Editorial
+   UOC.
+
+   Janssen, M. (s. d.). Diccionari de divisió sil·làbica. LOFC, Lèxic
+   Obert Flexionat de Català. http://ca.oslin.org/syllables.php
+   tornar al principi
+
+    Freqüència d’aparició de les estructures sil·làbiques en català
+
+         V     CV    CCV  total
+   V     6.53  48.00 4.83 59.36
+   VC    9.23  27.08 1.45 37.77
+   VCC   0.44  1.98  0.19 2.63
+   VCCC  0.01  0.20  0.0  0.22
+   total 16.23 77.27 6.48 100
+
+   Percentatge absolut observat per a cada tipus d’implosió (coda) i
+   d’explosió (atac).
+   Files: tipus d’implosió (coda).
+   Columnes: tipus d’explosió (obertura o atac).
+
+   de Yzaguirre, L. (1991). L’estructura sil·làbica del català central
+   [Tesi doctoral, Universitat de Barcelona]. Universitat Pompeu Fabra,
+   Laboratori de Tecnologies Lingüístiques.
+   http://latel.upf.edu/morgana/altres/cibres/tesi_lym/estrucsil.htm
+
+   «El percentatge absolut ens permet detectar més fàcilment on es
+   concentra la majoria de les síl·labes: entre CV i CVC acumulen tres
+   quartes parts de la mostra; si hi afegim V i VC, superem el 90%».
+
+   de Yzaguirre, L. (1991). L’estructura sil·làbica del català central
+   [Tesi doctoral, Universitat de Barcelona]. Universitat Pompeu Fabra,
+   Laboratori de Tecnologies Lingüístiques.
+   http://latel.upf.edu/morgana/altres/cibres/tesi_lym/estrucsil.htm
+   Lluís de Yzaguirre
+   Lluís de Yzaguirre
+   (Font de la imatge: IULA, Institut de Lingüística Aplicada. (s. d.). de
+   Yzaguirre Maura, Lluís. Universitat Pompeu Fabra.
+   https://www.upf.edu/web/iula/membres/-/asset_publisher/Hc3Dbg363MUH/con
+   tent/de- yzaguirre-maura-lluis-2-/3310760/maximized)
+
+   Síl·labes amb una freqüència absoluta d’aparició superior a 20.000
+
+   Síl·labes amb una freqüència absoluta d’aparició superior a 20.000.
+   A = [ə]
+   Z = [ʒ].
+
+   de Yzaguirre, L. (1991). L’estructura sil·làbica del català central
+   [Tesi doctoral, Universitat de Barcelona]. Universitat Pompeu Fabra,
+   Laboratori de Tecnologies Lingüístiques.
+   http://latel.upf.edu/morgana/altres/cibres/tesi_lym/estrucsil.htm
+   tornar al principi
+
+   ❯ La descripció fonètica i fonològica del català
+
+   Descripció fonètica i fonològica del català
+     __________________________________________________________________
+
+   La descripció fonètica i fonològica del català: l’estructura sil·làbica
+   Joaquim Llisterri, Universitat Autònoma de Barcelona
+   La pàgina va ser modificada per darrera vegada el
+     __________________________________________________________________
+     __________________________________________________________________
+
+   La descripció fonètica i fonològica del català: l’estructura sil·làbica
+     __________________________________________________________________
+
+   Descripció fonètica i fonològica del català
+     __________________________________________________________________
+
+                          L’estructura sil·làbica
+
+   ❯ Constituents de la síl·laba
+
+Obertura o atac
+
+  Sense obertura
+
+   V    [ˈu]    u
+   VC   [ˈam]   ham
+   VCC  [ˈark]  arc
+   VCCC [ˈerms] erms
+
+   Prieto, P. (2004). Fonètica i fonologia: els sons del català. Editorial
+   UOC.
+
+  Obertura simple
+
+   CV    [ˈbɔ]       bo
+   CVC   [ˈpam]      pam
+   CVCC  [ˈpark]     parc
+   CVCCC [ˈt̪eks̪t̪] text
+
+   Prieto, P. (2004). Fonètica i fonologia: els sons del català. Editorial
+   UOC.
+
+  Obertura complexa
+
+   Una obertura complexa pot tenir un màxim de dues consonants.
+
+   La primera consonant d’una obertura complexa ha de ser una oclusiva
+   sorda ([p], [t], [k]), una oclusiva sonora ([b], [d], [ɡ]), una
+   aproximant ([β̞], [ð̞], [ɣ̞]) o una fricativa labiodental ([f]).
+
+   La segona consonant d’una obertura complexa ha de ser una bategant
+   ([ɾ]) o una lateral alveolar ([l]).
+
+   No són possibles els grups *[tl], *[dl] o *[ð̞l].
+
+   CCV    [ˈt̪ɾɔ]   tro
+   CCVC   [ˈt̪ɾam]  tram
+   CCVCC  [ˈt̪ɾams] trams
+   CCVCCC [ˈbɾusks] bruscs
+
+   Prieto, P. (2004). Fonètica i fonologia: els sons del català. Editorial
+   UOC.
+
+Nucli
+
+   Pot ser simple (format per una vocal) o complex.
+
+   Nucli complex: format per dos elements (diftong) o per tres elements
+   (triftong).
+
+  Diftongs
+
+   ❯ Transcripció fonètica
+
+   Combinacions formades per una vocal tancada (paravocal [i̯] o [u̯]) i
+   per una vocal més oberta.
+
+   Diftongs decreixents: vocal més oberta + vocal tancada (paravocal [i̯]
+   o [u̯]).
+
+   [e] [i̯] [ˈrei̯]     rei
+   [ɛ] [i̯] [ˈfɛi̯.nə]  feina
+   [a] [i̯] [ˈmai̯]     mai
+   [o] [i̯] [ˈroi̯.nə]  roina (dialectal)
+   [ɔ] [i̯] [ˈnɔi̯]     noi
+   [u] [i̯] [ˈbui̯.ð̞ə] buida
+   [ə] [i̯] [fəi̯.ˈne]  feiner
+   [i] [u̯] [ˈriu̯]     riu
+   [e] [u̯] [ˈmeu̯]     meu
+   [ɛ] [u̯] [ˈbɛu̯]     veu
+   [a] [u̯] [ˈkau̯]     cau
+   [o] [u̯] [ˈtou̯]     tou
+   [ɔ] [u̯] [ˈsɔu̯]     sou
+   [ə] [u̯] [gəu̯.ˈð̞i] gaudir
+
+   Recasens, D. (1993). Fonètica i fonologia. Enciclopèdia Catalana.
+
+   Diftongs creixents: vocal tancada (paravocal [i̯] o [u̯]) + vocal més
+   oberta.
+
+   [i̯] [e]  [sə.ˈi̯es]            seiés
+   [i̯] [ɛ]  [kɾə.ˈi̯ɛm]           creiem
+   [i̯] [a]  [i̯am.ˈbə]            iambe
+   [i̯] [o]  [t̪ə.ˈi̯os]           teiós
+   [i̯] [ɔ]  [t̪ə.lə.ˈi̯ɔt̪]       talaiot
+   [i̯] [u]  [ˈi̯u.kə]             iuca
+   [i̯] [ə]  [ˈsɛ.i̯əs]            seies
+   [u̯] [i]  [linˠ.ˈɡu̯is̪.t̪i.kə] lingüística
+   [u̯] [e]  [unˠ.ˈɡu̯en]          ungüent
+   [u̯] [ɛ]  [pə.ˈu̯ɛt]            peuet
+   [u̯] [a]  [əi̯.ˈɣ̞u̯at]         aiguat
+   [u̯] [o]  [ə.ˈku̯os]            aquós
+   [u̯] [ɔ]  [ri.ˈu̯ɔt̪]           riuot
+   [u]  [u̯] [ə.ku̯u.zi.ˈt̪at̪]    aquositat (estil acurat)
+   [u̯] [ə]  [əi̯.ɣ̞u̯ə.ˈlit̪]     aigualit
+
+   Recasens, D. (1993). Fonètica i fonologia. Barcelona: Enciclopèdia
+   Catalana.
+
+   Diftongs creixents normatius:
+     * Quan la vocal tancada [u] es troba darrere de consonants velars
+       ([k], [ɡ], [ɣ̞]) i seguida de vocal: [ˈku̯an] (quan), [ˈɡu̯an]
+       (guant), [əi̯.ˈɣ̞u̯at] (aiguat).
+     * Quan la vocal tancada [i] o [u] es troba en posició inicial en una
+       síl·laba sense obertura (atac): [kɾə.ˈi̯ɛm] (creiem), [i̯am.ˈbə]
+       (iambe).
+
+   Sil·labificació normativa: [kun̪.d̪i.si.ˈo], [si.ˈɛn.si.ə]
+   *[ˈsi̯o], *[ˈsi̯ɛn], *[si̯ə]: la vocal tancada [i] es troba en una
+   síl·laba CV̯V amb obertura (atac)
+
+   Sil·labificació acceptada en registres informals: [kun̪.d̪i.ˈsi̯o],
+   [ˈsi̯ɛn.si̯ə]
+   (cast. [kon̪.d̪i.ˈθ̟i̯on], [ˈθ̟i̯en̟.θ̟i̯a])
+
+   «És admissible en l’àmbit general —només, però, en registres informals—
+   la pronunciació unisil·làbica de i seguida d’una altra vocal en casos
+   com condició, ciència, etc.» (p. 17).
+
+   Institut d’Estudis Catalans. Secció Filològica. (2009). Proposta per a
+   un estàndard oral de la llengua catalana, I: fonètica (3a ed. rev.).
+   Institut d’Estudis Catalans.
+   https://publicacions.iec.cat/repository/pdf/00000246/00000047.pdf
+
+   «Excepte en els grups qu- gu- (/kw/, /gw/) seguits de vocal (com en
+   lingüístic o cinquanta), la i i la u postconsonàntiques seguides de
+   vocal han rebut tradicionalment pronúncia de vocals, sense formar, per
+   tant, diftong (con.di.ci.ó, in.gè.nu.a).
+   Avui dia, però, en molts casos són habituals, i fins i tot generals,
+   les pronúncies amb diftong creixent. Pel que fa a la i, la pronunciació
+   amb diftong és general quan es troba en posició posttònica seguida de
+   vocal (ab.sèn.cia, grà.cia, es.pè.cies, sè.rie) i és freqüent quan el
+   diftong és tònic i va precedit de consonant sibilant (ac.ció,
+   pre.ten.sió). La vocal u, en canvi, és més resistent a formar diftong,
+   tot i que és habitual en els grups àtons acabats en -ua i -ues,
+   sobretot en mots que altrament tindrien més de tres síl·labes:
+   con.tí.nua, cons.pí.cua (cf. i.ni.qua), in.gè.nua, a.ssí.dues. La
+   pronúncia amb diftong és acceptable en tots els registres en el primer
+   cas, quan la i es troba darrere de síl·laba tònica (ab.sèn.cia,
+   grà.cia, es.pè.cies, sè.rie) o va precedida de consonant sibilant i
+   seguida de vocal tònica (ac.ció, pre.ten.sió). En la resta de casos, en
+   una dicció molt acurada, és preferible mantenir el hiat.»
+
+   Institut d’Estudis Catalans. (2018). Els diftongs i els triftongs. A
+   Gramàtica essencial de la llengua catalana.
+   https://geiec.iec.cat/text/1.4.1
+
+  Triftongs
+
+   Combinacions formades per una vocal tancada (paravocal [i̯] o [u̯])
+   seguida d’una vocal més oberta (nucli vocàlic) i seguida d’una segona
+   vocal tancada (paravocal [i̯] o [u̯]).
+
+   [i̯ɛu̯] [kɾə.ˈi̯ɛu̯]    creieu
+   [i̯əu̯] [ˈsɛ.i̯əu̯]     sèieu
+   [u̯ai̯] [ə.ˈɣ̞u̯ai̯t̪]  aguait
+   [u̯iu̯] [ər.ˈɣ̞u̯iu̯]   argüiu
+   [u̯ɛu̯] [ə.ð̞ə.ˈku̯ɛu̯] adeqüeu
+
+   Julià, J. (2005). Fonètica aplicada catalana: dels fonaments a les
+   aplicacions de les ciències fonètiques. Ariel.
+
+Coda
+
+  Sense coda
+
+   V   [ˈu]    u
+   CV  [ˈbɔ]   bo
+   CCV [ˈt̪ɾɔ] tro
+
+  Coda simple
+
+   VC   [ˈam]    ham
+   CVC  [ˈpam]   pam
+   CCVC [ˈt̪ɾam] tram
+
+   Prieto, P. (2004). Fonètica i fonologia: els sons del català. Editorial
+   UOC.
+
+  Coda complexa
+
+   En interior de paraula les codes complexes tenen dues consonants.
+
+   En final de paraula les codes complexes poden tenir tres consonants, la
+   darrera de les quals sol ser la fricativa alveolar [s].
+
+   VCC    [ˈark]      arc
+   CVCC   [ˈpark]     parc
+   CCVCC  [ˈt̪ɾams]   trams
+   VCCC   [ˈerms]     erms
+   CVCCC  [ˈt̪eks̪t̪] text
+   CCVCCC [ˈbɾusks]   bruscs
+
+   Prieto, P. (2004). Fonètica i fonologia: els sons del català. Editorial
+   UOC.
+
+   Janssen, M. (s. d.). Diccionari de divisió sil·làbica. LOFC, Lèxic
+   Obert Flexionat de Català. http://ca.oslin.org/syllables.php
+   tornar al principi
+
+    Freqüència d’aparició de les estructures sil·làbiques en català
+
+         V     CV    CCV  total
+   V     6.53  48.00 4.83 59.36
+   VC    9.23  27.08 1.45 37.77
+   VCC   0.44  1.98  0.19 2.63
+   VCCC  0.01  0.20  0.0  0.22
+   total 16.23 77.27 6.48 100
+
+   Percentatge absolut observat per a cada tipus d’implosió (coda) i
+   d’explosió (atac).
+   Files: tipus d’implosió (coda).
+   Columnes: tipus d’explosió (obertura o atac).
+
+   de Yzaguirre, L. (1991). L’estructura sil·làbica del català central
+   [Tesi doctoral, Universitat de Barcelona]. Universitat Pompeu Fabra,
+   Laboratori de Tecnologies Lingüístiques.
+   http://latel.upf.edu/morgana/altres/cibres/tesi_lym/estrucsil.htm
+
+   «El percentatge absolut ens permet detectar més fàcilment on es
+   concentra la majoria de les síl·labes: entre CV i CVC acumulen tres
+   quartes parts de la mostra; si hi afegim V i VC, superem el 90%».
+
+   de Yzaguirre, L. (1991). L’estructura sil·làbica del català central
+   [Tesi doctoral, Universitat de Barcelona]. Universitat Pompeu Fabra,
+   Laboratori de Tecnologies Lingüístiques.
+   http://latel.upf.edu/morgana/altres/cibres/tesi_lym/estrucsil.htm
+   Lluís de Yzaguirre
+   Lluís de Yzaguirre
+   (Font de la imatge: IULA, Institut de Lingüística Aplicada. (s. d.). de
+   Yzaguirre Maura, Lluís. Universitat Pompeu Fabra.
+   https://www.upf.edu/web/iula/membres/-/asset_publisher/Hc3Dbg363MUH/con
+   tent/de- yzaguirre-maura-lluis-2-/3310760/maximized)
+
+   Síl·labes amb una freqüència absoluta d’aparició superior a 20.000
+
+   Síl·labes amb una freqüència absoluta d’aparició superior a 20.000.
+   A = [ə]
+   Z = [ʒ].
+
+   de Yzaguirre, L. (1991). L’estructura sil·làbica del català central
+   [Tesi doctoral, Universitat de Barcelona]. Universitat Pompeu Fabra,
+   Laboratori de Tecnologies Lingüístiques.
+   http://latel.upf.edu/morgana/altres/cibres/tesi_lym/estrucsil.htm
+   tornar al principi
+
+   ❯ La descripció fonètica i fonològica del català
+
+   Descripció fonètica i fonològica del català
+     __________________________________________________________________
+
+   La descripció fonètica i fonològica del català: l’estructura sil·làbica
+   Joaquim Llisterri, Universitat Autònoma de Barcelona
+   La pàgina va ser modificada per darrera vegada el
+     __________________________________________________________________

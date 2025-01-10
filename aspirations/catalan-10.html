@@ -1,0 +1,566 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Institut d'Estudis Catalans - Diec2</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="Expires" content="0" />
+    <meta http-equiv="Last-Modified" content="0" />
+    <meta http-equiv="Cache-Control" content="no-cache, mustrevalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2, minimum-scale=1, user-scalable=yes" />
+    <link rel="shortcut icon" href="/img/favico.ico" />
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script type="text/javascript" src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <script language="javascript" src="/js/mm.js" type="text/javascript"></script>
+    <script language="javascript" src="/js/formulari.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous" />
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link href="/css/estils.css" rel="stylesheet" type="text/css" />
+    
+    <script language="javascript" src="/js/dw_event.js" type="text/javascript"></script>
+    <script language="javascript" src="/js/dw_viewport.js" type="text/javascript"></script>
+    <script language="javascript" src="/js/dw_tooltip.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+
+
+      var _searchParam = '{\u0022IdE\u0022:null,\u0022EntradaText\u0022:\u0022obertura\u0022,\u0022DecEntradaText\u0022:\u0022obertura\u0022,\u0022CatGram\u0022:null,\u0022AreaTem\u0022:null,\u0022AvailableAreaTem\u0022:null,\u0022LlenguaOrigen\u0022:null,\u0022DefinicioText\u0022:null,\u0022ExampleText\u0022:null,\u0022SubEntradaText\u0022:null,\u0022MarcaVal\u0022:null,\u0022InfoMorf\u0022:null,\u0022AllInfoMorf\u0022:false,\u0022OperEntrada\u0022:0,\u0022OperDef\u0022:0,\u0022OperEx\u0022:0,\u0022OperSubEntrada\u0022:0,\u0022OperAreaTematica\u0022:0,\u0022InfoMorfType\u0022:0,\u0022OperCatGram\u0022:false,\u0022AccentSen\u0022:false,\u0022CurrentPage\u0022:0,\u0022refineSearch\u0022:0,\u0022SearchResult\u0022:null,\u0022AdvancedSearch\u0022:null,\u0022ShareContent\u0022:{\u0022Entrada\u0022:\u0022obertura\u0022,\u0022Url\u0022:\u0022https:\/\/dlc.iec.cat\/Results?EntradaText=obertura\u0026OperEntrada=0\u0022,\u0022Description\u0022:\u0022Consulteu l\u0027entrada obertura a la web del DIEC2 \u0022,\u0022ImageURL\u0022:\u0022https:\/\/dlc.iec.cat\/img\/Diec2AppLogo.png\u0022,\u0022ImageFacebookURL\u0022:\u0022https:\/\/dlc.iec.cat\/img\/Diec2AppLogo1.png\u0022},\u0022Actualitzacions\u0022:false}';
+      var _printUrl = "/Results/PrintAccepcio?EntradaText=obertura&DecEntradaText=obertura&AllInfoMorf=False&OperEntrada=0&OperDef=0&OperEx=0&OperSubEntrada=0&OperAreaTematica=0&InfoMorfType=0&OperCatGram=False&AccentSen=False&CurrentPage=0&refineSearch=0&ShareContent=DIEC2Web.Models.ShareContentDataModel&Actualitzacions=False";
+
+        function ReplaceButtonsLink(mot, codedmot)
+        {
+            var plain = new DOMParser().parseFromString(mot, "text/html").documentElement.textContent;
+            $("#DEIEC").find("a").attr("href", "https://deiec.iec.cat/#c_" + plain + "_0");
+            $("#DCC").find("a").attr("href", "https://dcc.iec.cat/ddlcI/scripts/indexA.asp?ini=" + codedmot);
+            $("#DCVB").find("a").attr("href", "https://dcvb.iec.cat/results.asp?word=" + codedmot);
+            $("#SIN").find("a").attr("href", "https://sinonims.iec.cat/sinonims_cerca_sin.asp?pclau2=" + codedmot);
+            $("#CIT").find("a").attr("href", "https://cit.iec.cat/progdct/defaultsinonims.asp?opcio=1&cerca=" + codedmot + "&extern=1");
+            $("#CTLC").find("a").attr("href", "https://ctilc.iec.cat/scripts/CTILCQConc_Lemes2.asp?cadlema=" + codedmot + "&cadlemacond=0&seccio=CTILC1");
+            $("#TERMCAT").find("a").attr("href", "https://www.termcat.cat/ca/cercaterm/" + mot + "?type=basic");
+            $("#BDLEX").find("a").attr("href", "https://bdlex.iec.cat/scripts/Qorth1.asp?orthkey=" + codedmot );
+        }
+
+        function GetPrintUrl(id, useSearch) {
+
+            var splittedUrl = _printUrl.split("?");
+            var baseUrl = splittedUrl[0];
+            var searchParams = splittedUrl[1];
+
+            var url = baseUrl + "?id=" + id;
+            if (useSearch)
+                url += "&" + searchParams;
+
+            return url;
+
+      }
+
+      function PostAccepcio(id, mot, useSearch, callback) {
+          var searchParam = useSearch ? JSON.parse(_searchParam) : null;
+          var fullid = id.indexOf('-') > 0 ? id.substr(0, id.indexOf('-')) : id;
+          fullid = fullid.indexOf('L') > 0 ? fullid.substr(0, fullid.indexOf('L')) : fullid;
+
+           $.post({
+                url: "/Results/Accepcio",
+                datatype: "json",
+                type: "POST",
+                data: {
+                    id: id,
+                    searchParam: searchParam
+                },
+                success: function (data) {
+                    $("#Definition").html(data.content); // Show the content
+                    if (data.curNumAcc == data.maxNumAcc) {
+                        $("div#complert").hide(); // Hide the button in the case all acceptions are shown
+                    }
+                    else { $("div#complert").show(); }
+
+                    if (data.mostrarEsmena == 0) {
+                        $("div#artEsmenes").hide(); 
+                    }
+                    else {
+                      var esmena = '/Results/ShowEsmenes?idE=' + data.idE + '&type=1';
+                      $("#annex").attr("href", esmena);
+                      $("div#artEsmenes").show();
+                    }
+                    if (data.isVerb == 0) {
+                      $("div#artConjugacio").hide();
+                    }
+                    else {
+                      $("#conjuIdE").val(data.idE); 
+                      $("div#artConjugacio").show();
+                    }
+                    var _href = $("#printacc").attr("href");
+                    if ($("#printacc").attr("href").indexOf('?') > 0) {
+                        _href = $("#printacc").attr("href").substr(0, $("#printacc").attr("href").indexOf('?'));
+                    }
+                    var printUrl = GetPrintUrl(id, useSearch);
+                    $("#printacc").attr("href", printUrl);
+                    $("#fullacc").attr("href", "javascript:GetFullAccepcio('" + fullid + "','" + data.mot + "')");
+                    ReplaceButtonsLink(data.mot, data.codedMot);
+
+                    if (callback)
+                        callback();
+                }
+            });
+
+        }
+
+
+        function GetFullAccepcio(id, mot) {
+            PostAccepcio(id, mot, false, null);
+        }
+
+        function GetDefinition(id) {
+            PostAccepcio(id, null, true, function () {
+                $(".resultAnchor").removeClass("selectedResult");
+                var $aEntry = $("#" + id);
+                $aEntry.addClass("selectedResult");
+            });
+        }
+
+        function getSelectionHtml() {
+            if (window.getSelection) {
+                return window.getSelection().toString();
+            }
+            else if (document.getSelection) {
+                return document.getSelection();
+            }
+            else if (document.selection) {
+                return document.selection.createRange().text;
+            }
+        };
+
+        $(function () {
+            $("#Definition").bind("dblclick", function () {
+                var selection = getSelectionHtml();
+                var selectedText = selection.toString().trim();
+                if (selectedText != "")
+                {
+                    // Remove all the caracters left to ' to avoid
+                    initPos = selectedText.indexOf("’");
+                    if (initPos > 0)
+                        selectedText = selectedText.substr(initPos + 1, selectedText.length);
+                    $("#IdE").val("");
+                    $("#DecEntradaText").val(selectedText);
+                    $("#OperEntrada").val(0);
+                    $("#frmSimple").submit();
+                }
+            });
+
+            $(".autotweet").on("click", function (event)
+            {
+                event.preventDefault();
+                var shortUrlToRt = escape("https://dlc.iec.cat/Results?EntradaText=obertura&OperEntrada=0");
+                window.open('https://twitter.com/intent/tweet?via=iec&related=iec&url=' + shortUrlToRt
+                    , 'twitter', 'height=320, width=640, toolbar=no, menubar=no, scrollbars=no');
+                return false;
+            });
+
+            $(".facebook").on("click", function (event)
+            {
+                event.preventDefault();
+                var shortUrlToRt = escape("https://dlc.iec.cat/Results?EntradaText=obertura&OperEntrada=0");
+                window.open('https://www.facebook.com/sharer/sharer.php?u=' + shortUrlToRt , 'facebook', 'height=320, width=640, toolbar=no, menubar=no, scrollbars=no');
+                return false;
+            });
+
+            $("#conjugacio").on("click", function (event)
+            {
+                event.preventDefault();
+                var url = '/Verbs?IdE=' + $("#conjuIdE").val();
+                var left = (screen.width / 2);
+                window.open(url, 'MV', 'width=1024, height=1024, top=120, left=' + left);
+                return false;
+            });
+
+            $(document).ready(function () {
+                Tooltip.init();
+            });
+        });
+
+    </script>
+    <STYLE>
+        .Param {
+            font-size: 10px;
+            vertical-align: top;
+        }
+
+        .title {
+            font-size: 18px;
+            font-weight: bold;
+        }
+
+        .resultDefinition h3 {
+            font-size: 16px;
+            color: rgb(227,40,42);
+            margin-top: 10px;
+        }
+
+        h2 {
+            font-size: 18px;
+        }
+
+        .catgramEntrada {
+            font-size: 14px;
+        }
+
+        .tagline {
+            font-style: italic;
+            text-align: right;
+        }
+
+        .rodona {
+            text-align: justify;
+            font-style: normal;
+            font-weight: normal;
+        }
+
+
+        .bolditalic {
+            font-style: italic;
+            font-weight: bold;
+        }
+
+        .italic {
+            font-style: italic;
+        }
+
+        .versaleta {
+            font-variant: small-caps;
+            text-align: justify;
+        }
+
+        .versaleta a {
+                color: #0000EE;
+        }
+
+        .versaletaIT {
+            font-style: italic;
+            font-variant: small-caps;
+            font-size: 12px;
+            text-align: justify;
+        }
+
+        .estreta {
+            font-family: Verdana;
+            font-size: 11px;
+            text-align: justify;
+        }
+
+        .marcamot {
+            background-color: yellow;
+        }
+    </STYLE>
+
+    
+    <meta charset="utf-8" />
+    <meta name="description" content="Consulteu l'entrada obertura a la web del DIEC2 " />
+
+    <!-- Schema.org markup for Google+ -->
+    <meta itemprop="name" content="Diccionari de la llengua catalana" />
+    <meta itemprop="description" content="Consulteu l'entrada obertura a la web del DIEC2 " />
+    <meta itemprop="image" content="https://dlc.iec.cat/img/Diec2AppLogo.png" />
+
+    <!-- Twitter Card data -->
+    <meta name="twitter:card" content="product" />
+    <meta name="twitter:title" content="Diccionari de la llengua catalana" />
+    <meta name="twitter:description" content="Consulteu l'entrada obertura a la web del DIEC2 " />
+    <meta name="twitter:image" content="https://dlc.iec.cat/img/Diec2AppLogo.png" />
+
+    <!-- FaceBook -->
+    <meta property="og:title" content="Diccionari de la llengua catalana" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://dlc.iec.cat/Results?EntradaText=obertura&OperEntrada=0" />
+    <meta property="og:image" content="https://dlc.iec.cat/img/Diec2AppLogo1.png" />
+    <meta property="og:description" content="Consulteu l'entrada obertura a la web del DIEC2 " />
+
+
+
+</head>
+
+<body onload="document.getElementById('DecEntradaText').focus();">
+
+    <script type="text/javascript">
+        jQuery(function ($) {
+            function tog(v) { return v ? 'addClass' : 'removeClass'; }
+            $(document).on('input', '.clearable', function () {
+                $(this)[tog(this.value)]('x');
+            }).on('mousemove', '.x', function (e) {
+                $(this)[tog(this.offsetWidth - 18 < e.clientX - this.getBoundingClientRect().left)]('onX');
+            }).on('touchstart click', '.onX', function (ev) {
+                ev.preventDefault();
+                $(this).removeClass('x onX').val('').change();
+                $(".ui-menu-item").hide();
+            });
+        });
+
+        jQuery.ui.autocomplete.prototype._resizeMenu = function () {
+            var ul = this.menu.element;
+            ul.outerWidth(this.element.outerWidth());
+        }
+
+        $(function () {
+            $("#DecEntradaText").autocomplete({
+                source: function (request, response)
+                {
+                    var term = $.trim(request.term)
+                    if (term == "-" || term == "#" ) term = "";
+                    if (term !== "") {
+                        $.ajax({
+                            url: '/Results/CompleteEntradaText',
+                            dataType: "json",
+                            type: "POST",
+                            data: { EntradaText: $("#DecEntradaText").val(), OperEntrada: "1" },
+                            success: function (data) {
+                                response($.map(data.entrades, function (item) {
+                                    return { label: item.word, value: item.id};
+                                }));
+                            },
+                            error: function (xhr, status, error) {
+                                alert("Error");
+                            }
+                        });
+                    }
+                },
+                select: function (event, ui)
+                {
+                    event.preventDefault();
+                    if (ui.item) {
+                        $('#IdE').val(ui.item.value);
+                    }
+                    $("#DecEntradaText").val(ui.item.label);
+                    $('#frmSimple').submit();
+                },
+                focus: function (event, ui) {
+                    event.preventDefault();
+                    if (ui.item) {
+                        $('#IdE').val(ui.item.value);
+                    }
+                    $("#DecEntradaText").val(ui.item.label);
+                }
+
+            });
+        });
+    </script>
+
+    <div class="App">
+        <header class="header" style="overflow:hidden; width: 100%;">
+            <img src="img/Header_DIEC2_GRAN.png" class="imageHeader2019 hidden-xs" />
+            <div class="contenidorDiec" style="padding-right: 0px; padding-left: 0px;">
+                <div style="display: flex; flex-direction: row; margin-top: 10px; position: relative">
+                    <div class="wrapperLogoCaixa"">
+                        Aquest recurs compta amb el suport de&nbsp;
+                        <a href="https://obrasociallacaixa.org/ca/home" target="_blank"><img style="max-height:100%; max-width:100%;" src="/img/LogoFundacioLaCaixa.png" /></a>
+                    </div>
+                </div>
+                <div style="display: flex; flex-direction: row; margin-top: 5px; position: relative">
+                    <div style="width: 15%; padding-right: 15px">
+                        <a href="/"><img src="img/LOGO_DIEC2.png" style="width: 100%; margin-top: 2.5px;" /></a>
+                    </div>
+                    <div class="show-grid row" style="margin-right: 0; margin-left: 0; width: 70%">
+                        <nav class="navbar navbar-inverse">
+                            <div class="container-fluid">
+                                <div class="navbar-header">
+                                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbarCollapse">
+                                        <span class="icon-bar"></span>
+                                        <span class="icon-bar"></span>
+                                        <span class="icon-bar"></span>
+                                    </button>
+                                </div>
+                            </div>
+                            <div id="navbarCollapse" class="collapse navbar-collapse headerMenuBar">
+                                <ul class="nav navbar-nav">
+                                    <li class="nav-item"><a class="linkDiec currentPage" href="/"><i class="fa fa-home" style="font-size: 20px"></i></a></li>
+                                    <li class="navbarSeparator">|</li>
+                                    <li class="nav-item"><a href="Proleg" class="linkDiec">Sobre el DIEC2</a></li>
+                                    <li class="navbarSeparator">|</li>
+                                    <li class="nav-item"><a href="/AdvancedSearch" class="linkDiec">Cerca avançada</a></li>
+                                    <li class="navbarSeparator">|</li>
+                                    <li class="nav-item"><a href="Instruccions" class="linkDiec">Instruccions</a></li>
+                                    <li class="navbarSeparator">|</li>
+                                    <li class="nav-item"><a href="AbreviaturesA" class="linkDiec">Abreviatures</a></li>
+                                    <li class="navbarSeparator">|</li>
+                                    <li class="nav-item"><a href="Esmenes" class="linkDiec">Actualitzacions</a></li>
+                                    <li class="navbarSeparator">|</li>
+                                    <li class="nav-item"><a href="https://www.iec.cat/" class="linkDiec">IEC</a></li>
+                                </ul>
+                            </div>
+                        </nav>
+                    </div>
+                    <div class="logos">
+                        <div class="wrapperLogoIEC">
+                            <a href="https://www.iec.cat/" target="_blank"><img src="img/LOGO_IEC2.png" class="LogoIEC2019" /></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="clear-margins-xs" style="margin-top: 15px; padding-left:15%; margin-left:-14px; padding-right:15%; margin-right:-24px;">
+<form action="/" ID="frmSimple" method="post">                        <div class="show-grid row" style="text-align:center; margin-right: 0px; margin-left: 0px; ">
+                            <div class="col-sm-4">
+                                <label style="width: 100%;">
+                                    <div style="color: transparent">.</div>
+                                    <input class="inputDiec inputFi clearable" id="DecEntradaText" name="DecEntradaText" onkeydown="return clearSelectedIdE(this,event);" onkeypress="return validateEnter(this,event);" placeholder="Entrada a cercar" style="width:100%" type="text" value="obertura" />
+                                </label>
+                            </div>
+                            <div class="col-sm-4">
+                                <label style="width: 100%;">
+                                    <div style="color: rgb(75, 75, 75); margin-left: 1px; width: max-content;">Condició de cerca:</div>
+                                    <select class="selectionDiec selectionFi" data-val="true" data-val-required="The OperEntrada field is required." id="OperEntrada" name="OperEntrada"><option selected="selected" value="0">Coincident</option>
+<option value="1">Comen&#xE7;ada per</option>
+<option value="2">Acabada en</option>
+<option value="3">En qualsevol posici&#xF3;</option>
+<option value="4">No comen&#xE7;ada per</option>
+<option value="5">No acabada en</option>
+<option value="6">Que no contingui</option>
+</select>
+                                </label>
+                            </div>
+                            <div class="col-sm-4" style="text-align: right; display: flex; justify-content: center; align-items: center;">
+                                <label>
+                                    <div style="color: transparent">.</div>
+                                    <div style="display: flex; flex-direction: row">
+                                        <a href="javascript:Validate2();">
+                                            <div class="basicSearch">
+                                                <input type="submit" value="C" style="border-style: solid; color: transparent; background-color: transparent; border-radius: 100%; margin-left: 15px; margin-right: 35px; border-color: transparent; border-width: 4px; position: absolute" />
+                                                <img src="img/LUPA.png" class="basicSearchLupa" />
+                                                <div class="basicSearchText basicFi">Cerca bàsica</div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </label>
+                            </div>
+                        </div>
+<input id="IdE" name="IdE" type="hidden" value="" /></form>                </div>
+            </div>
+        </header>
+    </div>
+    
+
+
+
+<div style="background-color: white; padding-top: 30px; padding-bottom: 10px;">
+    <div class="container customContainerDIEC">
+        <div class="resultInfoGroup" style="display: flex; flex-direction: row; justify-content: space-between">
+            <div class="resultInfo col-sm-6" style="display: grid; flex-direction:column; width: 100%; padding-left:0px;">
+                <div style="font-size: 20px; font-weight: bold">
+                    Resultats de la consulta
+                </div>
+                <div style="margin-top: 5px">
+                     Entrada coincident: obertura.
+                </div>
+            </div>
+            <div class="resultRedefine col-sm-6" style="display: grid; flex-direction:column; width: 100%; justify-content:flex-end; padding-right:0px;">
+                <div class="btn-diec" style="padding-left: 5px; padding-right: 5px; width: 220px">
+                    <a id="RefinedSearch" href="/AdvancedSearch?EntradaText=obertura&amp;DecEntradaText=obertura&amp;AllInfoMorf=False&amp;OperEntrada=0&amp;OperDef=0&amp;OperEx=0&amp;OperSubEntrada=0&amp;OperAreaTematica=0&amp;InfoMorfType=0&amp;OperCatGram=False&amp;AccentSen=False&amp;CurrentPage=0&amp;refineSearch=0&amp;SearchResult=DIEC2Web.Models.SearchResultDataModel&amp;ShareContent=DIEC2Web.Models.ShareContentDataModel&amp;Actualitzacions=False" style="text-decoration: none; color: white; padding-left: 5px; padding-right: 5px">Afina la cerca</a>
+                </div>
+                <div style="font-size: 11px; margin-top: 5px">
+                    *Consulta sense perdre els criteris de selecció inicials
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div style="background-color: white; padding-top: 20px;">
+    <div class="container customContainerDIEC">
+        <div class="resultInfoGroup2" style="display: flex; flex-direction: row; justify-content: space-between">
+            <div style="display: flex; flex-direction: column; width: 50%">
+                <div>
+                    1 registres
+                </div>
+            </div>
+            <div class="DictonariesButtons" style="display: flex; flex-direction: row; width: 70%;">
+              <div id="DEIEC" class="buttonResultsSwitch" style="margin-right: 4px;">
+                <a href="" data-toggle="tooltip" title="Diccionari Essencial de la Llengua Catalana" target="_blank">DEIEC</a>
+              </div>
+              <div id="DCC" class="buttonResultsSwitch" style="margin-right: 4px;">
+                <a href="" data-toggle="tooltip" title="Diccionari descriptiu de la llengua catalana" target="_blank">DDLC</a>
+              </div>
+              <div id="CTLC" class="buttonResultsSwitch" style="margin-right: 4px; margin-left: 3px;">
+                <a href="" data-toggle="tooltip" title="Corpus Textual Informatitzat de la Llengua Catalana" target="_blank">CTILC</a>
+              </div>
+              <div id="BDLEX" class="buttonResultsSwitch" style="margin-right: 4px; margin-left: 3px;">
+                <a href="" data-toggle="tooltip" title="Base de dades lexicogràfica" target="_blank">BDLEX</a>
+              </div>
+              <div id="DCVB" class="buttonResultsSwitch" style="margin-right: 4px; margin-left: 3px;">
+                <a href="" data-toggle="tooltip" title="Diccionari català valencià balear" target="_blank">DCVB</a>
+              </div>
+              <div id="SIN" class="buttonResultsSwitch" style="margin-right: 4px; margin-left: 3px;">
+                <a href="" data-toggle="tooltip" title="Diccionari de sinònims" target="_blank">Sinònims</a>
+              </div>
+              <div id="CIT" class="buttonResultsSwitch" style="margin-right: 4px; margin-left: 3px;">
+                <a href="" data-toggle="tooltip" title="Plataforma terminològica de ciències i tecnologia" target="_blank">CIT</a>
+              </div>
+              <div id="TERMCAT" class="buttonResultsSwitch" style="margin-left: 3px;">
+                <a href="" data-toggle="tooltip" title="Repositori de Fitxes terminològiques" target="_blank">TERMCAT</a>
+              </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div style="background-color: rgb(240, 240, 240); border-color: rgb(240, 240, 240); border-width: 3px; border-style: solid;">
+    <div class="container customContainerDIEC" style="background-color: white">
+        <div style="display: flex; flex-direction: row; justify-content: space-between">
+            <div style="display: flex; flex-direction: column; width: 50%">
+                <div style="text-align: right">
+                    <a id="printbutton" href="/Results/PrintListResult?EntradaText=obertura&amp;DecEntradaText=obertura&amp;AllInfoMorf=False&amp;OperEntrada=0&amp;OperDef=0&amp;OperEx=0&amp;OperSubEntrada=0&amp;OperAreaTematica=0&amp;InfoMorfType=0&amp;OperCatGram=False&amp;AccentSen=False&amp;CurrentPage=0&amp;refineSearch=0&amp;SearchResult=DIEC2Web.Models.SearchResultDataModel&amp;ShareContent=DIEC2Web.Models.ShareContentDataModel&amp;Actualitzacions=False" , target="_blank">
+                        <img src="img/ICONA_IMPRIMIR_DOCUMENT.png" title="Imprimir llista" style="height: 30px; width: 30px; margin-right: 35px; margin-top: 25px; cursor: pointer" />
+                    </a>
+                </div>
+                <div style="max-height: 450px; overflow-y: scroll; padding-left: 10px;">
+                        <div class="resultText">
+                            <a id="0040887" href="#" class="resultAnchor" onclick="GetDefinition('0040887')">obertura </a>
+                        </div>
+                </div>
+            </div>
+
+            <div style="background-color: white; display: flex; flex-direction: column; justify-content: start; width: 150%; padding-left: 15px; padding-right: 10px;">
+                <div style="display: flex; flex-direction: row">
+                  <div style="width: 100%">
+                    <div style="display: flex; flex-direction: row; text-align: right; justify-content: flex-end">
+                      <div id="artConjugacio" class="btn-diec-verb" style="display:none; margin-top: 27px; margin-right:10px; padding-left: 5px; padding-right: 5px; width: 110px">
+                        <a id="conjugacio" href="#" style="text-decoration: none; color: rgb(220, 27, 38);">Conjugació</a>
+                        <input type="hidden" id="conjuIdE" />
+                      </div>
+                      <div id="complert" class="btn-diec-oper" style="display:none; margin-top: 27px; margin-right:10px; padding-left: 5px; padding-right: 5px; width: 105px">
+                        <a id="fullacc" href="" style="text-decoration: none;color: white;">Article complet</a>
+                      </div>
+                      <div id="artEsmenes" class="btn-diec-oper" style="display:none; margin-top: 27px; margin-right:10px; padding-left: 5px; padding-right: 5px; width: 110px">
+                        <a id="annex" href="#" style="text-decoration: none;color: white;" target="_blank">Actualitzacions</a>
+                      </div>
+                      <a id="printacc" href="#" target="_blank">
+                        <img src="img/ICONA_IMPRIMIR.png" title="Imprimir" style="height: 30px; width: 30px; margin-top: 25px; cursor: pointer" />
+                      </a>
+                    </div>
+                    </div>
+                  </div>
+                    <div id="Definition" class="resultDefinition"></div>
+                    <div style="display: flex; margin-top: 35px; margin-bottom: 10px; width: fit-content">
+                        <div style="display: flex; flex-direction: column; justify-content: center;">
+                            <div style="height: fit-content">Comparteix</div>
+                        </div>
+                        <a id="twitter" href="" class="autotweet"><img class="socialIcon" src="img/TWITTER-ICON.png" /></a>
+                        <a id="facebook" href="" class="facebook"><img class="socialIcon" src="img/FACEBOOK-ICON.png" /></a>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript">
+        GetDefinition('0040887');
+    </script>
+
+    <footer class="footer footerDiec">
+        <div class="footerResponsive">
+            <div class="show-grid row footerResponsiveContent">
+                <div class="col-sm-4 footerItem fl"><p class="footerInstituteName">Institut d'Estudis Catalans</p><p style="margin: 0;">C/ del Carme, 47. 08001 Barcelona</p><p style="margin: 0;">Telèfon +34 932 701 620 / Fax +34 932 701 180</p><p style="margin: 0; font-style: italic"><a class="infoLegal" href="mailto:oficines.lexicografiques@iec.cat?subject=DIEC2">oficines.lexicografiques@iec.cat</a></p><p style="margin: 0; font-style: italic"><a class="infoLegal" href="mailto:observacions.paraulogic@iec.cat?subject=DIEC2">observacions.paraulogic@iec.cat</a></p></div>
+                <div class="col-sm-4 footerItem" style="text-align: center;"></div>
+                <div class="col-sm-4 footerItem fr" style="text-align: right;"><a href="infolegal" class="infoLegal">Informació legal</a></div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

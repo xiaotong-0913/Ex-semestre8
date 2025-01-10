@@ -1,0 +1,34 @@
+
+obertura
+
+--
+   obertures en tres grups fonamentals: obertes, quan la partida s’inicia
+   amb 1.P4R,P4R (obertura espanyola, dels quatre cavalls, italiana,
+   escocesa, vienesa, gambit de rei, etc); semiobertes, quan les negres
+--
+   blanques obren amb qualsevol altre moviment distint d’1.P4R (gambit de
+   reina, defensa eslava, nimzoíndia, índia, holandesa, obertura catalana,
+   etc).
+
+obertura
+
+--
+   obertures en tres grups fonamentals: obertes, quan la partida s’inicia
+   amb 1.P4R,P4R (obertura espanyola, dels quatre cavalls, italiana,
+   escocesa, vienesa, gambit de rei, etc); semiobertes, quan les negres
+--
+   blanques obren amb qualsevol altre moviment distint d’1.P4R (gambit de
+   reina, defensa eslava, nimzoíndia, índia, holandesa, obertura catalana,
+   etc).
+--
+
+obertura
+
+--
+   obertures en tres grups fonamentals: obertes, quan la partida s’inicia
+   amb 1.P4R,P4R (obertura espanyola, dels quatre cavalls, italiana,
+   escocesa, vienesa, gambit de rei, etc); semiobertes, quan les negres
+--
+   blanques obren amb qualsevol altre moviment distint d’1.P4R (gambit de
+   reina, defensa eslava, nimzoíndia, índia, holandesa, obertura catalana,
+   etc).
