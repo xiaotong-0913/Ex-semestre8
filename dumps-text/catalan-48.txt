@@ -1,210 +1,262 @@
-   (BUTTON)
-     * Portada
-     * Última hora
-     * Descobreix
-     * Edició paper 06/01/2025
+   #alternate alternate Escola Catalana d'Escacs » Canal d'informació
+   Escola Catalana d'Escacs » Canal dels comentaris Escola Catalana
+   d'Escacs » Orígens Obertura Catalana Canal dels comentaris JSON oEmbed
+   (JSON) oEmbed (XML)
 
-   Seccions
-     * Opinió
-     * Política
-     * Internacional
-     * Economia
-     * Societat
-     * Medi i Crisi climàtica
-     * Ciència
-     * Cultura
-     * Investigació
-     * Llengua
-     * Esports
-     * Mèdia
-     * Feminismes
-     * Estils
-     * Gent
-     * La méteo
+     * Català
+     * Español
 
-   Magazins
-     * Diumenge
-     * Criatures
-     * Empreses
-     * Llegim
-     * Mengem
-     * Motor
+     * Follow
+     * Follow
+     * Follow
+     * Follow
 
-   Multimèdia
-     * Podcast
-     * Interactius
-     * Ara Data
-     * Ara Mirades
-     * Vídeo
-     * Foto
-     * Vinyetes
-     * Dossiers
+     * Qui som
+     * Classes a escoles
+     * Classes a Ecade
+          + Grupals
+          + Particulars
+          + Casals
+     * Socis/Club
+     * Notícies
+     * Continguts ECADE
+          + Blog
+          + Revista
+     * Contacta’ns
+          + Desitjo informació
+          + Treballa amb nosaltres
+          + Newsletter CAT
+
+     * Qui som
+     * Classes a escoles
+     * Classes a Ecade
+          + Grupals
+          + Particulars
+          + Casals
+     * Socis/Club
+     * Notícies
+     * Continguts ECADE
+          + Blog
+          + Revista
+     * Contacta’ns
+          + Desitjo informació
+          + Newsletter
+          + Treballa amb nosaltres
+     * Català
+     * Español
+
+Orígens Obertura Catalana
+
+   set. 16, 2024 | Blog Català | 0 comments
+   obertura catalana
+
+   L’Obertura Catalana va veure la llum al Torneig Internacional de
+   Barcelona de 1929. El seu naixement va lligat principalment a dos noms:
+   Savielly Tartakower, el seu creador, i Francesc Armengol, la persona
+   qui va impulsar la seva creació.
+
+   El principal impulsor de l’idea va ser l’afeccionat Francesc Armengol,
+   aleshores dirigent de la Federació Espanyola i vice-president del Club
+   d’Escacs Barcelona, i també més tard president de la Federació Catalana
+   d’Escacs el 1934.
+
+   Quan es va celebrar el Torneig Internacional de Barcelona, Armengol era
+   un dels organitzadors, i president del “Comité de Propaganda de la Real
+   Federación Española de Ajedrez” i va ser ell qui va proposar el donar
+   un premi especial a qui creés una nova idea d’obertura, que hauria de
+   portar el nom de Catalana. encara que l’idea original va ser del propi
+   Tartakower. En un article aparegut al diari La Nau, poc abans del
+   Torneig Internacional, deia que Si al costat de la partida espanyola,
+   que té mes de 400 anys d’existència, posseïm també una obertura
+   saragossana, que cerca la destrucció del problema format pels peons
+   centrals, no seria d’estranyar que alguna obertura catalana sigui
+   creada en el Torneig de Barcelona.
+
+   La idea es va portar a terme, i així, el programa oficial del torneig i
+   dins del capítol relatiu a premis especials, feia menció de les
+   aportacions de caràcter particular. Entre aquestes n’hi havia una
+   d’anònima amb el lema Un admirador concedeix un premi de 150 ptes. al
+   participant que origini, a la segona prova, l’Obertura Catalana que
+   proposa el Dr. Tartakower.
+
+   Precisament seria el propi mestre polonés‑francés, Savielly Tartakower,
+   un import
+
+   ant representant de l’escola hipermoderna d’escacs, a més de reconegut
+   teòric, qui va presentar la nova idea de lligar el fianchetto del alfil
+   de rei amb l’esquema del gambit de dama. Aquesta idea va ser
+   immediatament reconeguda com la més interessant per assolir el premi
+   esmentat.
+
+   És interessant conèixer l’opinió d’En Francesc Armengol, sobre el
+   procés del naixement de la nova Obertura. El que segueix és una
+   transcripció d’un escrit que va publicar el Butlletí del Club d’Escacs
+   Barcelona, corresponent a la data commemorativa del 25é. aniversari de
+   l’aparició de I’Obertura Catalana:
+
+   Han passat vint‑i‑cinc anys de quan es creà l’Obertura Catalana.
+
+   Com es recordarà va ser introduïda pel mestre polonès Tartakower, i
+   malgrat de ser una immodèstia ‑permeteu‑me aquesta variant ‑ promoguda
+   pel que sotascriu. Quan aquella efemèrides ocupava jo un càrrec
+   directiu a la Federació Espanyola, i entre altres coses, que no són del
+   cas de referir, vaig proposar un premi personal al competidor que
+   introduís aquella obertura al Torneig Internacional de l’Exposició de
+   1929.
+
+   Això perpetuaria aquell magnífic esdeveniment ‑sempre de difícil
+   realització ‑ i faria d’una manera perdurable, a la vegada, l’ímpetu de
+   la nostra raça i del nostre clima. Va ser admesa i divulgada aquella
+   proposició, i encara que tots els participants tenien reconeguts mèrits
+   per a transformar en realitat el prec d’aquella obertura, l’oracle de
+   la intuïció, va preveure, amb fonament, que l’autor d’aquell podria ser
+   Tartakower. No deixava de ser fàcil aquest pressentiment ‑no
+   endevinalla ‑ perquè a l’època aquella, especialment Tartakower era el
+   didàctic que, amb més freqüència o inusitada activitat, es veia a totes
+   les tribunes del món per anar expansionant la seva competència
+   escaquista. I va ésser realment Tartakower el qui presenta amb eloqüent
+   erudició aquella obertura.
+
+   Per cert, que no hi va haver oposició que li disputés la clau amb
+   d’altres tesis més o menys profundes. Ni tan sols van haver‑hi avisos
+   de poder‑les esperar i així tenir ocasió de resoldre una qüestió
+   l’abast de la qual hauria estat difícil de dictaminar. Potser imperà el
+   dubte als altres participants… Potser pensaren que no podrien vèncer
+   les originalitats de Tartakower, qui privadament i en públic va
+   anunciar‑ho i ho va prometre, en ser invitat i requerit. Potser el
+   silenci de tots li facilitaren el camí, per a ser deixebles i no autors
+   d’un esdeveniment que l’afició mundial. jutjaria més endavant. Qui sap…
+
+   Encara recordo la col·lecció de cartes que va escriure’m el Dr.
+   Tartakower relacionades amb l’Obertura Catalana. Tinc present també el
+   bloc d’articles periodístics que em va enviar, per tal de divulgar
+   aquell pla inicial que va concebre i amb quina intenció hi havia sabor
+   i sentiment. Tots aquells documents ‑més que cartes i informacions, són
+   documents d’estudi ‑ exposen i descriuen, amb el peculiar laconisme i
+   precisió del seu creador, la idea fonamental del sistema que ens va
+   dedicar i que va servir per augmentar el valor de l’art
+   escaquista. Repassant aquelles planes observem de nou que la lògica que
+   les va inspirar segueix mantenint-se ferma i amb la mateixa lluïssor
+   d’optimisme i audàcia que li imprimí el seu autor.
+
+   Aprofitem aquest 25è aniversari per a saludar-lo i dir-li que la seva
+   fórmula 1.d4 i 2.g3 segueix tenint adeptes.
+   Francesc Armengol
+
+   Però gairebé 100 anys més tard, l’Obertura Catalana ha assolit una
+   importància fonamental en la teoria dels escacs i té més difusió que
+   mai. Molts jugadors d’elit, com Botvinnik, Korchnoi, Petrossian,
+   Kasparov, Kramnik, Gelfand, Anand, Carlsen, Caruana, Firouzja, Ding …
+   per citar només alguns noms importants, han adoptat freqüentment
+   aquesta obertura.
+
+   Donat que aquesta obertura es avui coneguda en tot el mon escaquistic i
+   ha sigut adoptada per molts grans mestres de tot arreu, es interessant
+   conèixer l’opinió del seu autor quant a la seva idea estratègica.
+
+   El Dr. Tartakower, parlant de l’origen de l’Obertura Catalana diu:
+
+   Després de 1.d4 Cf6 ( o bé també 1…d5) no s’ha assajat encara mai abans
+   del torneig de Barcelona 1929 el desenvolupament 2.g3 i per tant, és
+   precisament “al segon cop o moviment” que aquesta decisió d’ampliar el
+   combat sembla la més profunda i lògica.
+
+   En efecte. Si a partir del primer cop o moviment, per exemple, es juga
+   1.g3, aleshores les negres podrien servir-se de seguida de la rèplica
+   inicial 1…e5.
+
+   Es podria igualment jugar com a “Obertura ultra-Catalana” 1.g3, ja que
+   la rèplica esmentada anteriorment 1…e5, és probablement també dominada
+   per les blanques.
+
+   Altrament, l’aplicació del desenvolupament lateral al tercer moviment,
+   per exemple, després de 1.d4 Cf6 2. Cf3 e6 3. g3 etc. Pot molt ben
+   entrar en la via estratègica del sistema català, però no representa pas
+   l’ordre dels cops o moviments més exactes, perquè les negres haurien
+   pogut respondre al segon moviment d’una manera més eficaç 2…b6! (en
+   lloc de 2…e6) i anticipar-se així l’adversari en l’ocupació de la gran
+   diagonal.
+
+   Com que això és el debut (o per ésser més exacte el sistema) català, és
+   potser capaç de “capgirar tota la teoria” dels Escacs!
+
+   La seva idea motriu, és la d’inaugurar el més ràpidament possible una
+   forta pressió contra el punt estratègic de d5. Si els anàlisis
+   ulteriors demostren l’èxit d’aquesta escomesa, aleshores serà precís
+   per les negres renunciar a les dues respostes habituals: 1…Cf6 com
+   també 1…d5, les quals fins avui han dominat en el repertori dels
+   torneigs.
+   Dr. Tartakower
+
+   Encara que Tartakower va jugar al Torneig de Barcelona l’Obertura
+   Catalana en diverses partides, solament en una, contra Marin, es va
+   arribar a una posició de Catalana autèntica, i la partida va ser taules
+   sense massa història. Per aquest motiu, la següent partida, jugada uns
+   mesos després, té major importància, especialment tenint en compte que
+   a la mateixa ja es poden veure els fonaments estratègics més
+   característics de l’obertura: la pressió contra el centre negre,
+   especialment el punt d5 i la lluita per donar activitat a l’alfil de
+   g2, l’Alfil Català, per la qual cosa Tartakower no dubta en sacrificar
+   la qualitat, un tema molt freqüent en els escacs moderns.
+
+
+   Autor Jordi Parayre
+
+   Últimes entrades
+
+Paul Morphy: un geni dels escacs
+
+   oct. 24, 2024
+
+   Paul Morphy és considerat un dels millors jugadors d'escacs de tots els
+   temps. Nascut a Nova...
+
+Les partides d’escacs més famoses de la història
+
+   juny 29, 2023
+
+   Hola a tots els amants dels escacs i benvinguts a un nou article al
+   nostre bloc! Avui explorarem...
+
+Estratègies i tàctiques dels escacs: exemples i exercicis pràctics
+
+   maig 10, 2023
+
+   Els escacs són un joc fascinant que combina creativitat, estratègia i
+   tàctica. Al llarg dels anys,...
+
+     * Follow
+     * Follow
+     * Follow
+     * Follow
+
+   Aviso legal | Política de Privacidad | Política de Cookies
 
    Serveis
-     * Botiga
-     * Hemeroteca
-     * Newsletters
-     * Trobamot
-     * Mots encreuats
-     * Resultats electorals
 
-   La Veu del Lector
-     * Defensor del Lector
-     * Bústia d'investigació
-     * Cartes a la directora
-     * Club prèmium
+   L’escola
 
-   Edició
-   Idioma
-     * Cat
-     * Cast
-     * Eng
+   Classes
 
-   Disculpa’ns, no trobem la pàgina que busques
-   Visita la nostra portada o segueix navegant pel menú per algun dels
-   nostres continguts
-   Portada
+   Casals
 
-Periodisme lliure i compromès, per estar ben informat
+   Club
 
-   SUBSCRIU-T'HI
-     *
-     *
-     *
-     *
-     *
-     *
+   Contacte
 
-     *
-     *
-     *
-     *
-     *
-     *
+   OFICINES
 
-   App: IOS Android
-     * © ARA 2025
-     * Privacitat
-     * Condicions
-     * Cookies
+   Gran Via de les Corts Catalanes, 549, 08011, Barcelona
 
-   Col·laboradors
-     * Generalitat de Catalunya
-     * Govern Illes Balears
-     * Fundació Catalunya Cultura
-     * Generalitat Valenciana
-     * La teua llengua
-     * Acció
+   Tel. 93 853 23 73
 
-     * Portada
-     * Última hora
-     * Descobreix
-     * Seccions
-     * [f7913abb-166b-41ef-b26d-526bb1bcfaec_source-aspect-ratio_200w_0.jp
-       g]
-       Perfil
-   (BUTTON)
-     * Portada
-     * Última hora
-     * Descobreix
-     * Edició paper 06/01/2025
+   +34 679 62 26 56
 
-   Seccions
-     * Opinió
-     * Política
-     * Internacional
-     * Economia
-     * Societat
-     * Medi i Crisi climàtica
-     * Ciència
-     * Cultura
-     * Investigació
-     * Llengua
-     * Esports
-     * Mèdia
-     * Feminismes
-     * Estils
-     * Gent
-     * La méteo
+   escoles@ecade.cat
 
-   Magazins
-     * Diumenge
-     * Criatures
-     * Empreses
-     * Llegim
-     * Mengem
-     * Motor
+   Horari
+   Dilluns a dijous
+   de 17h a 21h
 
-   Multimèdia
-     * Podcast
-     * Interactius
-     * Ara Data
-     * Ara Mirades
-     * Vídeo
-     * Foto
-     * Vinyetes
-     * Dossiers
-
-   Serveis
-     * Botiga
-     * Hemeroteca
-     * Newsletters
-     * Trobamot
-     * Mots encreuats
-     * Resultats electorals
-
-   La Veu del Lector
-     * Defensor del Lector
-     * Bústia d'investigació
-     * Cartes a la directora
-     * Club prèmium
-
-   Edició
-   Idioma
-     * Cat
-     * Cast
-     * Eng
-
-   Disculpa’ns, no trobem la pàgina que busques
-   Visita la nostra portada o segueix navegant pel menú per algun dels
-   nostres continguts
-   Portada
-
-Periodisme lliure i compromès, per estar ben informat
-
-   SUBSCRIU-T'HI
-     *
-     *
-     *
-     *
-     *
-     *
-
-     *
-     *
-     *
-     *
-     *
-     *
-
-   App: IOS Android
-     * © ARA 2025
-     * Privacitat
-     * Condicions
-     * Cookies
-
-   Col·laboradors
-     * Generalitat de Catalunya
-     * Govern Illes Balears
-     * Fundació Catalunya Cultura
-     * Generalitat Valenciana
-     * La teua llengua
-     * Acció
-
-     * Portada
-     * Última hora
-     * Descobreix
-     * Seccions
-     * [f7913abb-166b-41ef-b26d-526bb1bcfaec_source-aspect-ratio_200w_0.jp
-       g]
-       Perfil
+   Divendres de
+   10h a 13:30h

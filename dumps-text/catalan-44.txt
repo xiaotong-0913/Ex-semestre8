@@ -1,14 +1,324 @@
-   Compsa WAF
-   La solicitud a sido detenida.
-   Lo sentimos, su petición ha sido bloqueada por las reglas de bloqueo
-   establecidas por el WAF.
-   Verifique el contenido del envío o comuníquese con el administrador del
-   sitio web para su procesamiento.
-   Provided by Compsa WAF
-   Compsa WAF
-   La solicitud a sido detenida.
-   Lo sentimos, su petición ha sido bloqueada por las reglas de bloqueo
-   establecidas por el WAF.
-   Verifique el contenido del envío o comuníquese con el administrador del
-   sitio web para su procesamiento.
-   Provided by Compsa WAF
+   #alternate Modifica Viquipèdia (ca) Canal de sindicació Atom Viquipèdia
+
+   Vés al contingut
+
+   [ ] Menú principal
+   Menú principal
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+   Navegació
+     * Portada
+     * Article a l'atzar
+     * Articles de qualitat
+
+   Comunitat
+     * Portal viquipedista
+     * Agenda d'actes
+     * Canvis recents
+     * La taverna
+     * Contacte
+     * Xat
+     * Ajuda
+
+   Viquipèdia l'Enciclopèdia Lliure
+   Cerca
+   ____________________
+   (BUTTON) Cerca
+
+   [ ] Aparença
+
+     * Donatius
+     * Crea un compte
+     * Inicia la sessió
+
+   [ ] Eines personals
+     * Donatius
+     * Crea un compte
+     * Inicia la sessió
+
+   Pàgines per a editors no registrats més informació
+     * Contribucions
+     * Discussió per aquest IP
+
+Contingut
+
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+     * Inici
+     * 1 Resum
+     * 2 Aparicions de la melodia a la cultura popular
+     * 3 Notes
+     * 4 Referències
+     * 5 Enllaços externs
+
+   [ ] Commuta la taula de continguts.
+
+Obertura 1812
+
+   [ ] 42 llengües
+     * አማርኛ
+     * العربية
+     * Azərbaycanca
+     * Dansk
+     * Deutsch
+     * Ελληνικά
+     * English
+     * Esperanto
+     * Español
+     * Euskara
+     * فارسی
+     * Suomi
+     * Français
+     * עברית
+     * Magyar
+     * Հայերեն
+     * Bahasa Indonesia
+     * Íslenska
+     * Italiano
+     * 日本語
+     * La .lojban.
+     * 한국어
+     * Latina
+     * Ladino
+     * Bahasa Melayu
+     * Nederlands
+     * Norsk nynorsk
+     * Norsk bokmål
+     * Polski
+     * Português
+     * Română
+     * Русский
+     * Sicilianu
+     * Simple English
+     * Svenska
+     * ไทย
+     * Türkçe
+     * Українська
+     * Tiếng Việt
+     * 吴语
+     * 中文
+     * 閩南語 / Bân-lâm-gú
+
+   Modifica els enllaços
+
+     * Pàgina
+     * Discussió
+
+   [ ] català
+
+     * Mostra
+     * Modifica
+     * Mostra l'historial
+
+   [ ] Eines
+   Eines
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+   Accions
+     * Mostra
+     * Modifica
+     * Mostra l'historial
+
+   General
+     * Què hi enllaça
+     * Canvis relacionats
+     * Pàgines especials
+     * Enllaç permanent
+     * Informació de la pàgina
+     * Citau aquest article
+     * Obtén una URL abreujada
+     * Descarrega el codi QR
+
+   Imprimeix/exporta
+     * Crea un llibre
+     * Baixa com a PDF
+     * Versió per a impressora
+
+   En altres projectes
+     * Commons
+     * Element a Wikidata
+
+   Aparença
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+   De la Viquipèdia, l'enciclopèdia lliure
+
+   CAPTION: Infotaula obra musical Obertura 1812
+
+   [300px-1812_overture.jpg]
+   Execució de l'Obertura 1812, amb foc de canons reals, al 2005 Classical
+   Spectacular Modifica el valor a Wikidata
+   Títol original Торжественная увертюра «1812 год» (ru) Modifica el valor
+   a Wikidata
+   Forma musical obertura Modifica el valor a Wikidata
+   Tonalitat mi bemoll major Modifica el valor a Wikidata
+   Compositor Piotr Ilitx Txaikovski Modifica el valor a Wikidata
+   Té la melodia La Marsellesa (Claude Joseph Rouget de Lisle)
+   Déu salvi el Tsar (Aleksei Lvov) Modifica el valor a Wikidata
+   Epònim 1812 Modifica el valor a Wikidata
+   Creació 1880 Modifica el valor a Wikidata
+   Gènere música patriòtica Modifica el valor a Wikidata
+   Dedicat a Invasió francesa de Rússia Modifica el valor a Wikidata
+   Productor cap valor Modifica el valor a Wikidata
+   Època d'ambientació 1812 Modifica el valor a Wikidata
+   Instrumentació orquestra i canó Modifica el valor a Wikidata
+   Estrena
+   Estrena 20 agost 1882 Modifica el valor a Wikidata
+   Escenari catedral del Crist Salvador, Districte de Khamóvniki
+   Intèrpret Ippolit Al'tani
+     __________________________________________________________________
+
+   Musicbrainz: 36dfecf2-b58c-3997-a629-3b34979791ae IMSLP:
+   1812_Overture,_Op.49_(Tchaikovsky,_Pyotr) Allmusic: mc0002370139
+   Modifica el valor a Wikidata
+
+   L'any 1812, festival d'obertura en mi bemoll major, op. 49, popularment
+   coneguda com a Obertura 1812,^[1] és una obra orquestral de Piotr Ilitx
+   Txaikovski que commemora la fallida invasió francesa de Rússia, i la
+   subsegüent desfeta de la Grande Armée («Gran Exèrcit») de Napoleó, un
+   esdeveniment que va marcar el 1812 com el principal punt d'inflexió de
+   les Guerres Napoleòniques.
+
+   Es va estrenar a Moscou el 20 d'agost de 1882,^[2] dirigida per Ippolit
+   Al'tani sota un envelat a prop de la quasi-finalitzada catedral del
+   Crist Salvador, que també ret homenatge a la de defensa de Rússia de
+   1812.^[3] L'any 1891, Txaikovski dirigí l'obertura ell mateix en la
+   inauguració del Carnegie Hall.^[4]
+
+Resum
+
+   [modifica]
+
+   L'obertura és una composició de música programàtica. Comença amb les
+   tonalitats fosques dels cants de l'església russa, recordant la
+   declaració de guerra anunciada als serveis religiosos de Rússia i,
+   immediatament, passa a un cant solemne per a l'èxit de Rússia en la
+   guerra. Aquest anunci i la reacció popular fou recollit per Lev Tolstoi
+   a Guerra i Pau.
+
+   A continuació apareix un tema interpretat per les trompes que
+   representa els exèrcits en marxa. L'himne nacional francès, La
+   Marsellesa, representa les victòries franceses a la guerra i la captura
+   de Moscou el setembre de 1812. Segueix una dansa popular russa que
+   commemora la batalla en què els russos derrotaren als francesos i la
+   subsegüent retirada de la Grande Armée queda reflectida amb un
+   diminuendo, acompanyat de foc de canons que representen l'avanç cap a
+   les fronteres franceses. Amb la finalització del conflicte torna el
+   tema del cant, aquesta vegada interpretat per tota l'orquestra amb
+   repic de campanes per la victòria i l'alliberament de Rússia. Per sota
+   del soroll dels canons i juntament amb el tema de la marxa es pot
+   sentir l'himne rus de l'època, Déu salvi el Tsar. Aquest himne rus és
+   el contrapunt a l'himne francès escoltat abans. ^[1]
+
+   A l'època soviètica, l'obra de Txaikovski va haver de ser editada per a
+   les representacions: l'himne Déu salvi el Tsar de l'obertura es va
+   canviar pel cor Glòria de l'òpera Ivan Susanin de Glinka.
+
+   El foc de canó real prescrit per Txaikovski, normalment es realitza amb
+   un bombo. També es poden escoltar diminuendos de tambor fortament
+   accentuats, tot i que no tan sovint. No obstant això, el foc de canó
+   s'ha utilitzat en alguns casos, i es va fer servir per primer cop en un
+   enregistrament de l'Orquestra Simfònica de Minneapolis als anys 50.
+   Després, altres grups han fet enregistraments semblants, ajudant-se
+   dels avenços en la tecnologia de l'àudio. El foc de canó s'utilitza
+   cada any el 4 de juliol en la Diada de la Independència dels Estats
+   Units, en l'execució de l'Obertura 1812 per la Boston Pops Orchestra en
+   el seu concert anual a la riba del riu Charles a Boston, Massachusetts.
+   També es fa servir foc de canó real a la desfilada anual de
+   l'Australian Defense Force Academy a Canberra, Austràlia.
+
+   A mitjans de la dècada del 1960, Igor Buketoff va realitzar una
+   adaptació de l'"Obertura 1812" amb cors. La secció inicial era una
+   salmòdia cantada per veus en comptes de ser interpretada per violoncels
+   i violes, els cors infantils s'afegien a la flauta i al corn anglès, i
+   el cor complet es barrejava amb els vents (l'orquestra sencera, de fet)
+   a la secció final. Un homenatge a aquesta cançó es pot escoltar al tema
+   2112 Overture de la banda canadenca Rush.
+
+Aparicions de la melodia a la cultura popular
+
+   [modifica]
+
+   (aquestes aparicions es refereixen principalment a la part de la
+   composició on es poden sentir els canons)
+     * Forma part de la banda sonora dels anuncis publicitaris del Risk,
+       així com de les seves versions per a ordinador (Risk 1 i Risk 2).
+     * A la pantalla de màximes puntuacions del joc d'ordinador Project-X.
+     * Usat com a música d'introducció del joc d'ordinador Wizkid. A la
+       introducció, el personatge principal del joc (Wizkid) dirigeix una
+       orquestra (que no es veu) i un parell de canons (que sí que es
+       veuen). Quan sona l'últim acord de la melodia, el cap de Wizkid
+       explota i en surten bombolles vermelles en totes direccions.
+     * La melodia també apareix en un altre joc d'ordinador, el Fiendish
+       Freddy's Big Top O'Fun, en una escena de canons.
+     * La melodia també apareix a la pel·lícula de V de Vendetta per la
+       megafonia de la ciutat de Londres abans de fer explotar l'edifici
+       de Old Bailey.
+
+Notes
+
+   [modifica]
+    1. ^ La composició reflecteix els himnes francès i rus de 1882, i no
+       de 1812. Des de 1799 fins al 1815, França no tenia himne nacional,
+       i La Marsellesa no va ser recuperada fins al 1870. Déu salvi el
+       Tsar no va ser adoptat com a himne oficial de Rússia fins al 1833.
+       Probablement, es tracta d'un cas de llicència artística de
+       Txaikovski, que així feia servir himnes que eren familiars a la
+       seva audiència.
+
+Referències
+
+   [modifica]
+    1. ↑ «Tchaikovsky Research : The Year 1812, Op. 49 (TH 49)» (en
+       anglès). Tchaikovsky-research.net. [Consulta: 21 juny 2015].
+    2. ↑ Lax, Roger; Smith, Frederick. The Great Song Thesaurus (en
+       anglès). Oxford: Oxford University Press, 1989, p. 230. ISBN
+       978-0-19-505408-8.
+    3. ↑ Felsenfeld, Daniel. Tchaikovsky: A Listener's Guide, p. 54.
+       Amadeus Press, 2006.
+    4. ↑ Cross, Milton. The Milton Cross New Encyclopedia of the Great
+       Composers and Their Music, Volume 2 (en anglès). Doubleday, 1969,
+       p. 1034.
+
+Enllaços externs
+
+   [modifica]
+   A Wikimedia Commons hi ha contingut multimèdia relatiu a: Obertura 1812
+     * Tchaikovsky-Research.net - Obertura 1812 (anglès)
+
+   Registres d'autoritat
+     * WorldCat
+     * CANTIC (1)
+     * BNF (1)
+     * GND (1)
+     * LCCN (1)
+     * VIAF (1)
+
+   Obtingut de
+   «https://ca.wikipedia.org/w/index.php?title=Obertura_1812&oldid=3413644
+   3»
+   Categories:
+     * Obres de Piotr Ilitx Txaikovski
+     * Obertures
+     * Composicions en mi bemoll major
+
+   Categories ocultes:
+     * Pàgines amb mides d'imatge que contenen px addicionals
+     * Pàgines amb enllaç commonscat des de Wikidata
+     * Articles amb identificador CANTIC
+     * Control d'autoritats
+
+     * La pàgina va ser modificada per darrera vegada el 22 oct 2024 a les
+       21:04.
+     * El text està disponible sota la Llicència de Creative Commons
+       Reconeixement i Compartir-Igual; es poden aplicar termes
+       addicionals. Vegeu les Condicions d'ús. Wikipedia® (Viquipèdia™) és
+       una marca registrada de Wikimedia Foundation, Inc.
+
+     * Política de privadesa
+     * Quant al projecte Viquipèdia
+     * Descàrrec de responsabilitat
+     * Codi de conducta
+     * Desenvolupadors
+     * Estadístiques
+     * Declaració de cookies
+     * Versió per a mòbils
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

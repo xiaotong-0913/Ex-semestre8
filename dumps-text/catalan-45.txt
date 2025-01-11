@@ -1,670 +1,139 @@
-   #alternate alternate alternate
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-M7TH8CLR
 
-   Vés al contingut
+   Skip to main content
 
-   Catalunya Religió logo
-   Catalunya Religió buttleti banner
-
-     *
-     *
-     *
-     *
-     *
-     *
-     *
-     *
-     *
-
-   Catalunya Religió logo
-     *
-
+   Twitter
+   Instagram
+   Facebook
+   Youtube
+   Slideshare
+   Tagpacker
+   ______________________________
+   (BUTTON) Submit
+   Login Register
      * ca
      * es
-     * it
+     * oc
+     * en
+
+   Menu trigger
+   Home
+     * Dictionaries
+          + Cercaterm
+          + Diccionaris en Línia
+          + Neoloteca
+     * Resources
+          + Multimedia resources
+          + Guidelines on terminology
+          + Col·lecció En Primer Terme
+          + Articles and presentations
+          + Intervencions en mitjans de comunicació
+          + Standards
+          + Terminologia Oberta
+          + Standardization form
+          + Dictionary self-assessment test
+          + Terminology management tools
+          + Biblioteca en Línia
+          + Publications catalogue
+          + Corporate image (download area)
+     * Recent activity
+          + Posts
+          + News
+          + Infografies dels últims termes normalitzats
+          + Newsletters
+          + Agenda
+     * Services
+     * Collaborations
+          + Terminology networks
+          + Specialist networks
+          + Universities and research centres
+          + European Association for Terminology (EAFT)
+          + Terminology in Europe (map)
+          + EU POCTEFA project: Coopwood
+          + Recommended links
+     * Transparency
+          + Organització institucional i estructura administrativa
+          + Normativa i informació d'interès jurídic
+          + Serveis públics
+          + Plans i programes
+          + Govern Obert
+          + Servidors públics
+          + Contractes, convenis i subvencions
+          + Gestió econòmica i patrimoni
+          + Gestió de documents, dades personals i dades estadístiques
+
+   [DL_Linguistica.jpg]
+   Back to top
+
+obertura - Diccionari de lingüística
+
+   Manuel Pérez Saldanya; Rosanna Mestre; Ofèlia Sanmartín
+   Presentation
+     * Abreviacions utilitzades
+     * Indicadors de llengua
+
+Basic search
+
+Advanced search
+
+   Query text
+   ____________________________________________________________
+   Condition [Approximate__]
+   [ ] Denomination
+   [ ] Note
+   [ ] Definition
+   Language [All______]
+   Lexical category [All_________________________________]
+   Hierarchy [All_____________________]
+   Search
+   (*) Basic
+   ( ) Advanced
+   Basic search
+   Advanced search
+   obertura obertura
+
+   Facebook
+   Twitter
+   Copy link
+     * ca  obertura, n f
+     * es  abertura
+     * fr  aperture
+     * en  aperture
+     * en  opening
+
+Definition
+
+   Grau de separació entre els òrgans de la cavitat bucal durant la
+   producció d'un determinat so, generalment vocàlic.
+
+Note
+
+     * En síl·laba tònica, en la major part del català es diferencien
+       quatre graus d'obertura en l'articulació de les vocals: l'obert
+       (/a/), el mitjà obert (/ɛ, ɔ/), el mitjà tancat (/e, o/) i el
+       tancat (/i, u/). En castellà i en basc, en canvi, se'n diferencien
+       tres: l'obert (/a/), el mitjà (/e, o/) i el tancat (/i, u/).
+
+   Twitter
+   Instagram
+   Facebook
+   Youtube
+   Slideshare
+   Tagpacker
 
-     *
-     *
+Peu
 
-   (BUTTON)
+     * Accessibility
+     * Legal notice
 
-butlletins
+Secundari
 
-     * Pàgina pública dels butlletins
+     * Contact
 
-Col·labora
+   Mallorca, 272, 1r - 08037 Barcelona
 
-     * Qui som
-     * Ajudeu-nos
-     * Donatius
+   Tel +34 93 452 61 61
 
-Seccions
-
-     * Notícies
-     * Recull de notícies
-     * Panoràmica
-     * Agenda
-     * Podcasts
-     * Monogràfics
-     * Veure la fe
-     * Propostes
-     * Edició Paper
-
-Temes
-
-     * Acció Social
-     * Educació
-     * Espiritualitat
-     * Vida Religiosa
-     * Laïcat
-     * Episcopat
-     * Clergat
-     * Joves
-     * Actes
-     * Pensament
-     * Teologia
-     * Cultura i art
-     * Tradicions
-     * Societat
-     * Política
-     * Comunicació
-     * Religions
-     * Papa Benet XVI
-     * Papa Francesc
-     * Bones notícies
-
-Territoris
-
-     * Barcelona
-     * Girona
-     * Lleida
-     * Solsona
-     * Sant Feliu
-     * Tarragona
-     * Terrassa
-     * Tortosa
-     * Urgell
-     * Vic
-     * Tarraconense
-     * Vaticà
-     * Altres
-
-Institucions
-
-     * Abadia de Montserrat
-     * Blanquerna
-     * Caputxins
-     * Cister
-     * Claretians
-     * CPL
-     * Escola Pia
-     * FEDAC
-     * Fundació "la Caixa"
-     * Fundació Pere Tarrés
-     * IQS
-     * Jesuïtes
-     * La Salle
-     * Lestonnac
-     * Maristes
-     * Monestir de Poblet
-     * Sagrada Família
-     * Salesians
-     * Sant Joan de Déu
-     * Universitat Abat Oliba CEU
-     * EUSS
-     * Vedruna
-
-Col·laboreu
-
-     * Qui som
-     * Ajudeu-nos
-     * Donatius
-
-Seccions
-
-     * Notícies
-     * Recull de notícies
-     * Panoràmica
-     * Agenda
-     * Podcasts
-     * Monogràfics
-     * Veure la fe
-     * Propostes
-     * Edició Paper
-
-Temes
-
-     * Acció Social
-     * Educació
-     * Espiritualitat
-     * Vida Religiosa
-     * Laïcat
-     * Episcopat
-     * Clergat
-     * Joves
-     * Actes
-     * Pensament
-     * Teologia
-     * Cultura i art
-     * Tradicions
-     * Societat
-     * Política
-     * Comunicació
-     * Religions
-     * Papa Benet XVI
-     * Papa Francesc
-     * Bones notícies
-
-Territoris
-
-     * Barcelona
-     * Girona
-     * Lleida
-     * Solsona
-     * Sant Feliu
-     * Tarragona
-     * Terrassa
-     * Tortosa
-     * Urgell
-     * Vic
-     * Tarraconense
-     * Vaticà
-     * Altres
-
-Institucions
-
-     * Abadia de Montserrat
-     * Blanquerna
-     * Caputxins
-     * Cister
-     * Claretians
-     * CPL
-     * Escola Pia
-     * FEDAC
-     * Fundació "la Caixa"
-     * Fundació Pere Tarrés
-     * IQS
-     * Jesuïtes
-     * La Salle
-     * Lestonnac
-     * Maristes
-     * Monestir de Poblet
-     * Sagrada Família
-     * Salesians
-     * Sant Joan de Déu
-     * Universitat Abat Oliba CEU
-     * EUSS
-     * Vedruna
-
-     * Sínode
-     * Mil·lenari Montserrat
-     * Podcasts
-     * WhatsApp
-     * Donatius
-
-   Catalunya Religió logo
-
-L’Abat de Montserrat destaca la importància del pessebre com a símbol de
-concòrdia i solidaritat a Lleida
-
-   Autories
-   Nom
-   Bisbat de Lleida
-   dl. 23/12/2024
-   Abat Monsterrat Lleida
-   Fotografia: Bisbat de Lleida.
-
-   El Saló de Plens de la Paeria va acollir, el passat 21 de desembre,
-   l’Obertura del Cicle de Nadal 2024, organitzada per l’Agrupació
-   Ilerdenca de Pessebristes i l’Ajuntament de Lleida. L’acte va comptar
-   amb la presència de destacades personalitats religioses i polítiques,
-   entre elles l’Abat del Monestir de Montserrat, Manel Gasch, qui va ser
-   l’encarregat de fer el pregó de Nadal. Durant la seva intervenció,
-   Gasch va destacar que el Nadal “és fonamental pels cristians, però està
-   ple de valors per a la resta de la humanitat”. A més, va subratllar el
-   simbolisme del pessebre, que “mobilitza tota mena de gent
-   independentment de la seva classe, condició i religió”, ensenyant-nos a
-   no creure en la facilitat, ja que “la nit de Nadal res va ser fàcil”.
-   Va concloure afirmant que el pessebre “és la utopia autocomplerta de
-   l’ésser humà”.
-
-   L’alcalde de Lleida, Fèlix Larrosa, va agrair la tasca de l’Agrupació
-   Ilerdenca de Pessebristes i va elogiar l’Abat per la seva crida a la
-   concòrdia i la transformació social, que “ens interpel·la a treballar,
-   tots plegats, per fer-la possible”. També va desitjar “un ànim de pau i
-   solidaritat” a tota la ciutadania.
-
-   Després dels parlaments, la Coral l’Estel de Lleida va dedicar a tots
-   els assistents una cantada de nadales lleidatanes, que va incloure el
-   següent repertori: Puer Natus in Béthlem, Nadala Dintre dels Cors, Ja
-   ve Nadal, Figuretes del Pessebre, Ning Nang, Nadala de Lleida i El Noi
-   de la Mare. Les cançons van ser interpretades amb la participació de
-   talent local, present en la música, la lletra o l’arranjament.
-   L’Agrupació Ilerdenca de Pessebristes va obsequiar l’Abat amb un quadre
-   amb l’emblema de l’entitat, obra del vicepresident de l’organització,
-   José Antonio Ferrer.
-
-   A l’acte també hi van assistir el bisbe de Lleida, Salvador Giménez, el
-   president de l’Agrupació Ilerdenca de Pessebristes, Jordi Curcó, la
-   tinenta d’alcalde Cristina Morón i els regidors Xavier Blanco i Roberto
-   Pino, així com una àmplia representació de regidors i regidores de la
-   corporació, entre altres autoritats.
-
-   Abans de la celebració de l’Obertura, l’alcalde, Fèlix Larrosa, va
-   rebre l’Abat al despatx Noble, on va signar el Llibre d’Or i va ser
-   obsequiat amb el Llibre dels Usatges. En acabar,  Manel Gasch va
-   desitjar pau i prosperitat i el millor servei de tots els paers als
-   ciutadans i ciutadanes de Lleida.
-   Temàtica
-   Actes
-   Societat
-   Comunicació
-   Tradicions
-   Territori
-   Lleida
-   Institucions
-   Abadia de Montserrat
-   Tags
-   Nadal 2024
-
-   Us ha agradat poder llegir aquest article? Si voleu que en fem més,
-   podeu fer una petita aportació a través de Bizum al número
-   Donatiu Bizum
-
-   o veure altres maneres d'ajudar Catalunya Religió i poder desgravar el
-   donatiu.
-
-Agenda
-
-   dt. 07/01/2025 - 19:00 / Eucaristia/ Culte
-   Barcelona Missa en memòria de Rosa Deulofeu
-   dc. 08/01/2025 - 20:00 / Concert
-   Barcelona Concerts de Nadal del grup DUM
-   ds. 11/01/2025 - 9:30 / Jornada
-   Barcelona 2a Jornada presencial del 1r Semestre de l'ISCREB
-   ds. 11/01/2025 - 11:00 / Conferència
-   Barcelona Cos i moviment simbòlic: la dansa com a moviment teràpia
-    més agenda
-   Publiqueu
-   un acte
-
-el més vist
-
-     * avui |
-     * setmana |
-     * mes
-
-   Mor Regina Goberna, monja benedictina i ceramista
-   Montserrat acollirà la Primera Jornada d’Educació i Evangeli
-   Què és la Setmana dels Barbuts i per què li diem així?
-   La Basílica del Pi acollirà l'exposició 'The Mistery Man'
-   Cavalcada de Reis a Barcelona: horari i recorregut
-   Loading content ...
-   Loading content ...
-
-CatalunyaReligió
-
-     * Actualitat
-     * Recull de noticies
-     * Agenda
-     * Panoràmica
-     * Veure la fe
-     * Podcasts
-     * Propostes
-     * Butlletins
-
-CONTACTE
-
-     *
-     *
-     *
-     *
-     *
-     *
-     *
-     *
-     *
-
-   logo
-
-© CATALUNYA RELIGIÓ
-
-     * Avís legal
-     * Política de Cookies
-     * Qui som
-
-   [c3po.jpg?hash=a126260027cdb34644a90091fa5a8638]
-   #alternate alternate alternate
-
-   Vés al contingut
-
-   Catalunya Religió logo
-   Catalunya Religió buttleti banner
-
-     *
-     *
-     *
-     *
-     *
-     *
-     *
-     *
-     *
-
-   Catalunya Religió logo
-     *
-
-     * ca
-     * es
-     * it
-
-     *
-     *
-
-   (BUTTON)
-
-butlletins
-
-     * Pàgina pública dels butlletins
-
-Col·labora
-
-     * Qui som
-     * Ajudeu-nos
-     * Donatius
-
-Seccions
-
-     * Notícies
-     * Recull de notícies
-     * Panoràmica
-     * Agenda
-     * Podcasts
-     * Monogràfics
-     * Veure la fe
-     * Propostes
-     * Edició Paper
-
-Temes
-
-     * Acció Social
-     * Educació
-     * Espiritualitat
-     * Vida Religiosa
-     * Laïcat
-     * Episcopat
-     * Clergat
-     * Joves
-     * Actes
-     * Pensament
-     * Teologia
-     * Cultura i art
-     * Tradicions
-     * Societat
-     * Política
-     * Comunicació
-     * Religions
-     * Papa Benet XVI
-     * Papa Francesc
-     * Bones notícies
-
-Territoris
-
-     * Barcelona
-     * Girona
-     * Lleida
-     * Solsona
-     * Sant Feliu
-     * Tarragona
-     * Terrassa
-     * Tortosa
-     * Urgell
-     * Vic
-     * Tarraconense
-     * Vaticà
-     * Altres
-
-Institucions
-
-     * Abadia de Montserrat
-     * Blanquerna
-     * Caputxins
-     * Cister
-     * Claretians
-     * CPL
-     * Escola Pia
-     * FEDAC
-     * Fundació "la Caixa"
-     * Fundació Pere Tarrés
-     * IQS
-     * Jesuïtes
-     * La Salle
-     * Lestonnac
-     * Maristes
-     * Monestir de Poblet
-     * Sagrada Família
-     * Salesians
-     * Sant Joan de Déu
-     * Universitat Abat Oliba CEU
-     * EUSS
-     * Vedruna
-
-Col·laboreu
-
-     * Qui som
-     * Ajudeu-nos
-     * Donatius
-
-Seccions
-
-     * Notícies
-     * Recull de notícies
-     * Panoràmica
-     * Agenda
-     * Podcasts
-     * Monogràfics
-     * Veure la fe
-     * Propostes
-     * Edició Paper
-
-Temes
-
-     * Acció Social
-     * Educació
-     * Espiritualitat
-     * Vida Religiosa
-     * Laïcat
-     * Episcopat
-     * Clergat
-     * Joves
-     * Actes
-     * Pensament
-     * Teologia
-     * Cultura i art
-     * Tradicions
-     * Societat
-     * Política
-     * Comunicació
-     * Religions
-     * Papa Benet XVI
-     * Papa Francesc
-     * Bones notícies
-
-Territoris
-
-     * Barcelona
-     * Girona
-     * Lleida
-     * Solsona
-     * Sant Feliu
-     * Tarragona
-     * Terrassa
-     * Tortosa
-     * Urgell
-     * Vic
-     * Tarraconense
-     * Vaticà
-     * Altres
-
-Institucions
-
-     * Abadia de Montserrat
-     * Blanquerna
-     * Caputxins
-     * Cister
-     * Claretians
-     * CPL
-     * Escola Pia
-     * FEDAC
-     * Fundació "la Caixa"
-     * Fundació Pere Tarrés
-     * IQS
-     * Jesuïtes
-     * La Salle
-     * Lestonnac
-     * Maristes
-     * Monestir de Poblet
-     * Sagrada Família
-     * Salesians
-     * Sant Joan de Déu
-     * Universitat Abat Oliba CEU
-     * EUSS
-     * Vedruna
-
-     * Sínode
-     * Mil·lenari Montserrat
-     * Podcasts
-     * WhatsApp
-     * Donatius
-
-   Catalunya Religió logo
-
-L’Abat de Montserrat destaca la importància del pessebre com a símbol de
-concòrdia i solidaritat a Lleida
-
-   Autories
-   Nom
-   Bisbat de Lleida
-   dl. 23/12/2024
-   Abat Monsterrat Lleida
-   Fotografia: Bisbat de Lleida.
-
-   El Saló de Plens de la Paeria va acollir, el passat 21 de desembre,
-   l’Obertura del Cicle de Nadal 2024, organitzada per l’Agrupació
-   Ilerdenca de Pessebristes i l’Ajuntament de Lleida. L’acte va comptar
-   amb la presència de destacades personalitats religioses i polítiques,
-   entre elles l’Abat del Monestir de Montserrat, Manel Gasch, qui va ser
-   l’encarregat de fer el pregó de Nadal. Durant la seva intervenció,
-   Gasch va destacar que el Nadal “és fonamental pels cristians, però està
-   ple de valors per a la resta de la humanitat”. A més, va subratllar el
-   simbolisme del pessebre, que “mobilitza tota mena de gent
-   independentment de la seva classe, condició i religió”, ensenyant-nos a
-   no creure en la facilitat, ja que “la nit de Nadal res va ser fàcil”.
-   Va concloure afirmant que el pessebre “és la utopia autocomplerta de
-   l’ésser humà”.
-
-   L’alcalde de Lleida, Fèlix Larrosa, va agrair la tasca de l’Agrupació
-   Ilerdenca de Pessebristes i va elogiar l’Abat per la seva crida a la
-   concòrdia i la transformació social, que “ens interpel·la a treballar,
-   tots plegats, per fer-la possible”. També va desitjar “un ànim de pau i
-   solidaritat” a tota la ciutadania.
-
-   Després dels parlaments, la Coral l’Estel de Lleida va dedicar a tots
-   els assistents una cantada de nadales lleidatanes, que va incloure el
-   següent repertori: Puer Natus in Béthlem, Nadala Dintre dels Cors, Ja
-   ve Nadal, Figuretes del Pessebre, Ning Nang, Nadala de Lleida i El Noi
-   de la Mare. Les cançons van ser interpretades amb la participació de
-   talent local, present en la música, la lletra o l’arranjament.
-   L’Agrupació Ilerdenca de Pessebristes va obsequiar l’Abat amb un quadre
-   amb l’emblema de l’entitat, obra del vicepresident de l’organització,
-   José Antonio Ferrer.
-
-   A l’acte també hi van assistir el bisbe de Lleida, Salvador Giménez, el
-   president de l’Agrupació Ilerdenca de Pessebristes, Jordi Curcó, la
-   tinenta d’alcalde Cristina Morón i els regidors Xavier Blanco i Roberto
-   Pino, així com una àmplia representació de regidors i regidores de la
-   corporació, entre altres autoritats.
-
-   Abans de la celebració de l’Obertura, l’alcalde, Fèlix Larrosa, va
-   rebre l’Abat al despatx Noble, on va signar el Llibre d’Or i va ser
-   obsequiat amb el Llibre dels Usatges. En acabar,  Manel Gasch va
-   desitjar pau i prosperitat i el millor servei de tots els paers als
-   ciutadans i ciutadanes de Lleida.
-   Temàtica
-   Actes
-   Societat
-   Comunicació
-   Tradicions
-   Territori
-   Lleida
-   Institucions
-   Abadia de Montserrat
-   Tags
-   Nadal 2024
-
-   Us ha agradat poder llegir aquest article? Si voleu que en fem més,
-   podeu fer una petita aportació a través de Bizum al número
-   Donatiu Bizum
-
-   o veure altres maneres d'ajudar Catalunya Religió i poder desgravar el
-   donatiu.
-
-Agenda
-
-   dt. 07/01/2025 - 19:00 / Eucaristia/ Culte
-   Barcelona Missa en memòria de Rosa Deulofeu
-   dc. 08/01/2025 - 20:00 / Concert
-   Barcelona Concerts de Nadal del grup DUM
-   ds. 11/01/2025 - 9:30 / Jornada
-   Barcelona 2a Jornada presencial del 1r Semestre de l'ISCREB
-   ds. 11/01/2025 - 11:00 / Conferència
-   Barcelona Cos i moviment simbòlic: la dansa com a moviment teràpia
-    més agenda
-   Publiqueu
-   un acte
-
-el més vist
-
-     * avui |
-     * setmana |
-     * mes
-
-   Mor Regina Goberna, monja benedictina i ceramista
-   Montserrat acollirà la Primera Jornada d’Educació i Evangeli
-   Què és la Setmana dels Barbuts i per què li diem així?
-   La Basílica del Pi acollirà l'exposició 'The Mistery Man'
-   Cavalcada de Reis a Barcelona: horari i recorregut
-   Loading content ...
-   Loading content ...
-
-CatalunyaReligió
-
-     * Actualitat
-     * Recull de noticies
-     * Agenda
-     * Panoràmica
-     * Veure la fe
-     * Podcasts
-     * Propostes
-     * Butlletins
-
-CONTACTE
-
-     *
-     *
-     *
-     *
-     *
-     *
-     *
-     *
-     *
-
-   logo
-
-© CATALUNYA RELIGIÓ
-
-     * Avís legal
-     * Política de Cookies
-     * Qui som
-
-   [c3po.jpg?hash=a126260027cdb34644a90091fa5a8638]
+   informacio@termcat.cat
+   © TERMCAT, Centre de Terminologia 2025
+   Logotype from generalitat
