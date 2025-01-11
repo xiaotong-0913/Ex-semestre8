@@ -1,0 +1,1062 @@
+<!doctype html>
+<html lang="ko">
+
+                                                                                <head>
+                <script type="text/javascript">if (!window.T) { window.T = {} }
+window.T.config = {"TOP_SSL_URL":"https://www.tistory.com","PREVIEW":false,"ROLE":"guest","PREV_PAGE":"","NEXT_PAGE":"","BLOG":{"id":4094934,"name":"hik-coding","title":"오늘도 더 나은 코드를 작성하였습니까?","isDormancy":false,"nickName":"hik14","status":"open","profileStatus":"normal"},"NEED_COMMENT_LOGIN":false,"COMMENT_LOGIN_CONFIRM_MESSAGE":"","LOGIN_URL":"https://www.tistory.com/auth/login/?redirectUrl=https://hik-coding.tistory.com/296","DEFAULT_URL":"https://hik-coding.tistory.com","USER":{"name":null,"homepage":null,"id":0,"profileImage":null},"SUBSCRIPTION":{"status":"none","isConnected":false,"isPending":false,"isWait":false,"isProcessing":false,"isNone":true},"IS_LOGIN":false,"HAS_BLOG":false,"IS_SUPPORT":false,"IS_SCRAPABLE":false,"TOP_URL":"http://www.tistory.com","JOIN_URL":"https://www.tistory.com/member/join","PHASE":"prod","ROLE_GROUP":"visitor"};
+window.T.entryInfo = {"entryId":296,"isAuthor":false,"categoryId":939138,"categoryLabel":"자료구조"};
+window.appInfo = {"domain":"tistory.com","topUrl":"https://www.tistory.com","loginUrl":"https://www.tistory.com/auth/login","logoutUrl":"https://www.tistory.com/auth/logout"};
+window.initData = {};
+
+window.TistoryBlog = {
+    basePath: "",
+    url: "https://hik-coding.tistory.com",
+    tistoryUrl: "https://hik-coding.tistory.com",
+    manageUrl: "https://hik-coding.tistory.com/manage",
+    token: "uzCBmUbWlPBcj9edeqjcOAzP6EqCqHob8Bye0QGZwPWLAtNuO0uJEGnFnAHgiIey"
+};
+var servicePath = "";
+var blogURL = "";</script>
+
+                
+                
+                
+                        <!-- BusinessLicenseInfo - START -->
+        
+            <link href="https://tistory1.daumcdn.net/tistory_admin/userblog/userblog-b6d1f83d4f149775488b18445c7e8e023edb84b4/static/plugin/BusinessLicenseInfo/style.css" rel="stylesheet" type="text/css"/>
+
+            <script>function switchFold(entryId) {
+    var businessLayer = document.getElementById("businessInfoLayer_" + entryId);
+
+    if (businessLayer) {
+        if (businessLayer.className.indexOf("unfold_license") > 0) {
+            businessLayer.className = "business_license_layer";
+        } else {
+            businessLayer.className = "business_license_layer unfold_license";
+        }
+    }
+}
+</script>
+
+        
+        <!-- BusinessLicenseInfo - END -->
+        <!-- DaumShow - START -->
+        <style type="text/css">#daumSearchBox {
+    height: 21px;
+    background-image: url(//i1.daumcdn.net/imgsrc.search/search_all/show/tistory/plugin/bg_search2_2.gif);
+    margin: 5px auto;
+    padding: 0;
+}
+
+#daumSearchBox input {
+    background: none;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+#daumSearchBox #daumLogo {
+    width: 34px;
+    height: 21px;
+    float: left;
+    margin-right: 5px;
+    background-image: url(//i1.daumcdn.net/img-media/tistory/img/bg_search1_2_2010ci.gif);
+}
+
+#daumSearchBox #show_q {
+    background-color: transparent;
+    border: none;
+    font: 12px Gulim, Sans-serif;
+    color: #555;
+    margin-top: 4px;
+    margin-right: 15px;
+    float: left;
+}
+
+#daumSearchBox #show_btn {
+    background-image: url(//i1.daumcdn.net/imgsrc.search/search_all/show/tistory/plugin/bt_search_2.gif);
+    width: 37px;
+    height: 21px;
+    float: left;
+    margin: 0;
+    cursor: pointer;
+    text-indent: -1000em;
+}
+</style>
+
+        <!-- DaumShow - END -->
+
+<!-- System - START -->
+
+<!-- System - END -->
+
+        <!-- TistoryProfileLayer - START -->
+        <link href="https://tistory1.daumcdn.net/tistory_admin/userblog/userblog-b6d1f83d4f149775488b18445c7e8e023edb84b4/static/plugin/TistoryProfileLayer/style.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="https://tistory1.daumcdn.net/tistory_admin/userblog/userblog-b6d1f83d4f149775488b18445c7e8e023edb84b4/static/plugin/TistoryProfileLayer/script.js"></script>
+
+        <!-- TistoryProfileLayer - END -->
+
+                
+                <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta name="format-detection" content="telephone=no">
+<script src="//t1.daumcdn.net/tistory_admin/lib/jquery/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="//t1.daumcdn.net/tiara/js/v1/tiara.min.js"></script><meta name="referrer" content="always"/>
+<meta name="google-adsense-platform-account" content="ca-host-pub-9691043933427338"/>
+<meta name="google-adsense-platform-domain" content="tistory.com"/>
+<meta name="description" content="해시 충돌 hash function이 서로 다른 두 개의 입력값에 대해 동일한 출력값을 내는 상황 Open Addressing(개방 주소법) 해시 충돌이 발생하면 테이블 내의 사용되지 않는 곳을 탐사(Probe) 한 후, 비어있는 곳에 충돌된 데이터를 저장하는 방식 - Linear Probing (선형조사) 비어있는 곳을 선택할 때, 바로 다음 빈 공간으로 한다. 1. 함수의 결과에 따른 index의 슬롯이 비어 있으면 데이터를 저장한다. 2. 비어 있지 않다면, 이전에 저장된 데이터의 key 비교한다. 3. key 값이 같다면, 값을 업데이트한다. 다르면 바로 다음 index를 확인합니다. 3. 빈 슬롯을 찾을때까지 1칸씩 이동하여, 빈 슬롯을 찾으면 데이터를 저장합니다. *저장을 하는 배열은 원형이라.."/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="https://hik-coding.tistory.com/296"/>
+<meta property="og.article.author" content="hik14"/>
+<meta property="og:site_name" content="오늘도 더 나은 코드를 작성하였습니까?"/>
+<meta property="og:title" content="Hash Collision(해시 충돌) Open Addressing(개방 주소법)"/>
+<meta name="by" content="hik14"/>
+<meta property="og:description" content="해시 충돌 hash function이 서로 다른 두 개의 입력값에 대해 동일한 출력값을 내는 상황 Open Addressing(개방 주소법) 해시 충돌이 발생하면 테이블 내의 사용되지 않는 곳을 탐사(Probe) 한 후, 비어있는 곳에 충돌된 데이터를 저장하는 방식 - Linear Probing (선형조사) 비어있는 곳을 선택할 때, 바로 다음 빈 공간으로 한다. 1. 함수의 결과에 따른 index의 슬롯이 비어 있으면 데이터를 저장한다. 2. 비어 있지 않다면, 이전에 저장된 데이터의 key 비교한다. 3. key 값이 같다면, 값을 업데이트한다. 다르면 바로 다음 index를 확인합니다. 3. 빈 슬롯을 찾을때까지 1칸씩 이동하여, 빈 슬롯을 찾으면 데이터를 저장합니다. *저장을 하는 배열은 원형이라.."/>
+<meta property="og:image" content="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb5blAH%2Fbtsz1eYd876%2FUrvXK9GwSKXHZLu3alVdWk%2Fimg.png"/>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="@TISTORY"/>
+<meta name="twitter:title" content="Hash Collision(해시 충돌) Open Addressing(개방 주소법)"/>
+<meta name="twitter:description" content="해시 충돌 hash function이 서로 다른 두 개의 입력값에 대해 동일한 출력값을 내는 상황 Open Addressing(개방 주소법) 해시 충돌이 발생하면 테이블 내의 사용되지 않는 곳을 탐사(Probe) 한 후, 비어있는 곳에 충돌된 데이터를 저장하는 방식 - Linear Probing (선형조사) 비어있는 곳을 선택할 때, 바로 다음 빈 공간으로 한다. 1. 함수의 결과에 따른 index의 슬롯이 비어 있으면 데이터를 저장한다. 2. 비어 있지 않다면, 이전에 저장된 데이터의 key 비교한다. 3. key 값이 같다면, 값을 업데이트한다. 다르면 바로 다음 index를 확인합니다. 3. 빈 슬롯을 찾을때까지 1칸씩 이동하여, 빈 슬롯을 찾으면 데이터를 저장합니다. *저장을 하는 배열은 원형이라.."/>
+<meta property="twitter:image" content="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb5blAH%2Fbtsz1eYd876%2FUrvXK9GwSKXHZLu3alVdWk%2Fimg.png"/>
+<meta content="https://hik-coding.tistory.com/296" property="dg:plink" content="https://hik-coding.tistory.com/296"/>
+<meta name="plink"/>
+<meta name="title" content="Hash Collision(해시 충돌) Open Addressing(개방 주소법)"/>
+<meta name="article:media_name" content="오늘도 더 나은 코드를 작성하였습니까?"/>
+<meta property="article:mobile_url" content="https://hik-coding.tistory.com/m/296"/>
+<meta property="article:pc_url" content="https://hik-coding.tistory.com/296"/>
+<meta property="article:mobile_view_url" content="https://hik-coding.tistory.com/m/296"/>
+<meta property="article:pc_view_url" content="https://hik-coding.tistory.com/296"/>
+<meta property="article:talk_channel_view_url" content="https://hik-coding.tistory.com/m/296"/>
+<meta property="article:pc_service_home" content="https://www.tistory.com"/>
+<meta property="article:mobile_service_home" content="https://www.tistory.com/m"/>
+<meta property="article:txid" content="4094934_296"/>
+<meta property="article:published_time" content="2023-11-09T18:47:53+09:00"/>
+<meta property="og:regDate" content="20231109064753"/>
+<meta property="article:modified_time" content="2023-11-14T16:39:58+09:00"/>
+<script type="module" src="https://tistory1.daumcdn.net/tistory_admin/userblog/userblog-b6d1f83d4f149775488b18445c7e8e023edb84b4/static/pc/dist/index.js" defer=""></script>
+<script type="text/javascript" src="https://tistory1.daumcdn.net/tistory_admin/userblog/userblog-b6d1f83d4f149775488b18445c7e8e023edb84b4/static/pc/dist/index-legacy.js" defer="" nomodule="true"></script>
+<script type="text/javascript" src="https://tistory1.daumcdn.net/tistory_admin/userblog/userblog-b6d1f83d4f149775488b18445c7e8e023edb84b4/static/pc/dist/polyfills-legacy.js" defer="" nomodule="true"></script>
+<link rel="icon" sizes="any" href="https://t1.daumcdn.net/tistory_admin/favicon/tistory_favicon_32x32.ico"/>
+<link rel="icon" type="image/svg+xml" href="https://t1.daumcdn.net/tistory_admin/top_v2/bi-tistory-favicon.svg"/>
+<link rel="apple-touch-icon" href="https://t1.daumcdn.net/tistory_admin/top_v2/tistory-apple-touch-favicon.png"/>
+<link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/www/style/font.css"/>
+<link rel="stylesheet" type="text/css" href="https://tistory1.daumcdn.net/tistory_admin/userblog/userblog-b6d1f83d4f149775488b18445c7e8e023edb84b4/static/style/content.css"/>
+<link rel="stylesheet" type="text/css" href="https://tistory1.daumcdn.net/tistory_admin/userblog/userblog-b6d1f83d4f149775488b18445c7e8e023edb84b4/static/pc/dist/index.css"/>
+<link rel="stylesheet" type="text/css" href="https://tistory1.daumcdn.net/tistory_admin/userblog/userblog-b6d1f83d4f149775488b18445c7e8e023edb84b4/static/style/uselessPMargin.css"/>
+<script type="text/javascript">(function() {
+    var tjQuery = jQuery.noConflict(true);
+    window.tjQuery = tjQuery;
+    window.orgjQuery = window.jQuery; window.jQuery = tjQuery;
+    window.jQuery = window.orgjQuery; delete window.orgjQuery;
+})()</script>
+<script type="text/javascript" src="https://tistory1.daumcdn.net/tistory_admin/userblog/userblog-b6d1f83d4f149775488b18445c7e8e023edb84b4/static/script/base.js"></script>
+<script type="text/javascript" src="//developers.kakao.com/sdk/js/kakao.min.js"></script>
+
+                
+  <meta charset="UTF-8">
+  <meta name="viewport"
+    content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, width=device-width">
+  <title>Hash Collision(해시 충돌) Open Addressing(개방 주소법)</title>
+  <link rel="alternate" type="application/rss+xml" title="오늘도 더 나은 코드를 작성하였습니까?" href="https://hik-coding.tistory.com/rss" />
+
+  <link rel="stylesheet" href="https://tistory1.daumcdn.net/tistory/0/Ray2/style.css">
+  <link rel="stylesheet" href="https://tistory1.daumcdn.net/tistory/0/Ray2/images/font.css">
+  <style>
+    .wrap_sub {
+      background-image: url('https://tistory1.daumcdn.net/tistory/4094934/skinSetting/72af3bb1e22b43bd8d49cdddf33850b2');
+    }
+
+    
+  </style>
+
+  <!--[if lt IE 9]>
+	<script src="//t1.daumcdn.net/tistory_admin/lib/jquery/jquery-1.12.4.min.js"></script>
+	<![endif]-->
+  <!--[if gte IE 9]><!-->
+  <script src="//t1.daumcdn.net/tistory_admin/lib/jquery/jquery-3.5.1.min.js"
+    integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+  <!--<![endif]-->
+
+                
+                
+                <style type="text/css">.another_category {
+    border: 1px solid #E5E5E5;
+    padding: 10px 10px 5px;
+    margin: 10px 0;
+    clear: both;
+}
+
+.another_category h4 {
+    font-size: 12px !important;
+    margin: 0 !important;
+    border-bottom: 1px solid #E5E5E5 !important;
+    padding: 2px 0 6px !important;
+}
+
+.another_category h4 a {
+    font-weight: bold !important;
+}
+
+.another_category table {
+    table-layout: fixed;
+    border-collapse: collapse;
+    width: 100% !important;
+    margin-top: 10px !important;
+}
+
+* html .another_category table {
+    width: auto !important;
+}
+
+*:first-child + html .another_category table {
+    width: auto !important;
+}
+
+.another_category th, .another_category td {
+    padding: 0 0 4px !important;
+}
+
+.another_category th {
+    text-align: left;
+    font-size: 12px !important;
+    font-weight: normal;
+    word-break: break-all;
+    overflow: hidden;
+    line-height: 1.5;
+}
+
+.another_category td {
+    text-align: right;
+    width: 80px;
+    font-size: 11px;
+}
+
+.another_category th a {
+    font-weight: normal;
+    text-decoration: none;
+    border: none !important;
+}
+
+.another_category th a.current {
+    font-weight: bold;
+    text-decoration: none !important;
+    border-bottom: 1px solid !important;
+}
+
+.another_category th span {
+    font-weight: normal;
+    text-decoration: none;
+    font: 10px Tahoma, Sans-serif;
+    border: none !important;
+}
+
+.another_category_color_gray, .another_category_color_gray h4 {
+    border-color: #E5E5E5 !important;
+}
+
+.another_category_color_gray * {
+    color: #909090 !important;
+}
+
+.another_category_color_gray th a.current {
+    border-color: #909090 !important;
+}
+
+.another_category_color_gray h4, .another_category_color_gray h4 a {
+    color: #737373 !important;
+}
+
+.another_category_color_red, .another_category_color_red h4 {
+    border-color: #F6D4D3 !important;
+}
+
+.another_category_color_red * {
+    color: #E86869 !important;
+}
+
+.another_category_color_red th a.current {
+    border-color: #E86869 !important;
+}
+
+.another_category_color_red h4, .another_category_color_red h4 a {
+    color: #ED0908 !important;
+}
+
+.another_category_color_green, .another_category_color_green h4 {
+    border-color: #CCE7C8 !important;
+}
+
+.another_category_color_green * {
+    color: #64C05B !important;
+}
+
+.another_category_color_green th a.current {
+    border-color: #64C05B !important;
+}
+
+.another_category_color_green h4, .another_category_color_green h4 a {
+    color: #3EA731 !important;
+}
+
+.another_category_color_blue, .another_category_color_blue h4 {
+    border-color: #C8DAF2 !important;
+}
+
+.another_category_color_blue * {
+    color: #477FD6 !important;
+}
+
+.another_category_color_blue th a.current {
+    border-color: #477FD6 !important;
+}
+
+.another_category_color_blue h4, .another_category_color_blue h4 a {
+    color: #1960CA !important;
+}
+
+.another_category_color_violet, .another_category_color_violet h4 {
+    border-color: #E1CEEC !important;
+}
+
+.another_category_color_violet * {
+    color: #9D64C5 !important;
+}
+
+.another_category_color_violet th a.current {
+    border-color: #9D64C5 !important;
+}
+
+.another_category_color_violet h4, .another_category_color_violet h4 a {
+    color: #7E2CB5 !important;
+}
+</style>
+
+                
+                <link rel="stylesheet" type="text/css" href="https://tistory1.daumcdn.net/tistory_admin/userblog/userblog-b6d1f83d4f149775488b18445c7e8e023edb84b4/static/style/revenue.css"/>
+<link rel="canonical" href="https://hik-coding.tistory.com/296"/>
+
+<!-- BEGIN STRUCTURED_DATA -->
+<script type="application/ld+json">
+    {"@context":"http://schema.org","@type":"BlogPosting","mainEntityOfPage":{"@id":"https://hik-coding.tistory.com/296","name":null},"url":"https://hik-coding.tistory.com/296","headline":"Hash Collision(해시 충돌) Open Addressing(개방 주소법)","description":"해시 충돌 hash function이 서로 다른 두 개의 입력값에 대해 동일한 출력값을 내는 상황 Open Addressing(개방 주소법) 해시 충돌이 발생하면 테이블 내의 사용되지 않는 곳을 탐사(Probe) 한 후, 비어있는 곳에 충돌된 데이터를 저장하는 방식 - Linear Probing (선형조사) 비어있는 곳을 선택할 때, 바로 다음 빈 공간으로 한다. 1. 함수의 결과에 따른 index의 슬롯이 비어 있으면 데이터를 저장한다. 2. 비어 있지 않다면, 이전에 저장된 데이터의 key 비교한다. 3. key 값이 같다면, 값을 업데이트한다. 다르면 바로 다음 index를 확인합니다. 3. 빈 슬롯을 찾을때까지 1칸씩 이동하여, 빈 슬롯을 찾으면 데이터를 저장합니다. *저장을 하는 배열은 원형이라..","author":{"@type":"Person","name":"hik14","logo":null},"image":{"@type":"ImageObject","url":"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb5blAH%2Fbtsz1eYd876%2FUrvXK9GwSKXHZLu3alVdWk%2Fimg.png","width":"800px","height":"800px"},"datePublished":"2023-11-09T18:47:53+09:00","dateModified":"2023-11-14T16:39:58+09:00","publisher":{"@type":"Organization","name":"TISTORY","logo":{"@type":"ImageObject","url":"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png","width":"800px","height":"800px"}}}
+</script>
+<!-- END STRUCTURED_DATA -->
+<link rel="stylesheet" type="text/css" href="https://tistory1.daumcdn.net/tistory_admin/userblog/userblog-b6d1f83d4f149775488b18445c7e8e023edb84b4/static/style/dialog.css"/>
+<link rel="stylesheet" type="text/css" href="//t1.daumcdn.net/tistory_admin/www/style/top/font.css"/>
+<link rel="stylesheet" type="text/css" href="https://tistory1.daumcdn.net/tistory_admin/userblog/userblog-b6d1f83d4f149775488b18445c7e8e023edb84b4/static/style/postBtn.css"/>
+<link rel="stylesheet" type="text/css" href="https://tistory1.daumcdn.net/tistory_admin/userblog/userblog-b6d1f83d4f149775488b18445c7e8e023edb84b4/static/style/tistory.css"/>
+<script type="text/javascript" src="https://tistory1.daumcdn.net/tistory_admin/userblog/userblog-b6d1f83d4f149775488b18445c7e8e023edb84b4/static/script/common.js"></script>
+
+                
+                </head>
+
+                                                <body id="tt-body-page">
+                
+                
+                
+  
+
+    <div id="dkIndex">
+      <!--웹접근성용 바로가기 링크 모음-->
+      <a href="#dkBody">본문 바로가기</a>
+    </div>
+    <div id="dkWrap" class="wrap_skin">
+      <!-- 카테고리버튼 클릭시 'navi_on' 클래스 부여 -->
+      <div id="dkHead" role="banner" class="area_head">
+        <h1 class="screen_out">오늘도 더 나은 코드를 작성하였습니까?</h1>
+        <button type="button" class="btn_cate">
+          <span class="ico_skin ico_cate">카테고리</span>
+        </button>
+        <div class="area_search ">
+          <button type="button" class="btn_search">
+            <span class="ico_skin ico_search">검색하기</span>
+          </button>
+          
+            <form action="#" method="get" class="frm_search box_search" onsubmit="try {
+    window.location.href = '/search' + '/' + looseURIEncode(document.getElementsByName('search')[0].value);
+    document.getElementsByName('search')[0].value = '';
+    return false;
+} catch (e) {}">
+              <fieldset>
+                <legend class="screen_out">검색하기</legend>
+                <label for="search" class="lab_search screen_out">블로그 내 검색</label>
+                <input type="text" name="search" id="search" class="tf_search"
+                  placeholder="Search" value="" data-value="">
+                <span class="ico_skin ico_search"></span>
+              </fieldset>
+            </form>
+          
+        </div>
+        <div class="area_profile">
+          <div class="tit_post">
+            <a href="/" class="link_post">오늘도 더 나은 코드를 작성하였습니까?</a>
+          </div>
+          <span class="thumb_profile">
+            <img src="https://tistory1.daumcdn.net/tistory/4094934/attach/2f15009a8753417fb907452693acdf14" class="img_profile" alt="프로필사진">
+          </span>
+          <span class="txt_profile">hik14</span>
+        </div>
+      </div>
+      <hr class="hide">
+      <div id="dkContent" class="cont_skin" role="main">
+        <div id="cMain">
+          <div id="mFeature" class="wrap_sub">
+            <div class="cont_sub">
+              <div class="inner_sub">
+                <div class="area_sub">
+                  <div role="navigation" class="area_navi">
+                    <ul class="tt_category"><li class=""><a href="/category" class="link_tit"> 분류 전체보기 <span class="c_cnt">(331)</span> </a>
+  <ul class="category_list"><li class=""><a href="/category/Firebase" class="link_item"> Firebase <span class="c_cnt">(0)</span> </a>
+  <ul class="sub_category_list"><li class=""><a href="/category/Firebase/CloudeMessaging%28FCM%29" class="link_sub_item"> CloudeMessaging(FCM) <span class="c_cnt">(0)</span> </a></li>
+</ul>
+</li>
+<li class=""><a href="/category/Android%20Basic" class="link_item"> Android Basic <span class="c_cnt">(14)</span> </a></li>
+<li class=""><a href="/category/DI" class="link_item"> DI <span class="c_cnt">(17)</span> </a>
+  <ul class="sub_category_list"><li class=""><a href="/category/DI/Dagger2" class="link_sub_item"> Dagger2 <span class="c_cnt">(13)</span> </a></li>
+<li class=""><a href="/category/DI/Hilt" class="link_sub_item"> Hilt <span class="c_cnt">(4)</span> </a></li>
+</ul>
+</li>
+<li class=""><a href="/category/Android%20Jetpack%20Architecture" class="link_item"> Android Jetpack Architectur.. <span class="c_cnt">(70)</span> </a>
+  <ul class="sub_category_list"><li class=""><a href="/category/Android%20Jetpack%20Architecture/Introduction%20and%20Overview" class="link_sub_item"> Introduction and Overview <span class="c_cnt">(2)</span> </a></li>
+<li class=""><a href="/category/Android%20Jetpack%20Architecture/DataBinding" class="link_sub_item"> DataBinding <span class="c_cnt">(9)</span> </a></li>
+<li class=""><a href="/category/Android%20Jetpack%20Architecture/LifeCycle" class="link_sub_item"> LifeCycle <span class="c_cnt">(3)</span> </a></li>
+<li class=""><a href="/category/Android%20Jetpack%20Architecture/LiveData" class="link_sub_item"> LiveData <span class="c_cnt">(5)</span> </a></li>
+<li class=""><a href="/category/Android%20Jetpack%20Architecture/ViewModel" class="link_sub_item"> ViewModel <span class="c_cnt">(8)</span> </a></li>
+<li class=""><a href="/category/Android%20Jetpack%20Architecture/Room" class="link_sub_item"> Room <span class="c_cnt">(8)</span> </a></li>
+<li class=""><a href="/category/Android%20Jetpack%20Architecture/Navigation" class="link_sub_item"> Navigation <span class="c_cnt">(13)</span> </a></li>
+<li class=""><a href="/category/Android%20Jetpack%20Architecture/NavigationUI" class="link_sub_item"> NavigationUI <span class="c_cnt">(3)</span> </a></li>
+<li class=""><a href="/category/Android%20Jetpack%20Architecture/Workmanager" class="link_sub_item"> Workmanager <span class="c_cnt">(7)</span> </a></li>
+<li class=""><a href="/category/Android%20Jetpack%20Architecture/Paging3" class="link_sub_item"> Paging3 <span class="c_cnt">(11)</span> </a></li>
+</ul>
+</li>
+<li class=""><a href="/category/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0" class="link_item"> 자료구조 <span class="c_cnt">(22)</span> </a></li>
+<li class=""><a href="/category/Algorithm" class="link_item"> Algorithm <span class="c_cnt">(21)</span> </a>
+  <ul class="sub_category_list"><li class=""><a href="/category/Algorithm/%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4" class="link_sub_item"> 문제풀이 <span class="c_cnt">(0)</span> </a></li>
+<li class=""><a href="/category/Algorithm/%EA%B0%9C%EB%85%90" class="link_sub_item"> 개념 <span class="c_cnt">(21)</span> </a></li>
+</ul>
+</li>
+<li class=""><a href="/category/Kotlin%20in%20Action" class="link_item"> Kotlin in Action <span class="c_cnt">(36)</span> </a>
+  <ul class="sub_category_list"><li class=""><a href="/category/Kotlin%20in%20Action/%EC%BD%94%ED%8B%80%EB%A6%B0%20%EA%B8%B0%EC%B4%88" class="link_sub_item"> 코틀린 기초 <span class="c_cnt">(15)</span> </a></li>
+<li class=""><a href="/category/Kotlin%20in%20Action/%EC%BD%94%ED%8B%80%EB%A6%B0%20%EB%8B%B5%EA%B2%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0" class="link_sub_item"> 코틀린 답게 사용하기 <span class="c_cnt">(21)</span> </a></li>
+</ul>
+</li>
+<li class=""><a href="/category/Android%20Realm" class="link_item"> Android Realm <span class="c_cnt">(4)</span> </a></li>
+<li class=""><a href="/category/Android%20Material%20Design" class="link_item"> Android Material Design <span class="c_cnt">(16)</span> </a></li>
+<li class=""><a href="/category/Android%20Material%20Design3" class="link_item"> Android Material Design3 <span class="c_cnt">(18)</span> </a></li>
+<li class=""><a href="/category/%EA%B8%B0%ED%83%80" class="link_item"> 기타 <span class="c_cnt">(5)</span> </a></li>
+<li class=""><a href="/category/Coroutine" class="link_item"> Coroutine <span class="c_cnt">(24)</span> </a>
+  <ul class="sub_category_list"><li class=""><a href="/category/Coroutine/coroutineFlow" class="link_sub_item"> coroutineFlow <span class="c_cnt">(15)</span> </a></li>
+<li class=""><a href="/category/Coroutine/coroutineBasic" class="link_sub_item"> coroutineBasic <span class="c_cnt">(5)</span> </a></li>
+</ul>
+</li>
+<li class=""><a href="/category/%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0" class="link_item"> 문제해결 <span class="c_cnt">(1)</span> </a></li>
+<li class=""><a href="/category/%EC%97%85%EB%AC%B4%EC%A0%95%EB%A6%AC" class="link_item"> 업무정리 <span class="c_cnt">(0)</span> </a></li>
+<li class=""><a href="/category/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4" class="link_item"> 디자인패턴 <span class="c_cnt">(12)</span> </a>
+  <ul class="sub_category_list"><li class=""><a href="/category/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/%EC%83%9D%EC%84%B1%ED%8C%A8%ED%84%B4" class="link_sub_item"> 생성패턴 <span class="c_cnt">(6)</span> </a></li>
+<li class=""><a href="/category/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/%EA%B5%AC%EC%A1%B0%ED%8C%A8%ED%84%B4" class="link_sub_item"> 구조패턴 <span class="c_cnt">(0)</span> </a></li>
+<li class=""><a href="/category/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/%ED%96%89%EB%8F%99%ED%8C%A8%ED%84%B4" class="link_sub_item"> 행동패턴 <span class="c_cnt">(0)</span> </a></li>
+</ul>
+</li>
+<li class=""><a href="/category/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C" class="link_item"> 운영체제 <span class="c_cnt">(1)</span> </a></li>
+<li class=""><a href="/category/kotlin%20Multiplatform" class="link_item"> kotlin Multiplatform <span class="c_cnt">(8)</span> </a>
+  <ul class="sub_category_list"><li class=""><a href="/category/kotlin%20Multiplatform/realm-kotlin-kmm" class="link_sub_item"> realm-kotlin-kmm <span class="c_cnt">(7)</span> </a></li>
+</ul>
+</li>
+<li class=""><a href="/category/GoogleCloudplatform" class="link_item"> GoogleCloudplatform <span class="c_cnt">(0)</span> </a></li>
+<li class=""><a href="/category/Ktor" class="link_item"> Ktor <span class="c_cnt">(11)</span> </a>
+  <ul class="sub_category_list"><li class=""><a href="/category/Ktor/Client" class="link_sub_item"> Client <span class="c_cnt">(7)</span> </a></li>
+</ul>
+</li>
+<li class=""><a href="/category/Koin" class="link_item"> Koin <span class="c_cnt">(6)</span> </a></li>
+<li class=""><a href="/category/Compose" class="link_item"> Compose <span class="c_cnt">(9)</span> </a></li>
+</ul>
+</li>
+</ul>
+
+                    <a href="https://hik-coding.tistory.com/guestbook" class="link_guestbook">Guestbook</a>
+                  </div>
+                  <div class="wrap_etc">
+                    <div class="col_aside left_side">
+                      
+                          <!-- 공지사항 -->
+                          
+                            <div class="box_aside">
+                              <strong class="tit_aside">Notice</strong>
+                              <ul class="list_board">
+                                
+                              </ul>
+                            </div>
+                          
+                        
+                          <!-- 최근에 올라온 글 -->
+                          <div class="box_aside">
+                            <strong class="tit_aside">Recent Posts</strong>
+                            <ul class="list_board">
+                              
+                                <li><a href="/339" class="link_board">안드로이드 컴포즈 네비게이션1 기초 Compose⋯</a></li>
+                              
+                                <li><a href="/338" class="link_board">Compose UI Event 다루기</a></li>
+                              
+                                <li><a href="/337" class="link_board">Event에 따른 UI State 처리방법</a></li>
+                              
+                                <li><a href="/336" class="link_board">Compose 상태와 상태홀더 다루기 State ⋯</a></li>
+                              
+                            </ul>
+                          </div>
+                        
+                          <!-- 최근에 달린 댓글 -->
+                          <div class="box_aside">
+                            <strong class="tit_aside">Recent Comments</strong>
+                            <ul class="list_board">
+                              
+                                <li><a href="/333#comment14553986" class="link_board">흥미로운 주제에 대한 글 잘 읽었습니다! 👏 제 블로그⋯</a></li>
+                              
+                                <li><a href="/333#comment14550551" class="link_board">포스팅 잘 보고 가요^^❤️</a></li>
+                              
+                                <li><a href="/312#comment11397748" class="link_board">죄송한데.. 저 소프트웨어 IT 개발 블로그고 제 공부⋯</a></li>
+                              
+                                <li><a href="/303#comment10881141" class="link_board">누구신가요??? 저를 아시나요?</a></li>
+                              
+                            </ul>
+                          </div>
+                        
+                          <!-- 링크 -->
+                          <div class="box_aside">
+                            <strong class="tit_aside">Link</strong>
+                            <ul class="list_board">
+                              
+                            </ul>
+                          </div>
+                        
+                    </div>
+
+
+                    <div class="col_aside right_side">
+                      
+                          <!-- 달력 -->
+                          <div class="box_aside box_calendar">
+                            <table class="tt-calendar" cellpadding="0" cellspacing="1" style="width: 100%; table-layout: fixed">
+  <caption class="cal_month"><a href="/archive/202412" title="1개월 앞의 달력을 보여줍니다.">«</a> &nbsp; <a href="/archive/202501" title="현재 달의 달력을 보여줍니다.">2025/01</a> &nbsp; <a href="/archive/202502" title="1개월 뒤의 달력을 보여줍니다.">»</a></caption>
+  <thead>
+    <tr>
+      <th class="cal_week2">일</th>
+      <th class="cal_week1">월</th>
+      <th class="cal_week1">화</th>
+      <th class="cal_week1">수</th>
+      <th class="cal_week1">목</th>
+      <th class="cal_week1">금</th>
+      <th class="cal_week1">토</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="cal_week cal_current_week">
+      <td class="cal_day1 cal_day2"> </td>
+      <td class="cal_day1 cal_day2"> </td>
+      <td class="cal_day1 cal_day2"> </td>
+      <td class="cal_day cal_day3">1</td>
+      <td class="cal_day cal_day3">2</td>
+      <td class="cal_day cal_day3">3</td>
+      <td class="cal_day cal_day3">4</td>
+    </tr>
+    <tr class="cal_week">
+      <td class="cal_day cal_day3 cal_day_sunday">5</td>
+      <td class="cal_day cal_day3">6</td>
+      <td class="cal_day cal_day3">7</td>
+      <td class="cal_day cal_day3">8</td>
+      <td class="cal_day cal_day3">9</td>
+      <td class="cal_day cal_day3">10</td>
+      <td class="cal_day cal_day4">11</td>
+    </tr>
+    <tr class="cal_week">
+      <td class="cal_day cal_day3 cal_day_sunday">12</td>
+      <td class="cal_day cal_day3">13</td>
+      <td class="cal_day cal_day3">14</td>
+      <td class="cal_day cal_day3">15</td>
+      <td class="cal_day cal_day3">16</td>
+      <td class="cal_day cal_day3">17</td>
+      <td class="cal_day cal_day3">18</td>
+    </tr>
+    <tr class="cal_week">
+      <td class="cal_day cal_day3 cal_day_sunday">19</td>
+      <td class="cal_day cal_day3">20</td>
+      <td class="cal_day cal_day3">21</td>
+      <td class="cal_day cal_day3">22</td>
+      <td class="cal_day cal_day3">23</td>
+      <td class="cal_day cal_day3">24</td>
+      <td class="cal_day cal_day3">25</td>
+    </tr>
+    <tr class="cal_week">
+      <td class="cal_day cal_day3 cal_day_sunday">26</td>
+      <td class="cal_day cal_day3">27</td>
+      <td class="cal_day cal_day3">28</td>
+      <td class="cal_day cal_day3">29</td>
+      <td class="cal_day cal_day3">30</td>
+      <td class="cal_day cal_day3">31</td>
+      <td class="cal_day1 cal_day2"> </td>
+    </tr>
+  </tbody>
+</table>
+                          </div>
+                        
+                          <!-- 태그 클라우드 -->
+                          <div class="box_aside box_tag">
+                            <strong class="tit_aside">Tags</strong>
+                            <ul class="list_tag">
+                              
+                                <li><a href="/tag/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4" class="link_tag cloud3">디자인패턴</a>
+                                </li>
+                              
+                                <li><a href="/tag/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85%20%ED%8C%A8%ED%84%B4" class="link_tag cloud5">프로토타입 패턴</a>
+                                </li>
+                              
+                                <li><a href="/tag/Singleton" class="link_tag cloud5">Singleton</a>
+                                </li>
+                              
+                                <li><a href="/tag/Abstract%20Factory" class="link_tag cloud5">Abstract Factory</a>
+                                </li>
+                              
+                                <li><a href="/tag/PrototypePattern" class="link_tag cloud5">PrototypePattern</a>
+                                </li>
+                              
+                                <li><a href="/tag/F" class="link_tag cloud5">F</a>
+                                </li>
+                              
+                                <li><a href="/tag/%EC%98%B5%EC%A0%80%EB%B2%84%20%ED%8C%A8%ED%84%B4" class="link_tag cloud5">옵저버 패턴</a>
+                                </li>
+                              
+                                <li><a href="/tag/%EB%B9%8C%ED%84%B0%ED%8C%A8%ED%84%B4" class="link_tag cloud5">빌터패턴</a>
+                                </li>
+                              
+                                <li><a href="/tag/builderPattern" class="link_tag cloud5">builderPattern</a>
+                                </li>
+                              
+                                <li><a href="/tag/El" class="link_tag cloud5">El</a>
+                                </li>
+                              
+                                <li><a href="/tag/Kotlin" class="link_tag cloud1">Kotlin</a>
+                                </li>
+                              
+                                <li><a href="/tag/Observer%20Pattern" class="link_tag cloud5">Observer Pattern</a>
+                                </li>
+                              
+                                <li><a href="/tag/%EC%B6%94%EC%83%81%20%ED%8C%A9%ED%86%A0%EB%A6%AC" class="link_tag cloud5">추상 팩토리</a>
+                                </li>
+                              
+                                <li><a href="/tag/%E3%85%93" class="link_tag cloud5">ㅓ</a>
+                                </li>
+                              
+                                <li><a href="/tag/%EC%B6%94%EC%83%81%ED%8C%A9%ED%86%A0%EB%A6%AC%ED%8C%A8%ED%84%B4" class="link_tag cloud5">추상팩토리패턴</a>
+                                </li>
+                              
+                                <li><a href="/tag/%ED%8C%A9%ED%86%A0%EB%A6%AC%20%EB%A9%94%EC%86%8C%EB%93%9C" class="link_tag cloud5">팩토리 메소드</a>
+                                </li>
+                              
+                                <li><a href="/tag/r" class="link_tag cloud5">r</a>
+                                </li>
+                              
+                                <li><a href="/tag/a" class="link_tag cloud5">a</a>
+                                </li>
+                              
+                                <li><a href="/tag/Design%20Pattern" class="link_tag cloud3">Design Pattern</a>
+                                </li>
+                              
+                                <li><a href="/tag/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4%20%23" class="link_tag cloud5">디자인패턴 #</a>
+                                </li>
+                              
+                                <li><a href="/tag/%ED%95%A8%EC%88%98%ED%98%95%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D" class="link_tag cloud5">함수형프로그래밍</a>
+                                </li>
+                              
+                                <li><a href="/tag/factory%20method" class="link_tag cloud5">factory method</a>
+                                </li>
+                              
+                                <li><a href="/tag/Functional%20Programming" class="link_tag cloud5">Functional Programming</a>
+                                </li>
+                              
+                                <li><a href="/tag/%EC%8B%B1%EA%B8%80%ED%86%A4" class="link_tag cloud5">싱글톤</a>
+                                </li>
+                              
+                                <li><a href="/tag/%EC%BD%94%ED%8B%80%EB%A6%B0" class="link_tag cloud3">코틀린</a>
+                                </li>
+                              
+                                <li><a href="/tag/%E3%85%8B%E3%85%81" class="link_tag cloud5">ㅋㅁ</a>
+                                </li>
+                              
+                                <li><a href="/tag/designPattern" class="link_tag cloud3">designPattern</a>
+                                </li>
+                              
+                            </ul>
+                            <a href="https://hik-coding.tistory.com/tag" class="link_more">more</a>
+                          </div>
+                        
+                          <!-- 글 보관함 -->
+                          <div class="box_aside box_archive">
+                            <strong class="tit_aside">Archives</strong>
+                            <ul class="list_keep">
+                              
+                                <li><a href="/archive/202412" class="link_keep">2024/12</a>
+                                  (1)</li>
+                              
+                                <li><a href="/archive/202411" class="link_keep">2024/11</a>
+                                  (4)</li>
+                              
+                                <li><a href="/archive/202410" class="link_keep">2024/10</a>
+                                  (1)</li>
+                              
+                                <li><a href="/archive/202409" class="link_keep">2024/09</a>
+                                  (3)</li>
+                              
+                                <li><a href="/archive/202408" class="link_keep">2024/08</a>
+                                  (1)</li>
+                              
+                            </ul>
+                          </div>
+                        
+                          <!-- 방문자수 -->
+                          <div class="box_aside box_visitor">
+                            <dl class="list_visitor">
+                              <dt>Today</dt>
+                              <dd>0</dd>
+                            </dl>
+                            <dl class="list_total">
+                              <dt>Total</dt>
+                              <dd>51,427</dd>
+                            </dl>
+                          </div>
+                        
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <button type="button" class="ico_skin btn_close">닫기</button>
+
+              <strong class="screen_out">관리 메뉴</strong>
+              <ul class="list_control">
+                <li><a href="https://hik-coding.tistory.com/manage/entry/post" class="ico_skin link_write" title="글쓰기">글쓰기</a></li>
+                <li><a href="https://hik-coding.tistory.com/guestbook" class="ico_skin link_memo" title="방명록">방명록</a></li>
+                <li><a href="https://hik-coding.tistory.com/rss" class="ico_skin link_rss" title="RSS">RSS</a></li>
+                <li><a href="https://hik-coding.tistory.com/manage" class="ico_skin link_manage" title="관리">관리</a></li>
+              </ul>
+            </div>
+          </div>
+
+          <div id="mArticle" class="article_skin">
+
+            
+
+            <div class="index_title">
+              <h2 class="tit_skin"><span class="txt_title">오늘도 더 나은 코드를 작성하였습니까?</span></h2>
+            </div>
+
+                
+        
+  
+
+
+  
+    <h2 id="dkBody" class="screen_out">Hash Collision(해시 충돌) Open Addressing(개방 주소법) 본문</h2>
+    <div class="area_title">
+      <strong class="tit_category"><a
+          href="/category/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0">자료구조</a></strong>
+      <h3 class="tit_post">Hash Collision(해시 충돌) Open Addressing(개방 주소법)</h3>
+      <span class="info_post">hik14
+        <span class="txt_bar"></span>2023. 11. 9. 18:47
+        
+      </span>
+    </div>
+
+    <div class="area_view" id="article-view">
+                  <!-- System - START -->
+
+<!-- System - END -->
+
+            <div class="tt_article_useless_p_margin contents_style"><h4 data-ke-size="size20"><b>해시 충돌</b></h4>
+<h4 data-ke-size="size20"><span style="background-color: #ffffff; color: #202122; text-align: start;">hash function이 서로 다른 두 개의 입력값에 대해 동일한 출력값을 내는 상황</span></h4>
+<p><figure class="imageblock alignLeft" data-ke-mobileStyle="widthOrigin" data-origin-width="478" data-origin-height="364"><span data-url="https://blog.kakaocdn.net/dn/b5blAH/btsz1eYd876/UrvXK9GwSKXHZLu3alVdWk/img.png" data-phocus="https://blog.kakaocdn.net/dn/b5blAH/btsz1eYd876/UrvXK9GwSKXHZLu3alVdWk/img.png"><img src="https://blog.kakaocdn.net/dn/b5blAH/btsz1eYd876/UrvXK9GwSKXHZLu3alVdWk/img.png" srcset="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb5blAH%2Fbtsz1eYd876%2FUrvXK9GwSKXHZLu3alVdWk%2Fimg.png" onerror="this.onerror=null; this.src='//t1.daumcdn.net/tistory_admin/static/images/no-image-v1.png'; this.srcset='//t1.daumcdn.net/tistory_admin/static/images/no-image-v1.png';" loading="lazy" width="478" height="364" data-origin-width="478" data-origin-height="364"/></span></figure>
+</p>
+<h4 data-ke-size="size20"><b>Open Addressing(개방 주소법)</b></h4>
+<p data-ke-size="size16"><span style="color: #333333;">해시 충돌이 발생하면 테이블 내의 사용되지 않는 곳을 탐사(Probe) 한 후, 비어있는 곳에 충돌된 데이터를 저장하는 방식</span></p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><span style="color: #333333;">- Linear Probing (선형조사)</span><span style="color: #333333;"></span></p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">비어있는 곳을 선택할 때, 바로 다음 빈 공간으로 한다.&nbsp;</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">1. 함수의 결과에 따른 index의 슬롯이 비어 있으면 데이터를 저장한다.</p>
+<p data-ke-size="size16"><span style="color: #333333;">2. 비어 있지 않다면, 이전에 저장된 데이터의 key 비교한다.</span></p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16">3. key 값이 같다면, 값을 업데이트한다. <span style="color: #333333;">다르면 바로 다음 index를 확인합니다.</span><span style="color: #333333;"></span></p>
+<p data-ke-size="size16"><span style="color: #333333;">3. 빈 슬롯을 찾을때까지 1칸씩 이동하여, 빈 슬롯을 찾으면 데이터를 저장합니다.</span></p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><span style="color: #333333;">*저장을 하는 배열은 원형이라 가정을 합니다.&nbsp;</span></p>
+<p data-ke-size="size16"><span style="color: #333333;">*<span style="background-color: #ffffff; text-align: start;">특정 위치에 데이터가 집중적으로 저장되어 군집형태를 이루게 되기 때문에 해당 데이터를 찾을때 시간이 비효율적이될 수 있습니다.</span></span></p>
+<p><figure class="imageblock alignCenter" data-ke-mobileStyle="widthOrigin" data-filename="스크린샷 2023-11-09 오후 4.45.41.png" data-origin-width="832" data-origin-height="558"><span data-url="https://blog.kakaocdn.net/dn/cNtigy/btsz6lHQnkW/HzzoWNhuWrF2zAhJJk63B0/img.png" data-phocus="https://blog.kakaocdn.net/dn/cNtigy/btsz6lHQnkW/HzzoWNhuWrF2zAhJJk63B0/img.png" data-alt="key와 value가 같다고 가정한다."><img src="https://blog.kakaocdn.net/dn/cNtigy/btsz6lHQnkW/HzzoWNhuWrF2zAhJJk63B0/img.png" srcset="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcNtigy%2Fbtsz6lHQnkW%2FHzzoWNhuWrF2zAhJJk63B0%2Fimg.png" onerror="this.onerror=null; this.src='//t1.daumcdn.net/tistory_admin/static/images/no-image-v1.png'; this.srcset='//t1.daumcdn.net/tistory_admin/static/images/no-image-v1.png';" loading="lazy" width="832" height="558" data-filename="스크린샷 2023-11-09 오후 4.45.41.png" data-origin-width="832" data-origin-height="558"/></span><figcaption>key와 value가 같다고 가정한다.</figcaption>
+</figure>
+</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><span style="color: #333333;">- Quadratic Probing (이차 조사)</span></p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><span style="color: #333333;">바로 다음 빈 공간에&nbsp; 데이터를 저장한것과 달리<b> 제곱수를 더해서 빈 슬롯을 찾아서 저</b>장한다.</span></p>
+<p data-ke-size="size16"><span style="color: #333333;">제곱수로 빈 공간을 찾는 이유는 가능하면 데이터가 한 곳에 몰리지 않도록 하기 위해서 입니다. 그래서 Cluster(군집)의 크기를 적게 하기 위함 입니다. 하지만, 여전히 군집이 커질수 있습니다.</span></p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">1. 함수의 결과에 따른 index의 주소가 비어 있으면 데이터를 저장한다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16">2. 비어 있지 않다면, 이전에 저장된 데이터의 key 비교한다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16">3. key 값이 같다면, 값을 업데이트한다, 다르면 바로 1칸, 2칸, 4칸, 8칸, 16칸 씩 이동하면서 index를 확인합니다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16">4. <span style="color: #333333; text-align: start;"><span>&nbsp;</span>빈 슬롯을 찾을때까 <span style="color: #333333; text-align: start;">1칸, 2칸, 4칸, 8</span>칸, 16칸이동하여, 빈 슬롯을 찾으면 데이터를 저장합니다. </span></p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><span style="color: #333333; text-align: start;">-<span>&nbsp;</span></span><span style="color: #333333; text-align: start;">Double Hash<span>&nbsp;</span></span>(이중 해시)</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><span style="background-color: #ffffff; color: #000000; text-align: start;"><span style="color: #000000;">&nbsp;</span><span style="color: #000000;">빈 주소의 공간을 택하는 방법을&nbsp;랜덤성있게 하여 가능한 Cluster(군집)의 크기를 적게해야 된다</span></span></p>
+<p data-ke-size="size16"><span style="background-color: #ffffff; color: #000000; text-align: start;"><span style="color: #000000;">이중 해쉬 방식은 2개의 해시함수를 사용한다. </span></span><span style="background-color: #ffffff; color: #000000; text-align: start;"><span style="color: #000000;"></span></span></p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><span style="background-color: #ffffff; color: #000000; text-align: start;"><span style="color: #000000;">first hash function - 슬롯에서 데이터가 들어갈 idx를 계산한다.</span></span></p>
+<p data-ke-size="size16"><span style="background-color: #ffffff; color: #000000; text-align: start;"><span style="color: #000000;">second hash function - 충돌 발생시 <b>빈 슬롯을 찾기위해 얼마나 이동할지 구하기 위해 사용</b>됩니다.</span></span></p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">1. 함수의 결과에 따른 index의 슬롯이 비어 있으면 데이터를 저장한다.</p>
+<p data-ke-size="size16">2. 비어 있지 않다면, 이전에 저장된 데이터의 key 비교한다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16">3. key 값이 같다면, 값을 업데이트한다.<span>&nbsp;</span>다르면 <span style="background-color: #ffffff; color: #000000; text-align: start;">second hash function에 넣어 몇칸씩 이동할지 계산합니다.</span></p>
+<p data-ke-size="size16">3. 슬롯을 찾을때까지 offset을 증가시켜, 빈 공간을 찾아 데이터를 저장합니다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p><figure class="imageblock alignLeft" data-ke-mobileStyle="widthOrigin" data-origin-width="529" data-origin-height="379"><span data-url="https://blog.kakaocdn.net/dn/baJtH9/btsz2XalXHW/VSQ4j0hgcNXrVaU1eEpSvk/img.png" data-phocus="https://blog.kakaocdn.net/dn/baJtH9/btsz2XalXHW/VSQ4j0hgcNXrVaU1eEpSvk/img.png"><img src="https://blog.kakaocdn.net/dn/baJtH9/btsz2XalXHW/VSQ4j0hgcNXrVaU1eEpSvk/img.png" srcset="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbaJtH9%2Fbtsz2XalXHW%2FVSQ4j0hgcNXrVaU1eEpSvk%2Fimg.png" onerror="this.onerror=null; this.src='//t1.daumcdn.net/tistory_admin/static/images/no-image-v1.png'; this.srcset='//t1.daumcdn.net/tistory_admin/static/images/no-image-v1.png';" loading="lazy" width="685" height="491" data-origin-width="529" data-origin-height="379"/></span></figure>
+</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">* 두 개의 해시 함수를 이용하기 때문에 연산이 상대적으로 오래걸립니다. 대신 클러스터의 크기가 상대적으로 작아진다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">결국 OpenAddressin(Linear, Quadratic, Double)은 Cluster의 크기 따라 성능이 달려있다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">Cluster 영향을 주는것은 Hash Function, Collision Resolution Method, Load Factor 가 있다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">Load Factor란 Hash Table Size중 얼마나 슬롯에 데이터가 들어가 있는냐이다.</p>
+<p data-ke-size="size16">즉, 실제 저장된 데이터의 개수가 N개고 Hash Table Size는 M이라 하면 Load Factor의 값은 <span style="color: #333333; text-align: start;">N/M이다.</span>&nbsp;</p>
+<p data-ke-size="size16">0 &lt;= N/M &lt;= 1</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">평균적으로 M &gt;= 2N, 즉 테이블의 크기가 저장된 <b>데이터의 크기 보다 2배 이상으로 유지</b>하고, <b>C-Universe Hash Function을 사용</b>하면 Cluster의&nbsp; 평균 탐색 시간이 O(1)된다는것이 증명 되어있다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">새로운 데이터가 삽입 되었을 경우, 슬롯의 절반이 찼다면, 확장하는 비용을 감수하더라도 Table을 크기를 2배로 증가 시키고,</p>
+<p data-ke-size="size16">데이터를 재배치 한다.&nbsp;</p></div>
+            <!-- System - START -->
+
+<!-- System - END -->
+
+                    <div class="container_postbtn #post_button_group">
+  <div class="postbtn_like"><script>window.ReactionButtonType = 'reaction';
+window.ReactionApiUrl = '//hik-coding.tistory.com/reaction';
+window.ReactionReqBody = {
+    entryId: 296
+}</script>
+<div class="wrap_btn" id="reaction-296" data-tistory-react-app="Reaction"></div><div class="wrap_btn wrap_btn_share"><button type="button" class="btn_post sns_btn btn_share" aria-expanded="false" data-thumbnail-url="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&amp;fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb5blAH%2Fbtsz1eYd876%2FUrvXK9GwSKXHZLu3alVdWk%2Fimg.png" data-title="Hash Collision(해시 충돌) Open Addressing(개방 주소법)" data-description="해시 충돌 hash function이 서로 다른 두 개의 입력값에 대해 동일한 출력값을 내는 상황 Open Addressing(개방 주소법) 해시 충돌이 발생하면 테이블 내의 사용되지 않는 곳을 탐사(Probe) 한 후, 비어있는 곳에 충돌된 데이터를 저장하는 방식 - Linear Probing (선형조사) 비어있는 곳을 선택할 때, 바로 다음 빈 공간으로 한다. 1. 함수의 결과에 따른 index의 슬롯이 비어 있으면 데이터를 저장한다. 2. 비어 있지 않다면, 이전에 저장된 데이터의 key 비교한다. 3. key 값이 같다면, 값을 업데이트한다. 다르면 바로 다음 index를 확인합니다. 3. 빈 슬롯을 찾을때까지 1칸씩 이동하여, 빈 슬롯을 찾으면 데이터를 저장합니다. *저장을 하는 배열은 원형이라.." data-profile-image="https://tistory1.daumcdn.net/tistory/4094934/attach/2f15009a8753417fb907452693acdf14" data-profile-name="hik14" data-pc-url="https://hik-coding.tistory.com/296" data-relative-pc-url="/296" data-blog-title="오늘도 더 나은 코드를 작성하였습니까?"><span class="ico_postbtn ico_share">공유하기</span></button>
+  <div class="layer_post" id="tistorySnsLayer"></div>
+</div><div class="wrap_btn wrap_btn_etc" data-entry-id="296" data-entry-visibility="public" data-category-visibility="public"><button type="button" class="btn_post btn_etc2" aria-expanded="false"><span class="ico_postbtn ico_etc">게시글 관리</span></button>
+  <div class="layer_post" id="tistoryEtcLayer"></div>
+</div></div>
+<button type="button" class="btn_menu_toolbar btn_subscription #subscribe" data-blog-id="4094934" data-url="https://hik-coding.tistory.com/296" data-device="web_pc" data-tiara-action-name="구독 버튼_클릭"><em class="txt_state"></em><strong class="txt_tool_id">오늘도 더 나은 코드를 작성하였습니까?</strong><span class="img_common_tistory ico_check_type1"></span></button><div class="postbtn_ccl" data-ccl-type="1" data-ccl-derive="2">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ko" target="_blank" class="link_ccl" rel="license">
+        <span class="bundle_ccl">
+            <span class="ico_postbtn ico_ccl1">저작자표시</span> <span class="ico_postbtn ico_ccl2">비영리</span> <span class="ico_postbtn ico_ccl3">변경금지</span> 
+        </span>
+    </a>
+</div>
+<!--
+<rdf:RDF xmlns="https://web.resource.org/cc/" xmlns:dc="https://purl.org/dc/elements/1.1/" xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <Work rdf:about="">
+        <license rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ko" />
+    </Work>
+    <License rdf:about="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ko">
+        <permits rdf:resource="https://web.resource.org/cc/Reproduction"/>
+        <permits rdf:resource="https://web.resource.org/cc/Distribution"/>
+        <requires rdf:resource="https://web.resource.org/cc/Notice"/>
+        <requires rdf:resource="https://web.resource.org/cc/Attribution"/>
+        <prohibits rdf:resource="https://web.resource.org/cc/CommercialUse"/>
+
+    </License>
+</rdf:RDF>
+-->  <div data-tistory-react-app="SupportButton"></div>
+</div>
+
+                    <!-- PostListinCategory - START -->
+<div class="another_category another_category_color_gray">
+  <h4>'<a href="/category/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0">자료구조</a>' 카테고리의 다른 글</h4>
+  <table>
+    <tr>
+      <th><a href="/298">Hash Collision(해시 충돌) Chaining(체이닝) 및 kotlin 구현</a>&nbsp;&nbsp;<span>(1)</span></th>
+      <td>2023.11.14</td>
+    </tr>
+    <tr>
+      <th><a href="/297">HashTable Open Addressing(Linear Probing) kotlin 구현</a>&nbsp;&nbsp;<span>(0)</span></th>
+      <td>2023.11.10</td>
+    </tr>
+    <tr>
+      <th><a href="/295">Map Hash(Hash Table, Hash Function)</a>&nbsp;&nbsp;<span>(1)</span></th>
+      <td>2023.11.07</td>
+    </tr>
+    <tr>
+      <th><a href="/292">균형 이진 트리 비교(AVL Tree vs Red-Black Tree)</a>&nbsp;&nbsp;<span>(0)</span></th>
+      <td>2023.11.02</td>
+    </tr>
+    <tr>
+      <th><a href="/291">Red-Black Tree (레드 블랙 트리) 데이터 삭제.</a>&nbsp;&nbsp;<span>(1)</span></th>
+      <td>2023.11.02</td>
+    </tr>
+  </table>
+</div>
+
+<!-- PostListinCategory - END -->
+
+    </div>
+    <div class="area_etc">
+      
+    </div>
+
+    
+      <div class="area_related">
+        <strong class="tit_related">'자료구조' Related Articles</strong>
+        <ul class="list_related">
+          
+            <li class="thumb_type">
+              <a href="/298?category=939138" class="link_related">
+                
+                  <span class="thumb_related">
+                    <img loading="lazy"
+                      src="//i1.daumcdn.net/thumb/C185x200.fwebp.q85/?fname=https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcuR9z0%2FbtsAny7WhNp%2F2RknGSa1g4KeIXKRuLF3Zk%2Fimg.png"
+                      class="img_related" alt="">
+                  </span>
+                
+                <span class="txt_related">Hash Collision(해시 충돌) Chaining(체이닝) 및 kotlin 구현</span>
+                <span class="date_related">2023.11.14</span>
+                <span class="frame_related"></span>
+              </a>
+            </li>
+          
+            <li class="text_type">
+              <a href="/297?category=939138" class="link_related">
+                
+                <span class="txt_related">HashTable Open Addressing(Linear Probing) kotlin 구현</span>
+                <span class="date_related">2023.11.10</span>
+                <span class="frame_related"></span>
+              </a>
+            </li>
+          
+            <li class="thumb_type">
+              <a href="/295?category=939138" class="link_related">
+                
+                  <span class="thumb_related">
+                    <img loading="lazy"
+                      src="//i1.daumcdn.net/thumb/C185x200.fwebp.q85/?fname=https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FviO4N%2FbtszXEgM8G5%2FcZ2MEz8XpFQW21Ivt6x4EK%2Fimg.png"
+                      class="img_related" alt="">
+                  </span>
+                
+                <span class="txt_related">Map Hash(Hash Table, Hash Function)</span>
+                <span class="date_related">2023.11.07</span>
+                <span class="frame_related"></span>
+              </a>
+            </li>
+          
+            <li class="thumb_type">
+              <a href="/292?category=939138" class="link_related">
+                
+                  <span class="thumb_related">
+                    <img loading="lazy"
+                      src="//i1.daumcdn.net/thumb/C185x200.fwebp.q85/?fname=https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FZyHTp%2FbtszzFocxec%2FdeXCWueFQ4K5DXKQ3hw2rk%2Fimg.png"
+                      class="img_related" alt="">
+                  </span>
+                
+                <span class="txt_related">균형 이진 트리 비교(AVL Tree vs Red-Black Tree)</span>
+                <span class="date_related">2023.11.02</span>
+                <span class="frame_related"></span>
+              </a>
+            </li>
+          
+        </ul>
+        <a href="/category/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0" class="link_more">more</a>
+      </div>
+    
+
+    <div class="area_reply">
+      <div data-tistory-react-app="Namecard"></div><div id="entry296Comment">
+        <div data-tistory-react-app="Comment"></div>
+
+      </div>
+<script type="text/javascript">loadedComments[296]=true;
+findFragmentAndHighlight(296);</script>
+
+    </div>
+
+
+  
+
+        
+    
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+          </div>
+        </div>
+      </div>
+      <hr class="hide">
+      <div id="dkFoot" role="contentinfo" class="area_foot">
+        <small class="info_copyright">
+          Blog is powered by
+          <a href="http://www.kakaocorp.com" class="emph_t" target="_blank">kakao</a> / Designed by
+          <a href="http://www.tistory.com" class="emph_t" target="_blank">Tistory</a>
+        </small>
+      </div>
+    </div>
+
+
+  
+  <script src="https://tistory1.daumcdn.net/tistory/0/Ray2/images/script.js"></script>
+<div class="#menubar menu_toolbar ">
+  <h2 class="screen_out">티스토리툴바</h2>
+</div>
+<div class="#menubar menu_toolbar "></div>
+<div class="layer_tooltip">
+  <div class="inner_layer_tooltip">
+    <p class="desc_g"></p>
+  </div>
+</div>
+<div id="editEntry" style="position:absolute;width:1px;height:1px;left:-100px;top:-100px"></div>
+
+
+                <!-- DragSearchHandler - START -->
+<script src="//search1.daumcdn.net/search/statics/common/js/g/search_dragselection.min.js"></script>
+
+<!-- DragSearchHandler - END -->
+
+        <!-- SyntaxHighlight - START -->
+        <link href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/styles/atom-one-light.min.css" rel="stylesheet"/><script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/highlight.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/delphi.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/php.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/python.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/r.min.js" defer></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/ruby.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/scala.min.js" defer></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/shell.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/sql.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/swift.min.js" defer></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/typescript.min.js" defer></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/vbnet.min.js" defer></script>
+  <script>hljs.initHighlightingOnLoad();</script>
+
+
+        <!-- SyntaxHighlight - END -->
+
+                
+                <div style="margin:0; padding:0; border:none; background:none; float:none; clear:none; z-index:0"></div>
+<script type="text/javascript" src="https://tistory1.daumcdn.net/tistory_admin/userblog/userblog-b6d1f83d4f149775488b18445c7e8e023edb84b4/static/script/common.js"></script>
+<script type="text/javascript">window.roosevelt_params_queue = window.roosevelt_params_queue || [{channel_id: 'dk', channel_label: '{tistory}'}]</script>
+<script type="text/javascript" src="//t1.daumcdn.net/midas/rt/dk_bt/roosevelt_dk_bt.js" async="async"></script>
+
+                
+                <script>window.tiara = {"svcDomain":"user.tistory.com","section":"글뷰","trackPage":"글뷰_보기","page":"글뷰","key":"4094934-296","customProps":{"userId":"0","blogId":"4094934","entryId":"296","role":"guest","trackPage":"글뷰_보기","filterTarget":false},"entry":{"entryId":"296","entryTitle":"Hash Collision(해시 충돌) Open Addressing(개방 주소법)","entryType":"POST","categoryName":"자료구조","categoryId":"939138","serviceCategoryName":null,"serviceCategoryId":null,"author":"4491980","authorNickname":"hik14","blogNmae":"오늘도 더 나은 코드를 작성하였습니까?","image":"kage@b5blAH/btsz1eYd876/UrvXK9GwSKXHZLu3alVdWk","plink":"/296","tags":[]},"kakaoAppKey":"3e6ddd834b023f24221217e370daed18","appUserId":"null"}</script>
+<script type="module" src="https://t1.daumcdn.net/tistory_admin/frontend/tiara/v1.0.5/index.js"></script>
+<script src="https://t1.daumcdn.net/tistory_admin/frontend/tiara/v1.0.5/polyfills-legacy.js" nomodule="true" defer="true"></script>
+<script src="https://t1.daumcdn.net/tistory_admin/frontend/tiara/v1.0.5/index-legacy.js" nomodule="true" defer="true"></script>
+
+                </body>
+
+</html>

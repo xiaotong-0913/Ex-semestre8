@@ -1,0 +1,1897 @@
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<meta name="google-site-verification" content="VjHeOwrJeamXpn3EhUY7ZXt2_73sJVpWQ80gwDa6-rE" />
+<link rel="shortcut icon" href="/images/common/favicon_16.ico">
+<link rel="apple-touch-icon-precomposed" href="/images/common/favicon_96.png">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.css"/>
+<!--페이스북 인증 메타태그 등록 2021-04-21 김영순-->
+ <meta name="facebook-domain-verification" content="xjvpkjk1a3fz9nzfmqe7jygmli8mav" />
+ <meta name="facebook-domain-verification" content="nyedn3qpatz7zur9vbmms5epehnszw" />
+ 
+<meta name="keywords" content="동아비즈니스리뷰, Donga Business Review, 비즈니스 리더의 프리미엄 솔루션"/>
+<meta name="description" content="Article at a Glance &#8211; 마케팅 상대방의 주변이나 말투, 옷차림 등을 관찰해 성격을 파악할 수 있는 단서를 얻어내는 것을 스누핑(snooping)이라고 한다. 영업인은 처음 만나는 고객을 잘 살펴 상대방의 성격을 짐작하고 이에 맞는 대응방식을 적용해 성과를 낼 수 있다. 샘 고스링 교수는 사람의 성격을 개방성, 성실성, 외향성, 동 ...">
+
+<meta property="fb:app_id" content="343882849301357" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="[DBR] 개방성·성실성·외향성·동조성·신경성 고객성격을 파악하면 영업이 쉬워진다" />
+<meta property="og:image" content="https://dbr.donga.com/upload_dir/old/697e2ab7ec.png" />
+<meta property="og:description" content="Article at a Glance &#8211; 마케팅 상대방의 주변이나 말투, 옷차림 등을 관찰해 성격을 파악할 수 있는 단서를 얻어내는 것을 스누핑(snooping)이라고 한다. 영업인은 처음 만나는 고객을 잘 살펴 상대방의 성격을 짐작하고 이에 맞는 대응방식을 적용해 성과를 낼 수 있다. 샘 고스링 교수는 사람의 성격을 개방성, 성실성, 외향성, 동 ..." />
+<meta property="og:site_name" content="동아비즈니스리뷰" />
+<meta property="og:url" content="https://dbr.donga.com/article/view/1202/article_no/7099">
+<link rel="image_src" href="https://dbr.donga.com/upload_dir/old/697e2ab7ec.png" />
+<title>개방성·성실성·외향성·동조성·신경성 고객성격을 파악하면 영업이 쉬워진다 | 마케팅/세일즈 | DBR</title>
+<link rel="canonical" href="https://dbr.donga.com/">
+
+<script type="text/javascript" src="/js/2022/jquery_min_1.8.0.js"></script>
+<!--<script type="text/javascript" src="/js/jquery-1.12.1.min.js"></script>-->
+
+<link rel="stylesheet" href="/css/2022/banner.css?v=202501110120">
+
+<script type="text/javascript" src="/js/2022/common.js?v=20250111_2"></script>
+<script type="text/javascript" src="/js/new/jquery.cookie.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.js"></script>
+<script type="text/javascript">
+(function($){
+	$(document).ready(function(){
+
+        //모바일 디바이스 정보 체크하여 쿠키 생성
+        //var imchk    = getCookie( 'imchk' );
+        var is_mobile = mobileDetect();
+        $.cookie('imchk', is_mobile, { expires: 1, path: '/' });
+
+				var classnm=".side_sticky";
+				var floatPosition = parseInt($(classnm).css('top'));
+	    $(window).scroll(function()
+	    {
+	        var scrollTop = $(window).scrollTop();
+	        var newPosition = floatPosition + scrollTop + 'px';
+	        $(classnm).stop().animate({'top':newPosition},200);
+	    });
+
+		//TOP 배너 클릭 수 처리
+	    top_banner_click = function(banner_id){
+	        // alert(banner_id);
+	       var dataString = "banner_id="+banner_id;
+	       $.ajax({
+	            type : "POST",
+	            url : "/proc/banner_click",
+	            data : dataString,
+	            headers: { "cache-control": "no-cache","pragma": "no-cache" },
+	            dataType : "json",
+	            cache: false,
+	            async: true, // true: 비동기, false: 동기
+	            success : function(data)
+	            {
+	                if(data['code'] == 1)
+	                {
+	                   // alert(data['msg']);
+	                   if(data['link_format'] == '_blank')
+	                   {
+	                        window.open(data['link_url'],"_blank");
+	                   }
+	                   else
+	                   {
+	                        location.href=data['link_url'];
+	                   }
+	                }
+	                else
+	                {
+	                    //alert(data['msg']);
+	                   if(data['link_format'] == '_blank')
+	                   {
+	                        window.open(data['link_url'],"_blank");
+	                   }
+	                   else
+	                   {
+	                        location.href=data['link_url'];
+	                   }
+	                }
+	            },
+	            error : function(jqXHR,textStatus, errorThrown) {
+	                //alert("에러 jqXHR : " + jqXHR.status);
+	                //alert(textStatus + ", " + errorThrown);
+	                //return false;
+	               if(data['link_format'] == '_blank')
+	               {
+	                    window.open(data['link_url'],"_blank");
+	               }
+	               else
+	               {
+	                    location.href=data['link_url'];
+	               }
+	            }
+	        });
+	    }
+
+	    	    $(document).bind('keydown',function(e){
+	        if ( e.keyCode == 123 /* F12 */)
+	        {
+	            e.preventDefault();
+	            e.returnValue = false;
+	        }
+	    });
+	    
+	    TopBanneropen = function(winName){
+	       var topBannerCookie    = getCookie( winName );
+	       if( !topBannerCookie ) {
+	           $("#topbanner").css('display','');
+	           // $("#topbanner").removeClass('topbanner none').addClass('topbanner');
+
+	           	               dataString = "ad_area=4";
+	               	               $.ajax({
+	                    type : "POSt",
+	                    url : "/proc/ad_history",
+	                    data : dataString,
+	                    headers: { "cache-control": "no-cache","pragma": "no-cache" },
+	                    dataType : "json",
+	                    cache: false,
+	                    async: true, // true: 비동기, false: 동기
+	                    success : function(data)
+	                    {
+	                        if(data['code'] == 1)
+	                        {
+	                            // alert(data['msg']);
+	                        }
+	                        else
+	                        {
+	                            // alert(data['msg']);
+	                        }
+	                    },
+	                    error : function(jqXHR,textStatus, errorThrown) {
+	                        //alert("에러 jqXHR : " + jqXHR.status);
+	                        // alert(textStatus + ", " + errorThrown);
+	                        return false;
+	                    }
+	                });
+	            2
+	       }
+	       else
+	       {
+	           // $("#topbanner").removeClass('topbanner').addClass('topbanner none');
+	           $("#topbanner").css('display','none');
+	       }
+	    }
+
+	    TopBannerclose = function(winName, expiredays){
+	        setCookie( winName, "done" , expiredays);
+	        $("#topbanner").hide();
+	    }
+
+	    goSearch = function(key, keyword, frmID){
+	        //var keyword = $("input[name=q]").val();
+	        if(keyword == ''){
+	            alert('검색어를 입력해 주세요.');
+	            return false;
+	        }
+	        $("input[name=q]").val(keyword);
+		    $("input[name=query]").val(keyword);
+		    
+	        //var RegExp = /[\{\}\[\]\/?.,;:|\)*~`!^\-_+┼<>@\#$%&\'\"\\\(\=]/gi;  //정규식 구문
+		    // if (RegExp.test(keyword)) {
+		      // // 특수문자 모두 제거
+		      // keyword = keyword.replace(RegExp , '');
+		    // }
+
+		    $("input[name=q]").val(keyword);
+		    $("input[name=query]").val(keyword);
+
+			if(key != 'D'){
+				$("#sno").val(key);
+			}
+		    //검색어 히스토리 저장
+		    var dataString = $("#"+frmID).serialize();
+		    //alert(dataString);
+		    $.ajax({
+		        type : "POST",
+		        url : "/search/ajaxKeyword/",
+		        data : dataString,
+		        headers: { "cache-control": "no-cache","pragma": "no-cache" },
+		        dataType : "json",
+		        cache: false,
+		        async: false, // true: 비동기, false: 동기
+		        success : function(data)
+		        {
+		            //alert(data);
+		            if(data['code'] == 1)
+		            {
+		                // alert(data['msg']);
+		           	 	// return;
+		           	 	$("#"+frmID).attr("action","/search");
+		    			$("#"+frmID).submit();
+		            }
+		            else
+		            {
+		                alert(data['msg']);
+		            	return false;
+		            }
+		        },
+		        error : function(jqXHR,textStatus, errorThrown)
+		        {
+		            //alert("에러 jqXHR : " + jqXHR.status);
+		            alert(textStatus + ", " + errorThrown);
+		            return false;
+		        }
+		    });
+		}
+
+		TopBanneropen('topbanner');
+	});
+})(jQuery);
+
+function setCookie(name, value, expiredays){
+    var todayDate = new Date();
+    todayDate.setDate (todayDate.getDate() + expiredays);
+    document.cookie = name + "=" + escape(value) + "; path=/; expires=" + todayDate.toGMTString() + ";";
+}
+
+function getCookie(name){
+    var nameOfCookie = name + "=";
+    var x = 0;
+    while (x <= document.cookie.length)
+    {
+        var y = (x + nameOfCookie.length);
+        if (document.cookie.substring(x, y) == nameOfCookie)
+        {
+            if ((endOfCookie = document.cookie.indexOf(";", y)) == -1){
+                endOfCookie = document.cookie.length;
+            }
+            return unescape (document.cookie.substring(y, endOfCookie));
+        }
+        x = document.cookie.indexOf (" ", x) + 1;
+        if (x == 0) break;
+    }
+    return "";
+}
+</script>
+
+<script defer type="text/javascript" charset="utf-8" src="//tagm.uneedcomms.com/tgm/dbrdongacom/uneedcomms_tgm.js"></script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NVP78ZD');</script>
+<!-- End Google Tag Manager -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-96059929-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- 2017-10-30 신규추적코드 삽입-->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-96059929-3"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){
+		dataLayer.push(arguments);
+	}
+	gtag('js', new Date());
+  	gtag('config', 'UA-96059929-3');
+  	ga('require', 'displayfeatures');
+</script>
+
+<!-- 2021-08-03 신규추적코드 삽입-->
+<!-- Global site tag (gtag.js) - Google Ads: 828111483 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-828111483"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){
+		dataLayer.push(arguments);
+	}
+	gtag('js', new Date());
+	gtag('config', 'AW-828111483');
+	//2021-09-07 블라인드 티켓 구글디스커버리 광고 전환 코드 삽입
+	gtag('config', 'AW-311756516');
+</script>
+
+<!-- Facebook Pixel Code 2019-11-04 김영순 -->
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '1683553561964244');
+  //모든페이지에 공통으로 호출되는 곳에 삽입(모든 페이지에서 실행)
+  fbq('track', 'PageView');
+</script>
+<noscript>
+  <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1683553561964244&ev=PageView&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+<!-- Facebook Pixel Code 2019-11-04 김영순 -->
+
+<!-- 카울리 스크립트 공통영역 2021-06-03 김영순 -->
+<script type="text/javascript">
+window._paq = window._paq || [];
+_paq.push(['track_code',"421624f1-a413-4bde-b71c-09cb9d5f3fd2"]);
+_paq.push(['event_name','OPEN']);
+_paq.push(['send_event']);
+(function(){
+var u="//image.cauly.co.kr/script/";
+var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+g.type='text/javascript';
+g.async=true;
+g.defer=true;
+g.src=u+'caulytracker_async.js';
+s.parentNode.insertBefore(g,s);
+})();
+</script>
+
+<link rel="stylesheet" type="text/css" href="/css/2022/font.css?v=202501110120">
+<link rel="stylesheet" type="text/css" href="/css/2022/base.css?v=202501110120">
+<link rel="stylesheet" type="text/css" href="/css/2022/style_o.css?v=202501110120">
+<link rel="stylesheet" type="text/css" href="/css/2022/login.css?v=202501110120">
+<link rel="stylesheet" type="text/css" href="/css/2022/main_o.css?v=202501110120">
+<link rel="stylesheet" type="text/css" href="/css/2022/sub.css?v=202501110120">
+<link rel="stylesheet" type="text/css" href="/css/2022/service_new.css?v=202501110120">
+<link rel="stylesheet" type="text/css" href="/css/2022/layout.css?v=202501110120">
+<link rel="stylesheet" type="text/css" href="/css/2022/layout2.css?v=202501110120">
+<link rel="stylesheet" type="text/css" href="/css/2022/content.css?v=202501110120">
+<link rel="stylesheet" type="text/css" href="/css/2022/board.css?v=202501110120">
+<link rel="stylesheet" type="text/css" href="/css/2022/sub_content.css?v=202501110120">
+<link rel="stylesheet" type="text/css" href="/css/2022/service.css?v=202501110120">
+<link rel="stylesheet" type="text/css" href="/css/2022/pop.css?v=202501110120">
+<link rel="stylesheet" type="text/css" href="/css/2022/main.css?v=202501110120">
+
+
+<link rel="stylesheet" href="/css/2022/import.css?v=202501110120" type="text/css" media="screen" />
+
+</head>
+<body oncontextmenu="return false" onselectstart="return false" ondragstart="return false" >
+<script type="text/javascript">
+(function($) {
+	$(document).ready(function () {
+	    $(".pc-slide").not(".active").hide(); //화면 로딩 후 첫번째 div를 제외한 나머지 숨김
+	    setInterval(nextSlidePc, 5000); //5초(5000)마다 다음 슬라이드로 넘어감
+
+	    $(".mo-slide").not(".active").hide(); //화면 로딩 후 첫번째 div를 제외한 나머지 숨김
+	    setInterval(nextSlideMo, 5000); //5초(5000)마다 다음 슬라이드로 넘어감
+	});
+
+	//다음 슬라이드(PC)
+	function nextSlidePc() {
+	    $(".pc-slide").hide();
+	    var allSlide = $(".pc-slide");
+	    var currentIndex = 0;
+
+	    $(".pc-slide").each(function(index,item){
+	        if($(this).hasClass("active")) {
+	            currentIndex = index;
+	        }
+	    });
+
+	    var newIndex = 0;
+
+	    if(currentIndex >= allSlide.length-1) {
+	        //현재 슬라이드 index가 마지막 순서면 0번째로 보냄(무한반복)
+	        newIndex = 0;
+	    } else {
+	        //현재 슬라이드의 index에서 한 칸 만큼 앞으로 간 index 지정
+	        newIndex = currentIndex+1;
+	    }
+	    $(".pc-slide").removeClass("active");
+	    $(".pc-slide").eq(newIndex).addClass("active");
+	    $(".pc-slide").eq(newIndex).show();
+	}
+
+	//다음 슬라이드(모바일)
+	function nextSlideMo() {
+	    $(".mo-slide").hide();
+	    var allSlide = $(".mo-slide");
+	    var currentIndex = 0;
+
+	    $(".mo-slide").each(function(index,item){
+	        if($(this).hasClass("active")) {
+	            currentIndex = index;
+	        }
+	    });
+
+	    var newIndex = 0;
+
+	    if(currentIndex >= allSlide.length-1) {
+	        //현재 슬라이드 index가 마지막 순서면 0번째로 보냄(무한반복)
+	        newIndex = 0;
+	    } else {
+	        //현재 슬라이드의 index에서 한 칸 만큼 앞으로 간 index 지정
+	        newIndex = currentIndex+1;
+	    }
+	    $(".mo-slide").removeClass("active");
+	    $(".mo-slide").eq(newIndex).addClass("active");
+	    $(".mo-slide").eq(newIndex).show();
+	}
+})(jQuery);
+</script>
+
+
+
+
+
+<!--그래픽DBR-->
+<script type="text/javascript" src="/js/jquery.vgrid.min.js"></script>
+
+<div id="topbanner" class="top-banner-wrap" style="display: none;">
+	<ul class="pc-slideshow-container">
+	     	<li class="pc-slide fade active" style="height:80px; background:#1e0d6e;">
+            <a href="#" onclick="top_banner_click('607');">
+            <img src="/upload_dir/banner/2024/997ee5a61d2647896da437165a264604.jpg" alt="ChatGPT 마스터 최신판 UP+ 온라인 패키지 (12월)" class="ban-pc-view" /><!--pc 배너-->
+            </a>
+		</li>
+	     	<li class="pc-slide fade " style="height:80px; background:#31281c;">
+            <a href="#" onclick="top_banner_click('603');">
+            <img src="/upload_dir/banner/2024/e4cf78ea7fed0769775521c43fa2a4e9.jpg" alt="DBR 2024 연말패키지" class="ban-pc-view" /><!--pc 배너-->
+            </a>
+		</li>
+		</ul>
+	<ul class="mo-slideshow-container">
+	     	<li class="mo-slide fade active" style="background:#1e0d6e;">
+            <a href="#" onclick="top_banner_click('596');">
+            <img src="/upload_dir/banner/2024/a833a3b1cfbaf2fa9189ef4052282611.jpg" alt="ChatGPT 마스터 최신판 UP+ 온라인 패키지" class="ban-m-view"/><!--pc브라우저 창크기 줄였을때(모바일 이미지와 동일)-->
+            </a>
+		</li>
+	     	<li class="mo-slide fade " style="background:#31281c;">
+            <a href="#" onclick="top_banner_click('604');">
+            <img src="/upload_dir/banner/2024/214903d1626e3d22f2478c784f9c78fc.jpg" alt="DBR 2024 연말패키지" class="ban-m-view"/><!--pc브라우저 창크기 줄였을때(모바일 이미지와 동일)-->
+            </a>
+		</li>
+	     </ul>
+	<button onclick="TopBannerclose('topbanner', 1);" class="close"><img src="/images/banner/x.png" alt="닫기" /></button><!--클릭시 하루동안 안보이게 해주세요-->
+</div>
+<style>
+.top_bar {text-align: right; padding: 6px 0px; display: block; background: #f9f9f9;}
+.top_bar_txt {font-size: 1.3em !important; color: #666 !important;}
+.top_bar_line {font-size:0.6em; color:#ddd; vertical-align: text-top; padding:0 10px; }
+.top_edu_btn {color: #fff !important; font-weight: bold !important; font-size: 1.4em !important; background: #ee7b1a; padding: 6px 10px; margin-left: 5px;}
+
+.logo_edu {display:inline-block; margin-left:20px; padding-left:20px; border-left:1px solid #ccc; position:absolute; bottom:8px; }
+.logo_edu_txt {font-size: 1.3em; color: #666; font-weight: normal;}
+
+@media(max-width: 768px){
+  .top_bar {display: none;}
+  .top_bar_txt {display: none;}
+  .top_edu_btn {display: none;}
+}
+</style>
+<div class="top_bar">
+  <section class="wrapper">
+		<a href="/login?re_url=/article/view/1202/article_no/7099/ac/magazine" class="top_bar_txt">로그인</a><span class="top_bar_line">|</span><a href="/join?re_url=/article/view/1202/article_no/7099/ac/magazine" class="top_bar_txt">회원가입</a><span class="top_bar_line">|</span><a href="/help/faq" class="top_bar_txt">고객센터</a>
+  </section>
+</div>
+
+<section class="wrapper"><!-- PC 플로팅 메뉴 -->
+<div class="side_sticky">
+    <!-- 잦은 민원으로 인해 플로팅 메뉴 삭제 2023-05-09 박은진
+    <ul>
+        <li><a style="cursor: pointer;"><img src="/images/2022/side_icon01.png" alt="고객센터:02-6718-7802" title="고객센터:02-6718-7802"></a></li>
+        <li><a href='/service/basket'><img src="/images/2022/side_icon06.png" alt="장바구니" title="장바구니"></a></li>
+        <<li><a href='/join'><img src="/images/2022/side_icon02.png"></a></li>
+        <li><a href="/help/qna"><img src="/images/2022/side_icon03.png" alt="1:1 문의" title="1:1 문의"></a></li>
+        <li><a href="/mypage/subscription"><img src="/images/2022/side_icon04.png" alt="주소 변경"  title="주소 변경"></a></li>
+        <li><a style="cursor:pointer;" onclick="window.open('/proc/schedule','','width=758,height=500');return false;"><img src="/images/2022/side_icon05.png" alt="DBR 발행일" title="DBR 발행일"></a></li>
+    </ul>-->
+        <div><a onclick="window.scrollTo(0,0);" style="cursor: pointer;"><img src="/images/2022/side_top.png" alt="Top" title="Top"></a></div>
+    </div>
+<!-- PC 플로팅 메뉴 -->
+<!-- 모바일 플로팅 메뉴 -->
+<div class="side_sticky_m">
+    <!-- 잦은 민원으로 인해 플로팅 메뉴 삭제 2023-05-09 박은진
+    <div class="menu">
+       <input type="checkbox" href="#" class="menu-open" name="menu-open" id="menu-open" />
+       <label class="menu-open-button" for="menu-open">
+            <span class="lines line-1"></span>
+            <span class="lines line-2"></span>
+            <span class="lines line-3"></span>
+       </label>
+       <a href="/mypage/subscription" class="menu-item"><img src="/images/2022/side_icon04.png" alt="주소 변경"  title="주소 변경"></a>
+       <a href="/help/qna" class="menu-item"><img src="/images/2022/side_icon03.png" alt="1:1 문의" title="1:1 문의"></a>
+       <a href="/service/basket" class="menu-item"><img src="/images/2022/side_icon06.png" alt="장바구니" title="장바구니"></a>
+       <a href="/join" class="menu-item"><img src="/images/2022/side_icon02.png"></a>
+       <a href="tel:02-6718-7802" class="menu-item orange"><img src="/images/2022/side_icon01_m.png" alt="고객센터" title="고객센터"></a>
+    </div>-->
+        <div class="side_top_m">
+        <a onclick="window.scrollTo(0,0);" style="cursor: pointer;"><img src="/images/2022/side_top.png"></a>
+    </div>
+     </div>
+<!-- 모바일 플로팅 메뉴 -->
+
+<!--PC 검색 영역 -->
+<form action="javascript://" method="get" id="gnbSearchForm" name="gnbSearchForm" accept-charset="utf-8">
+<input type="hidden" name="set" id="set" value="DBR_TOTAL"/>
+<input type="hidden" name="page" id="page" value="1"/>
+<input type="hidden" name="sort" id="sort" value=""/>
+<input type="hidden" name="query" id="query1" value=""/>
+<input type="hidden" name="oldq" id="oldq" value=""/>
+<input type="hidden" name="sno" id="sno" value=""/>
+<div class="dbr_header_pc">
+    <a href="/"><img src="/images/2022/logo.jpg" alt="DBR로고"></a>    
+    <a href="https://www.dbredu.com" target="_blank" class="logo_edu">
+      <h5 class="logo_edu_txt">DBR의 교육솔루션</h5>
+      <img src="/images/2022/logo_dbredu.png" alt="DBR에듀 로고">
+      <!--h5 class="logo_edu_txt">DBR과 함께하는</h5>
+      <img src="https://dbr.donga.com/images/2022/logo_ces.png" alt="CES 인사이트 투어"-->
+    </a>
+    <div class="header_search_wrap">
+        <!-- 검색창 구조 변경 2023-05-02 박은진
+        <span><input type="text" class="input_search" id="q" name="q" onKeydown="javascript:if(event.keyCode==13) {goSearch('D',this.value,'gnbSearchForm');}"></span>-->
+        <span class="search_input">
+            <input type="text" class="search_text" id="q" name="q" onKeydown="javascript:if(event.keyCode==13) { goSearch('D',this.value,'gnbSearchForm');}">
+            <button type="button" class="search_btn" id="search_btn" name="search_btn" onclick="goSearch('D',document.gnbSearchForm.q.value,'gnbSearchForm');"></button>
+        </span>
+                <!--span class="join_log">
+        	            <a href="/login?re_url=/article/view/1202/article_no/7099/ac/magazine">로그인</a> / <a href="/join?re_url=/article/view/1202/article_no/7099/ac/magazine">회원가입</a>
+        </span-->
+            </div>
+    </div>
+</form>
+<!--PC 검색 영역 -->
+
+<script type='text/javascript'>
+    var search_input = $('.search_input');
+    var search_text = $('.search_text');
+    var search_btn = $('.search_btn');
+    search_text.focus(function(){
+        search_input.addClass('focus');
+        search_text.addClass('focus_txt');
+        search_btn.addClass('focus_btn');
+    });
+    search_text.blur(function(){
+        search_input.removeClass('focus');
+        search_text.removeClass('focus_txt');
+        search_btn.removeClass('focus_btn');
+    })
+</script><!-- 모바일 햄버거 메뉴 -->
+<div class="dbr_header_mo">
+    <a href="/"><img src="/images/2022/logo.jpg" alt="DBR로고" class="btn_logo"></a>
+    <!--a href="/askbiz/index"><img src="https://dbr.donga.com/images/2022/ab_logo_m.png" alt="Askbiz 버튼" class="btn_askbiz"></a-->
+    <a href="/search/mobile"><img src="/images/2022/btn_search_mo.png" alt="검색버튼" class="btn_search"></a>
+    <img src="/images/2022/top_allmenu_off.jpg" alt="메뉴버튼" class="btn_menu_mo mo_menu">
+    <!--<div class="mo_menu">
+      <a href="#">menu</a>
+    </div>-->
+    <!-- 메뉴 UI 개선 : 2024-03-05 박은진 -->
+    <div class="left_gnbWrap">
+        <div class="left_gnb_menu">
+            <a href="/" style="flex:0 0 60%;"><img src="/images/2022/m_logo_menu.png" alt="DBR 로고"></a>
+                                    <a href="/login?re_url=/article/view/1202/article_no/7099/ac/magazine" class="btn_mo_menu"><strong>로그인</strong></a>
+                        <a href="#" class="close"><img src="/images/2022/m_menu_close.png" alt="모바일메뉴닫기"></a>
+        </div>
+        <ul>
+            <li class="active">
+                <a href="#" class="menu_one">아티클</a>
+                <ul class="m_submenu_wrap">
+                    <li>
+                        <dl>
+                        <dd><a href="/special">스페셜 리포트</a></dd>
+                        <dd><a href="/article/index/1901">케이스 스터디</a></dd>
+                        </dl>
+                        <dl>
+                        <dd><a href="/article/index/1203">경영일반/경영전략</a></dd>
+                        <dd><a href="/article/index/1201">인사/조직</a></dd>
+                        </dl>
+                        <dl>
+                        <dd><a href="/article/index/1202">마케팅/세일즈</a></dd>
+                        <dd><a href="/article/index/1306">리더십/자기계발</a></dd>
+                        </dl>
+                        <dl>
+                        <dd><a href="/article/index/1905">인문</a></dd>
+                        <dd><a href="/article/index/1904">AI/DT</a></dd>
+                        </dl>
+                        <dl>
+                        <dd><a href="/casestudyhub">Case Study Hub<span class="engtag">ENG</span></a></dd>
+                        <dd><a href="/service/pdf">PDF 전체보기</a></dd>
+                        <dd><a href="/audio_dbr">audio DBR<img src="https://dbr.donga.com/images/common/icon_audio_wh.png" style="width:16px; margin-left:7px; position:absolute; top:8px;"></a></dd>
+                        </dl>
+                        <!--dl>
+                        <dd><a href="/article/index/1401">글로벌리포트</a></dd>
+                        <dd><a href="/article/index/1205">재무회계</a></dd>
+                        </dl-->
+                    </li>
+                </ul>
+            </li>
+            <li><a href="/service" class="menu_one">구독신청</a></li>
+            <li><a href="/event" class="menu_one">이벤트</a></li>
+            <li><a href="/help/faq/cid/1_1_1" class="menu_one">고객센터</a></li>
+            <li><a href="/premium" class="menu_one">PREMIUM</a></li>
+            <li><a href="/mypage" class="menu_one">MY DBR</a></li>
+        </ul>
+    </div>
+</div>
+<!-- 모바일 햄버거 메뉴 -->
+
+<!-- 전체메뉴 -->
+<nav>
+    <div class="allmenu_n">
+        <input type="checkbox" class="" id="collapsible">
+        <label for="collapsible"></label>
+        <ul id="menuitems" class="menuitems">
+            <li>
+                <p>아티클</p>
+                <div class="allmenu_sub">
+                    <!--span><a href="/article/index/total">전체 기사 보기</a></span-->
+                    <span><a href="/special" style="color:#ee7b1a;">스페셜 리포트</a></span>
+                    <span><a href="/article/index/1901" style="color:#ee7b1a;">케이스 스터디</a></span><br>
+                    <!--span>직무별</span><span class="line">|</span-->
+                    <span><a href="/article/index/1203">경영전략/경영일반</a></span>
+                    <!--span><a href="/article/index/1206">경영일반</a></span>
+                    <span><a href="/article/index/1203">경영전략</a></span-->
+                    <span><a href="/article/index/1201">인사/조직</a></span>
+                    <!--span><a href="/article/index/1306">리더십</a></span-->
+                    <span><a href="/article/index/1202">마케팅/세일즈</a></span>
+                    <span><a href="/article/index/1306">리더십/자기계발</a></span>
+                    <span><a href="/article/index/1905">인문</a></span>
+                    <span><a href="/article/index/1904">AI/DT</a></span>
+                    <!--span><a href="/article/index/1205">재무회계</a></span>
+                    <span><a href="/article/index/1303">자기계발</a></span>
+                    <span><a href="/article/index/1401">글로벌리포트</a></span--><br>
+                    <!--span>업종별</span><span class="line">|</span>
+                    <span><a href="/article/index/2101">스타트업</a></span>
+                    <span><a href="/article/index/2102">IT</a></span>
+                    <span><a href="/article/index/2103">의료</a></span>
+                    <span><a href="/article/index/2104">금융</a></span>
+                    <span><a href="/article/index/2105">유통</a></span>
+                    <span><a href="/article/index/2106">건설/제조</a></span>
+                    <span><a href="/article/index/2107">서비스</a></span><br-->
+                    <span><a href="/article/index/total">전체 기사 보기</a></span>
+                    <span><a href="/magazine">호수별</a></span>
+                    <span><a href="/casestudyhub">Case Study Hub<i class="engtag">ENG</i></a></span>
+                    <span><a href="/audio_dbr">audio DBR<img src="https://dbr.donga.com/images/common/icon_audio_gr.png" style="width:16px; margin-left:7px; position:absolute; top:4px;"></a></span>
+                    <span style="margin-left:20px;"><a href="/service/pdf">PDF 전체보기</a></span>
+                    <!--span><a href="/series/lists">연재물별</a></span>
+                    <span><a href="/author/lists">필진별</a></span>
+                    <span><a href="/graphic">그래픽DBR</a></span>
+                    <span><a href="/advertorial">애드버토리얼</a></span-->
+                </div>
+            </li>
+            <li>
+                <p>구독</p>
+                <div class="allmenu_sub">
+                    <span><a href="/service/month">월정액 서비스</a></span>
+                    <span><a href="/service/year">연간 서비스</a></span>
+                    <span><a href="/service/single">낱권</a></span>
+                    <!--span><a href="/service/audio">오디오북</a></span>
+                    <span><a href="/service/ebook">eBook</a></span-->
+                    <span><a href="/service/general">PDF</a></span>
+                    <span><a href="/service/cartload">대량/법인</a></span>
+                    <!--<span><a href="/service/academy">아카데미</a></span>-->
+                </div>
+            </li>
+            <!--li>
+                <p>비즈런</p>
+                <div class="allmenu_sub">
+                    <span><a href="/bizlearn">전체강좌</a></span>
+                    <span><a href="/bizlearn/lists/category/3101">패키지</a></span>
+                    <span><a href="/bizlearn/lists/category/3102">비즈니스</a></span>
+                    <span><a href="/bizlearn/lists/category/3103">마케팅</a></span>
+                    <span><a href="/bizlearn/lists/category/3104">리더십</a></span>
+
+                </div>
+            </li-->
+            <li>
+                <p>이벤트</p>
+                <div class="allmenu_sub">
+                    <span><a href="/event">이벤트</a></span>
+                    <!--<span><a href="/event/book">북세통</a></span>-->
+                    <!--span><a href="/event/prizewinner">당첨자공지</a></span-->
+                </div>
+            </li>
+            <li>
+                <p>고객센터</p>
+                <div class="allmenu_sub">
+                    <span><a href="/help">공지사항</a></span>
+                    <span><a href="/help/faq/cid/1_1_1">FAQ</a></span>
+                    <span><a href="/help/qna">1:1문의</a></span>
+                    <!--span><a href="/help/adcenter">광고문의</a></span-->
+                    <span><a href="/help/gift">이용권/상품권 인증</a></span>
+                    <!--span><a href="/help/sukang">비즈런 수강권 인증</a></span>
+                    <span><a href="/help/ebook">eBook 이용권 인증</a></span-->
+                    <!--span><a href="/help/subscr">정기 구독 인증</a></span-->
+                </div>
+            </li>
+        </ul>
+    </div>
+
+    <ul class="menu">
+        <li><a href="/article/index/total">아티클</a>
+            <div class="submenu_wrap menu_w400">
+                    <div class="submenu_top">
+                        <ol>
+                            <li><a href="/special" style="color:#ee7b1a;">스페셜 리포트</a></li>
+                            <li><a href="/article/index/1901" style="color:#ee7b1a;">케이스 스터디</a></li>
+                        </ol>
+                    </div>
+                    <div class="submenu_list">
+                      <ul>
+                        <li><a href="/article/index/1203">경영일반/경영전략</a></li>
+                        <li><a href="/article/index/1202">마케팅/세일즈</a></li>
+                        <li><a href="/article/index/1905">인문</a></li>
+                      </ul>
+                      <ul>
+                        <li><a href="/article/index/1201">인사/조직</a></li>
+                        <li><a href="/article/index/1306">리더십/자기계발</a></li>
+                        <li><a href="/article/index/1904">AI/DT</a></li>
+                      </ul>
+                        <!--ul>
+                            <li><a href="/article/index/1203">직무별</a></li>
+                            <li><a href="/article/index/1203">경영전략</a></li>
+                            <li><a href="/article/index/1202">마케팅/세일즈</a></li>
+                            <li><a href="/article/index/1201">인사/조직</a></li>
+                            <li><a href="/article/index/1205">재무회계</a></li>
+                        </ul>
+                        <ul>
+                            <li><a href="/article/index/1206">경영일반</a></li>
+                            <li><a href="/article/index/1306">리더십</a></li>
+                            <li><a href="/article/index/1303">자기계발</a></li>
+                            <li><a href="/article/index/1401">글로벌리포트</a></li>
+                            <li><a href="/article/index/2101">업종별</a></li>
+                            <li><a href="/article/index/2101">스타트업</a></li>
+                            <li><a href="/article/index/2102">IT</a></li>
+                            <li><a href="/article/index/2103">의료</a></li>
+                            <li><a href="/article/index/2104">금융</a></li>
+                            <li><a href="/article/index/2105">유통</a></li>
+                            <li><a href="/article/index/2106">건설/제조</a></li>
+                            <li><a href="/article/index/2107">서비스</a></li>
+                        </ul-->
+                    </div>
+                    <div class="submenu_bt">
+                      <ol>
+                        <li><a href="/article/index/total">전체 기사 보기</a></li>
+                        <li><a href="/magazine">호수별</a></li>
+                        <li><a href="/casestudyhub"><span style="font-size:13px;">Case Study Hub</span><i class="engtag">ENG</i></a></li>
+                        <li><a href="/service/pdf">PDF 전체보기</a></li>
+                        <li><a href="/audio_dbr">audio DBR<img src="https://dbr.donga.com/images/common/icon_audio_gr.png" style="width:16px; margin-left:7px; position:absolute; top:3px;"></a></li>
+                      </ol>
+                        <!--ol>
+                            <li><a href="/magazine">호수별</a></li>
+                            <li><a href="/series/lists">연재물별</a></li>
+                            <li><a href="/author/lists">필진별</a></li>
+                            <li><a href="/graphic">그래픽DBR</a></li>
+                            <li><a href="/service/pdf">PDF 전체보기</a></li>
+                            <li><a href="/advertorial">애드버토리얼</a></li>
+                        </ol-->
+                    </div>
+            </div>
+        </li>
+        <li><a href="/premium">PREMIUM</a></li>
+        <li><a href="https://www.hbrkorea.com/" target="_blank">HBR</a></li>
+        <li><a href="/service">구독</a>
+            <div class="submenu_wrap">
+                    <div class="submenu_list01">
+                        <ul>
+                            <li><a href="/service/month">월정액 서비스</a></li>
+                            <li><a href="/service/year">연간 서비스</a></li>
+                            <li><a href="/service/general">PDF/낱권/eBook</a></li>
+                            <li><a href="/service/cartload">대량/법인</a></li>
+                            <!--<li><a href="/service/academy">아카데미</a></li>-->
+                        </ul>
+                    </div>
+            </div>
+        </li>
+    </ul>
+</nav>
+<!-- 전체메뉴 --><!-- Facebook Pixel Code 2019-11-04 김영순 -->
+<script>
+    fbq('track', 'ViewContent', {
+    'content_type': 'product',
+    'content_category' : '마케팅/세일즈',
+    'content_ids': ['article_no/7099'],
+    'content_name':['[DBR] 개방성·성실성·외향성·동조성·신경성 고객성격을 파악하면 영업이 쉬워진다']
+    });
+</script>
+<!-- Facebook Pixel Code 2019-11-04 김영순 -->
+<script type="text/javascript">
+(function($){
+    $(document).ready(function(){
+        $('.icon-annotate').click(function(event){
+            var bid = $(this).attr('id');
+            $('.footnote').hide();
+            // $('.footnote').eq(bid).show();
+            $('.footnote').eq(bid).css('display','inline-block');
+        });
+
+        $('.close').click(function(event){
+             var bid = $(this).attr('id');
+             $('.footnote').eq(bid).hide();
+        });
+
+        banner_click = function(banner_id){
+           var dataString = "banner_id="+banner_id;
+           // alert(dataString);
+           $.ajax({
+                type : "POST",
+                url : "/proc/banner_click",
+                data : dataString,
+                headers: { "cache-control": "no-cache","pragma": "no-cache" },
+                dataType : "json",
+                cache: false,
+                async: true, // true: 비동기, false: 동기
+                success : function(data)
+                {
+                    if(data['code'] == 1)
+                    {
+                       //alert(data['msg']);
+                       if(data['link_format'] == '_blank')
+                       {
+                            window.open(data['link_url'],"popup","");
+                       }
+                       else
+                       {
+                            location.href=data['link_url'];
+                       }
+                    }
+                    else
+                    {
+                        alert(data['msg']);
+                    }
+                },
+                error : function(jqXHR,textStatus, errorThrown) {
+                    //alert("에러 jqXHR : " + jqXHR.status);
+                    alert(textStatus + ", " + errorThrown);
+                    return false;
+                }
+            });
+		}
+
+		$(".np_close a").click(function(e){
+            $('.naver_pop').fadeOut(200);
+			e.preventDefault()
+        });
+
+        $("#bar_close").click(function(){
+            $('.service-app-pop').hide();
+        });
+
+    });
+})(jQuery);
+</script>
+<script type="text/javascript" src="/js/content.js"></script>
+<script type="text/javascript" src="/js/new/content_func.js"></script>
+<script type="text/javascript" src="/js/new/jquery.dotdotdot.min.js"></script>
+<script type="text/javascript" src="/js/new/jquery.scrollContent.js"></script>
+<script type="text/javascript" src="/js/new/common.js"></script>
+<script type="text/javascript" src="/js/2022/common2.js"></script>
+<style>
+.img_resize img{
+	max-width: 100%;
+  	height: auto;
+  	display: block;
+}
+
+.cont-article{
+	line-height : 1.8em;
+}
+</style>
+<!-- 콘텐츠 영역 -->
+<div class="container">
+	<div class="article_top_line"></div>
+  <div class="article_warp">
+    <div class="mw_size article_warp_l">
+        <div class="contents">
+            <!-- 아티클 상세  -->
+            <div class="header-cont">
+                <p class="subtitle">Mastering Sales</p>
+                <h4 class="title">개방성·성실성·외향성·동조성·신경성 고객성격을 파악하면 영업이 쉬워진다</h4>
+            </div>
+            <!-- 기사보기 기능영역 -->
+            <div class="func-pg" style="margin:6% 0;">
+                <div class="jounalist_ho"><strong>
+                오정환                </strong><span style="margin:0 1%;">  | </span> 180호 (2015년 7월 Issue 1)</div>
+                <div class="func-list fl-r">
+                    <ul>
+                        <li>
+                            <div>
+                                <ul class="sns-list">
+                                    <li class="pc-view">
+                                      <a href="#" onclick="sendSns('facebook','https://dbr.donga.com/article/view/1202/article_no/7099/ac/magazine','[DBR] 개방성·성실성·외향성·동조성·신경성 고객성격을 파악하면 영업이 쉬워진다','A','7099');return false;" class="icon-fb" >페이스북</a></li>
+                                    <li><a href="#" class="last btn-other icon-sns-more">더보기</a>
+                                        <div class="other-sns off">
+                                            <strong class="ti">SNS 공유</strong>
+                                            <ul class="other-list">
+                                                <li class="m-view"><a href="#" onclick="sendSns('facebook','https://dbr.donga.com/article/view/1202/article_no/7099/ac/magazine','[DBR] 개방성·성실성·외향성·동조성·신경성 고객성격을 파악하면 영업이 쉬워진다','A','7099');return false;" class="icon-fb2"><span>페이스북</span></a></li>
+                                                <li><a href="#" onclick="sendLink();return false;" class="icon-katalk" id="kakao-link-btn" ><span>KaKaoTalk</span></a></li>
+                                                <li><a href="https://dbr.donga.com/article/view/1202/article_no/7099/ac/magazine" onclick="copy_trackback(this.href,'A','7099');return false;" class="icon-copy"><span>URL복사</span></a></li>
+                                            </ul>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>
+                                                <li><a class="btn-pdfdown" style="cursor:pointer">PDF 다운로드</a></li>
+                                        <li><a class="btn-scrap" id='' onclick="alert('로그인 후 이용하세요.');location.href='/login?re_url=/article/view/1202/article_no/7099/ac/magazine'" style="cursor:pointer">스크랩</a>
+                            <div class="pop-func pop-scrap off">
+                            <img src="/images/common/pop_func_arrowtop.png" class="arrow-top" alt=""/><!-- 요건 png로 -->
+                            <div class="cont">
+                                <form action="https://dbr.donga.com/scrap/input" method="post" name="scrapFrm" id="scrapFrm" accept-charset="utf-8">
+<input type="hidden" name="csrf_token_dbr" value="68aa25adc54837f401bccd670427daf5" style="display:none;" />
+                                <div class="cont-scrap">
+                                    <p class="title">스크랩</p>
+                                    <div class="info-input">
+                                        <div class="my-lib">
+                                            <!--마이라이브러리는 기본 폴더이며 번호는 1로 고정
+                                                    기본 폴더는 삭제할 수 없습니다.
+                                                    스크랩 될때 기본 마이라이브러리에 함께 스크랩 된다.
+                                            -->
+                                            <input name="folder[]" type="hidden"  value="1"/>
+                                                                                    </div>
+                                        <div class="my-fold">
+                                            <input type="checkbox" name="folder[]" id="newlib" value="newlib"/><a href="#"><strong class="icon-add">+</strong> <span>새로운 폴더 생성</span></a>
+                                            <div class="add-fold off">
+                                            <label for="folder_name" class="hidden">폴더명</label>
+                                            <input type="text" id="folder_name" name="folder_name" placeholder="폴더명을 입력해주세요" class="add-fold-input" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="memo off">
+                                        <p>메모입력</p>
+                                        <textarea rows="3" name="memo"></textarea>
+                                    </div>
+                                </div>
+                                <div class="pop-footer ta-c">
+                                    <a href="#" id="btnScrap" onclick='scrap();return false;' class="pop-func-btn confirm">스크랩</a>
+                                </div>
+                                <input type="hidden" name="content_type" value="A"/>
+                                <input type="hidden" name="content_no" value="7099"/>
+                                </form>
+                            </div>
+                        </div>
+                        </li>
+                                                
+                                                <li>
+                        						                <a class="btn-summary" style="cursor: pointer" onclick="alert('로그인 후 이용하세요.');location.href='/login?re_url=/article/view/1202/article_no/7099/ac/magazine';"  target="_blank">요약보기</a>
+					                                                    <li class="print_btn"><a class="btn-print last" onclick="alert('유료회원 서비스입니다.');return false;" style="cursor:pointer"><img src="/images/common/icon_func_print.png" alt="인쇄하기"/></a></li>
+                                        <!-- 2022-0812 퍼블리싱 추가  모바일에만 보임-->
+                    </ul>
+                    <div class="pop-func pop-pdf off" id="pop_pdf">
+                                          <form action="https://dbr.donga.com/pdf/pdf_download" method="post" name="pdfDownloadFrm" id="pdfDownloadFrm" accept-charset="utf-8">
+<input type="hidden" name="csrf_token_dbr" value="68aa25adc54837f401bccd670427daf5" style="display:none;" />
+                      <input type="hidden" name="goods_code" id="goods_code" value="PDF_4975" />
+                      <input type="hidden" name="pdf_no" id="pdf_no" value="4975" /><!--PDF 상품-->
+                  </form>
+                                    </div>
+                </div>
+            </div>
+            <!-- 고정메뉴 -->
+            <div class="fixNavi off">
+            <div class="fixNavi-area">
+                <ul class="fix-func-list">
+                    <li class="first">
+                        <a href="#" class="btn_sidemenu_fixed" onclick="return false();"><img src="/images/common/btn_sidemenu_fixed.png" alt="전체 메뉴보기" /></a>
+                        <a href="#" class="btn_sidemenu_active_fixed off"><img src="/images/common/btn_sidemenu_active_fixed.png" alt="메뉴 닫기" /></a>
+                        <!--메뉴-->
+                        <nav class="fixNavi_gnb off">
+                            <!-- 전체메뉴:s -->
+                            <!-- <button class="btn-sidemenu mobile">전체메뉴</button>
+                            <button class="btn-sidemenu desktop">전체메뉴</button> -->
+                            <nav class="fix_totalmenu totalmenu_mobile">
+                                <!-- 로그인 전후 -->
+                                <!-- 모바일 전용 메뉴 사용X, gnb_v의 모바일 메뉴 열리도록 변경 2024-06-24 김준연
+                                                                    <div class="sidemenu-header is-logout">
+                                        <div class="welcom">
+                                            <span class="login-txt">로그인을 해주세요</span>
+                                            <div class="right">
+                                                <a href="#" class="btn-side" onclick="return divchange('.totalmenu-mobile', '#login-poplayer')">로그인</a>
+                                                <a href="#" class="btn-side" onclick="return divchange('.totalmenu-mobile', '#membership-poplayer')">회원가입</a>
+                                            </div>
+                                        </div>
+                                        <a href="#" class="btn-sidemenu-close">사이드메뉴 닫기</a>
+                                    </div>
+                                                                
+                                <div class="side-tabmenu cboth">
+                                    <a href="#" class="tabmenu tab1 active">전체서비스</a>
+                                    <a href="#" class="tabmenu tab2 ">MY서비스</a>
+                                    <div class="tabview1 cboth">
+                                       
+                                        <ul class="gnbmenu-ty1">
+                                            <li><a href="/editorpick"><span>에디터가 강력추천하는</span></a></li>
+                                            <li><a href="/special"><span>Special Report</span></a></li>
+                                            <li><a href="/article/index/1901"><span>Case Study</span></a></li>
+                                            <li><a href="/graphic/thum"><span>Graphic DBR</span></a></li>
+                                        </ul>
+                                        <ul class="gnbmenu-ty2">
+                                            <li class="">
+                                            <a href="/magazine" class="title"><span>아티클</span></a>
+                                            <div class="cont off">
+                                                <a href="/article/index/1203"><span>경영전략</span></a>
+                                                <a href="/article/index/1202"><span>마케팅/세일즈</span></a>
+                                                <a href="/article/index/1201"><span>인사/조직</span></a>
+                                                <a href="/article/index/1205"><span>재무회계</span></a>
+                                                <a href="/article/index/1206"><span>경영일반</span></a>
+                                                <a href="/article/index/1306"><span>리더십</span></a>
+                                                <a href="/article/index/1303"><span>자기계발</span></a>
+                                                <a href="/article/index/1401" ><span>글로벌 리포트</span></a>
+                                                <a href="/article/index/2101"><span>스타트업</span></a>
+                                                <a href="/article/index/2102"><span>IT</span></a>
+                                                <a href="/article/index/2103"><span>의료</span></a>
+                                                <a href="/article/index/2104"><span>금융</span></a>
+                                                <a href="/article/index/2105"><span>유통</span></a>
+                                                <a href="/article/index/2106"><span>건설/제조</span></a>
+                                                <a href="/article/index/2107" ><span>서비스</span></a>
+                                                <a href="/magazine"><span>호수별</span></a>
+                                                <a href="/series/lists"><span>연재물별</span></a>
+                                                <a href="/author/lists"><span>필진별</span></a>
+                                                <a href="/author/lists"><span>그래픽 DBR</span></a>
+                                                <a href="/author/lists"><span>PDF 전체보기</span></a>
+                                            </div>
+                                            </li>
+                                            <ul class="gnbmenu-ty1">
+                                                <li><a href="/premium" class="border-b-no"><span>PREMIUM</span></a></li>
+                                              <li><a href="/service"><span>구독</span></a></li>
+                                            </li>
+                                            <li class="">
+                                            <a href="/event" class="title"><span>이벤트</span></a>
+                                            <div class="cont off">
+                                                <a href="/event"><span>이벤트</span></a>
+                                                <a href="/event/prizewinner" class="border-b-no"><span>당첨자공지</span></a>
+                                            </div>
+                                            </li>
+                                            <li class="">
+                                            <a href="#" class="title"><span>고객센터</span></a>
+                                            <div class="cont off">
+                                                <a href="/help"><span>공지사항</span></a>
+                                                <a href="/help/faq/cid/1_1_1/"><span>FAQ</span></a>
+                                                <a href="/help/qna"><span>1:1문의</span></a>
+                                                <a href="/help/adcenter"><span>제휴&amp;광고문의</span></a>
+                                                <a href="/help/gift"><span>이용권/상품권 인증</span></a>
+                                                <a href="/help/subscr" class="border-b-no"><span>구독인증</span></a>
+                                            </div>
+                                            </li>
+                                            <li class="">
+                                            <a href="#" class="title"><span>DBR SNS</span></a>
+                                            <div class="cont off">
+                                                <a href="https://www.facebook.com/dbrinsight" target="_blank"><span>Facebook</span></a>
+                                                <a href="https://plus-talk.kakao.com/home/%40dbr-%EB%8F%99%EC%95%84%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%EB%A6%AC%EB%B7%B0" target="_blank" title="Kakao Plus"><span>카카오톡</span></a>
+                                                <a href="https://m.post.naver.com/my.nhn?memberNo=22700030" target="_blank" title="Naver Post" class="border-b-no"><span>블로그</span></a>
+                                            </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <div class="tabview2 cboth off">
+                                        
+                                        <ul class="gnbmenu-ty1">
+                                            <li class="active">
+                                            <a href="/mypage" class="title"><span>결제내역</span></a>
+                                            </li>
+                                            <li>
+                                            <a href="/mypage/subscription" class="title"><span>구독정보관리</span></a>
+                                            </li>
+                                            <li>
+                                            <a href="/mypage/pdf" class="title"><span>PDF보관함</span></a>
+                                            </li>
+                                            <li class="">
+                                            <a href="/service/basket" class="title"><span>장바구니</span></a>
+                                            </li>
+                                            <li class="">
+                                            <a href="/mypage/scrap" class="title"><span>스크랩</span></a>
+                                            </li>
+                                            <li class="">
+                                            <a href="/mypage/share" class="title"><span>공유함</span></a>
+                                            </li>
+                                            <li class="">
+                                            <a href="#" class="title"><span>개인정보관리</span></a>
+                                            </li>
+                                            <li class="">
+                                            <a href="/mypage/qna" class="title"><span>1:1문의</span></a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                -->
+                            </nav>
+                            <nav class="fix_totalmenu totalmenu_desktop">
+                              <!-- 메뉴 업데이트 2024-06-10 박은진 -->
+                              <ul class="menuitems01">
+                                <li>
+                                  <p>아티클</p>
+                                  <div class="allmenu_sub">
+                                    <span><a href="/special" style="color:#ee7b1a;">스페셜 리포트</a></span>
+                                    <span><a href="/article/index/1901" style="color:#ee7b1a;">케이스 스터디</a></span><br>
+                                    <span><a href="/article/index/1203">경영전략/경영일반</a></span>
+                                    <span><a href="/article/index/1201">인사/조직</a></span>
+                                    <span><a href="/article/index/1202">마케팅/세일즈</a></span>
+                                    <span><a href="/article/index/1306">리더십/자기계발</a></span>
+                                    <span><a href="/article/index/1905">인문</a></span>
+                                    <span><a href="/article/index/1904">AI/DT</a></span><br>
+                                    <span><a href="/article/index/total">전체 기사 보기</a></span>
+                                    <span><a href="/magazine">호수별</a></span>
+                                    <span><a href="/casestudyhub">Case Study Hub<i class="engtag">ENG</i></a></span>
+                                    <span><a href="/audio_dbr">audio DBR<img src="https://dbr.donga.com/images/common/icon_audio_gr.png" style="width:16px; margin-left:7px; position:absolute; top:4px;"></a></span>
+                                    <span style="margin-left:20px;"><a href="/service/pdf">PDF 전체보기</a></span>
+                                  </div>
+                                </li>
+                                <li>
+                                  <p>구독</p>
+                                  <div class="allmenu_sub">
+                                    <span><a href="/service/month">월정액 서비스</a></span>
+                                    <span><a href="/service/year">연간 서비스</a></span>
+                                    <span><a href="/service/single">낱권</a></span>
+                                    <span><a href="/service/general">PDF</a></span>
+                                    <span><a href="/service/cartload">대량/법인</a></span>
+                                  </div>
+                                </li>
+                                <li>
+                                  <p>이벤트</p>
+                                  <div class="allmenu_sub">
+                                    <span><a href="/event">이벤트</a></span>
+                                  </div>
+                                </li>
+                                <li>
+                                  <p>고객센터</p>
+                                  <div class="allmenu_sub">
+                                    <span><a href="/help">공지사항</a></span>
+                                    <span><a href="/help/faq/cid/1_1_1">FAQ</a></span>
+                                    <span><a href="/help/qna">1:1문의</a></span>
+                                    <span><a href="/help/gift">이용권/상품권 인증</a></span>
+                                  </div>
+                                </li>
+                              </ul>
+                              <!-- ↓↓↓↓ 구 메뉴
+                              <ul class="menuitems01">
+                                <li>
+                                  <p>아티클</p>
+                                  <div class="allmenu_sub">
+                                    <span><a href="/article/index/total">전체 기사 보기</a></span>
+                                    <span><a href="/special">스페셜 리포트</a></span>
+                                    <span><a href="/article/index/1901">케이스 스터디</a></span><br>
+                                    <span>직무별</span><span class="line">|</span>
+                                    <span><a href="/article/index/1206">경영일반</a></span>
+                                    <span><a href="/article/index/1203">경영전략</a></span>
+                                    <span><a href="/article/index/1201">인사/조직</a></span>
+                                    <span><a href="/article/index/1306">리더십</a></span>
+                                    <span><a href="/article/index/1202">마케팅/세일즈</a></span>
+                                    <span><a href="/article/index/1205">재무회계</a></span>
+                                    <span><a href="/article/index/1303">자기계발</a></span>
+                                    <span><a href="/article/index/1401">글로벌리포트</a></span><br>
+                                    <span>업종별</span><span class="line">|</span>
+                                    <span><a href="/article/index/2101">스타트업</a></span>
+                                    <span><a href="/article/index/2102">IT</a></span>
+                                    <span><a href="/article/index/2103">의료</a></span>
+                                    <span><a href="/article/index/2104">금융</a></span>
+                                    <span><a href="/article/index/2105">유통</a></span>
+                                    <span><a href="/article/index/2106">건설/제조</a></span>
+                                    <span><a href="/article/index/2107">서비스</a></span><br>
+                                    <span><a href="/magazine">호수별</a></span>
+                                    <span><a href="/series/lists">연재물별</a></span>
+                                    <span><a href="/author/lists">필진별</a></span>
+                                    <span><a href="/graphic">그래픽DBR</a></span>
+                                    <span><a href="/service/pdf">PDF 전체보기</a></span>
+                                  </div>
+                                </li>
+                                <li>
+                                  <p>비즈런</p>
+                                  <div class="allmenu_sub">
+                                    <span><a href="/bizlearn">전체강좌</a></span>
+                                    <span><a href="/bizlearn/lists/category/3101">패키지</a></span>
+                                    <span><a href="/bizlearn/lists/category/3102">비즈니스</a></span>
+                                    <span><a href="/bizlearn/lists/category/3103">마케팅</a></span>
+                                    <span><a href="/bizlearn/lists/category/3104">리더십</a></span>
+                                  </div>
+                                </li>
+                                <li>
+                                  <p>서비스신청</p>
+                                  <div class="allmenu_sub">
+                                    <span><a href="/service/month">월정액 서비스</a></span>
+                                    <span><a href="/service/year">연간 서비스</a></span>
+                                    <span><a href="/service/single">낱권</a></span>
+                                    <span><a href="/service/audio">오디오북</a></span>
+                                    <span><a href="/service/ebook">eBook</a></span>
+                                    <span><a href="/service/general">PDF</a></span>
+                                    <span><a href="/service/cartload">법인/단체</a></span>
+                                  </div>
+                                </li>
+                                <li>
+                                  <p>이벤트</p>
+                                  <div class="allmenu_sub">
+                                    <span><a href="/event">이벤트</a></span>
+                                    <span><a href="/event/book">북세통</a></span>
+                                    <span><a href="/event/prizewinner">당첨자공지</a></span>
+                                  </div>
+                                </li>
+                                <li>
+                                  <p>고객센터</p>
+                                  <div class="allmenu_sub">
+                                    <span><a href="/help">공지사항</a></span>
+                                    <span><a href="/help/faq/cid/1_1_1">FAQ</a></span>
+                                    <span><a href="/help/qna">1:1문의</a></span>
+                                    <span><a href="/help/adcenter">제휴&amp;광고문</a></span>
+                                    <span><a href="/help/gift">이용권/상품권인증</a></span>
+                                    <span><a href="/help/sukang">비즈런 수강권인증</a></span>
+                                    <span><a href="/help/subscr">구독인증</a></span>
+                                  </div>
+                                </li>
+                                <li>
+                                  <p>DBR SNS</p>
+                                  <div class="allmenu_sub">
+                                    <span><a href="https://www.facebook.com/dbrinsight" target="_blank">Facebook</a></span>
+                                    <span><a href="https://plus-talk.kakao.com/home/%40dbr-%EB%8F%99%EC%95%84%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%EB%A6%AC%EB%B7%B0" target="_blank" title="Kakao Plus">카카오톡</a></span>
+                                    <span><a href="https://m.post.naver.com/my.nhn?memberNo=22700030" target="_blank" title="Naver Post" >블로그</a></span>
+                                  </div>
+                                </li>
+                              </ul>
+                                ↑↑↑↑ 구 메뉴-->
+                            </nav>
+                        </nav>
+                    </li>
+                    <!-- 2022-0812 퍼블리싱 추가  모바일에만 보임-->
+
+                    <li class="share-mobile-li">
+                      <a href="#" class="btn-share btn-ftx-share" id="m-btn-ftx-share"><img src="/images/common/icon_func_share_fixed.png" alt="공유" /></a>
+                        <div class="fix-other-share off">
+                            <strong class="ti">공유</strong>
+                            <ul class="other-list">
+                                <li><a href="#" class="icon-fb2" onclick="sendSns('facebook','https://dbr.donga.com/article/view/1202/article_no/7099/ac/magazine','[DBR] 개방성·성실성·외향성·동조성·신경성 고객성격을 파악하면 영업이 쉬워진다','A','7099');return false;"><span>페이스북</span></a></li>
+                                <li><a href="#" onclick="sendLink();return false;" class="icon-katalk" id="kakao-link-btn" ><span>KaKaoTalk</span></a></li>
+                                <li><a href="https://dbr.donga.com/article/view/1202/article_no/7099/ac/magazine" class="icon-copy" onclick="copy_trackback(this.href,'A','7099');return false;" ><span>URL복사</span></a></li>
+                                <!--<li><a href="#" class="icon-email"><span>Email</span></a></li>-->
+                            </ul>
+                        </div>
+                    </li>
+                                        <li class="down_pdf"><a class="btn-pdfdown"style="cursor:pointer"><img src="/images/common/icon_func_pdf_fixed.png" alt="PDF 다운로드" /></a></li>
+                                        <li class="fix-scrap-li scrap_m"><a class="btn-scrap" style="cursor:pointer;"><img src="https://dbr.donga.com/images/common/icon_func_scrap.png" alt="스크랩" /></a>
+                        <div class="fix-pop-scrap pop-func pop-scrap off">
+                            <img src="/images/common/pop_func_arrowtop.png" class="arrow-top" alt=""/><!-- 요건 png로 -->
+                            <div class="cont">
+                                <form action="https://dbr.donga.com/scrap/input" method="post" name="scrapFrm2" id="scrapFrm2" accept-charset="utf-8">
+<input type="hidden" name="csrf_token_dbr" value="68aa25adc54837f401bccd670427daf5" style="display:none;" />
+                                <div class="cont-scrap">
+                                    <p class="title">스크랩</p>
+                                    <div class="info-input">
+                                        <div class="my-lib">
+                                            <!--마이라이브러리는 기본 폴더이며 번호는 1로 고정
+                                                    기본 폴더는 삭제할 수 없습니다.
+                                                    스크랩 될때 기본 마이라이브러리에 함께 스크랩 된다.
+                                            -->
+                                            <input name="folder[]" type="hidden"  value="1"/>
+                                                                                    </div>
+                                        <div class="my-fold">
+                                            <input type="checkbox" name="folder[]" id="newlib2" value="newlib"/><a href="#"><strong class="icon-add">+</strong> <span>새로운 폴더 생성</span></a>
+                                            <div class="add-fold off">
+                                            <label for="folder_name" class="hidden">폴더명</label>
+                                            <input type="text" id="folder_name2" name="folder_name" placeholder="폴더명을 입력해주세요" class="add-fold-input" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="memo off">
+                                        <p>메모입력</p>
+                                        <textarea rows="3" name="memo"></textarea>
+                                    </div>
+                                </div>
+                                <div class="pop-footer ta-c">
+                                    <a href="#" id="btnScrap" onclick='scrap();return false;' class="pop-func-btn confirm">스크랩</a>
+                                </div>
+                                <input type="hidden" name="content_type" value="A"/>
+                                <input type="hidden" name="content_no" value="7099"/>
+                                </form>
+                            </div>
+                        </div>
+                    </li>
+                                                            
+                                                          <li class="summary_btn">
+                      <a style="cursor: pointer" onclick="alert('로그인 후 이용하세요.');location.href='/login?re_url=/article/view/1202/article_no/7099/ac/magazine';"  target="_blank">
+                      <img src="https://dbr.donga.com/images/common/icon_func_summary.png" alt="요약보기" /></a>
+                      <span class="sp_bub">아티클요약</span>
+                    </li>
+                                      <!-- 2022-0812 퍼블리싱 추가  모바일에만 보임-->
+                </ul>
+
+                <ul class="sns-list">
+                  <!-- 2022-0812 퍼블리싱 추가  PC에만 보임-->
+                                    <li><a class="btn-pdfdown" style="cursor:pointer"><img src="/images/common/icon_func_pdf_fixed.png" alt="PDF 다운로드" /></a></li>
+                                            <li class="fix-scrap-li"><a id='' onclick="alert('로그인 후 이용하세요.');location.href='/login?re_url=/article/view/1202/article_no/7099/ac/magazine'" style="cursor:pointer" class="btn-scrap"><img src="https://dbr.donga.com/images/common/icon_func_scrap_fixed.png" alt="스크랩" /></a>
+                              <div class="fix-pop-scrap pop-func pop-scrap off">
+                                  <img src="/images/common/pop_func_arrowtop.png" class="arrow-top" alt=""/><!-- 요건 png로 -->
+                                  <div class="cont">
+                                      <form action="https://dbr.donga.com/scrap/input" method="post" name="scrapFrm2" id="scrapFrm2" accept-charset="utf-8">
+<input type="hidden" name="csrf_token_dbr" value="68aa25adc54837f401bccd670427daf5" style="display:none;" />
+                                <div class="cont-scrap">
+                                    <p class="title">스크랩</p>
+                                    <div class="info-input">
+                                        <div class="my-lib">
+                                            <!--마이라이브러리는 기본 폴더이며 번호는 1로 고정
+                                                    기본 폴더는 삭제할 수 없습니다.
+                                                    스크랩 될때 기본 마이라이브러리에 함께 스크랩 된다.
+                                            -->
+                                            <input name="folder[]" type="hidden"  value="1"/>
+                                                                                    </div>
+                                        <div class="my-fold">
+                                            <input type="checkbox" name="folder[]" id="newlib2" value="newlib"/><a href="#"><strong class="icon-add">+</strong> <span>새로운 폴더 생성</span></a>
+                                            <div class="add-fold off">
+                                            <label for="folder_name" class="hidden">폴더명</label>
+                                            <input type="text" id="folder_name2" name="folder_name" placeholder="폴더명을 입력해주세요" class="add-fold-input" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="memo off">
+                                        <p>메모입력</p>
+                                        <textarea rows="3" name="memo"></textarea>
+                                    </div>
+                                </div>
+                                <div class="pop-footer ta-c">
+                                    <a href="#" id="btnScrap" onclick='scrap();return false;' class="pop-func-btn confirm">스크랩</a>
+                                </div>
+                                <input type="hidden" name="content_type" value="A"/>
+                                <input type="hidden" name="content_no" value="7099"/>
+                                </form>
+                            </div>
+                              </div>
+                          </li>
+                                                    <li><a class="btn-print last" onclick="alert('유료회원 서비스입니다.');return false;" style="cursor:pointer"><img src="/images/common/icon_func_print.png" alt="인쇄하기"/></a></li>
+                                        <!-- 2022-0812 퍼블리싱 추가  PC에만 보임-->
+                    <!-- <li><a href="#"><img src="/images/common/icon_share_kakao_fixed.png" alt="카카오톡"/></a></li> -->
+                    <!-- 0829 수정 -->
+                    <li><a href="#" onclick="sendSns('facebook','https://dbr.donga.com/article/view/1202/article_no/7099/ac/magazine','[DBR] 개방성·성실성·외향성·동조성·신경성 고객성격을 파악하면 영업이 쉬워진다','A','7099');return false;" ><img src="/images/common/icon_sns_fb.png" alt="페이스북"/></a></li>
+                    <li><a href="#" class="btn-ftx-sns" ><img src="/images/common/icon_sns_more.png" alt="sns공유하기"/></a>
+                            <!-- 0829 수정 -->
+                        <div class="fix-other-sns off">
+                            <strong class="ti">SNS 공유</strong>
+                            <ul class="other-list">
+                                <!-- <li class="m-view"><a href="#" class="icon-fb2"><span>페이스북</span></a></li>
+                                <li class="m-view"><a href="#" class="icon-tw2"><span>트위터</span></a></li>
+                                <li class="m-view"><a href="#" class="icon-kas2"><span>카카오스토리</span></a></li> -->
+                                <li><a href="#" onclick="sendLink();return false;" class="icon-katalk" id="kakao-link-btn" ><span>KaKaoTalk</span></a></li>
+                                <li><a href="https://dbr.donga.com/article/view/1202/article_no/7099/ac/magazine" onclick="copy_trackback(this.href,'A','7099');return false;" class="icon-copy"><span>URL복사</span></a></li>
+                                <!--<li><a href="#" class="icon-email"><span>Email</span></a></li>-->
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+                <div class="progress"><span class="ing"></span></div>
+            </div>
+        </div>
+            <!-- 상세페이지 세부 기능 정의 함수 -->
+
+          <!--//기사보기 기능영역-->
+        <!-- 기사 내용영역 -->
+            <div class="cboth cont-article mg-b40">
+                <div style="position: relative;">
+                  <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml encoding="UTF-8"><html><body><p style="LINE-HEIGHT: 200%; MARGIN: 0cm 0cm 10pt" class="MsoNormal"><font color="#000000"><b style="mso-bidi-font-weight: normal"><span style="LINE-HEIGHT: 200%; FONT-FAMILY: &#44404;&#47548;; FONT-SIZE: 12pt; mso-bidi-font-size: 11.0pt" lang="EN-US">Article at a Glance &ndash; </span></b><b style="mso-bidi-font-weight: normal"><span style="LINE-HEIGHT: 200%; FONT-FAMILY: &#44404;&#47548;; FONT-SIZE: 12pt; mso-bidi-font-size: 11.0pt">&#47560;&#52992;&#54021;<span lang="EN-US"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><p></p></span></span></b></font></p>
+<p style="LINE-HEIGHT: 200%; MARGIN: 0cm 0cm 10pt" class="MsoNormal"><font color="#000000"><span style="LINE-HEIGHT: 200%; FONT-FAMILY: &#44404;&#47548;; FONT-SIZE: 11pt"><span lang="EN-US"><p></p><p><table style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-COLLAPSE: collapse; FONT-FAMILY: &#44404;&#47548;; FONT-SIZE: 11pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none" class="txc-table" border="0" cellspacing="0" cellpadding="0" width="664"><tbody><tr><td style="BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; WIDTH: 664px; HEIGHT: 24px; BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc 1px solid">
+<p style="LINE-HEIGHT: 200%; MARGIN: 0cm 0cm 10pt" class="MsoNormal"><span style="LINE-HEIGHT: 200%; FONT-FAMILY: &#44404;&#47548;; FONT-SIZE: 11pt"><font color="#000000">&#49345;&#45824;&#48169;&#51032; &#51452;&#48320;&#51060;&#45208; &#47568;&#53804;<span lang="EN-US">, </span>&#50743;&#52264;&#47548; &#46321;&#51012; &#44288;&#52272;&#54644; &#49457;&#44201;&#51012; &#54028;&#50501;&#54624; &#49688; &#51080;&#45716; &#45800;&#49436;&#47484; &#50619;&#50612;&#45236;&#45716; &#44163;&#51012; &#49828;&#45572;&#54609;<span lang="EN-US">(snooping)</span>&#51060;&#46972;&#44256; &#54620;&#45796;<span lang="EN-US">. </span>&#50689;&#50629;&#51064;&#51008; &#52376;&#51020; &#47564;&#45208;&#45716; &#44256;&#44061;&#51012; &#51096; &#49332;&#54196; &#49345;&#45824;&#48169;&#51032; &#49457;&#44201;&#51012; &#51664;&#51089;&#54616;&#44256; &#51060;&#50640; &#47582;&#45716; &#45824;&#51025;&#48169;&#49885;&#51012; &#51201;&#50857;&#54644; &#49457;&#44284;&#47484; &#45244; &#49688; &#51080;&#45796;<span lang="EN-US">. </span>&#49368; &#44256;&#49828;&#47553; &#44368;&#49688;&#45716; &#49324;&#46988;&#51032; &#49457;&#44201;&#51012; &#44060;&#48169;&#49457;<span lang="EN-US">, </span>&#49457;&#49892;&#49457;<span lang="EN-US">, </span>&#50808;&#54693;&#49457;<span lang="EN-US">, </span>&#46041;&#51312;&#49457;<span lang="EN-US">, </span>&#49888;&#44221;&#49457;&#51004;&#47196; &#44396;&#48516;&#54616;&#44256; &#44033; &#50976;&#54805;&#51032; &#49324;&#46988;&#46308;&#51060; &#48372;&#51060;&#45716; &#53945;&#51669;&#51012; &#48516;&#49437;&#54644; &#49548;&#44060;&#54620; &#48148; &#51080;&#45796;<span lang="EN-US">. </span>&#45231;&#49440; &#44256;&#44061;&#51012; &#52376;&#51020; &#47564;&#45208;&#50556; &#54616;&#45716; &#50689;&#50629;&#51064;&#46308;&#51060; &#52280;&#44256;&#54624; &#47564;&#54620; &#54017;&#51060;&#45796;<span lang="EN-US">. </span></font></span>&nbsp;</p></td></tr></tbody></table></p><p></p></span></span></font></p>
+<p style="LINE-HEIGHT: 200%; MARGIN: 0cm 0cm 10pt" class="MsoNormal"><span style="LINE-HEIGHT: 200%; FONT-FAMILY: &#44404;&#47548;; FONT-SIZE: 11pt" lang="EN-US"><p></p></span>&nbsp;</p>
+<p style="LINE-HEIGHT: 200%; MARGIN: 0cm 0cm 10pt" class="MsoNormal"><span style="LINE-HEIGHT: 200%; FONT-FAMILY: &#44404;&#47548;; FONT-SIZE: 11pt"><span style="COLOR: #000000">&#49324;&#46988;&#51012; &#48372;&#51088;&#47560;&#51088; &#49457;&#44201;&#51012; &#50508; &#49688; &#51080;&#51004;&#47732; &#50620;&#47560;&#45208; &#51339;&#51012;&#44620;</span><span style="COLOR: #000000" lang="EN-US">? </span><span style="COLOR: #000000">&#44536;&#47111;&#45796;&#47732; &#50689;&#50629;&#51064;&#51008; &#44256;&#44061;&#51032; &#49457;&#44201;&#48324;&#47196; &#45824;&#51025;&#51204;&#47029;&#51012; &#49464;&#50872; &#49688; &#51080;&#51012; &#44163;&#51060;&#45796;</span><span style="COLOR: #000000" lang="EN-US">. </span><span style="COLOR: #000000">&#51088;&#51452; &#47564;&#45208;&#45716; &#44256;&#44061;&#51060;&#46972;&#47732; &#48152;&#48373;&#51201;&#51004;&#47196; &#51217;&#52489;&#54616;&#47732;&#49436; &#49457;&#44201;&#51012; &#54028;&#50501;&#54624; &#49688; &#51080;&#44192;&#51648;&#47564; &#52376;&#51020; &#48372;&#45716; &#44256;&#44061;&#44284; &#49345;&#45812;&#51012; &#54616;&#44172; &#46096;&#45796;&#47732; &#50612;&#46523;&#44172; &#54644;&#50556; &#54624;&#44620;</span><span style="COLOR: #000000" lang="EN-US">? </span><span style="COLOR: #000000">&#44256;&#44061; &#49324;&#47924;&#49892;&#51060;&#45208; &#51665;&#51012; &#48169;&#47928;&#54664;&#51012; &#46412; &#44536;&#44275;&#50640; &#51080;&#45716; &#47932;&#44148;&#51060;&#45208; &#47932;&#44148;&#51060; &#45459;&#50668; &#51080;&#45716; &#49345;&#53468; &#46321;&#51012; &#44288;&#52272;&#54644; &#44256;&#44061;&#51032; &#49457;&#44201;&#51012; &#50508;&#50500;&#45244; &#49688; &#51080;&#45796;&#47732; &#44900; &#50976;&#47532;&#54624; &#44163;&#51060;&#45796;</span><span lang="EN-US"><span style="COLOR: #000000">. </span><p></p></span></span></p>
+<p style="LINE-HEIGHT: 200%; MARGIN: 0cm 0cm 10pt" class="MsoNormal"><span style="LINE-HEIGHT: 200%; FONT-FAMILY: &#44404;&#47548;; FONT-SIZE: 11pt" lang="EN-US"><p></p></span>&nbsp;</p>
+<p style="LINE-HEIGHT: 200%; MARGIN: 0cm 0cm 10pt" class="MsoNormal"><span style="LINE-HEIGHT: 200%; FONT-FAMILY: &#44404;&#47548;; FONT-SIZE: 11pt"><span style="COLOR: #000000">&#48120;&#44397; &#53581;&#49324;&#49828;&#50640; &#51080;&#45716; &#50724;&#49828;&#54004;&#45824; &#49900;&#47532;&#54617; &#44368;&#49688;&#51064; &#49368; &#44256;&#49828;&#47553;</span><span style="COLOR: #000000" lang="EN-US">(Sam Gosling)</span><span style="COLOR: #000000">&#51008; &#44060;&#51064; &#52840;&#49892;&#51060;&#45208; &#49324;&#47924;&#49892;&#51012; &#44288;&#52272;&#54644; &#49457;&#44201;&#51012; &#50508;&#50500;&#45236;&#45716; &#50672;&#44396;&#47484; &#51652;&#54665;&#54664;&#45796;</span><span style="COLOR: #000000" lang="EN-US">. </span><span style="COLOR: #000000">&#51060;&#47484; &#49828;&#45572;&#54609;</span><span style="COLOR: #000000" lang="EN-US">(snooping)</span><span style="COLOR: #000000">&#51060;&#46972;&#44256; &#54616;&#45716;&#45936;</span><span style="COLOR: #000000" lang="EN-US"> &lsquo;</span><span style="COLOR: #000000">&#55124;&#51201; &#49332;&#54196;&#48372;&#44592;</span><span style="COLOR: #000000" lang="EN-US">&rsquo; </span><span style="COLOR: #000000">&#51221;&#46020;&#47196; &#51060;&#54644;&#54616;&#47732; &#46108;&#45796;</span><span style="COLOR: #000000" lang="EN-US">. </span><span style="COLOR: #000000">&#50689;&#50629;&#51064;&#51060; &#49828;&#45572;&#54609;&#51012; &#53685;&#54644; &#51104;&#51116;&#44256;&#44061;&#51032; &#49457;&#44201;&#51012; &#50508;&#44256; &#51228;&#45824;&#47196; &#51025;&#45824;&#54620;&#45796;&#47732; &#44396;&#47588; &#54869;&#47456;&#51012; &#55016;&#50476; &#45458;&#51068; &#49688; &#51080;&#51012; &#44163;&#51060;&#45796;</span><span style="COLOR: #000000" lang="EN-US">. </span><span style="COLOR: #000000">&#51593; &#51104;&#51116;&#44256;&#44061;&#51032; &#49324;&#47924;&#49892;&#51060;&#45208; &#51665;&#50640; &#51080;&#45716; &#47932;&#44148; &#46608;&#45716; &#51665;&#44592;&#51032; &#51333;&#47448;&#45208; &#51060;&#44163;&#46308;&#51060; &#45459;&#50668; &#51080;&#45716; &#49345;&#53468; &#46321;&#51012; &#49332;&#54196;&#49436; &#44536; &#49324;&#46988;&#51032; &#49457;&#44201;&#50640; &#45824;&#54620; &#55180;&#53944;&#47484; &#50619;&#45716; &#44163;&#51060;&#45796;</span><span lang="EN-US"><span style="COLOR: #000000">. </span><p></p></span></span></p>
+<p style="LINE-HEIGHT: 200%; MARGIN: 0cm 0cm 10pt" class="MsoNormal"><span style="LINE-HEIGHT: 200%; FONT-FAMILY: &#44404;&#47548;; FONT-SIZE: 11pt" lang="EN-US"><p></p></span>&nbsp;</p>
+<p style="LINE-HEIGHT: 200%; MARGIN: 0cm 0cm 10pt" class="MsoNormal"><span style="LINE-HEIGHT: 200%; FONT-FAMILY: &#44404;&#47548;; FONT-SIZE: 11pt"><span style="COLOR: #000000">&#45796;&#51020;&#50640; &#45208;&#50724;&#45716; &#45796;&#49455; &#44032;&#51648; &#49457;&#44201;&#50976;&#54805;&#44284; &#53945;&#51669;&#51008; &#49368; &#44256;&#49836;&#47553;&#51032;</span><span style="COLOR: #000000" lang="EN-US"> &lt;</span><span style="COLOR: #000000">&#49828;&#45589;</span><span style="COLOR: #000000" lang="EN-US">&gt;</span><span style="COLOR: #000000">&#51012; &#52280;&#44256;&#54644;&#49436; &#51221;&#47532;&#54664;&#45796;</span><span style="COLOR: #000000" lang="EN-US">. </span><span style="COLOR: #000000">&#49457;&#44201;&#50640; &#47582;&#45716; &#45824;&#51025;&#48277;&#51008; &#51648;&#44536; &#51648;&#44544;&#47084;</span><span style="COLOR: #000000" lang="EN-US">(Zig Ziglar)</span><span style="COLOR: #000000">&#51032;</span><span style="COLOR: #000000" lang="EN-US"> &lt;</span><span style="COLOR: #000000">&#53364;&#47196;&#51669;</span><span style="COLOR: #000000" lang="EN-US">&gt;, </span><span style="COLOR: #000000">&#54620;&#49828;</span><span style="COLOR: #000000" lang="EN-US">-</span><span style="COLOR: #000000">&#44172;&#50724;&#47476;&#53356; &#54840;&#51060;&#52412;</span><span style="COLOR: #000000" lang="EN-US">(Hans-Georg H&auml;usel)</span><span style="COLOR: #000000">&#51032;</span><span style="COLOR: #000000" lang="EN-US"> &lt;</span><span style="COLOR: #000000">&#45516;</span><span style="COLOR: #000000" lang="EN-US">, </span><span style="COLOR: #000000">&#50837;&#47581;&#51032; &#48708;&#48128;&#51012; &#54400;&#45796;</span><span style="COLOR: #000000" lang="EN-US">&gt;, </span><span style="COLOR: #000000">&#52992;&#48712; &#54840;&#44148;</span><span style="COLOR: #000000" lang="EN-US">(Kevin Hogan)</span><span style="COLOR: #000000">&#51032;</span><span style="COLOR: #000000" lang="EN-US"> &lt;</span><span style="COLOR: #000000">&#44396;&#47588;&#51032; &#49900;&#47532;&#54617;</span><span style="COLOR: #000000" lang="EN-US">&gt;</span><span style="COLOR: #000000">&#51012; &#52280;&#44256;&#54664;&#45796;</span><span lang="EN-US"><span style="COLOR: #000000">. </span><p></p></span></span></p>
+<p style="LINE-HEIGHT: 200%; MARGIN: 0cm 0cm 10pt" class="MsoNormal"><span style="LINE-HEIGHT: 200%; FONT-FAMILY: &#44404;&#47548;; FONT-SIZE: 11pt" lang="EN-US"><p></p></span>&nbsp;</p>
+<p style="LINE-HEIGHT: 200%; MARGIN: 0cm 0cm 10pt" class="MsoNormal"><b style="mso-bidi-font-weight: normal"><span style="LINE-HEIGHT: 200%; FONT-FAMILY: &#44404;&#47548;; FONT-SIZE: 12pt; mso-bidi-font-size: 11.0pt"><span style="COLOR: #000000">&#44060;&#48169;&#49457;</span><span lang="EN-US"><p></p></span></span></b></p>
+<p style="LINE-HEIGHT: 200%; MARGIN: 0cm 0cm 10pt" class="MsoNormal"><span style="LINE-HEIGHT: 200%; FONT-FAMILY: &#44404;&#47548;; FONT-SIZE: 11pt"><span style="COLOR: #000000">&#44060;&#48169;&#49457;&#51060; &#45458;&#51008; &#49324;&#46988;&#46308;&#51008; &#49352;&#47196;&#50868; &#50500;&#51060;&#46356;&#50612;&#44032; &#47566;&#45796;</span><span style="COLOR: #000000" lang="EN-US">. </span><span style="COLOR: #000000">&#54924;&#51032;&#47484; &#54616;&#44144;&#45208; &#47784;&#51076;&#50640; &#52280;&#49437;&#54644;&#49436; &#49352;&#47196;&#50868; &#51032;&#44204;&#51012; &#51096; &#45236;&#45459;&#45716;&#45796;</span><span style="COLOR: #000000" lang="EN-US">. </span><span style="COLOR: #000000">&#52628;&#49345;&#51201;&#51060;&#44256; &#49352;&#47196;&#50868; &#44163;&#50640; &#44288;&#49900;&#51060; &#47566;&#44256; &#44417;&#44552;&#54620; &#44163;&#51060; &#47566;&#45796;</span><span style="COLOR: #000000" lang="EN-US">. </span><span style="COLOR: #000000">&#54844;&#51088; &#49373;&#44033;&#54616;&#45716; &#44163;&#51012; &#51600;&#44592;&#44256; &#48156;&#47749;&#50640; &#51116;&#45733;&#51060; &#51080;&#51004;&#47728; &#50696;&#49696;&#51201;&#51060;&#45796;</span><span style="COLOR: #000000" lang="EN-US">. </span><span style="COLOR: #000000">&#49352;&#47196;&#50868; &#44163;&#50640; &#46020;&#51204;&#54616;&#44592;&#47484; &#51600;&#44592;&#47728; &#50808;&#44397;&#51012; &#50668;&#54665;&#54620;&#45796;&#44144;&#45208; &#49353;&#45796;&#47480; &#52404;&#54744;&#51012; &#50676;&#47581;&#54620;&#45796;</span><span style="COLOR: #000000" lang="EN-US">. </span><span style="COLOR: #000000">&#49352;&#47196;&#50868; &#51648;&#49885;&#50640;&#46020; &#44060;&#48169;&#51201;&#51064; &#53468;&#46020;&#47484; &#44054;&#44256; &#51080;&#50612; &#51648;&#51201;&#51064; &#51452;&#51228;&#47196; &#53664;&#51032;&#54616;&#45716; &#44163;&#51012; &#51339;&#50500;&#54620;&#45796;</span><span lang="EN-US"><span style="COLOR: #000000">. </span><p></p></span></span></p>
+<p style="LINE-HEIGHT: 200%; MARGIN: 0cm 0cm 10pt" class="MsoNormal"><span style="LINE-HEIGHT: 200%; FONT-FAMILY: &#44404;&#47548;; FONT-SIZE: 11pt" lang="EN-US"><p></p></span>&nbsp;</p>
+<p style="LINE-HEIGHT: 200%; MARGIN: 0cm 0cm 10pt" class="MsoNormal"><span style="LINE-HEIGHT: 200%; FONT-FAMILY: &#44404;&#47548;; FONT-SIZE: 11pt"><span style="COLOR: #000000">&#51060;&#47088; &#49324;&#46988;&#46308;&#51008; &#49324;&#47924;&#49892;&#51012; &#53945;&#49353; &#51080;&#44172; &#44984;&#48124;&#45796;</span><span style="COLOR: #000000" lang="EN-US">. </span><span style="COLOR: #000000">&#51109;&#49885;&#51032; &#54056;&#53556;</span><span style="COLOR: #000000" lang="EN-US">, </span><span style="COLOR: #000000">&#47932;&#44148;&#51060; &#45459;&#50668; &#51080;&#45716; &#50948;&#52824; &#46321;&#51060; &#47956;&#44032; &#54217;&#48276;&#54616;&#51648; &#50506;&#44256; &#46021;&#53945;&#54620; &#47732;&#51060; &#51080;&#45796;</span><span style="COLOR: #000000" lang="EN-US">. </span><span style="COLOR: #000000">&#50668;&#54665;</span><span style="COLOR: #000000" lang="EN-US">, </span><span style="COLOR: #000000">&#49548;&#49688;&#48124;&#51313;&#51032; &#47928;&#51228;</span><span style="COLOR: #000000" lang="EN-US">, </span><span style="COLOR: #000000">&#50668;&#49457;&#54617;</span><span style="COLOR: #000000" lang="EN-US">, </span><span style="COLOR: #000000">&#51020;&#50501; &#46321; &#45796;&#50577;&#54620; &#48516;&#50556;&#51032; &#52293;&#51012; &#49548;&#50976;&#54616;&#44256; &#51080;&#45796;</span><span style="COLOR: #000000" lang="EN-US">. </span><span style="COLOR: #000000">&#51020;&#50501;</span><span style="COLOR: #000000" lang="EN-US"> CD</span><span style="COLOR: #000000">&#46020; &#45796;&#49688;&#45796;</span><span style="COLOR: #000000" lang="EN-US">. </span><span style="COLOR: #000000">&#48120;&#49696;&#46020;&#44396;&#45208; &#47928;&#48169;&#50857;&#54408;</span><span style="COLOR: #000000" lang="EN-US">, </span><span style="COLOR: #000000">&#50689;&#54868; &#54000;&#53011;</span><span style="COLOR: #000000" lang="EN-US">, </span><span style="COLOR: #000000">&#49464;&#44228;&#51648;&#46020;&#50752; &#47928;&#54868;&#51201; &#44592;&#45392;&#54408;&#46020; &#47566;&#51060; &#48372;&#51064;&#45796;</span><span lang="EN-US"><span style="COLOR: #000000">. </span><p></p></span></span></p>
+<p style="LINE-HEIGHT: 200%; MARGIN: 0cm 0cm 10pt" class="MsoNormal"><span style="LINE-HEIGHT: 200%; FONT-FAMILY: &#44404;&#47548;; FONT-SIZE: 11pt" lang="EN-US"><p></p></span>&nbsp;</p>
+<p style="LINE-HEIGHT: 200%; MARGIN: 0cm 0cm 10pt" class="MsoNormal"><b style="mso-bidi-font-weight: normal"><span style="LINE-HEIGHT: 200%; FONT-FAMILY: &#44404;&#47548;; COLOR: #0070c0; FONT-SIZE: 11pt">&#44060;&#48169;&#49457;&#51060; &#45458;&#51008; &#44256;&#44061;&#51008; &#49352;&#47196;&#50868; &#44163;&#50640; &#45824;&#54620; &#44144;&#48512;&#44048;&#51060; &#51201;&#45796;<span lang="EN-US">. </span>&#45796;&#47564; &#51060;&#46308;&#51032; &#54840;&#44592;&#49900;&#51012; &#51088;&#44537;&#54616;&#47732; &#54952;&#44284;&#47484; &#45458;&#51068; &#49688; &#51080;&#45716;&#45936; &#51060;&#46412; &#54876;&#50857;&#54624; &#49688; &#51080;&#45716; &#48169;&#48277;&#51060; &#51656;&#47928;&#51060;&#45796;<span lang="EN-US">. &ldquo;</span>&#50668;&#50976;&#51088;&#44552; &#54876;&#50857;&#50640; &#45824;&#54620; &#48169;&#48277;&#51012; &#50508;&#47140;&#46300;&#47532;&#47140;&#44256; &#50772;&#49845;&#45768;&#45796;<span lang="EN-US">. </span>&#44256;&#44061;&#45784;&#51032; &#51116;&#53580;&#53356; &#48169;&#49885;&#51008; &#47924;&#50631;&#51077;&#45768;&#44620;<span lang="EN-US">?&rdquo; &ldquo;</span>&#51200;&#55148; &#54924;&#49324;&#50640;&#49436; &#49888;&#51228;&#54408;&#51012; &#52636;&#49884;&#54644;&#49436; &#44256;&#44061;&#52404;&#54744; &#54665;&#49324;&#47484; &#54616;&#45716;&#45936; &#54620;&#48264; &#54644;&#48372;&#49884;&#44192;&#49845;&#45768;&#44620;<span lang="EN-US">?&rdquo; &ldquo;</span>&#52572;&#44540;<span lang="EN-US"> &#9675;&#9675;</span>&#51068;&#48372;&#50752;<span lang="EN-US"> &#9633;&#9633;</span>&#51068;&#48372;&#50640;&#49436;<span lang="EN-US"> &sim;</span>&#50640; &#44288;&#54620; &#44592;&#49324;&#47484; &#51069;&#50632;&#45716;&#45936; &#44256;&#44061;&#45784; &#49373;&#44033;&#51008; &#50612;&#46496;&#49888;&#51648;&#50836;<span lang="EN-US">?&rdquo; &ldquo;&#9675;&#9675;</span>&#51068;&#48372;&#47484; &#48372;&#45768;<span lang="EN-US"> &#9651;&#9651; </span>&#51648;&#50669;&#51060; &#44060;&#48156;&#51228;&#54620; &#44396;&#50669;&#50640;&#49436; &#54400;&#47540; &#44144;&#46972;&#44256; &#54616;&#45908;&#46972;&#44256;&#50836;<span lang="EN-US">. </span>&#44536;&#44275;&#50640; &#53804;&#51088;&#54616;&#47140;&#45716; &#49324;&#46988;&#51060; &#47566;&#45796;&#44256; &#54616;&#45912;&#45936; &#44256;&#44061;&#45784;&#46020; &#44288;&#49900;&#51060; &#51080;&#51004;&#49888;&#44032;&#50836;<span lang="EN-US">?&rdquo; </span>&#51060;&#47088; &#51656;&#47928;&#51004;&#47196; &#44256;&#44061;&#51060; &#54840;&#44592;&#49900;&#51012; &#44054;&#45716;&#45796;&#47732; &#45817;&#49888;&#51008; &#44256;&#44061;&#50640;&#44172; &#54620; &#48156; &#45796;&#44032;&#49440; &#44163;&#51060;&#45796;<span lang="EN-US">.<p></p></span></span></b></p>
+<p style="LINE-HEIGHT: 200%; MARGIN: 0cm 0cm 10pt" class="MsoNormal"><span style="LINE-HEIGHT: 200%; FONT-FAMILY: &#44404;&#47548;; FONT-SIZE: 11pt" lang="EN-US"><p></p></span>&nbsp;</p>
+<p style="LINE-HEIGHT: 200%; MARGIN: 0cm 0cm 10pt" class="MsoNormal"><span style="LINE-HEIGHT: 200%; FONT-FAMILY: &#44404;&#47548;; FONT-SIZE: 11pt"><span style="COLOR: #000000">&#48152;&#45824;&#47196; &#44060;&#48169;&#49457;&#51060; &#45230;&#51008; &#49324;&#46988;&#46308;&#51008; &#49845;&#44288;&#51201;&#51004;&#47196; &#54644;&#50724;&#45912; &#44163;&#51012; &#48148;&#44984;&#47140; &#54616;&#51648; &#50506;&#45716;&#45796;</span><span style="COLOR: #000000" lang="EN-US">. </span><span style="COLOR: #000000">&#49352;&#47196;&#50868; &#44163;&#48372;&#45796;&#45716; &#51061;&#49689;&#54620; &#44163;&#51012; &#51339;&#50500;&#54620;&#45796;</span><span style="COLOR: #000000" lang="EN-US">. </span><span style="COLOR: #000000">&#48520;&#54869;&#49892;&#54620; &#44163;&#51012; &#47784;&#54744;&#54616;&#47140; &#54616;&#51648; &#50506;&#51004;&#47728; &#48120;&#51648;&#51032; &#44163;&#48372;&#45796;&#45716; &#51060;&#48120; &#51096; &#50508;&#44256; &#51080;&#45716; &#44163;&#51012; &#49440;&#54840;&#54620;&#45796;</span><span style="COLOR: #000000" lang="EN-US">. </span><span style="COLOR: #000000">&#51060;&#47088; &#44256;&#44061;&#50640;&#44172;&#45716; &#49888;&#47280;&#44048;&#51012; &#49900;&#50612;&#51452;&#45716; &#44163;&#51060; &#50864;&#49440;&#51060;&#45796;</span><span style="COLOR: #000000" lang="EN-US">. </span><span style="COLOR: #000000">&#51032;&#49900; &#47566;&#51008; &#44256;&#44061;&#46308;&#51008; &#50689;&#50629;&#51064;&#51060; &#44032;&#51648;&#44256; &#45796;&#45768;&#45716; &#50976;&#51064;&#47932;</span><span style="COLOR: #000000" lang="EN-US">, </span><span style="COLOR: #000000">&#49345;&#54408; &#49548;&#44060; &#52293;&#51088;</span><span style="COLOR: #000000" lang="EN-US">, </span><span style="COLOR: #000000">&#49324;&#48372; &#46321;&#51012; &#48372;&#44256;&#46020; &#49789;&#44172; &#44396;&#47588; &#50668;&#48512;&#47484; &#44208;&#51221;&#54616;&#51648; &#47803;&#54620;&#45796;</span><span style="COLOR: #000000" lang="EN-US">. </span><span style="COLOR: #000000">&#51060;&#46308;&#50640;&#44172;&#45716; &#50808;&#48512; &#51204;&#47928;&#44032;&#46308;&#51060; &#44536; &#51228;&#54408;&#51012; &#51339;&#45796;&#44256; &#51064;&#51221;&#54664;&#45796;&#45716; &#49324;&#49892;&#51012; &#50508;&#47140;&#51452;&#45716; &#44163;&#51060; &#51339;&#45796;</span><span style="COLOR: #000000" lang="EN-US">. TV</span><span style="COLOR: #000000">&#45208; &#51105;&#51648;</span><span style="COLOR: #000000" lang="EN-US">, </span><span style="COLOR: #000000">&#49888;&#47928; &#46321;&#50640; &#49892;&#47536; &#51088;&#47308;&#47484; &#54876;&#50857;&#54616;&#45716; &#44163;&#46020; &#46020;&#50880;&#51060; &#46108;&#45796;</span><span style="COLOR: #000000" lang="EN-US">. </span><span style="COLOR: #000000">&#49345; &#48155;&#51008; &#49324;&#49892;</span><span style="COLOR: #000000" lang="EN-US">, </span><span style="COLOR: #000000">&#53945;&#54728;</span><span style="COLOR: #000000" lang="EN-US">, </span><span style="COLOR: #000000">&#49885;&#54408;&#51032;&#50557;&#52397; &#50504;&#51204;&#52397;&#50640;&#49436;&#51032; &#51064;&#51221;</span><span style="COLOR: #000000" lang="EN-US">, </span><span style="COLOR: #000000">&#51060;&#47492;&#45212; &#49324;&#46988;&#51060;&#45208; &#51648;&#50669;&#51064;&#49324;&#44032; &#51228;&#54408;&#51012; &#51060;&#50857;&#54616;&#44256; &#51080;&#45796;&#45716; &#49324;&#49892;&#51012; &#50508;&#47532;&#47732; &#44256;&#44061;&#51032; &#49888;&#47280;&#47484; &#50619;&#45716; &#45936; &#54952;&#44284;&#44032; &#51080;&#45796;</span><span style="COLOR: #000000" lang="EN-US">. </span><span style="COLOR: #000000">&#45817;&#49888;&#51032; &#44256;&#44061; &#51473;&#50640; &#50976;&#47749; &#50672;&#50696;&#51064;&#51060;&#45208; &#50868;&#46041;&#49440;&#49688;</span><span style="COLOR: #000000" lang="EN-US">, </span><span style="COLOR: #000000">&#49884;&#51032;&#50896;</span><span style="COLOR: #000000" lang="EN-US">, </span><span style="COLOR: #000000">&#44397;&#54924;&#51032;&#50896; &#46321; &#51096; &#50508;&#47140;&#51276;&#44144;&#45208; &#51316;&#44221;&#51012; &#48155;&#45716; &#49324;&#46988;&#51060; &#51080;&#45796;&#47732; &#51060; &#49324;&#49892;&#51012; &#51201;&#44537;&#51201;&#51004;&#47196; &#50508;&#47140;&#46972;</span><span lang="EN-US"><span style="COLOR: #000000">. </span><p></p></span></span></p>
+<p style="LINE-HEIGHT: 200%; MARGIN: 0cm 0cm 10pt" class="MsoNormal"><span style="LINE-HEIGHT: 200%; FONT-FAMILY: &#44404;&#47548;; FONT-SIZE: 11pt" lang="EN-US"><p></p></span>&nbsp;</p>
+<p style="LINE-HEIGHT: 200%; MARGIN: 0cm 0cm 10pt" class="MsoNormal"><span style="LINE-HEIGHT: 200%; FONT-FAMILY: &#44404;&#47548;; FONT-SIZE: 11pt"><span lang="EN-US"><p></p><p style="TEXT-ALIGN: center"><div class="img_resize" id="content_image0" style="display:block;">
+                              <a href="/upload_dir/source/daum/107_img_20150624_112_1.png" rel="facebox" target="_blank"><img style="FLOAT: none; CLEAR: none" class="txc-image" src="/upload_dir/source/daum/107_img_20150624_112_1.png"></a>
+                              </div></p><p></p></span></span></p>
+<p style="LINE-HEIGHT: 200%; MARGIN: 0cm 0cm 10pt" class="MsoNormal"><span style="LINE-HEIGHT: 200%; FONT-FAMILY: &#44404;&#47548;; FONT-SIZE: 11pt" lang="EN-US"><p></p></span>&nbsp;</p>
+<p style="LINE-HEIGHT: 200%; MARGIN: 0cm 0cm 10pt" class="MsoNormal"><span style="LINE-HEIGHT: 200%; FONT-FAMILY: &#44404;&#47548;; FONT-SIZE: 11pt" lang="EN-US"></span></p></body></html>
+                    <div style="position: relative;">
+                    <!-- 미리보기 그라데이션 -->
+                    <div style="width: 100%;height: 250px; position: absolute; bottom: 0px;background-image: linear-gradient(rgba(255, 255, 255, 0), rgb(255, 255, 255));}"></div>
+                    <!--// 미리보기 그라데이션 -->
+                    </div>
+                                </div>
+                                  <!-- (구버전)
+                  <section class="preview">
+                    <h3 class="title"><img src="/images/2022/article_free_txt.png" alt="가입하면 무료"></h3>
+                    <div class="button_area">
+                      <button type="button" class="onemonth" onclick="location.href='/login?re_url=/casestudyhub/view/article_eng_no/14'">한달 무료 체험하기</button>
+                      <button type="button" class="dbrfree" onclick="location.href='/service'">DBR 멤버십 가입하기</button>
+                    </div>
+                  </section>
+                  -->
+
+                                    <!-- (신버전) 2024-11-29 박은진 -->
+                  <!-- (기존) 비회원/무료회원 노출 -->
+                    <section class="preview">
+                      <h3 class="title">
+                        15,000개의 아티클을 제대로 즐기는 방법
+                        <p class="big-tit">가입하면, 한 달 무료!</p>
+                      </h3>
+                      <p class="m-ment">걱정마세요. 언제든 해지 가능합니다.</p>
+                      <div class="button_area">
+                                                <button type="button" class="onemonth" onclick="location.href='/login?re_url=/article/view/1202/article_no/7099/ac/magazine'">한달 무료 체험하기</button>
+                        <button type="button" class="dbrfree" onclick="location.href='/service'">DBR 멤버십 가입하기</button>
+                      </div>
+                    </section>
+                                                            <!--ul class="author_wrap">
+                                      <li class="author_info_one">
+                                              <span  style="display: inline-block; font-size: 0.9em;">
+                            <strong style="font-size: 1.2em;">오정환 |</strong> - (현) 한국세일즈코치협회 사무총장 <br />
+- 오정환리더십아카데미 원장<br/><br>
+                            <a href="/author/article/writer_no/1184">이 필자의 다른 기사 보기</a>
+                        </span>
+                    </li>
+                                    </ul-->
+                <!-- 필자 영역 수정 2024-06-12 박은진 -->
+                <ul class="new_author_wrap">
+                                    <li>
+                                              <div class="new_author_info">
+                          <p><strong>오정환</strong><span></span></p>
+                          <p>- (현) 한국세일즈코치협회 사무총장 <br />
+- 오정환리더십아카데미 원장</p>
+                          <a href="/author/article/writer_no/1184">이 필자의 다른 기사 보기</a>
+                        </div>
+                    </li>
+                                    </ul>
+                                <!-- page-btnArea  -->
+            <div class="ta-r mg-b50">
+                                <a href="/article/view/1202/article_no/7061/ac/a_view" class="btn-basic">이전</a>
+                                <a href="/article/index/1202" class="btn-basic">목록</a>
+                                <a href="/article/view/1202/article_no/7102/ac/a_view" class="btn-basic">다음</a>
+                            </div>
+
+                            
+                <script type="text/javascript">
+                (function($) {
+                  $(document).ready(function(){
+                      //AD 광고 히스토리(우공역)
+                      dataString = "ad_area=3";
+                      // alert(dataString);
+                      $.ajax({
+                          type : "POSt",
+                          url : "/proc/ad_history",
+                          data : dataString,
+                          headers: { "cache-control": "no-cache","pragma": "no-cache" },
+                          dataType : "json",
+                          cache: false,
+                          async: true, // true: 비동기, false: 동기
+                          success : function(data)
+                          {
+                              if(data['code'] == 1)
+                              {
+                                  // alert(data['msg']);
+                              }
+                              else
+                              {
+                                  // alert(data['msg']);
+                              }
+                          },
+                          error : function(jqXHR,textStatus, errorThrown) {
+                              //alert("에러 jqXHR : " + jqXHR.status);
+                              alert(textStatus + ", " + errorThrown);
+                              return false;
+                          }
+                        });
+                  });
+                })(jQuery);
+                </script>
+                                            <div style="font-size: 1.2em; font-weight: bold; padding:3% 0 1% 0;">인기기사</div>
+                <ul class="relate_article">
+                                        <li>
+                    	                          	<a href="/article/view/1101/article_no/11520/ac/a_view">
+                                                  <p class="relate_thumb">
+                              <img src="/upload_dir/article/2024/12/6dce3f528f5f2364684101d869819ea7.jpg" style="width:100%;">
+                          </p>
+                        <p class="rarticle_cate">스페셜리포트 <span class="rarticle_day">2025년 1월 Issue 1</span></p>
+                        <strong class="rarticle_tit">AI 도입만으로 생산성 향상되지 않아
+구성원과 협업으로 증강지능 발휘해야</strong>
+                        </a>
+                    </li>
+                                        <li>
+                    	                          	<a href="/article/view/1101/article_no/11521/ac/a_view">
+                                                  <p class="relate_thumb">
+                              <img src="/upload_dir/article/2024/12/8ea223894fc70a6f70a6cc82274e5da3.jpg" style="width:100%;">
+                          </p>
+                        <p class="rarticle_cate">스페셜리포트 <span class="rarticle_day">2025년 1월 Issue 1</span></p>
+                        <strong class="rarticle_tit">팀원과 회사를 변화시키고 싶다고요?
+리더 먼저 바뀌어야 회사도 바꿀 수 있어</strong>
+                        </a>
+                    </li>
+                                        <li>
+                    	                          	<a href="/article/view/1101/article_no/11522/ac/a_view">
+                                                  <p class="relate_thumb">
+                              <img src="/upload_dir/article/2024/12/9952db2a1e56973e47aa6ebfdfab14b5.jpg" style="width:100%;">
+                          </p>
+                        <p class="rarticle_cate">스페셜리포트 <span class="rarticle_day">2025년 1월 Issue 1</span></p>
+                        <strong class="rarticle_tit">효율성 떨어지는 것이 리스크일까요?
+유연성-창의성 없는 것이 가장 큰 위기</strong>
+                        </a>
+                    </li>
+                                    </ul>
+            </div>
+                    </div>
+    </div>
+    <div class="article_warp_r">
+      <div style="position: fixed;">
+              <div class="blank_box">
+          <span class="warp_tag">DBR AI</span>
+          <h2>아티클 AI요약 보기</h2>
+          <img src="https://dbr.donga.com/images/common/icon_summary.png" style="margin-top:15px;" />
+          <p class="blank_txt">30초 컷!<br/>원문을 AI 요약본으로 먼저 빠르게 핵심을 파악해보세요. 정보 서칭 시간이 단축됩니다!</p>
+                      <a style="cursor: pointer" onclick="alert('로그인 후 이용하세요.');location.href='/login?re_url=/article/view/1202/article_no/7099/ac/magazine';"  class="btn_blank_click">Click!</a>
+                  </div>
+                    </div>
+     </div>
+  </div>
+	<!-- 서비스 신청하기 -->
+		<div class="service-app-pop">
+        <style>
+            @media (min-width: 1025px) {
+                .l-container { width: 1110px; }
+            }
+        </style>
+	    <div class="l-container">
+	        <div class="login-before"><!-- 로그인 전 -->
+	            <div class="guide">
+	                <div class="ment pd-t0">
+						<p>
+							<span style="color:#f7ef3f;">회원 가입만 해도, DBR 월정액 서비스 첫 달 무료!</span><br />
+							15,000여 건의 DBR 콘텐츠를 <strong class="point underline">무제한으로 이용</strong>하세요.
+						</p>
+	                </div>
+	            </div>
+	            <div class="btn-area">
+                  	                <a href="/login?re_url=/article/view/1202/article_no/7099/ac/magazine" class="btn-service-app">첫 달 무제한 이용</a>
+					<button class="close" id="bar_close"  style="cursor: pointer;"><img src="/images/banner/x.png" alt="닫기" /></button>
+	            </div>
+	        </div>
+	    </div>
+	</div>
+	</div>
+<!-- 카카오 공유하기 스크립트 -->
+<script src="//developers.kakao.com/sdk/js/kakao.min.js"></script>
+<script type="text/javascript">
+(function($){
+    $(document).ready(function($) {
+
+         //카카토톡 공유하기
+        Kakao.init("e98b738465e8fda9328835e5580a81ef");     // 사용할 앱의 JavaScript 키를 설정해 주세요.
+        sendLink = function() {
+                    	
+                  Kakao.Share.sendDefault({
+                  	  objectType: 'feed',
+                  	  content: {
+						    title: '[DBR] 개방성·성실성·외향성·동조성·신경성 고객성격을 파악하면 영업이 쉬워진다',
+						    description: 'Article at a Glance &#8211; 마케팅 상대방의 주변이나 말투, 옷차림 등을 관찰해 성격을 파악할 수 있는 단서를 얻어내는 것을 스누핑(snooping)이라고 한다. 영업인은 처음 만나는 고객을 잘 살펴 상대방의 성격을 짐작하고 이에 맞는 대응방식을 적용해 성과를 낼 수 있다. 샘 고스링 교수는 사람의 성격을 개방성, 성실성, 외향성, 동 ...',
+						    imageUrl:  'https://dbr.donga.com/upload_dir/old/697e2ab7ec.png',
+						    link: {
+						      mobileWebUrl: 'https://dbr.donga.com/article/view/1202/article_no/7099',
+						      webUrl: 'https://dbr.donga.com/article/view/1202/article_no/7099/ac/magazine',
+						    },
+					  }
+                  });           
+        }
+
+        //인쇄 팝업창 띄우기
+        $("#btn_print").click(function(){
+             window.open('/article/pop_print/1202/article_no/7099');
+             return false;
+        });
+        $("#btn_print2").click(function(){
+             window.open('/article/pop_print/1202/article_no/7099');
+             return false;
+        });
+
+        $(window).scroll(function(){
+                //진행바 동작하기
+                var totalHeight = $(document).height() - $(window).height();
+                var currentHeight = $(document).scrollTop();
+                var ingWidth = (currentHeight/(totalHeight-600))*100;
+                // console.log(currentHeight);
+                var barHeight=450;                //console.log("currentHeight:"+currentHeight+"|barHeight:"+barHeight);
+                if(currentHeight > barHeight){
+                    $('.fixNavi').show();
+                }else{
+                    $('.fixNavi').hide();
+                }
+                $('.ing').css('width', ingWidth+'%');
+            });
+        $(window).scroll();
+
+    	//폰트 크기 제어
+	    $('.btn-fontsize').click( function(){
+	         // alert($('.cont-article').css('font-size'));
+	        if($('.cont-article').css('font-size') == '16px'){
+	            $('.cont-article').css('font-size', '18px');
+	        }else if($('.cont-article').css('font-size') == '18px'){
+	            $('.cont-article').css('font-size', '13px');
+	        }else{
+	            $('.cont-article').css('font-size', '16px');
+	        }
+	        // alert($('.cont-article').css('font-size') );
+	    });
+
+		// 사이드 메뉴 열기
+		$('.fixNavi-area .btn_sidemenu_fixed').click(function(){
+			//모바일 화면일 시, 과거 gnb show 하지않고 gnb_v의 모바일 메뉴 나오도록 2024-06-24 김준연
+			const window_width = $(window).width();
+
+			if(window_width < 768) {
+				event.preventDefault();
+                $('.left_gnbWrap').addClass('on');
+			}
+			else {
+				$(this).hide();
+				$('.fixNavi-area .btn_sidemenu_active_fixed').show();
+				$('.fixNavi_gnb').show();
+			}
+			return false;
+		});
+        $('.fixNavi-area .btn_sidemenu_active_fixed').click(function(){
+            $(this).hide();
+            $('.fixNavi-area .btn_sidemenu_fixed').show();
+            $('.fixNavi_gnb').hide();
+            return false;
+        });
+
+        // 사이드 메뉴 닫기 버튼
+        $('.fixNavi-area .btn-sidemenu-close').click(function(){
+            $('.fixNavi-area .btn_sidemenu_fixed').show();
+            $('.fixNavi-area .btn_sidemenu_active_fixed').hide();
+            $('.fixNavi_gnb').hide();
+            return false;
+        });
+
+        $('.func-pg .icon-sns-more').click(function(){
+            $(this).next('other-sns').toggle();
+            return false;
+        });
+
+        $('.fixNavi-area .btn-scrap').click(function(){
+            $(this).next().toggle();
+            return false;
+        });
+
+        // 다른공유기능 show/hide
+        $('#m-btn-ftx-share').click(function(){
+            $('.fix-other-share').toggle();
+            return false;
+        });
+
+        // 다른sns기능 show/hide
+        $('.btn-ftx-sns').click(function(){
+           $('.fix-other-sns').toggle();
+            return false;
+        });
+
+        //PDF 다운로드
+        $('.btn-pdfdown').click(function(){
+                            alert('로그인 후 이용하세요.');
+                //return divopen('login-poplayer');
+                location.href="/login?re_url=/article/view/1202/article_no/7099/ac/magazine";
+                return;
+            
+                            if(confirm('연간ㆍ월간 서비스/PDF Only이용 고객만이 PDF 다운로드 가능합니다.\nPDF Only 상품을 구매하러 가시겠습니까?')) {
+                    $(location).attr('href','/service/general');
+                    return;
+                } else {
+                    return false;
+                }
+            
+                        var msg = 'PDF 다운로드 횟수가 차감됩니다.\n신중히 다운로드 받아주세요.\n다운로드 하시겠습니까?';
+                        if(confirm(msg)){
+                $("input[name=csrf_token_dbr]").val(getCSRFToken());
+                $("#pdfDownloadFrm").attr('action','/pdf/pdf_download/');
+                $("#pdfDownloadFrm").submit();
+                return;
+            } else {
+                return false;
+            }
+        });
+        
+        
+    });
+})(jQuery);
+</script>
+<!--//컨텐츠-->
+    </section>
+
+    <footer>
+              <div class="footer02">
+        <div>
+            <span><a href="/intro">서비스 소개</a></span>
+            <span><a href="/intro/util">이용약관</a></span>
+            <span><a href="/intro/copyright">저작권 정책</a></span>
+            <span><a href="/intro/privacy">개인정보처리방침</a></span>
+            <span><a href="/intro/email">이메일 무단수집 거부</a></span>
+            <span><a href="/intro/sitemap">사이트맵</a></span>
+            <span><a href="/upload_file/dbr_media_202303.pdf" target="_blank">광고문의</a></span>
+        </div>
+    </div>
+    <div class="footer03">
+        <div class="foot_copy">
+            <div class="mw_size">
+                <div class="footer_grid">
+                    <div class="left">
+                        <div class="foot_logo">
+                            <img src="/images/2022/logo_footer_1.png" alt="DBR" />
+                        </div>
+                    </div>
+                    <div class="right">
+                        <p style="font-weight: bold;">동아비즈니스리뷰 사업자 정보
+                            <span id="info_open"><a style="cursor:pointer;" id="fopen"><img src="https://dbr.donga.com/images/common/logo-footer_open.png" alt="" border="0" /></a></span>
+                            <span id="info_close" style="display: none;"><a style="cursor:pointer;" id="fclose"><img src="https://dbr.donga.com/images/common/logo-footer_close.png" alt="" border="0" /></a></span>
+                        </p>
+                        <div id="corpinfo" class="txt" style="display: none;">
+                            <p class="mgt10">㈜동아미디어엔 (온라인비즈니스)<br />
+                               서울시 서대문구 충정로29 동아일보사빌딩 15층<br />
+                               통신판매업신고: 2004-서울서대문-1096<br />
+                               사업자등록번호: 110-81-47558<br />
+                               대표이사: 김승환</p><br />
+                            <p class="mgt10">㈜동아일보사<br />
+                               서울시 종로구 청계천로1 동아일보사빌딩<br />
+                               등록번호: 종로라00434 ㅣ 등록일자: 2014.01.16<br />
+                               사업자등록번호: 102-81-03525<br />
+                               대표자: 김재호</p><br />
+                            <p class="call_box">
+                                <span>TEL</span>: 02-6380-7236
+                            </p>
+                        </div>
+                        <div class="copyright_txt">
+                            Copyright ⒸDONGAMEDIAN Inc. All Rights Reserved
+                        </div>
+                    </div>
+                </div>
+
+                <div class="foot_kocca" >
+                    <img src="https://dbr.donga.com/images/common/mark_gcs.png" alt="Good Content Service kocca" class="" />
+                </div>
+            </div>
+	    </div>
+    </div>
+    </footer>
+
+<!-- 메인 기사 슬라이더 : 박은진 2023-06-19 -->
+<script type='text/javascript'>
+(function($){
+        		$("#fopen").click(function(){
+            $("#corpinfo").show();
+            $("#info_close").show();
+            $("#info_open").hide();
+            var offset = $(".copyright_txt").offset();
+            $('html, body').animate({scrollTop : offset.top}, 400);
+        });
+        $("#fclose").click(function(){
+            $("#corpinfo").hide();
+            $("#info_close").hide();
+            $("#info_open").show();
+            var offset = $("#corpinfo").offset();
+            $('html, body').animate({scrollTop : offset.top}, 400);
+        });
+		
+		
+})(jQuery);
+</script>
+
+    <!-- 모바일 햄버거 메뉴-->
+    <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>-->
+    <script src="/js/2022/mo_menu.js?v=20250111012023""></script>
+    <!-- 모바일 햄버거 메뉴-->
+<!-- AceCounter Log Gathering Script V.7.5.2013010701 -->
+<script language='javascript'>
+    var _AceGID=(function(){var Inf=['gtp12.acecounter.com','8080','AH3A41136969111','AW','0','NaPm,Ncisy','ALL','0']; var _CI=(!_AceGID)?[]:_AceGID.val;var _N=0;var _T=new Image(0,0);if(_CI.join('.').indexOf(Inf[3])<0){ _T.src =( location.protocol=="https:"?"https://"+Inf[0]:"http://"+Inf[0]+":"+Inf[1]) +'/?cookie'; _CI.push(Inf);  _N=_CI.length; } return {o: _N,val:_CI}; })();
+    var _AceCounter=(function(){var G=_AceGID;if(G.o!=0){var _A=G.val[G.o-1];var _G=( _A[0]).substr(0,_A[0].indexOf('.'));var _C=(_A[7]!='0')?(_A[2]):_A[3];    var _U=( _A[5]).replace(/\,/g,'_');var _S=((['<scr','ipt','type="text/javascr','ipt"></scr','ipt>']).join('')).replace('tt','t src="'+location.protocol+ '//cr.acecounter.com/Web/AceCounter_'+_C+'.js?gc='+_A[2]+'&py='+_A[4]+'&gd='+_G+'&gp='+_A[1]+'&up='+_U+'&rd='+(new Date().getTime())+'" t');document.writeln(_S); return _S;} })();
+</script>
+<noscript><img src='http://gtp12.acecounter.com:8080/?uid=AH3A41136969111&je=n&' border='0' width='0' height='0' alt=''></noscript>
+<!-- AceCounter Log Gathering Script End -->
+</div>
+
+<!-- //STEP 1.  프리미엄로그분석 스크립트인 wcslog.js  호출 ( 공통스크립트 /  전환스크립트의 function 들을 모두 담고 있음 )-->
+<script type="text/javascript" src="//wcs.naver.net/wcslog.js"></script>
+<script type="text/javascript">
+if(!wcs_add) var wcs_add = {};
+wcs_add["wa"] = "s_1f4da990f21";
+if (!_nasa) var _nasa={};
+wcs.inflow("donga.com");
+wcs_do(_nasa);
+</script>
+
+<!--뷰저블 분석 분석스크립트 설치 2021-08-25(대행사요청) //rum.beusable.net/script/b201012e105630u245/87573f2782 =>트래킹 코드 교체 2022-12-14 (미래연요청)-->
+<script type="text/javascript">
+(function(w, d, a){
+    w.__beusablerumclient__ = {
+        load : function(src){
+            var b = d.createElement("script");
+            b.src = src; b.async=true; b.type = "text/javascript";
+            d.getElementsByTagName("head")[0].appendChild(b);
+        }
+    };w.__beusablerumclient__.load(a + "?url=" + encodeURIComponent(d.URL));
+})(window, document, "//rum.beusable.net/load/b221114e103039u633");
+</script>
+
+<!--콘솔창 차단 스크립트-->
+<script>
+(function($){
+	//마우스 우측 버튼 사용 막기.
+	if (window.addEventListener) {
+		window.addEventListener('contextmenu', function(e) { try { if (typeof e != 'undefined') { e.preventDefault(); return false; } else { return false; }} catch(e) {} } , false);
+	} else {
+		window.attachEvent('oncontextmenu', function(e) { try { if (typeof e != 'undefined') { e.preventDefault(); return false; } else { return false; }} catch(e) {} } );
+	}
+	var handlemouseEvent = function(e) {
+		try {
+			if (typeof e == 'undefined') {
+				if (window.event.button && window.event.button == "2") {
+					return false;
+				}
+			} else if ((e.which && e.which == 3) || (e.button && e.button == 2)) {
+				e.preventDefault();
+				return false;
+			}
+	
+		} catch (e) {}
+	};
+	window.onkeydown = handlemouseEvent;
+	window.onkeyup = handlemouseEvent;
+})(jQuery);
+
+!function() {    
+    //개발자도구 실행 감지.
+    function detectDevTool(allow) {
+	    if(isNaN(+allow)) allow = 100;
+	    var start = +new Date(); 
+	    debugger;
+	    var end = +new Date(); 
+	    if(isNaN(start) || isNaN(end) || end - start > allow) {
+	      // 개발자 도구가 open 된것을 감지했을때 실행할 코드 삽입
+	      //alert('개발자 도구가 감지되었습니다!');
+	    }
+	}
+	
+	 if(window.attachEvent) {
+	      if (document.readyState === "complete" || document.readyState === "interactive") {
+	          detectDevTool();
+		      window.attachEvent('onresize', detectDevTool);
+		      window.attachEvent('onmousemove', detectDevTool);
+		      window.attachEvent('onfocus', detectDevTool);
+		      window.attachEvent('onblur', detectDevTool);
+	  	  } else {
+	          setTimeout(argument.callee, 0);
+	     }
+	  } else {
+		    window.addEventListener('load', detectDevTool);
+		    window.addEventListener('resize', detectDevTool);
+		    window.addEventListener('mousemove', detectDevTool);
+		    window.addEventListener('focus', detectDevTool);
+		    window.addEventListener('blur', detectDevTool);
+	  }
+}();
+ 
+// Detect Key Shortcuts f12 및 특수키 조합 막기
+window.addEventListener('keydown', function(e) {
+    if (
+        // CMD + Alt + I (Chrome, Firefox, Safari)
+        e.metaKey == true && e.altKey == true && e.keyCode == 73 ||
+        // CMD + Alt + J (Chrome)
+        e.metaKey == true && e.altKey == true && e.keyCode == 74 ||
+        // CMD + Alt + C (Chrome)
+        e.metaKey == true && e.altKey == true && e.keyCode == 67 ||
+        // CMD + Shift + C (Chrome)
+        e.metaKey == true && e.shiftKey == true && e.keyCode == 67 ||
+        // Ctrl + Shift + I (Chrome, Firefox, Safari, Edge)
+        e.ctrlKey == true && e.shiftKey == true && e.keyCode == 73 ||
+        // Ctrl + Shift + J (Chrome, Edge)
+        e.ctrlKey == true && e.shiftKey == true && e.keyCode == 74 ||
+        // Ctrl + Shift + C (Chrome, Edge)
+        e.ctrlKey == true && e.shiftKey == true && e.keyCode == 67 ||
+        // F12 (Chome, Firefox, Edge)
+        e.keyCode == 123 ||
+        // CMD + Alt + U, Ctrl + U (View source: Chrome, Firefox, Safari, Edge)
+        e.metaKey == true && e.altKey == true && e.keyCode == 85 ||
+        e.ctrlKey == true && e.keyCode == 85
+    ) {
+		e.preventDefault();
+		return false;
+    }
+});
+</script>
+<!--콘솔창 차단-->
+</body>
+</html>

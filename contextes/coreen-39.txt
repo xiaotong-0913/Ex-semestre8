@@ -1,0 +1,4 @@
+◆LG유플러스, 유플러스박스 API 개방=LG유플러스가 개인용 클라우드 스토리지 서비스인 유플러스박스(U+Box)의 플랫폼을
+--
+자유롭게 이용할 수 있도록 API(Application Programming Interf ace)를 개방합니다. 이에 따라 외부
+--
