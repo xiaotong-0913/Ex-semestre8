@@ -1,0 +1,255 @@
+   TECHNOLOGIE
+
+Tout sur l'ouverture
+
+   Qu'est-ce que l'ouverture en photographie� ? Découvrez comment
+   l'ouverture contrôle l'exposition et la profondeur de champ,
+   familiarisez-vous avec le triangle d'exposition et apprenez la
+   différence entre les objectifs �  ouverture fixe et �  ouverture
+--
+   Retour �  tous les articles &#xe844;
+
+   L'ouverture d'un objectif est tout simplement le point par lequel la
+   lumière passe dans l'appareil photo. Plus l'ouverture est grande, plus
+   la lumière peut atteindre le capteur de l'appareil photo, ce qui
+   affecte l'exposition de l'image.
+   Tout comme la pupille de l'�il humain se contracte en cas de forte
+   luminosité et se dilate en cas de faible luminosité, l'ouverture doit
+   être réduite ou augmentée pour obtenir une exposition correcte,
+   c'est-� -dire une image claire qui n'est ni trop sombre ni trop
+   délavée, dans différentes conditions d'éclairage. Ce
+   rétrécissement et cet élargissement sont effectués par un réseau
+   de lamelles d'ouverture dans l'objectif qui se déplacent de manière
+   synchronisée pour ajuster la taille de l'ouverture, jusqu'au maximum
+   que l'objectif est mécaniquement capable d'atteindre (ce qui
+   correspond au nombre indiqué dans le nom de l'objectif).
+--
+   dans les spécifications de l'objectif (par exemple sur sa page Web sur
+   le site de Canon).
+     * Grande ouverture ou petite ouverture
+     * �quilibrage de l'ouverture avec les autres réglages de l'appareil
+       photo� : le triangle d'exposition
+     * Objectifs �  ouverture fixe et objectifs �  ouverture variable
+     * Ouverture et netteté de l'image
+     * Compréhension des valeurs d'ouverture (f) et des valeurs
+       d'ouverture (t)
+
+   Graphique illustrant le passage de la lumière à travers la structure
+--
+   problèmes tels que la diffraction, d'autres pour la stabilisation de
+   l'image dans les objectifs IS, et d'autres encore pour la mise au
+   point. Les lamelles d'ouverture (4) contrôlent la quantité de
+   lumière qui atteint le capteur de l'appareil photo.
+
+Grande ouverture ou petite ouverture
+
+   L'ouverture est exprimée en valeur d'ouverture (f). Ce qui est
+   déroutant, c'est que le nombre f n'est pas la taille réelle de
+   l'ouverture, mais qu'il est inversement proportionnel �  celle-ci� :
+   � � � � � � � � � � diamètre d'ouverture� = longueur focale (f)
+   divisée par le nombre f
+   C'est la raison pour laquelle les valeurs d'ouverture (f) sont écrites
+   avec une barre oblique, comme dans f/1.4 et f/16. Il s'agit en fait de
+   fractions. Cela explique également pourquoi plus le nombre f est
+   faible, plus l'ouverture est grande� ; le nombre f est le dénominateur
+   de la fraction, et 1/4 est plus grand que 1/16.
+   Chaque incrément sur l'échelle standard des diaphragmes divise par
+--
+   f/4, et ainsi de suite. Chacune de ces étapes, divisant par deux la
+   quantité de lumière �  chaque fois ou la doublant dans l'autre sens,
+   est décrite comme une valeur d'ouverture. C'est pourquoi l'échelle
+   des valeurs d'ouverture (f) comporte des nombres, tels que f/2.8 et
+   f/5.6, au lieu de nombres entiers, qui ne correspondraient pas �  des
+   valeurs entières d'ouverture.
+
+   Un graphique illustrant différentes ouvertures, de la plus grande �
+   la plus petite, ainsi que les changements de profondeur de champ
+   lorsque vous passez d'une grande à une petite ouverture.
+
+   L'ouverture est représentée par des valeurs d'ouverture (f) (A). Une
+   grande ouverture telle que f/1.4 signifie littéralement une ouverture
+   plus large qu'une ouverture étroite telle que f/16. Outre
+   l'exposition, l'ouverture affecte également la profondeur de champ
+   (B)� : les grandes ouvertures (1) créent une faible profondeur de
+   champ, ce qui signifie que seule une petite zone de la scène est nette
+   (3). Plus l'ouverture est petite (2), plus la profondeur de champ
+   augmente, de sorte qu'une plus grande partie de la scène est nette.
+
+   Lorsque nous parlons de grande ouverture, nous entendons un petit
+   nombre f et une ouverture qui permet �  un flux de lumière d'atteindre
+   le capteur de l'appareil photo, un peu comme si l'on ouvrait les
+   rideaux pour laisser entrer le plus de lumière possible. Cela signifie
+   que les grandes ouvertures telles que f/1.4 sont parfaites pour les
+   prises de vue dans des conditions de faible luminosité, nous y
+   reviendrons plus tard.
+--
+   lorsque la scène est inondée de lumière, afin d'éviter la
+   surexposition (une image qui semble délavée).
+   L'ouverture joue également un rôle clé dans la définition de la
+   profondeur de champ de vos prises de vue, c'est-� -dire de la partie de
+   l'image qui est nette. Une grande ouverture, telle que f/1.8, permet
+   d'obtenir une faible profondeur de champ, ce qui fait ressortir le
+   sujet sur un arrière-plan magnifiquement flou. C'est l'idéal pour les
+   portraits ou la photographie macro. Une ouverture plus petite, telle
+   que f/16, permet de conserver la mise au point sur une plus grande
+   partie de la scène, ce qui est idéal pour les paysages et la
+--
+   l'arrière-plan.
+
+   Grande ouverture
+
+   Petite ouverture
+
+�quilibrage de l'ouverture avec les autres réglages de l'appareil photo� :
+le triangle d'exposition
+
+   L'ouverture est l'un des trois côtés du triangle d'exposition, avec
+   la vitesse d'obturation et la sensibilité ISO. C'est l'interaction de
+   ces trois éléments qui détermine l'exposition d'une image.
+     * L'ouverture contrôle la quantité de lumière qui entre dans
+       l'objectif.
+     * La vitesse d'obturation détermine la durée pendant laquelle la
+--
+       mouvements, tandis qu'un obturateur lent peut créer un flou si le
+       sujet (ou l'appareil photo) bouge pendant que l'obturateur est
+       ouvert. Si vous utilisez une grande ouverture (petite valeur f), la
+       quantité de lumière entrante est plus importante, ce qui signifie
+       qu'une vitesse d'obturation plus rapide permettra d'obtenir une
+--
+
+   Graphique illustrant le triangle d'exposition, dont les trois côtés
+   sont la vitesse d'obturation, l'ouverture et la sensibilité ISO.
+
+   Le principe directeur du triangle d'exposition est que si vous modifiez
+   l'un des trois paramètres d'exposition principaux - ISO (A), vitesse
+   d'obturation (B) et ouverture (C) - vous devrez alors ajuster les
+   autres en compensation pour conserver une exposition homogène.
+
+   La photographie de portrait exige souvent que le sujet se détache d'un
+   arrière-plan crémeux et flou. Pour y parvenir, vous devez utiliser
+   une plus grande ouverture (plus petit nombre f), telle que f/1.8 ou
+   f/2.8, afin d'obtenir une faible profondeur de champ. Cela permet �
+   plus de lumière d'atteindre le capteur, ce qui signifie que vous
+--
+   rapide pour figer le mouvement. Cela signifie que moins de lumière
+   atteint le capteur, et vous devrez donc compenser en élargissant
+   l'ouverture, en augmentant la sensibilité ISO, ou les deux.
+   Qu'en est-il des prises de vue dans des conditions de faible
+   luminosité, telles qu'un dîner aux chandelles ou un paysage urbain au
+--
+   Auto ISO ou choisir de régler vous-même la sensibilité ISO. En mode
+   Manuel (M), vous pouvez définir n'importe quelle combinaison
+   d'ouverture, de vitesse d'obturation et de sensibilité ISO.
+
+   Sur cette photo prise avec un objectif Canon RF 50mm F1.8 STM à f/1.8,
+--
+   des objectifs �  longueur focale variable. Les objectifs �  ouverture
+   fixe, également connus sous le nom d'objectifs �  ouverture constante,
+   conservent la même taille d'ouverture maximale sur toute la plage
+   focale. Avec l'objectif Canon RF 24-70mm F2.8L IS USM, par exemple, que
+   vous photographiez en grand angle �  24� mm ou en zoom avant �  70� mm,
+--
+   distances focales est essentielle. Un autre objectif �  ouverture fixe
+   est le Canon RF 28-70mm F2L USM. Cet objectif est largement utilisé
+   pour son ouverture rapide de f/2 sur l'ensemble de la plage focale, ce
+   qui en fait un outil redoutable pour la photographie par faible
+   luminosité et permet d'obtenir des bokeh époustouflants.
+--
+   rue.
+   Le choix entre un objectif �  ouverture fixe et un objectif �
+   ouverture variable dépend en fin de compte de vos besoins et de votre
+   style de prise de vue. Si la régularité de l'exposition et de la
+   profondeur de champ sur une plage focale est primordiale, un objectif
+   �  ouverture fixe constitue le meilleur choix. En revanche, si la
+   portabilité et le budget sont des éléments clés, un objectif �
+   ouverture variable pourrait vous convenir.
+
+   Photo prise à f/1.8 d'un pot de fleurs avec uniquement le tapis violet
+--
+   pas mis au point.
+
+   Une plus grande ouverture (valeur f plus faible) permet d'obtenir une
+   faible profondeur de champ et d'isoler le sujet, mais paradoxalement,
+   elle risque de compromettre légèrement la netteté générale, même
+--
+   imperfections peuvent faire en sorte que la lumière ne soit pas mise
+   au point avec une précision parfaite sur l'ensemble du cadre �  de
+   grandes ouvertures. Photo prise avec un Canon� EOS� R6 équipé d'un
+   objectif Canon RF 50mm F1.8 STM �  1/400� s, f/1.8 et ISO� 100. © Jeff
+   Meyer
+--
+   En photographie macro, plusieurs facteurs entrent en jeu, notamment la
+   distance de mise au point minimale de l'objectif. Toutefois, lorsque la
+   netteté est essentielle, il convient d'utiliser l'ouverture optimale
+   de l'objectif, qui se situe normalement au milieu de sa plage
+   d'ouverture. Vous obtiendrez ainsi les performances les plus nettes sur
+   l'ensemble du cadre. Photo prise avec un Canon� EOS� R6 équipé d'un
+   objectif Canon RF 50mm F1.8 STM �  1/60� s, f/16 et ISO� 1� 250. ©
+   Jeff Meyer
+
+Ouverture et netteté de l'image
+
+   Le réglage de l'ouverture a également un effet sur la netteté
+   générale de l'image. Les très grandes ouvertures (telles que f/1 ou
+   f/1.8) peuvent légèrement compromettre la netteté générale en
+   raison des aberrations de l'objectif, des imperfections physiques qui
+--
+   ne peuvent pas les éliminer complètement, malgré toute une série de
+   corrections de l'objectif dans l'appareil photo.
+   Les très petites ouvertures (telles que f/22) provoquent une
+   diffraction, qui peut également réduire la netteté de l'image.
+   Imaginez la lumière entrant dans l'appareil photo comme une colonne de
+   soldats en marche, ceux qui se trouvent sur les côtés se bousculant
+   les uns les autres et se heurtant aux murs lorsqu'ils passent par une
+   ouverture étroite, ce qui compromet leur alignement par rapport �  une
+   ouverture plus large. Il s'agit également d'un phénomène physique
+   inévitable, bien que de nombreux appareils photo l'atténuent grâce
+   �  la fonction de correction de la diffraction de Canon.
+--
+   coins. Cependant, il existe généralement ce que l'on appelle
+   l'«� ouverture idéale� » d'un objectif, c'est-� -dire le réglage de
+   l'ouverture qui lui permet d'offrir ses meilleures performances en
+   termes de netteté.
+   Vous pouvez effectuer des essais de prise de vue pour le déterminer,
+   mais, en règle générale, l'ouverture optimale est inférieure
+   d'environ deux diaphragmes �  l'ouverture maximale de l'objectif. Avec
+   un objectif f/2, par exemple, une ouverture d'environ f/4 devrait
+   produire les résultats les plus nets sur l'ensemble de l'image. Pour
+   un objectif f/2.8, essayez autour de f/5.6. Dans le cas d'un objectif
+   �  ouverture variable, le point idéal se situe au milieu de la plage
+   d'ouverture.
+
+Compréhension des valeurs d'ouverture (t) et des valeurs d'ouverture (f)
+
+   Le terme de valeur d'ouverture «� f-stop� » (pour «� focal-stop� »)
+   indique la taille physique de l'ouverture par rapport �  la longueur
+   focale de l'objectif. Cependant, lorsque la lumière traverse
+   l'objectif, une partie peut être absorbée, diffractée ou réfléchie
+--
+   Cette distinction est importante, car tous les objectifs n'ont pas la
+   même efficacité de transmission de la lumière. Par exemple, deux
+   objectifs peuvent tous deux avoir une ouverture de f/2.8, mais, en
+   raison des différences de conception et de traitement des lentilles,
+   l'un d'entre eux peut transmettre plus de lumière que l'autre.
+   Connaître la valeur de l'ouverture (t) permet de mesurer l'exposition
+   avec plus de précision, ce qui garantit la cohérence, en particulier
+   lorsque vous changez d'objectif ou que vous photographiez dans un
+   environnement contrôlé, comme un plateau de tournage.
+   Dans la pratique, cependant, les valeurs d'ouverture (f) constituent la
+   mesure standard de l'ouverture pour les photographes et sont les
+   unités affichées sur les objectifs des appareils photo. Elles offrent
+   un moyen pratique de contrôler l'exposition et la profondeur de champ,
+   et la plupart des appareils photo modernes compensent automatiquement
+   les légères variations de transmission de la lumière entre les
+   différents objectifs. Les valeurs d'ouverture (t) ne sont
+   généralement pas indiquées, ni même facilement disponibles.
+   En revanche, elles sont généralement utilisées dans la
+--
+   cohérence de l'exposition est primordiale, en particulier lors de
+   l'utilisation d'objectifs ou d'appareils photo différents. En
+   pratique, l'utilisation des valeurs d'ouverture (t) garantit que chaque
+   objectif utilisé fournira la même exposition pour un paramètre
+   donné, assurant ainsi la cohérence entre les prises de vue.
+   En comprenant l'ouverture et son fonctionnement en photographie, vous
+   êtes sur le point de capturer le monde �  travers votre objectif de la
+   manière dont vous l'imaginez.

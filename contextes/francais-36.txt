@@ -1,0 +1,77 @@
+    1. utilisation de l'arc de décharge qui se crée naturellement,
+    2. étaiement pour prendre en compte la charge totale théorique au
+       dessus de l'ouverture à créer.
+
+   Le législateur ne considère que la seconde approche. Dans tous les cas,
+   prenez vos précautions et responsabilités.
+
+   tiez breiz stage creation d une ouverture dans un mur de pierre 289
+
+L'arc de décharge
+--
+   tiez breiz schema gerard dupont 266
+
+Ouverture en arc de plein cintre
+
+   Une ouverture en arc de plein cintre trop près d'un mur peut poser
+   problème, car la composante horizontale des charges supportées va
+   exercer une poussée sur le mur et peut avoir un effet néfaste sur
+--
+       terre de 1500 kg/m³,
+     * les charges portées par les fermes, ici, il y a celle située juste
+       au dessus de l'ouverture, plus celles qui l'entourent, si le trou
+       avait été plus large, alors il aurait fallu les intégrer,
+     * ne pas oublier une partie des charges d'exploitation, c'est à dire
+       les solives, meubles, planchers, baignoires, etc. qui sont
+       effectivement supportées par le mur (compter 150 kg au m², sur la
+       largeur de l'ouverture multipliée par la moitié de la largeur du
+       bâti),
+     * une partie de la charpente et de la couverture (compter 100 kg au
+       m²),
+     * et il ne faut pas oublier le linteau lui-même, plus les efforts
+--
+Exemple 2
+
+   Si votre ouverture est large, alors il faut augmenter le nombre de
+   rangées d'étais. Un petit arc de décharge se créera donc entre chaque
+   rangée d'étais.
+--
+   tiez breiz schema gerard dupont 273
+
+Renforcer les ouvertures
+
+   Lorsque le mur à ouvrir comporte d'autres ouvertures, il faut
+--
+   vous avez oublié que, dans une maison ancienne, il faut « composer » et
+   respecter ses spécificités ! Avant de démarrer, il faut naturellement
+   tracer le cadre de l'ouverture finie sur le mur, en rajoutant 0,25 m
+   sur les côtés.
+
+--
+   ébrasements sont là pour permettre le passage de la lumière dans la
+   pièce, ils peuvent donc ne pas être symétriques. En tout cas, il faut
+   en tenir compte pour l'ouverture du mur.
+
+   Naturellement, l'ouverture totale à pratiquer dans le mur dépend de
+   l'ébrasement, mais aussi du type de moellons constituant le jambage :
+   si vous utilisez des pierres de taille, l'ouverture à pratiquer sera
+   d'autant plus large que les lancis seront longs.
+
+--
+   parement reste en place. Évidemment, il faut aussi aller voir de
+   l'autre côté si une autre « panneresse » ne se trouve pas dans le champ
+   de l'ouverture.
+
+   Une fois le tracé à peu près fixé, il faut procéder au percement du
+--
+   qu'elles puissent soutenir la charge.
+
+   Si votre ouverture est à l'étage, alors l'étaiement devra assurer le
+   bon écoulement des charges jusqu'au sol, ce qui impose un double
+   étaiement, y compris à l'intérieur car il n'est pas question de faire
+--
+
+   Il n'est pas possible de terminer cette présentation sans attirer votre
+   attention sur les proportions de l'ouverture. Si la règle de base est
+   d'utiliser les mêmes proportions que les ouvertures existantes
+   d'origine, il est naturellement possible d'utiliser d'autres rapports

@@ -1,0 +1,61 @@
+   République
+   Française
+   (BUTTON) Menu
+
+   Ouverture data.gouv.fr
+
+   Tableau de suivi des ouvertures de données, codes sources et API
+   publics
+   (BUTTON) Fermer
+     * Données
+     * API
+     * Réutilisations
+     * Organisations
+     * (BUTTON) Commencer sur data.gouv.fr
+          + Qu'est-ce que data.gouv.fr ?
+          + Comment publier des données ?
+          + Comment exploiter des données ?
+     * Actualités
+     * Nous contacter
+
+Suivre les ouvertures de données publiques
+
+   Les données ouvertes (open data) sont des données en accès libre et
+   gratuit et facilement réutilisables par toutes et tous.
+
+   Ces données sont produites par l'administration (ministères,
+   collectivités locales, etc.) mais aussi par des acteurs privés ou
+   encore des citoyens.
+
+   Ce site vise à vous permettre de suivre l'ouverture des données
+   publiques ayant été annoncée notamment les engagements ministériels et
+   les données de forte valeur définies par la Commission européenne.
+
+   Pour consulter les demandes d'accès aux documents administratifs
+   communicables ou faire une demande, rendez-vous sur le site de la
+   Commission d'Accès aux Documents Administratifs.
+
+Données de forte valeur
+
+   Suivi de l'ouverture des données de forte valeur identifiées par la
+   Commission européenne.
+
+Engagements ministériels
+
+   Suivi des engagements ministériels en matière de données ouvertes.
+
+   république
+   française
+
+   Le code source est ouvert et les contributions sont bienvenues. Voir le
+   code source
+     * legifrance.gouv.fr
+     * info.gouv.fr
+     * service-public.fr
+     * data.gouv.fr
+
+     * Accessibilité: non conforme
+     * Politique de confidentialité
+
+   Sauf mention contraire, tous les textes de ce site sont sous licence
+   etalab-2.0

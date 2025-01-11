@@ -1,0 +1,235 @@
+   #JSON oEmbed (JSON) oEmbed (XML) alternate
+
+   (BUTTON) En 1 clic
+     * Carte des équipements
+     * Kiosque-famille
+     * Espace citoyens
+     * Sortir à Brétigny
+     * Annuaires
+
+   logo_ville
+
+   (BUTTON) Menu
+     * Accueil
+          + Ma commune
+               o La Mairie
+                    # L'édito du Maire
+                    # Vos élus
+                    # Les Conseils municipaux
+                    # Les tribunes du mois
+                    # Budget
+               o Actes administratifs
+                    # Tous les actes
+                    # Arrêtés
+                    # Décisions
+                    # Délibérations
+               o Les services municipaux
+                    # Coordonnées des services
+                    # État civil
+                    # La Ville recrute
+                    # Les marchés publics
+                    # Police municipale
+               o La participation citoyenne
+                    # Les réunions de quartier
+                    # Les conseils de quartier
+                    # Citoyens vigilants
+                    # AVPU (propreté urbaine)
+          + Cadre de vie
+               o Présentation de la ville
+               o Vie collective
+               o Urbanisme
+                    # Service Urbanisme
+                    # Brétigny-sur-Orge, ville résidentielle
+                    # Plan Local d'Urbanisme (PLU)
+                    # Règlement Local de Publicité
+                    # Enquêtes publiques
+                    # Guichet Numérique des Autorisations d'Urbanisme
+                      (GNAU)
+                    # Actes d'urbanisme
+                    # DICRIM
+               o Environnement
+                    # Atlas de la Biodiversité Communale
+                    # Espaces verts
+                    # Jardins familliaux
+                    # La collecte des déchets
+                    # Les animaux
+                    # Contrôle sanitaire des eaux
+               o Circuler et stationner
+                    # Stationner à Brétigny
+                    # Circulations douces
+               o Les grands projets
+                    # Les Assises de la Ville
+                    # Quartier Clause Bois-Badeau
+               o Vos transports
+          + Famille
+               o La Petite Enfance
+                    # Accueil régulier
+                    # Accueil occasionnel
+                    # Les Assistant(e)s Maternel(le)s Agréé(e)s
+                      Indépendant(e)s
+               o La scolarité
+                    # Écoles
+                    # Inscriptions scolaires
+                    # La pause méridienne
+                    # Avant et après l'école
+                    # Des Projets autour de l'école
+                    # Les Accueils de loisirs
+                    # La Ville et l'école
+                    # Le Conseil Municipal des Enfants
+                    # Guide de la vie scolaire
+               o La Jeunesse
+                    # Point Information Jeunesse (PIJ)
+                    # Le Service Jeunesse
+                    # La Boussole des Jeunes
+               o Le Service Seniors
+                    # Soutien à domicile
+                    # Partenaires
+               o Quotient familial
+               o Tarifs municipaux 2024-2025
+          + Économie
+               o Tissu économique
+               o Les commerçants
+               o Annuaire des entreprises
+               o Le Service Relations Entreprises
+                    # Présentation du service
+                    # Implanter votre entreprise
+                    # Demandes exceptionnelles
+               o Emploi et formation
+               o Marché
+          + Santé
+               o Les structures de santé
+               o Professionnels de santé
+                    # Professions médicales
+                    # Spécialistes
+                    # Pharmacies et laboratoires
+          + Solidarités
+               o Réserve Communale Citoyenne
+               o Don du sang à Brétigny
+               o Handicap / accessibilité
+               o Centre Communal d'Action Sociale (CCAS)
+                    # Délibérations CCAS
+               o Logement social
+                    # Le droit au logement opposable
+                    # Les aides au logement
+                    # Logement pour les jeunes et les étudiants
+                    # Le Pack Mobilité
+               o Habitat
+                    # Hygiène de l'habitat
+                    # Rénovez votre habitat
+                    # Le permis de louer
+                    # Lutte contre les nuisibles
+                    # Prolifération des pigeons
+               o Aides Juridiques
+               o Le Centre Socioculturel
+                    # Présentation du centre
+                    # Permanences et services
+          + Sports, Culture et Vie associative
+               o Le Ciné 220
+               o Le Rack'am
+               o Le Théâtre Brétigny
+               o Le Centre d'Art Contemporain
+               o Les médiathèques
+               o La Ludothèque
+               o L'école de musique
+               o Le sport
+                    # Le service des sports
+                    # Les équipements sportifs
+               o Les associations
+                    # Infos aux assos
+                    # Subvention 2025
+               o Grand Projet Lecture
+                    # Le Grand Projet Lecture, c'est quoi ?
+                    # Printemps des Poètes
+                    # Le salon Lire et Jouer
+                    # Nuits de la lecture
+                    # Partir en Livre : tout l'été à Brétigny !
+               o Les Micro-Folies
+
+   Accueil > Économie > Le Service Relations Entreprises > Implanter votre
+   entreprise > Ouverture exceptionnelle >
+   Que recherchez-vous ?
+   ____________________ (BUTTON)
+
+Ouverture exceptionnelle
+
+   Vous souhaitez ouvrir exceptionnellement votre commerce le dimanche ou
+   étendre les horaires d'ouverture de votre débit de boissons, vous devez
+   adresser une demande à la mairie de Brétigny.
+
+Demande d'ouverture exceptionnelle tardive de votre débit de boissons
+
+   L'exploitant doit adresser une demande écrite à Monsieur le Maire qui
+   doit mentionner les coordonnées de l'exploitant, la date d'ouverture
+   exceptionnelle, le motif de la demande (banquet, mariage...) ainsi que
+   les horaires.
+   Toute demande d'autorisation d'ouverture exceptionnelle tardive doit
+   être effectuée 15 jours avant la date de la manifestation souhaitée.
+   Si la demande est acceptée, l'autorisation est envoyée à l'exploitant.
+
+Ouverture le dimanche
+
+   Pour les établissements de commerces de détail où le repos dominical
+   est de vigueur, un arrêté municipal peut accorder une autorisation
+   exceptionnelle d'ouverture pour un maximum de 5 dimanches par
+   an (article L 221-19 du Code du Travail).
+
+   Cette dérogation est accordée pour permettre l'exercice de l'activité
+   pendant les fêtes locales ou, comme c'est fréquemment le cas, durant
+   les dimanches de fin d'année et les périodes de soldes.
+   Elle est accordée de façon collective par secteur d'activité
+   commerciale (ex : commerces de meubles).
+
+   Toutefois, pour l'obtenir, vous devez adresser une demande
+   individuelle, un mois avant la date d'ouverture exceptionnelle
+   envisagée, à Monsieur le Maire (Hôtel de Ville - 44, rue de la Mairie -
+   91220 Brétigny-sur-Orge). La décision est prise après consultation des
+   organisations d'employeurs et de travailleurs intéressées. L'arrêté qui
+   en découlera devra être affiché sur la vitrine de votre établissement.
+   Attention, à la demande de la majorité des professionnels, le Préfet
+   peut décider la fermeture le dimanche ou un autre jour des
+   établissements d'une profession, y compris ceux qui n'emploient aucun
+   salarié, pour harmoniser les règles de la concurrence. Ainsi, dans le
+   département de l'Essonne, des arrêtés prévoient les fermetures
+   suivantes sans que le maire ne puisse y déroger :
+     * Boucheries, triperies, boucheries-charcuteries : le lundi
+     * Charcuteries, charcuteries-traiteurs : le vendredi
+     * Coiffeurs : le dimanche
+     * Commerces de détail alimentaire : le dimanche, le lundi ou le
+       mercredi
+     * Pharmacies : le dimanche ou le lundi en cas de marché le dimanche
+
+   Partagez
+   Partagez
+   0 Partages
+   Partagez
+   Partagez
+   0 Partages
+
+Accès direct
+
+Lire aussi
+
+     * Travaux sur votre commerce ou entreprise
+
+     * MA VILLE
+     * Horaires d'ouverture
+     * La Ville recrute
+     * Plan de Brétigny-sur-Orge
+     * Pharmacies de gardes
+     * Numéros utiles
+     * Contacter la mairie
+     * Coeur d'Essonne Agglomération
+     * Conseil départemental de l'Essonne
+     * Conseil régional d'Île-de-France
+     * Mentions légales
+     * Plan du site
+
+   Nous suivre...
+     *
+     *
+     *
+     *
+
+   Mairie de Brétigny-sur-Orge - 52 rue de la Mairie - 91220
+   Brétigny-sur-Orge
+   Tél. : 01 69 88 40 40

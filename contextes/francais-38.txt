@@ -1,0 +1,106 @@
+     * Accueil
+     * Marketing
+     * Qu'est-ce que le taux d'ouverture en emailing ?
+
+Qu'est-ce que le taux d'ouverture en emailing ?
+
+   Rédigé par : Clara Landecy
+--
+   Publié : 27 juillet 2022
+
+   Le taux d'ouverture est un indicateur très important dans la stratégie
+   marketing d'une entreprise. Il indique le ratio entre les clients qui
+   reçoivent les sollicitations d'une marque par le biais de divers canaux
+--
+   présentes sur le marché, telles que le logiciel d'emailing gratuit de
+   HubSpot, proposent d'analyser les performances des campagnes marketing
+   et fournissent automatiquement leur taux d'ouverture.
+
+Qu'est-ce que le taux d'ouverture en emailing ?
+
+   Le taux d'ouverture est le pourcentage de clients et de prospects qui
+   ont ouvert ou consulté une sollicitation marketing. Ce peut être une
+   campagne de mails, de SMS, de notifications ou encore de messages
+--
+
+
+Pourquoi calculer le taux d'ouverture ?
+
+
+Le taux d'ouverture indique la performance d'une campagne marketing
+
+   Le taux d'ouverture est l'un des KPI essentiels à suivre en inbound
+   marketing. Si le taux d'ouverture d'une campagne marketing demeure très
+   bas, cette dernière est un échec. Les clients n'ont pas pris
+   connaissance du message que souhaitait partager la marque. Afin
+--
+l'entreprise
+
+   Si le taux d'ouverture de l'ensemble des campagnes marketing d'une
+   enseigne est mauvais, il faut certainement se tourner vers la qualité
+   de sa base de données. Les clients doivent être opt-in, c'est-à-dire
+--
+   clients inactifs doivent être réactivés. Une campagne dédiée leur
+   proposant une promotion exceptionnelle peut améliorer le taux
+   d'ouverture. Une autre solution est d'améliorer le programme de
+   fidélisation afin de proposer du contenu plus attrayant à la clientèle
+   qui ne manquera pas de consulter ces sollicitations.
+--
+Un baromètre de la confiance de ses clients
+
+   Le taux d'ouverture peut aussi être considéré comme un indicateur de la
+   confiance qu'éprouvent les clients envers la marque. En effet, s'ils
+   apprécient cette enseigne, ils sont le plus souvent curieux de
+--
+
+
+Comment calculer le taux d'ouverture ?
+
+   Pour obtenir ce fameux taux d'ouverture, un calcul simple est à
+   appliquer. Il suffit de diviser le nombre de messages ouverts issus de
+   la campagne par le nombre total de sollicitations envoyées et de
+   multiplier le tout par cent.
+     * Taux d'ouverture = (nombre d'ouvertures de l'envoi marketing/nombre
+       de sollicitations envoyées) x 100.
+
+--
+   Télécharger
+
+Qu'est-ce qu'un bon taux d'ouverture en emailing ?
+
+   Les statistiques sur les taux d'ouverture prouvent qu'ils sont
+   fondamentalement variables notamment en fonction du secteur d'activité
+   et de la zone géographique. De plus, le taux peut différer selon le
+   type d'e-mail envoyé. Chaque entreprise et chaque campagne marketing va
+   donc disposer d'un objectif de taux d'ouverture spécifique. Cependant,
+   il peut être utile de faire des comparaisons avec des entreprises du
+   même secteur pour savoir où la marque se situe par rapport à la
+--
+
+   Statistiquement, selon une étude de 2022 de Campaign Monitor, le taux
+   moyen d'ouverture se situe autour de 21.5%, les secteurs affichant les
+   meilleurs taux étant l'éducation avec 28.5 % et la finance avec 27.1 %.
+   Un taux d'ouverture est donc considéré comme bon lorsqu'il dépasse 20 %
+   et très bon à partir de 30 %.
+
+   Cependant, pour une marque, un bon taux d'ouverture est surtout celui
+   qui augmente avec le temps et les améliorations apportées aux campagnes
+   d'emailing.
+--
+Individualiser l'objet
+
+   Un objet efficace pour le taux d'ouverture est celui qui donne envie
+   d'ouvrir l'e-mail, qui incite à sa lecture. Il doit donc lui aussi être
+   adapté selon le secteur d'activité de l'entreprise, le type de
+--
+
+   La personnalisation de l'objet est une clé qui permet une hausse du
+   taux d'ouverture des e-mails. Le nom et/ou le prénom du destinataire
+   peuvent ainsi y être intégrés, de même que le nom de leur entreprise.
+   Cependant, tout dépend là aussi du type d'e-mail envoyé. Pour une
+--
+
+   L'A/B testing permet de tester différentes campagnes avec différents
+   facteurs de personnalisation pour analyser les taux d'ouverture et
+   conserver la campagne la plus percutante. Attention cependant à ne
+   modifier qu'une seule variable pour chaque séquence afin de pouvoir

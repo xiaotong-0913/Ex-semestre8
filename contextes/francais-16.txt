@@ -1,0 +1,25 @@
+
+     * 1 - Qu'est-ce qu'un jeu de données scientifiques ?
+     * 2 - Qu'est-ce que l'ouverture des données (Open data) ?
+     * 3 - Ouvrir ses jeux de données est une décision stratégique
+     * 4 - Quelles sont les options pour diffuser ses données de recherche
+--
+     * Liens utiles
+
+2 - Qu' est-ce que l'ouverture des données (Open data) ?
+
+   L'ouverture des données (Open data en anglais) vise la diffusion
+   gratuite et à tous publics via internet des données d'origine publique
+   ou privée et leur libre réutilisation. Le terme ouvert désigne la
+--
+   cette liberté peut être encadrée par l'usage d'une licence de
+   diffusion.
+   L'ouverture des données de recherche (Open research data) s'inscrit
+   dans le mouvement mondial du libre accès à la connaissance (Open
+   knowledge) et plus largement de la Science ouverte (Open science (voir
+--
+   d'intérêt général public.
+
+   L'ouverture des données de recherche répond ainsi à cinq enjeux :
+     * accélérer les découvertes scientifiques, les innovations et le
+       retour sur investissement en recherche et développement ;

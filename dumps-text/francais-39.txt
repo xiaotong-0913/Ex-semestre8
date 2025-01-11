@@ -1,0 +1,392 @@
+   #oEmbed (JSON) oEmbed (XML)
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TWSLL8X
+
+   Apprendre les échecs Apprendre les échecs
+   (BUTTON)
+
+     * Blog
+     * Enfants
+     * Débutants
+     * Ouvertures
+     * Exercices
+          + Tous les exercices
+          + Exercice du jour
+          + Capsules
+     * Membre
+          + S'inscrire
+          + Accéder à l'espace
+          + Notre livre d'or
+          + Nos ambassadeurs
+          + Nous écrire
+     * Nos offres
+          + Nos tarifs
+          + Nos packs
+
+   S'inscrire au programme
+
+   Les principales ouvertures d'échecs
+   Accueil » Blog » Ouvertures » Les principales ouvertures d'échecs
+
+Les principales ouvertures d'échecs
+
+   Lorsqu'on débute aux échecs, on peut être impressionné par les
+   multiples possibilités des débuts de partie. Pourtant, ces différentes
+   ouvertures se basent sur des idées logiques et les noirs ont beaucoup
+   de méthodes à leur disposition pour avoir un plan de développement
+   ambitieux et efficace. Voici donc les grandes idées des principales
+   ouvertures d'échecs.
+
+Les meilleures ouvertures d'échecs : l'italienne et l'espagnole
+
+   Ces deux célèbres ouvertures arrivent après les coups 1. e4 e5.
+
+   Vous devez activer JavaScript pour améliorer l'affichage des diagrammes
+   d'échecs.
+
+   Les blancs souhaitent obtenir le grand centre en plaçant leurs pions en
+   e4 et d4. Les noirs réagissent naturellement en plaçant un pion afin de
+   contrôler la case d4. Les noirs empêchent ainsi le plan des blancs.
+
+   La position est alors relativement fermée. Après les coups 2. Cf3 Cc6,
+   les blancs sont à la croisée des chemins. Un développement du Fou f1 en
+   c4 mène à la partie italienne tandis qu'un développement de ce même Fou
+   en b5 est appelé l'ouverture espagnole.
+
+   Grande chance pour nous tous, le champion de France 2018 Tigran
+   Gharamian nous donne en vidéo les bases de l'ouverture espagnole.
+
+   Concernant la défense italienne, Tigran l'analyse en profondeur en
+   dégageant les grandes idées et en vous proposant des lignes précises
+   pour obtenir des positions intéressantes au sortir de l'ouverture.
+   Profitez de la formation d'un champion de France !
+
+La défense française
+
+   Mais si le développement choisi par les noirs dans les ouvertures
+   italienne et espagnole est très logique, ce n'est pas du tout le seul !
+   Voici une autre idée très intéressante : après le coup 1.e4, les noirs
+   jouent 1.e6.
+
+   Vous devez activer JavaScript pour améliorer l'affichage des diagrammes
+   d'échecs.
+
+   Et lorsque les blancs vont amener leur deuxième pion au centre en
+   jouant 2. d4, les noirs aussi pourront amener un pion au centre en
+   jouant 2... d5. Le pion d5 sera bien soutenu par le pion e6, donnant
+   aux noirs une position très solide.
+
+   C'est l'ouverture que nous recommandons d'utiliser avec les noirs
+   lorsqu'on débute aux échecs.
+
+   Mais nous allons voir maintenant que les noirs ont des idées pour
+   tenter de poser davantage de problèmes aux blancs !
+
+La défense scandinave
+
+   Voici une idée originale pour tenter d'améliorer l'idée de la défense
+   française. Après 1. e4, les noirs jouent directement leur pion en d5.
+
+   Vous devez activer JavaScript pour améliorer l'affichage des diagrammes
+   d'échecs.
+
+   Les blancs ont maintenant deux choix principaux :
+     * Soit ils avancent leur pion en e5, les noirs sortent alors leur Fou
+       c8 puis ferment le centre par e6 obtenant une très bonne version de
+       la défense française. En effet, dans celle-ci, le Fou c8 est
+       enfermé et est souvent la moins bonne pièce des noirs.
+     * Soit ils sont plus ambitieux et prennent le pion d5. Les noirs
+       reprennent alors bien souvent le pion avec leur Dame même s'il
+       n'est pas conseillé de sortir vite cette pièce dans l'ouverture.
+
+   Retrouvez de nouveau Tigran pour connaître les bases de cette ouverture
+   !
+
+La principale ouverture d'échecs pour les noirs : la Caro-Kann
+
+   Nouvelle idée pour essayer de contourner les défauts de la française et
+   de la scandinave : après 1. e4, les noirs jouent 1... c6.
+
+   Vous devez activer JavaScript pour améliorer l'affichage des diagrammes
+   d'échecs.
+
+   L'idée est toujours de lutter pour le centre. Ainsi après 2. d4, les
+   noirs jouent 2... d5. Le Fou c8 n'est pas enfermé comme pour la défense
+   française. La Dame n'est pas obligée de reprendre en d5 après un
+   échange et peut rester « au chaud » et se réserver pour le milieu de
+   jeu.
+
+   Petit défaut : les noirs ont perdu un coup de développement en jouant
+   leur pion en c6 et ont pris notamment la case naturelle de
+   développement du Cavalier b8. Ça ne peut jamais être parfait !
+
+   Encore une fois, retrouvez Tigran en vidéo pour apprendre les bases de
+   la Caro-Kann avec lui !
+
+Les principales ouvertures d'échecs : la sicilienne
+
+   sicilienne aux échecs sicilienne aux échecs
+
+   Nouvelle idée avec la défense sicilienne : après 1.e4, les noirs jouent
+   1... c5. Ils tentent de nouveau d'empêcher la formation du grand centre
+   des blancs mais d'une façon plus originale que pour l'italienne et
+   l'espagnole.
+
+   Vous devez activer JavaScript pour améliorer l'affichage des diagrammes
+   d'échecs.
+
+   Cette ouverture est très intéressante car un combat s'engage dès les
+   premiers coups.
+
+   En effet, les noirs ont utilisé un temps pour bien contrôler le centre
+   mais ne se sont pas développés. Après 2. Cf3 d6 3. d4, les pions c et d
+   vont s'échanger, les noirs auront donc 2 pions contre 1 au centre mais
+   les blancs auront réussi à ouvrir la position avec un avantage de
+   développement.
+
+   Celui qui profitera le mieux de son avantage gagnera !
+
+   Voici un article pour en savoir plus sur la défense sicilienne aux
+   échecs avec notamment une vidéo du maître Pierre Petitcunot pour
+   comprendre en profondeur les idées de la sicilienne.
+
+La défense Petrov
+
+   Si vous êtes un joueur très solide, la Petrov (ou défense russe) est
+   faite pour vous. En tout cas, vous allez embêter les joueurs d'attaque
+   ! Nous revenons à 1. e4 e5, mais cette fois, quand les blancs attaquent
+   le pion e5 en plaçant leur Cavalier en f3, les noirs répondent par Cf6
+   et attaquent à leur tour le pion e4.
+
+   Vous devez activer JavaScript pour améliorer l'affichage des diagrammes
+   d'échecs.
+
+   Les noirs gardent donc la symétrie dans la position. Nous étudions en
+   détail cette ouverture ici : la défense Petrov.
+
+Comment choisir entre toutes ces ouvertures ?
+
+   C'est bien la question ! Pour vous donner des clés pour choisir vos
+   ouvertures, nous vous proposons de revivre la conférence du champion de
+   France 2018 « Comment choisir son ouverture » du 07 février 2021. Deux
+   dates par semaine sont possibles pour accéder à la rediffusion !
+
+   La théorie des ouvertures peut être assez complexe. Nous recommandons
+   donc de vous concentrer sur la compréhension des ouvertures plutôt que
+   sur de l'apprentissage par coeur. Le maître Pierre Petitcunot vous
+   explique sa méthode pour se construire un répertoire d'ouverture dans
+   sa formation.
+
+Les principales ouvertures d'échecs pour les blancs : jouer 1.d4
+
+   Le coup 1. d4 est moins agressif et moins joué au niveau amateur. Il
+   faut pourtant y passer du temps pour se construire un répertoire
+   cohérent. Cela vous permettra d'aborder la première phase du jeu en
+   toute confiance. En jouant d4, les blancs vont prendre plus leur temps
+   avant de jouer le petit roque et les parties avec des attaques rapides
+   sont donc plus rares.
+
+   Vous devez activer JavaScript pour améliorer l'affichage des diagrammes
+   d'échecs.
+
+   Les noirs ont là aussi un vaste choix d'ouvertures mais nous vous
+   conseillons pour débuter de faire simple et de jouer le gambit Dame.
+   Pour cela, les noirs répondent en contrôlant le centre par 1... d5.
+
+   Les blancs vont alors tenter de dévier le pion d5 du centre en jouant
+   2. c4.
+
+   Vous devez activer JavaScript pour améliorer l'affichage des diagrammes
+   d'échecs.
+
+   Cela s'appelle un gambit.
+
+   Les blancs donnent un pion, ici le pion c4, en vue d'obtenir des
+   compensations. Les noirs peuvent alors rester très solides en jouant
+   2... e6 avec une position très saine ou prendre en c4 ce qui permet
+   d'avoir un jeu plus dynamique.
+
+   Cette dernière variante s'appelle le gambit dame accepté et c'est
+   l'ouverture que nous recommandons sur 1.d4 lorsqu'on débute.
+
+D'autres façons de jouer contre d4
+
+   Vous avez peut-être entendu parler de l'est-indienne, de la Nimzo ou de
+   la Grünfeld ?
+
+   Ces ouvertures mythiques ont toutes la même idée : puisque les blancs
+   jouent moins agressivement en jouant 1. d4, on peut les laisser prendre
+   le centre pour contre-attaquer ensuite.
+
+   Voici donc en premier l'est-indienne : 1. d4 Cf6 2. c4 g6 3. Cc3 Fg7 4.
+   e4 d6
+
+   Vous devez activer JavaScript pour améliorer l'affichage des diagrammes
+   d'échecs.
+
+   La contre-attaque noire au centre viendra le plus souvent par e5 mais
+   aussi parfois par c5. Nous étudions cette ouverture ici :
+   l'est-indienne.
+
+   La Nimzo : 1. d4 Cf6 2. c4 e6 3. Cc3 Fb4
+
+   Vous devez activer JavaScript pour améliorer l'affichage des diagrammes
+   d'échecs.
+
+   Ici la contre-attaque viendra par c5 ou d5 principalement.
+
+   La Grünfeld : 1. d4 Cf6 2. c4 g6 3. Cc3 d5
+
+   Vous devez activer JavaScript pour améliorer l'affichage des diagrammes
+   d'échecs.
+
+   Contre-attaque directe au centre de l'échiquier !
+
+Les systèmes d'ouvertures
+
+   Qu'est-ce qu'un système ? C'est un développement type, une ligne
+   directrice que vous allez imposer à vos adversaires. Vous allez obliger
+   vos adversaires à entrer dans votre jardin, là où vous serez très à
+   l'aise. Et on espère là où vos adversaires seront en difficulté ! Voici
+   les systèmes les plus connus aux échecs.
+
+L'anglaise
+
+   Les blancs jouent au premier coup leur pion c2 en c4.
+
+   Vous devez activer JavaScript pour améliorer l'affichage des diagrammes
+   d'échecs.
+
+   C'est une façon assez originale de jouer l'ouverture aux échecs. Les
+   blancs ne souhaitent pas placer leurs pions immédiatement au centre de
+   l'échiquier mais vont plutôt développer leurs pièces. C'est la vision
+   hypermoderne des débuts de parties. Nous étudions l'anglaise en détail
+   sur notre site.
+
+Le système Colle
+
+   Les blancs veulent arriver au schéma ci-dessous peu importe l'ordre de
+   coups employés.
+
+   Vous devez activer JavaScript pour améliorer l'affichage des diagrammes
+   d'échecs.
+
+   C'est un système qui paraît très solide mais qui comporte une part de
+   venin non négligeable !
+
+Le système de Londres
+
+   À la différence du système Colle, le système de Londres voit le
+   développement du Fou blanc des cases noires devant la chaîne de pions.
+
+   Vous devez activer JavaScript pour améliorer l'affichage des diagrammes
+   d'échecs.
+
+   Le système de Londres est l'une des ouvertures préférées des joueurs
+   amateurs mais elle peut également être jouée à très haut niveau.
+
+   Voilà pour les principales ouvertures d'échecs. Pour continuer votre
+   lecture, retrouvez comment bien débuter aux échecs.
+
+   Le champion de France 2018 Tigran Gharamian vous propose également
+   pendant près de 4h30 de vidéo de découvrir les grands thèmes de
+   l'ouverture italienne. Découvrez comment obtenir de bonnes positions
+   dès l'ouverture en cliquant sur l'image ci-dessous :
+
+   apprendre-echecs-ouverture-italienne
+   apprendre-echecs-ouverture-italienne
+
+Et maintenant, à vous de choisir :
+
+     * Apprendre l'histoire des grands champions d'échecs.
+
+     * Résoudre nos plus astucieux mats en deux coups.
+
+     * Apprendre les règles du jeu.
+
+     * Vous inscrire à notre programme gratuit pas à pas avec 14 emails où
+       on vous prend par la main pour apprendre à bien jouer aux échecs.
+
+   Voilà pour notre article sur les principales ouvertures d'échecs. Nous
+   espérons qu'il vous a été utile. Si c'est le cas, n'hésitez pas à le
+   partager sur vos réseaux sociaux !
+   Découvrir notre programme gratuit
+
+Aidez-nous
+
+   En partageant cet article sur vos réseaux, vous contribuez à notre
+   mission depuis 2016 : populariser le jeu d'échecs et l'apprendre au
+   plus grand nombre, et en cela, nous vous remercions du fond du coeur.
+   Merci !
+
+   Cher lecteur, les milliers de fans qui vous ont précédé améliorent en
+   continu le programme de 14 jours pour apprendre et
+   progresser. Accessible gratuitement sur inscription pour les débutants
+   comme les amateurs.
+   Programme gratuit 14 jours
+   Les stratégies de Magnus Carlsen pour gagner aux échecs Les stratégies
+   de Magnus Carlsen pour gagner aux échecs
+   Partie italienne expliquée au débutant Partie italienne expliquée au
+   débutant
+   Les premiers pas aux échecs. Tout pour bien débuter et jouer aux
+   échecs. Les premiers pas aux échecs. Tout pour bien débuter et jouer
+   aux échecs.
+   Bien calculer aux échecs. Bien calculer aux échecs.
+
+   Apprendre à jouer aux échecs aux enfants Apprendre à jouer aux échecs
+   aux enfants
+
+Dans la même catégorie (Ouvertures échecs)
+
+   Gambit aux échecs Gambit aux échecs
+
+C'est quoi un gambit aux échecs ?
+
+   Voir l'article
+
+   La partie écossaise aux échecs La partie écossaise aux échecs
+
+La partie écossaise
+
+   Voir l'article
+
+   Pièges dans la défense Alekhine Pièges dans la défense Alekhine
+
+La défense Alekhine
+
+   Voir l'article
+
+   © Copyright « Apprendre en 24 heures » - 2024 | Tous droits réservés
+     * La meilleure méthode francophone pour apprendre les échecs !
+     * Pour rechercher du contenu sur notre site.
+     * Pour nous contacter.
+
+     * Plan du site
+     * Mentions légales
+     * Conditions générales d'utilisation
+     * Apprendre les échecs
+     * Les ouvertures d'échecs
+     * Comment débuter et jouer aux échecs
+     * Placement aux échecs
+     * Les règles aux échecs
+     * La sicilienne aux échecs
+     * Fédération française d'échecs
+     * Astuces pour gagner ses parties d'échecs
+     * Un jeu pour les séniors
+     * Le championnat du monde d'échecs 2024
+
+   Apprendre les écgecs Apprendre les écgecs
+
+Rejoignez-le champion de France
+Tigran Gharamian
+
+Apprenez à choisir
+vos ouvertures
+
+   Quel est votre style de jeu ?
+
+   Mes élèves me posent inlassablement les mêmes questions.
+   Quelles sont les ouvertures qui me correspondent ?
+   Je vous explique tout...
+   Je réserve ma place
+   Tigran Gharamian Tigran Gharamian

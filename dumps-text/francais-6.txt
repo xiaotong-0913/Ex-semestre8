@@ -1,0 +1,261 @@
+   #JSON oEmbed (JSON) oEmbed (XML)
+
+     * Aller au menu
+     * Aller au contenu
+     * Aller à la recherche
+
+Ouvrir la Science
+
+   MESR logo science ouverte fermer
+   ____________________
+   Recherche, ex : publications
+   (VALIDER) resource_search
+     * La science ouverte
+     * Nos actions
+     * Ressources
+     * Actualites
+     * Qui sommes nous ?
+
+     * FR
+
+   Contact
+   Retour
+   La science ouverte
+   Initiez-vous à la science ouverte
+   Plan national pour la science ouverte
+   Lexique de la science ouverte
+   Les belles histoires
+   Retour
+   Nos actions
+   Collèges, groupes & projets
+   Les prix science ouverte
+   Présentation du FNSO
+   Les appels à projets du FNSO
+   Les actions soutenues par le FNSO
+   Retour
+   Actualites
+   Blog
+   Agenda
+   Lettres d'information
+   MESR
+
+     * La science ouverte
+          + Initiez-vous à la science ouverte
+          + Plan national pour la science ouverte
+          + Lexique de la science ouverte
+          + Les belles histoires
+     * Nos actions
+          + Collèges, groupes & projets
+          + Les prix science ouverte
+          + Présentation du FNSO
+          + Les appels à projets du FNSO
+          + Les actions soutenues par le FNSO
+
+     Ressources
+
+     Actualites
+     * Blog
+     * Agenda
+     * Lettres d'information
+
+     Qui sommes nous ?
+
+     * FR
+     *
+
+   Accueil > Bibliothèque de la science ouverte > Ouverture des données de
+   recherche | Guide d'analyse du cadre juridique en France - V2
+
+   En pratique
+   Ouverture des données de recherche - Cadre juridique
+   Ouverture des données de recherche - Cadre juridique
+   2017
+   Le guide sur l'ouverture des données de recherche (ou Open Data) a pour
+   vocation d'accompagner les agents des établissements concernés dans une
+   démarche d'ouverture raisonnée des données de recherche en tentant de
+   répondre aux questions les plus courantes auxquelles ils pourront être
+   confrontés.
+
+   facebook mastodon twittet linkedin
+
+Ouverture des données de recherche | Guide d'analyse du cadre juridique en
+France - V2
+
+   Le présent guide est issu des réflexions d'un groupe de travail
+   inter-organismes animé par l'INRA. Il ne prétend pas à l'exhaustivité
+   et est fourni uniquement à titre d'information. Il ne saurait en tout
+   état de cause se substituer aux politiques d'établissements, au respect
+   des dispositions législatives ou réglementaires et au respect de la
+   jurisprudence applicable en la matière. Ce guide peut évoluer.
+
+   Membres du groupe de travail : BECARD Nicolas (INRA), CASTETS-RENARD
+   Céline (UT1), CHASSANG Gauthier (Inserm, Membre de la Plateforme
+   Genotoul Societal), DANTANT Martin, FREYT-CAFFIN Laurence (Irstea),
+   GANDON Nathalie (co-animatrice, INRA), MARTIN Caroline (Agreenium),
+   MARTELLETTI Andrea (stagiaire INRA, M2 droit et Informatique),
+   MENDOZA-CAMINADE Alexandra (UT1), MORCRETTE Nathalie (co-animatrice,
+   INRA), NEIRAC Claire (Cirad), avec la participation d'Inno3 (Benjamin
+   JEAN, Laure).
+
+   Consulter le guide sur HAL
+
+Preface
+
+   Public money? Public data! De la nécessité d'un guide juridique
+
+   Le Code de la recherche stipule que « la recherche publique a pour
+   objectifs le développement et le progrès de la recherche dans tous les
+   domaines de la connaissance », notamment à travers « l'organisation de
+   l'accès libre aux données de la recherche ». En même temps, la France a
+   joué un rôle pionnier dans la protection des données personnelles en
+   publiant le 6 janvier 1978 la loi relative à l'informatique, aux
+   fichiers et aux libertés, plus connue sous le nom de loi informatique
+   et libertés. Celle-ci régule avec prudence la façon dont les données
+   personnelles peuvent circuler sur le réseau. Et elle s'applique bien
+   entendu aux données scientifiques, aussi légitime que soit la recherche
+   qui les a produites.
+
+   Ces deux textes résument à eux seuls la complexité de la question de
+   l'accès ouvert aux données de la recherche. Le législateur souhaite
+   clairement, et de plus en plus, faire de l'accès ouvert le principe par
+   défaut pour toutes les données produites par la recherche publique.
+   Public money? Public data! Cette volonté est particulièrement explicite
+   dans la loi pour une République numérique d'octobre 2016. Mais en
+   parallèle, le secret médical, le secret des affaires, le droit d'auteur
+   ou le règlement européen sur la protection des données personnelles
+   (RGDP) s'imposent à tous et pondèrent, réduisent voire annulent toute
+   possibilité d'ouverture des données. ll n'y aura pas d'ouverture qui
+   serait irrespectueuse des individus et des règles légitimes de
+   protection collectives.
+
+   Frédérique Vidal, la ministre de l'Enseignement supérieur, de la
+   Recherche et de l'Innovation, a décidé de faire de la science ouverte
+   une de ses priorités. Or, pour passer de l'approche générale à
+   l'implémentation de la science ouverte, il faut affronter des nombreux
+   questionnements, notamment techniques, documentaires, économiques,
+   juridiques. Dès lors, la publication par le Comité pour la science
+   ouverte de ce guide juridique marque une étape essentielle dans la
+   maturation par les établissements et par les acteurs de la recherche de
+   la question de l'ouverture des données.
+
+   À la lecture de ce guide, on comprend vite que le sujet ne se résume
+   pas en une opposition binaire entre ouverture et fermeture. Je remercie
+   les auteurs pour le temps et l'expertise qu'ils ont mobilisés afin
+   produire ces pages limpides, dont nous espérons qu'elles guideront les
+   politiques d'ouvertures les plus ambitieuses, et les plus raisonnables,
+   les plus fertiles et les plus respectueuses. Les données de la
+   recherche appartiennent au patrimoine de l'humanité et sont un bien
+   commun, coûteux et précieux. Grâce à ce guide, vous saurez jusqu'où
+   pouvez et devez les ouvrir.
+
+   Alain Beretz
+   Directeur général de la recherche et de l'innovation
+
+
+Sommaire
+
+Préface
+
+   Public money ? Public data ! De la nécessité d'un guide juridique
+
+Préambule
+
+Qu'est-ce que l'Open Data ?
+
+   Notion d'Open data Open Data des données de recherche
+
+1. Les données que j'exploite sont-elles concernées par l'Open Data ?
+
+1.1 Communication obligatoire
+
+1.1.1 Données géographiques
+
+1.1.2 Données relatives à des émissions de substances dans l'environnement
+
+1.2 Communication interdite par principe
+
+1.2.1 Données présentant des risques pour la protection du secret de la
+défense nationale
+
+1.2.2 Données présentant des risques pour la sécurité de l'État, la sécurité
+publique, la sécurité de l'établissement
+
+1.2.3 Secret professionnel
+
+1.3 Communication sous conditions
+
+1.3.1 Données présentant des risques pour la protection du potentiel
+scientifique et technique de la nation
+
+1.3.2 Le cas des zones à régime restrictif (ZRR)
+
+1.3.3 Données protégées par le droit d'auteur et autres droits de propriété
+intellectuelle
+
+1.3.3.1 Droit d'auteur
+
+1.3.3.2 Autres droits de propriété intellectuelle
+
+1.3.4 Données relatives aux personnes, à la vie privée
+
+1.3.5 Données statistiques
+
+1.3.6 Données liées à un contrat avec un tiers non soumis à une obligation de
+service public
+
+1.4 Conclusion
+
+2. Comment diffuser les données ?
+
+2.1 Les grands principes
+
+2.1.1 Aspects techniques de l'Open Data
+
+2.1.2 Aspects juridiques : la licence de diffusion
+
+2.2 Les différentes modalités de diffusion
+
+2.2.1 Les pratiques par discipline
+
+2.2.2 La politique d'établissement
+
+2.2.3 Le répertoire des données publiques
+
+2.2.4 La demande d'accès formulée par un tiers
+
+Logigramme de communicabilité d'une donnée
+
+Annexes
+
+Fiche 1. Les bases de données en bref
+
+Fiche 2. Les données personnelles
+
+Fiche 3. Les données statistiques
+
+Fiche 4. Convention d'Aarhus sur l'information en matière d'environnement
+
+Fiche 5. Tableau comparatif des licences gratuites ODBL et Etalab
+
+Fiche 6. Mise en place d'une licence par la voie du contrat électronique
+
+Fiche 7. Archives
+
+   ouvrir la science
+
+   Le mouvement de la Science ouverte vise à construire un écosystème dans
+   lequel la science sera plus cumulative, plus fortement étayée par des
+   données, plus transparente, plus rapide et d'accès universel.
+
+   MESR
+   Projets Blog Agenda Ressources
+   À propos Crédits et Mentions Données personnelles Plan du site
+   Contact
+   Nous suivre :
+   logo linkedin logo canal u logo mastodon logo X logo X
+
+   En poursuivant votre navigation, sans modifier vos paramètres, vous
+   acceptez l'utilisation et le dépôt de cookies destinés à mesurer la
+   fréquentation du site grâce au logiciel Matomo.
+   OK
+   Modifier les paramètres
