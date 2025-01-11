@@ -21,9 +21,9 @@ echo "<html>" >> "$output_html"
 echo "<head><meta charset=\"UTF-8\"><title>Résultats des URLs</title>" >> "$output_html"
 echo "<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css\">" >> "$output_html"
 echo "</head><body><div class=\"container\">" >> "$output_html"
-echo "<h1 class=\"title\">Résultats des URLs</h1>" >> "$output_html"
+echo "<h1 class=\"title\">Tableau chinois pour "开放"</h1>" >> "$output_html"
 echo "<table class=\"table is-bordered is-striped is-fullwidth\">" >> "$output_html"
-echo "<thead><tr><th>ligne</th><th>URL</th><th>Code HTTP</th><th>Encodage</th><th>DumpText</th><th>HTML</th><th>Occurrences</th><th>Contexte</th><th>Concordance</th></tr></thead>" >> "$output_html"
+echo "<thead><tr><th>ligne</th><th>URL</th><th>Code HTTP</th><th>Encodage</th><th>DumpText</th><th>HTML</th><th>Compte</th><th>Contexte</th><th>Concordance</th></tr></thead>" >> "$output_html"
 echo "<tbody>" >> "$output_html"
 # Lecture ligne par ligne du fichier contenant les URLs
 while read -r line; do
@@ -46,17 +46,22 @@ while read -r line; do
 
 	grep -A2 -B2 "$mot" "$dump_file" > "$context_file" # isoler les occurrences de mot avec 2 lignes
 
-	# 生成 Concordance 表
-        echo "<html><head><meta charset=\"UTF-8\"><title>Concordance</title></head><body><table border=\"1\">" > "$concordance_file"
+  # Générer Concordance avec Bulma
+        echo "<!DOCTYPE html>" > "$concordance_file"
+        echo "<html><head><meta charset=\"UTF-8\"><title>Concordance</title>" >> "$concordance_file"
+        echo "<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css\">" >> "$concordance_file"
+        echo "</head><body><div class=\"container\">" >> "$concordance_file"
+        echo "<table class=\"table is-bordered is-striped is-fullwidth\">" >> "$concordance_file"
+        echo "<thead><tr><th class=\"has-text-right\">Contexte gauche</th><th class=\"has-text-centered\">Cible</th><th class=\"has-text-left\">Contexte droit</th></tr></thead>" >> "$concordance_file"
+        echo "<tbody>" >> "$concordance_file"
+
         grep -oP ".{0,30}$mot.{0,30}" "$dump_file" | while read -r line; do
             left=$(echo "$line" | sed -E "s/(.*)($mot)(.*)/\1/")
             right=$(echo "$line" | sed -E "s/(.*)($mot)(.*)/\3/")
-            echo "<tr><td>$left</td><td><strong>$mot</strong></td><td>$right</td></tr>" >> "$concordance_file"
+            echo "<tr><td class=\"has-text-right\">$left</td><td class=\"has-text-centered\"><strong>$mot</strong></td><td class=\"has-text-left\">$right</td></tr>" >> "$concordance_file"
         done
-        echo "</table></body></html>" >> "$concordance_file"
 
-
-
+	echo "</tbody></table></div></body></html>" >> "$concordance_file"
 
 	# Ajouter une ligne au tableau HTML
         echo "<tr>" >> "$output_html"
