@@ -1,56 +1,54 @@
 # Création du tableau principal
-echo "<html lang='en'>
-    <head>
-    <meta charset='UTF-8'/>
-    <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <title>Tableau URLS</title>
-    <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css'>
-    <style>
-    .has-text-uppercase {
-        text-transform: uppercase;
-    }
-    </style>
-    </head>
+echo -e "<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=\"UTF-8\" />
+    <title>Tableau catalan</title>
+    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/versions/bulma-no-dark-mode.min.css\">
+</head>
 <body>
-    <table class='table is-bordered is-hoverable is-striped'>
-    <thead>
-    <tr>
-        <th class='numero_ligne is-primary has-text-uppercase has-text-white has-background-info-dark'>numero_ligne</th>
-        <th class='url is-primary has-text-uppercase has-text-white has-background-info-dark'>url</th>
-        <th class='code_http is-primary has-text-uppercase has-text-white has-background-info-dark'>code_http</th>
-        <th class='encodage is-primary has-text-uppercase has-text-white has-background-info-dark'>encodage</th>
-        <th class='aspirations is-primary has-text-uppercase has-text-white has-background-info-dark'>aspirations</th>
-        <th class='dumps is-primary has-text-uppercase has-text-white has-background-info-dark'>dumps</th>
-        <th class='nombre_mots is-primary has-text-uppercase has-text-white has-background-info-dark'>nombre_mots</th>
-        <th class='compte is-primary has-text-uppercase has-text-white has-background-info-dark'>compte</th>
-        <th class='contexte is-primary has-text-uppercase has-text-white has-background-info-dark'>contexte</th>
-        <th class='concordancier is-primary has-text-uppercase has-text-white has-background-info-dark'>concordancier</th>
-    </tr>
-    " > ../tableaux/catalan.html
+<section class=\"section\">
+    <div class=\"container\">
+        <h1 class=\"title\">Tableau pour 'obertura'</h1>
+        <table class=\"table is-bordered is-hoverable is-striped\">
+        <thead>
+            <tr>
+                <th>NUMERO_LIGNE</th>
+                <th>URL</th>
+                <th>CODE_HTTP</th>
+                <th>ENCODAGE</th>
+                <th>ASPIRATIONS</th>
+                <th>DUMPS</th>
+                <th>NOMBRE_MOTS</th>
+                <th>COMPTE</th>
+                <th>CONTEXTE</th>
+                <th>CONCORDANCIER</th>
+            </tr>
+        </thead>
+        <tbody>" > ../tableaux/catalan.html
 
 
 # Création du tableau pour le concordancier
-echo "<html lang='en'>
-    <head>
-    <meta charset='UTF-8'/>
-    <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <title>Tableau URLS</title>
-    <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css'>
-    <style>
-    .has-text-uppercase {
-        text-transform: uppercase;
-    }
-    </style>
-    </head>
+echo -e "<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=\"UTF-8\" />
+    <title>Concordancier</title>
+    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/versions/bulma-no-dark-mode.min.css\">
+</head>
 <body>
-    <table class='table is-bordered is-hoverable is-striped'>
-    <thead>
-    <tr>
-        <th class='Contexte_gauche is-primary has-text-uppercase has-text-white has-background-info-dark'>Contexte_gauche</th>
-        <th class='Mot is-primary has-text-uppercase has-text-white has-background-info-dark'>Mot</th>
-        <th class='Contexte_droit is-primary has-text-uppercase has-text-white has-background-info-dark'>Contexte_droit</th>
-    </tr>
-    </thead>" > ../concordances/concordancier_catalan.html
+    <section class=\"section\">
+        <div class=\"container\">
+            <h1 class=\"title\">Concordancier pour 'obertura'</h1>
+            <table class=\"table is-bordered is-hoverable is-striped\">
+                <thead>
+                    <tr>
+                        <th>CONTEXTE_GAUCHE</th>
+                        <th>MOT</th>
+                        <th>CONTEXTE_DROIT</th>
+                    </tr>
+                    </thead>
+                    <tbody>" > ../concordances/concordancier_catalan.html
 
 
 
@@ -84,16 +82,16 @@ do
 
     echo "
         <tr>
-            <td class='has-text-success-light has-background-dark'>$nb_lignes</td>
-            <td class='has-text-success-light has-background-dark'><a href=$line>url $nb_lignes</a></td>
-            <td class='has-text-success-light has-background-dark'>$http_code</td>
-            <td class='has-text-success-light has-background-dark'>$encodage</td>
-            <td class='has-text-success-light has-background-dark'><a href=../aspirations/catalan-$nb_lignes.html>aspiration</td>
-            <td class='has-text-success-light has-background-dark'><a href=../dumps-text/catalan-$nb_lignes.txt>dump</td>
-            <td class='has-text-success-light has-background-dark'>$nbmots</td>
-            <td class='has-text-success-light has-background-dark'>$compte</td>
-            <td class='has-text-success-light has-background-dark'><a href=../contextes/catalan-$nb_lignes.txt>contexte</a></td>
-            <td class='has-text-success-light has-background-dark'><a href=../concordances/concordancier_catalan.html>concordancier</a></td>
+            <td>$nb_lignes</td>
+            <td><a href=$line>url $nb_lignes</a></td>
+            <td>$http_code</td>
+            <td>$encodage</td>
+            <td><a href=../aspirations/catalan-$nb_lignes.html>aspiration</td>
+            <td><a href=../dumps-text/catalan-$nb_lignes.txt>dump</td>
+            <td>$nbmots</td>
+            <td>$compte</td>
+            <td><a href=../contextes/catalan-$nb_lignes.txt>contexte</a></td>
+            <td><a href=../concordances/concordancier_catalan.html>concordancier</a></td>
         </tr>"
 
     nb_lignes=$(expr $nb_lignes + 1)
@@ -113,13 +111,17 @@ do
 
     echo "
         <tr>
-            <td class='has-text-success-light has-background-dark'>$contexte_gauche</td>
-            <td class='has-text-success-light has-background-dark'>obertura</td>
-            <td class='has-text-success-light has-background-dark'>$contexte_droit</td>
+            <td>$contexte_gauche</td>
+            <td>obertura</td>
+            <td>$contexte_droit</td>
         </tr>"
 
 done < contextes_temporaires_catalan.txt >> ../concordances/concordancier_catalan.html
-echo "</table>
+echo -e "</tbody>
+        </table>
+    </div>
+</section>
+</body>
 </html>" >> ../concordances/concordancier_catalan.html
 
 # On efface le fichier temporaire
@@ -131,6 +133,9 @@ rm -f contextes/contextes_temporaires_catalan.txt
 #sed -i /<\/table>/i\ | echo "<tr><td class='has-text-success-light has-background-dark'><a href=../concordances/concordancier_catalan.html>concordancier</a></td></tr>"
 #done < $fichier_urls >> ../tableaux/catalan.html
 
-echo " </body>
-    </table>
+echo -e "</tbody>
+        </table>
+    </div>
+</section>
+</body>
 </html>" >> ../tableaux/catalan.html
