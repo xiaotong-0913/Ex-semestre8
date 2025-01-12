@@ -1,0 +1,273 @@
+   (BUTTON) 移至侧栏 (BUTTON) 隐藏
+     * 序言
+     * 1 开放获取期刊
+     * 2 作者自存档
+     * 3 实现做法
+       (BUTTON) 开关实现做法子章节
+          + 3.1 期刊: 金色开放获取
+          + 3.2 自存档: 绿色开放获取
+          + 3.3 青铜色开放获取
+          + 3.4 白金/钻石开放获取
+          + 3.5 黑色开放获取
+          + 3.6 其他获取方式
+     * 4 分发方式
+--
+   [ ] 开关目录
+
+开放获取
+
+   [ ] 49种语言
+--
+   维基百科，自由的百科全书
+   [150px-Open_Access_logo_PLoS_white.svg.png]
+   开放获取标志，最初由科学公共图书馆(PLOS)设计。尽管没有官方开放获取标志存在，相关组织可以自由选择最能支持他们的视觉语言风格的标志。其他标
+   志也在使用^[1]（参见Signalling
+   OA-ness）。9分钟解释什么是开放获取2012年，在布达佩斯开放获取计划（英语：Budapest Open Access
+   Initiative）10周年之际，Peter Suber被问及他对学术出版物过去、现在、将来的发展的看法。
+
+   开放获取（英語：Open
+   Access，缩写：OA），又译开放近用、开放取用，是指不限制经过同行評審的学术研究的在线访问。开放获取主要针对学术期刊文章，但也在提供越来越
+   多的论文^[2]、书籍章节^[3]和学术专著^[4]。
+
+   开放获取分两种程度（英语：Gratis versus
+   libre）：「免费」开放获取，即免费在线访问，和「自由」开放获取，即免费在线访问外加一些额外的使用权^[5]。这些额外使用权通常由各种具体的
+   創作共用授權條款授予^[6]。只有自由开放获取是完全与开放获取的定义相符的，例如，《布达佩斯开放存取先导计划（英语：Budapest Open
+   Access Initiative）》，《百斯达开放获取出版宣言（英语：Bethesda Statement on Open Access
+   Publishing）》，《关于自然科学与人文科学知识开放获取的柏林宣言（英语：Berlin Declaration on Open
+   Access to Knowledge in the Sciences and Humanities）》。
+
+   作者可以通过两种方式提供开放存取 (1) 通过将他们的期刊文章自存档（英语：self-archiving）存入开放信息库，也称“绿色”OA，或
+   (2) 通过开放获取期刊（英语：Open access
+   journal）上发表，称为“金色”OA^[7]。通过绿色OA^[8]^[9]作者在任何期刊发表之后，在他们的机构知识库（英语：Institu
+   tional
+   repository）、中央知识库（如公共医学中心,PubMed）或其他开放获取网站中自存档该文章的一个允许「免费」公开使用的版本^[10]。
+   通过金色OA，作者在开放获取期刊上发表^[11]
+   这些期刊会直接对他们所有的文章提供开放获取，通常会在出版社的网站上^[12]。混合型开放获取期刊（英语：Hybrid open access
+   journal）是仅为个别付开放获取版面费的作者（或作者的机构或资助者）的文章提供金色OA的订阅型刊物^[13]。
+
+   20世纪90年代末到21世纪初万维网广泛的公众访问推动了开放获取运动，不但促进了非开放获取期刊文章的自存档的绿色OA，也促成了金色OA期刊。传
+   统的非开放获取期刊封面通过查阅费用如订阅、网站许可证或按次计费来收取费用。一些非开放获取期刊会有一个6–12个月或更长的延後公開（英语：Emb
+   argo (academic publishing)）期（参见延迟开放获取期刊（英语：delayed open-access
+   journals）^[13]）。研究人员、学者、圖書館員、大学的管理人员、资助机构、政府官员、商业出版社、编辑人员和社会（英语：learned
+   society）出版商之间对提供开放获取的各种方式的经济因素和可靠程度的争论仍在持续。
+
+开放获取期刊
+
+   [编辑]
+
+   开放获取期刊采用作者付费，读者免费获取方式。虽然这种模式有时会被质疑论文水平下降，但是根据ISI研究^[14]，开放获取期刊和非开放获取期刊的
+   影响力并无本质区别。著名的开放获取期刊PLOS生物学（PLOS Biology）在生物学领域非常有影响力，其影响因子达到13.9^[15]。
+
+   开放获取期刊多采用创作共用协议，以利于论文的自由传播。
+
+作者自存档
+--
+   [编辑]
+
+   作者自存档是作者向传统期刊投稿的同时，将自己的论文以电子档存放在专门的开放获取知识库中供读者阅读。知名的 arxiv.org
+   网站就是一例。这个网站存放天文學、物理学、数学、计算机科学和计算生物学方面的学术论文。
+
+--
+   [编辑]
+
+   根据文献开放时间、付费方式来看，开放获取可以分为以下几种类型：
+     * 金色开放获取（Gold OA）
+     * 绿色开放获取：作者自存档（英语：Author self archiving）（Green OA）
+     * 青铜色开放获取：（Bronze OA）
+     * 白金/钻石开放获取：（Platinum/Diamond OA)
+     * 黑色开放获取：（Black OA）
+
+期刊: 金色开放获取
+
+   [编辑]
+--
+   S)、BioMed Central(BMC)、PubMed Central(PMC)、中科院的GoOA等^[16]
+
+自存档: 绿色开放获取
+
+   [编辑]
+
+   自存档，也被称为绿色开放获取，是指把文章存放在机构知识库（英语：Institutional
+   repository）或主题知识库，例如arxiv.org。同时也被称作是延迟开放获取（Delayed
+   OA），一般作者存储到机构或专业知识库后，会有 6-12个月的延迟期，等延迟期结束之后才会开放发布论文。
+
+青铜色开放获取
+
+   [编辑]
+
+   作者不为开放获取支付费用，而是出版社主动选择向公众免费开放资源。
+
+白金/钻石开放获取
+
+   [编辑]
+
+   作者或其所属机构也不需要为开放获取支付费用，而是由出版社支付。这种出版社通常隶属于大学机构或基金，将“科研成果的自由传播"作为其使命^[16]
+   。
+
+黑色开放获取
+
+   [编辑]
+--
+   [编辑]
+
+   除此之外，还有混合开放获取等方式
+
+分发方式
+--
+   [编辑]
+
+   就像自存档的绿色道路开放获取的文章，因为其低流通成本，提高覆盖范围，速度，以及学术交流日益增加的重要性，大部分金色道路开放获取的期刊文章通过万
+   维网分发。
+
+--
+     * 知识无界运动
+     * 數位權利
+     * 开放内容
+     * 開放獲取期刊列表
+     * 科学公共图书馆(PLOS)
+--
+       （页面存档备份，存于互联网档案馆）
+   15. ^ 季燕江，作者自存档：学术交流的新途径，简体中文版知识共享协议发布会暨数字化时代的知识产权与知识共享国际会议
+   16. ^ ^16.0 ^16.1 什么是开放获取（Open Access）？. 科制科学. 2021-0804.
+       请检查|date=中的日期值 (帮助)
+
+--
+
+   [编辑]
+   维基共享资源上的相关多媒体资源：开放获取
+   關於开放获取
+   的圖書館資源
+     __________________________________________________________________
+--
+
+     * 奇迹文库 （页面存档备份，存于互联网档案馆）——中文的作者自存档网站
+     * 开放科网 （页面存档备份，存于互联网档案馆） --
+       中文科技医学期刊开放获取平台，一站式集成众多科技医学期刊全文开放内容。用户可以免费的下载到相关的专业文献。
+     * OAD （页面存档备份，存于互联网档案馆）: Open Access Directory, an "open-access,
+       wiki-based, community-updated encyclopedia of OA factual lists"
+--
+     * 学术期刊
+     * 科学期刊
+     * 开放获取
+     * 公共衛生期刊
+
+--
+     * 科學文獻
+     * 學會
+     * 开放研究
+     * 开放科学数据
+     * ORCID
+     * 电子出版
+--
+     * 编
+
+   开放获取 开放获取
+
+     * 历史（英语：History of open access）
+--
+   声明
+
+     * 《布达佩斯开放存取先导计划（英语：Budapest Open Access Initiative）》
+     * 《关于自然科学与人文科学知识开放获取的柏林宣言（英语：Berlin Declaration on Open Access to
+       Knowledge in the Sciences and Humanities）》
+     * 《百斯达开放获取出版宣言（英语：Bethesda Statement on Open Access Publishing）》
+     * Durham Statement（英语：Durham Statement on Open Access to Legal
+       Scholarship）
+--
+   策略
+
+     * 开放获取期刊（英语：Open access journal） ("金色开放获取" 开放获取 )
+     * 自存档（英语：self-archiving） ("绿色开放获取" 可免费查阅 )
+     * 开放获取政策（英语：Open-access policy）
+          + 授权
+     * Open access repository（英语：Open access repository）
+     * 混合开放获取期刊（英语：Hybrid open access journal）
+     * Delayed open access journal（英语：Delayed open access journal）
+
+--
+     * 创作共用
+     * Directory of Open Access Books​（加泰罗尼亚语）
+     * 开放获取期刊目录（英语：Directory of Open Access Journals）
+     * Open Access Scholarly Publishers Association（英语：Open Access
+       Scholarly Publishers Association）
+     * Open Archives Initiative（英语：Open Archives Initiative）
+     * 开放知识（英语：Open Knowledge）
+     * 開放知識基金會
+     * 开放社会基金会
+     * 公共科学图书馆(PLOS)
+     * Plan S
+--
+               o Germany（英语：Open access in Germany）
+               o Spain（英语：Open access in Spain）
+     * 开放获取期刊列表
+     * 开放获取项目列表（英语：List of open access projects）
+     * List of repositories（英语：List of repositories）
+     * Public Knowledge Project（英语：Public Knowledge Project）
+     * Timeline（英语：Timeline of the open access movement）
+
+   开放内容 - 开放数据 - 开放教育（英语：Open education） - 开放政府（英语：Open government） - 开源硬件
+   - 开放知识（英语：Open Knowledge） - 开放科学 - 开源软件（英语：Open-source software
+   movement）
+
+--
+     * 编
+
+   自由文化和开放源代码运动
+
+   概念
+--
+     * 公众科学
+     * 共有知识（英语：Knowledge commons）
+     * 开放获取
+     * 开放式协同合作
+     * 开放内容
+     * 开放交流（英语：Open communication）
+     * 开放资料
+     * 开放设计（英语：Open design）
+     * 开放教育（英语：Open education）
+     * 开放政府
+     * 开放式创新
+     * 开放知识（英语：Open knowledge）
+     * 开放专利（英语：Open patent）
+     * 开放研究（英语：Open research）
+     * 开放科学
+     * 開源
+     * 开源架构（英语：Opensource Architecture）
+--
+     * 开源硬件
+     * 开源建筑
+     * 开放标准
+     * 开放式大学（英语：Open-door academic policy）
+          + 入学
+     * 开放Web
+     * 分享主义
+
+   工具
+
+     * 自由及开放源代码软件
+     * 开放教育资源
+     * 开放音乐模型（英语：Open Music Model）
+     * 开放科学笔记（英语：Open notebook science）
+
+   组织
+--
+     * DIYbio（英语：DIYbio）
+     * 自由软件基金会
+     * 开放架构网络（英语：Open Architecture Network）
+     * 开放知识基金会（英语：Open Knowledge Foundation）
+     * 开放权力集团（英语：Open Rights Group）
+     * 开放源代码促进会
+     * 软件自由法律中心
+     * 公共科学图书馆（PLOS）
+--
+     * 捷克
+
+   检索自“https://zh.wikipedia.org/w/index.php?title=开放获取&oldid=77721483”
+
+   分类：​
+--
+     * 電子出版
+     * 學術傳播
+     * 开放获取
+
+   隐藏分类：​

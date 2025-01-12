@@ -56,6 +56,10 @@ while read -r line; do
         curl -s -L "$line" -o "$aspiration_file"
         lynx -dump -nolist "$line" > "$dump_file"
         compte=$(grep -o "$mot" "$dump_file" | wc -l)
+        compte=$(grep -o "$mot" "$dump_file" | wc -l)
+        grep -A2 -B2 "$mot" "$dump_file" > "$context_file" # isoler les occurrences de mot avec 2 lignes
+
+    
 
         # Génération des concordances
         grep -oP ".{0,30}$mot.{0,30}" "$dump_file" | while read -r inner_line; do
