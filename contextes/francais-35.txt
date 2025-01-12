@@ -1,0 +1,185 @@
+   #Tonton Photo RSS Feed Tonton Photo Atom Feed Tonton Photo » Flux
+   Tonton Photo » Flux des commentaires Tonton Photo » L'exposition (1/3)
+   : Comprendre l'ouverture en moins de 3 minutes Flux des commentaires
+   L'exposition (2/3) : Comprendre la vitesse d'obturation en moins de 3
+   minutes alternate alternate
+--
+
+L'exposition (1/3) :
+Comprendre l'ouverture en moins de 3 minutes
+
+   [ig-com.svg] 88 Commentaires
+--
+   de l'exposition. En effet, pour correctement exposer une photo, il faut
+   agir sur trois paramètres :
+   > l'ouverture (article 1/3)
+   > la vitesse d'obturation (article 2/3)
+   > la sensibilité (article 3/3)
+   Nous allons donc parler aujourd'hui de l'ouverture...
+     * Au sommaire
+     * 1/ La théorie
+--
+   (« sous-exposé »).
+
+   L'ouverture, c'est tout simplement la quantité de lumière que votre
+   objectif laisse rentrer dans l'appareil grâce à un système de
+   diaphragme en iris (voir grande photo en haut de page). Vous pouvez
+--
+
+   L'unité de mesure de l'ouverture de l'iris s'exprime en « F/ ». Ainsi,
+   sur l'objectif ci-contre, la gamme d'ouvertures possibles va de f/1.8 à
+   f/22.
+
+   Et c'est là qu'intervient le premier piège, celui qui perturbe beaucoup
+   les débutants en photographie : plus le chiffre est petit, plus
+   l'ouverture est grande. À f/1.8, mon ouverture est très grande, elle
+   laisse entrer beaucoup plus de lumière qu'à f/22, une ouverture très
+   petite.
+--
+     Si cela peut vous aider, je vous livre la petite astuce que je
+     gardais en tête à mes débuts : j'avais décidé de raisonner non pas
+     en termes d'ouverture du diaphragme, mais en termes de fermeture.
+
+     Ainsi, f/ 1,8 est un petit chiffre, donc une petite « fermeture » du
+     diaphragme (soit, par inversion, une grande ouverture).
+     À l'inverse, f/22 est un grand chiffre, donc une grande
+     « fermeture »...
+--
+   bague dédiée, ou grâce aux touches de votre appareil si votre objectif
+   est entièrement électronique. Sur votre boîtier, deux modes vous
+   permettent de prendre la main sur l'ouverture : le mode manuel (M) ou
+   le mode « Priorité à l'Ouverture » (Av ou A).
+
+--
+   sur les 4 clichés. Seule l'ouverture diffère...)
+
+   Comprendre l'ouverture en photo : test pratique en mode manuel (M) ©
+   Tonton Photo
+
+   Comprendre l'ouverture en photo : test pratique en mode manuel (M) ©
+   Tonton Photo
+
+--
+   de lumière, elle est donc trop exposée (j'ai utilisé l'ouverture
+   maximale de mon objectif, à F/1.8). Pour les clichés suivants, je ferme
+   un peu plus, avec des ouvertures plus resserrées. On voit donc
+   clairement que mes prises de vues vont de la surexposition à la
+   sous-exposition. Le cliché correctement exposé étant le second.
+--
+(A ou Av)
+
+   Test de 4 ouvertures différentes en mode manuel © Tonton Photo
+
+   Test de 4 ouvertures différentes en mode manuel © Tonton Photo
+
+   Pendant que je changeais mon ouverture, ce mode automatique se
+   chargeait de calculer automatiquement la bonne vitesse d'obturation,
+   afin de garder une exposition correcte. Ce qui explique pourquoi les 4
+--
+
+   Étiquettes : bases de la photo, conseil, diaphragme, exposition, iris,
+   ouverture, priorité à l'ouverture, profondeur de champ, triangle
+   Mon prénom / Pseudo*
+   Mon e-mail*_________
+--
+       Bonjour Clément,
+       Je possède un bridge, lorsque je passe en mode A, l'appareil
+       compense automatique l'ouverture et la sensibilité ce qui fait que
+       j'ai toujours une photo exposée à peux près de la même façon, par
+       contre la profondeur de champ est carrément différente et j'obtiens
+--
+       Très bon article concis et pratique pour les débutants
+       Il existe des outils super pratiques pour simuler le choix de
+       l'ouverture d'une photo, je vous conseille d'aller faire un tour
+       ici : http://www.photonhead.com/simcam/shutteraperture.php
+       Samir Articles récents..Photos de Noël : 14 images pour vous
+--
+            11 mars 2014
+            Bonsoir
+            Plus l'ouverture est grande (= f petit), plus la profondeur de
+            champ est faible et inversement.
+            Répondre
+--
+Aline
+       13 septembre 2014
+       Enfin un article concernant l'ouverture, clair et facile à
+       comprendre. Chapeau et merci!
+       Répondre
+--
+       J'ai un Canon EOS 1100D.
+       J'ai donc fais des essais avec le mode MANUEL chez moi.
+       seulement mes ouvertures commencent à F/4, mes photos sont donc
+       vite très sombre je sais pas comment compenser... Help
+       Répondre
+--
+       ainsi qu'un Nikkor 50mm 1.8, j'ai voulu faire vos petits exercices
+       d'application et lorsque je passe en mode « priorité à
+       l'ouverture » mon boitier n'arrive pas à se stabiliser au niveau de
+       la vitesse et me pousse mes ISO à H2.0 (donc bien supérieur 6400),
+       impossible de bien faire mes réglages, et pas moyen de trouver une
+--
+Crèvecoeur
+       2 janvier 2015
+       Concernant l'ouverture et le fait de dire que f/2 est une ouverture
+       plus grande que f/22, je viens de trouver un truc sur un autre
+       site, astuce que je souhaite partager :
+--
+David
+       11 mars 2015
+       Pour l'ouverture, perso, je l'explique plutôt en nombre de choses
+       nettes sur la photo via la profondeur de champ
+       Plus le chiffre est petit moins y a de choses nettes sur la photo,
+--
+       6 novembre 2015
+       Bonjour je viens de trouver votre site par hasard il est génial
+       mais ouverture et vitesse sont pour moi un casse tête
+       j' ai un objectif 70:200 ouverture 2-8 ça je sais mais après quand
+       il faut l' associer à la vitesse!!!comment je vais faire pour
+       vraiment figer les mésanges en arrivant sur leur mangeoire
+--
+Cochinard Marie
+       8 mars 2017
+       Bonjour, sur mon reflex Canon EOS 750D l'ouverture dont le chiffre
+       est le plus bas s'arrête à F5,6 et ne va pas plus bas pourquoi ?
+       Répondre
+--
+       pas tout, j'avoue que je n'ai pas lu tous les commentaire pour voir
+       si le sujet a déjà été abordé. sur la deuxième série de photos avec
+       les champignons, le temps d'ouverture est plus long en f:8 qu'en
+       f:13 ce qui ne semble pas logique, surtout que la photo en f:8 est
+       bien nette comparée à celle en f:13 qui est floue à cause d'un
+       temps d'ouverture trop long.
+       Répondre
+          +
+--
+       J'ai lu quelque part cette analogie parlante : la pluie (la
+       lumière) et le puits (le capteur).
+       L'ouverture, c'est le diamètre du puits dans lequel il pleut. Plus
+       il est large, plus il y a d'eau qui rentre.
+       La vitesse d'obturation, c'est la durée de la pluie. Plus longtemps
+--
+       j'ai une question par rapport a la lumière environnante. si l'on
+       est dans un environnement lumineux, il vaut mieux avoir une
+       ouverture petite et inversement dans un environnement sombre ? j'ai
+       des doutes sur la question c'est pour cela que je me permets de
+       vous demandez
+--
+       pose
+       dans vos photos de champignons (qui sont très compréhensives) vous
+       parlez d'ouverture de f/1.8 à f/8
+       j'ai plusieurs objectifs mais ils ont une ouverture de f/3.5 à
+       f/4.5 donc je ne peux pas modifier l'ouverture en dela et en deca
+       de ces valeurs (f/3.5 à f/4.5 ?
+       ce qui oblige à avoir des objectifs à ouvertures différentes ?
+--
+JBC
+            28 octobre 2019
+            Ne confondriez-vous pas l'ouverture et la focale ?
+            Répondre
+   48.
+--
+       évidement l'exposition changeait beaucoup plus.
+       grâce à votre article j'ai pu comprendre en mieux le jeu avec
+       l'ouverture et la correction de l'exposition
+       merci
+       Répondre

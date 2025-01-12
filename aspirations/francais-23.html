@@ -1,0 +1,2005 @@
+<!doctype html>
+<html lang="fr-FR">
+<head><meta charset="UTF-8"><script>if(navigator.userAgent.match(/MSIE|Internet Explorer/i)||navigator.userAgent.match(/Trident\/7\..*?rv:11/i)){var href=document.location.href;if(!href.match(/[?&]nowprocket/)){if(href.indexOf("?")==-1){if(href.indexOf("#")==-1){document.location.href=href+"?nowprocket=1"}else{document.location.href=href.replace("#","?nowprocket=1#")}}else{if(href.indexOf("#")==-1){document.location.href=href+"&nowprocket=1"}else{document.location.href=href.replace("#","&nowprocket=1#")}}}}</script><script>class RocketLazyLoadScripts{constructor(){this.v="1.2.5.1",this.triggerEvents=["keydown","mousedown","mousemove","touchmove","touchstart","touchend","wheel"],this.userEventHandler=this._triggerListener.bind(this),this.touchStartHandler=this._onTouchStart.bind(this),this.touchMoveHandler=this._onTouchMove.bind(this),this.touchEndHandler=this._onTouchEnd.bind(this),this.clickHandler=this._onClick.bind(this),this.interceptedClicks=[],this.interceptedClickListeners=[],this._interceptClickListeners(this),window.addEventListener("pageshow",e=>{this.persisted=e.persisted,this.everythingLoaded&&this._triggerLastFunctions()}),document.addEventListener("DOMContentLoaded",()=>{this._preconnect3rdParties()}),this.delayedScripts={normal:[],async:[],defer:[]},this.trash=[],this.allJQueries=[]}_addUserInteractionListener(e){if(document.hidden){e._triggerListener();return}this.triggerEvents.forEach(t=>window.addEventListener(t,e.userEventHandler,{passive:!0})),window.addEventListener("touchstart",e.touchStartHandler,{passive:!0}),window.addEventListener("mousedown",e.touchStartHandler),document.addEventListener("visibilitychange",e.userEventHandler)}_removeUserInteractionListener(){this.triggerEvents.forEach(e=>window.removeEventListener(e,this.userEventHandler,{passive:!0})),document.removeEventListener("visibilitychange",this.userEventHandler)}_onTouchStart(e){"HTML"!==e.target.tagName&&(window.addEventListener("touchend",this.touchEndHandler),window.addEventListener("mouseup",this.touchEndHandler),window.addEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.addEventListener("mousemove",this.touchMoveHandler),e.target.addEventListener("click",this.clickHandler),this._disableOtherEventListeners(e.target,!0),this._renameDOMAttribute(e.target,"onclick","rocket-onclick"),this._pendingClickStarted())}_onTouchMove(e){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler),e.target.removeEventListener("click",this.clickHandler),this._disableOtherEventListeners(e.target,!1),this._renameDOMAttribute(e.target,"rocket-onclick","onclick"),this._pendingClickFinished()}_onTouchEnd(){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler)}_onClick(e){e.target.removeEventListener("click",this.clickHandler),this._disableOtherEventListeners(e.target,!1),this._renameDOMAttribute(e.target,"rocket-onclick","onclick"),this.interceptedClicks.push(e),e.preventDefault(),e.stopPropagation(),e.stopImmediatePropagation(),this._pendingClickFinished()}_replayClicks(){window.removeEventListener("touchstart",this.touchStartHandler,{passive:!0}),window.removeEventListener("mousedown",this.touchStartHandler),this.interceptedClicks.forEach(e=>{e.target.dispatchEvent(new MouseEvent("click",{view:e.view,bubbles:!0,cancelable:!0}))})}_interceptClickListeners(e){EventTarget.prototype.addEventListenerBase=EventTarget.prototype.addEventListener,EventTarget.prototype.addEventListener=function(t,i,r){"click"!==t||e.windowLoaded||i===e.clickHandler||e.interceptedClickListeners.push({target:this,func:i,options:r}),(this||window).addEventListenerBase(t,i,r)}}_disableOtherEventListeners(e,t){this.interceptedClickListeners.forEach(i=>{i.target===e&&(t?e.removeEventListener("click",i.func,i.options):e.addEventListener("click",i.func,i.options))}),e.parentNode!==document.documentElement&&this._disableOtherEventListeners(e.parentNode,t)}_waitForPendingClicks(){return new Promise(e=>{this._isClickPending?this._pendingClickFinished=e:e()})}_pendingClickStarted(){this._isClickPending=!0}_pendingClickFinished(){this._isClickPending=!1}_renameDOMAttribute(e,t,i){e.hasAttribute&&e.hasAttribute(t)&&(event.target.setAttribute(i,event.target.getAttribute(t)),event.target.removeAttribute(t))}_triggerListener(){this._removeUserInteractionListener(this),"loading"===document.readyState?document.addEventListener("DOMContentLoaded",this._loadEverythingNow.bind(this)):this._loadEverythingNow()}_preconnect3rdParties(){let e=[];document.querySelectorAll("script[type=rocketlazyloadscript][data-rocket-src]").forEach(t=>{let i=t.getAttribute("data-rocket-src");if(i&&0!==i.indexOf("data:")){0===i.indexOf("//")&&(i=location.protocol+i);try{let r=new URL(i).origin;r!==location.origin&&e.push({src:r,crossOrigin:t.crossOrigin||"module"===t.getAttribute("data-rocket-type")})}catch(n){}}}),e=[...new Map(e.map(e=>[JSON.stringify(e),e])).values()],this._batchInjectResourceHints(e,"preconnect")}async _loadEverythingNow(){this.lastBreath=Date.now(),this._delayEventListeners(this),this._delayJQueryReady(this),this._handleDocumentWrite(),this._registerAllDelayedScripts(),this._preloadAllScripts(),await this._loadScriptsFromList(this.delayedScripts.normal),await this._loadScriptsFromList(this.delayedScripts.defer),await this._loadScriptsFromList(this.delayedScripts.async);try{await this._triggerDOMContentLoaded(),await this._pendingWebpackRequests(this),await this._triggerWindowLoad()}catch(e){console.error(e)}window.dispatchEvent(new Event("rocket-allScriptsLoaded")),this.everythingLoaded=!0,this._waitForPendingClicks().then(()=>{this._replayClicks()}),this._emptyTrash()}_registerAllDelayedScripts(){document.querySelectorAll("script[type=rocketlazyloadscript]").forEach(e=>{e.hasAttribute("data-rocket-src")?e.hasAttribute("async")&&!1!==e.async?this.delayedScripts.async.push(e):e.hasAttribute("defer")&&!1!==e.defer||"module"===e.getAttribute("data-rocket-type")?this.delayedScripts.defer.push(e):this.delayedScripts.normal.push(e):this.delayedScripts.normal.push(e)})}async _transformScript(e){if(await this._littleBreath(),!0===e.noModule&&"noModule"in HTMLScriptElement.prototype){e.setAttribute("data-rocket-status","skipped");return}return new Promise(t=>{let i;function r(){(i||e).setAttribute("data-rocket-status","executed"),t()}try{if(navigator.userAgent.indexOf("Firefox/")>0||""===navigator.vendor)i=document.createElement("script"),[...e.attributes].forEach(e=>{let t=e.nodeName;"type"!==t&&("data-rocket-type"===t&&(t="type"),"data-rocket-src"===t&&(t="src"),i.setAttribute(t,e.nodeValue))}),e.text&&(i.text=e.text),i.hasAttribute("src")?(i.addEventListener("load",r),i.addEventListener("error",function(){i.setAttribute("data-rocket-status","failed"),t()}),setTimeout(()=>{i.isConnected||t()},1)):(i.text=e.text,r()),e.parentNode.replaceChild(i,e);else{let n=e.getAttribute("data-rocket-type"),s=e.getAttribute("data-rocket-src");n?(e.type=n,e.removeAttribute("data-rocket-type")):e.removeAttribute("type"),e.addEventListener("load",r),e.addEventListener("error",function(){e.setAttribute("data-rocket-status","failed"),t()}),s?(e.removeAttribute("data-rocket-src"),e.src=s):e.src="data:text/javascript;base64,"+window.btoa(unescape(encodeURIComponent(e.text)))}}catch(a){e.setAttribute("data-rocket-status","failed"),t()}})}async _loadScriptsFromList(e){let t=e.shift();return t&&t.isConnected?(await this._transformScript(t),this._loadScriptsFromList(e)):Promise.resolve()}_preloadAllScripts(){this._batchInjectResourceHints([...this.delayedScripts.normal,...this.delayedScripts.defer,...this.delayedScripts.async],"preload")}_batchInjectResourceHints(e,t){var i=document.createDocumentFragment();e.forEach(e=>{let r=e.getAttribute&&e.getAttribute("data-rocket-src")||e.src;if(r){let n=document.createElement("link");n.href=r,n.rel=t,"preconnect"!==t&&(n.as="script"),e.getAttribute&&"module"===e.getAttribute("data-rocket-type")&&(n.crossOrigin=!0),e.crossOrigin&&(n.crossOrigin=e.crossOrigin),e.integrity&&(n.integrity=e.integrity),i.appendChild(n),this.trash.push(n)}}),document.head.appendChild(i)}_delayEventListeners(e){let t={};function i(i,r){return t[r].eventsToRewrite.indexOf(i)>=0&&!e.everythingLoaded?"rocket-"+i:i}function r(e,r){var n;!t[n=e]&&(t[n]={originalFunctions:{add:n.addEventListener,remove:n.removeEventListener},eventsToRewrite:[]},n.addEventListener=function(){arguments[0]=i(arguments[0],n),t[n].originalFunctions.add.apply(n,arguments)},n.removeEventListener=function(){arguments[0]=i(arguments[0],n),t[n].originalFunctions.remove.apply(n,arguments)}),t[e].eventsToRewrite.push(r)}function n(t,i){let r=t[i];t[i]=null,Object.defineProperty(t,i,{get:()=>r||function(){},set(n){e.everythingLoaded?r=n:t["rocket"+i]=r=n}})}r(document,"DOMContentLoaded"),r(window,"DOMContentLoaded"),r(window,"load"),r(window,"pageshow"),r(document,"readystatechange"),n(document,"onreadystatechange"),n(window,"onload"),n(window,"onpageshow")}_delayJQueryReady(e){let t;function i(t){return e.everythingLoaded?t:t.split(" ").map(e=>"load"===e||0===e.indexOf("load.")?"rocket-jquery-load":e).join(" ")}function r(r){if(r&&r.fn&&!e.allJQueries.includes(r)){r.fn.ready=r.fn.init.prototype.ready=function(t){return e.domReadyFired?t.bind(document)(r):document.addEventListener("rocket-DOMContentLoaded",()=>t.bind(document)(r)),r([])};let n=r.fn.on;r.fn.on=r.fn.init.prototype.on=function(){return this[0]===window&&("string"==typeof arguments[0]||arguments[0]instanceof String?arguments[0]=i(arguments[0]):"object"==typeof arguments[0]&&Object.keys(arguments[0]).forEach(e=>{let t=arguments[0][e];delete arguments[0][e],arguments[0][i(e)]=t})),n.apply(this,arguments),this},e.allJQueries.push(r)}t=r}r(window.jQuery),Object.defineProperty(window,"jQuery",{get:()=>t,set(e){r(e)}})}async _pendingWebpackRequests(e){let t=document.querySelector("script[data-webpack]");async function i(){return new Promise(e=>{t.addEventListener("load",e),t.addEventListener("error",e)})}t&&(await i(),await e._requestAnimFrame(),await e._pendingWebpackRequests(e))}async _triggerDOMContentLoaded(){this.domReadyFired=!0,await this._littleBreath(),document.dispatchEvent(new Event("rocket-readystatechange")),await this._littleBreath(),document.rocketonreadystatechange&&document.rocketonreadystatechange(),await this._littleBreath(),document.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this._littleBreath(),window.dispatchEvent(new Event("rocket-DOMContentLoaded"))}async _triggerWindowLoad(){await this._littleBreath(),document.dispatchEvent(new Event("rocket-readystatechange")),await this._littleBreath(),document.rocketonreadystatechange&&document.rocketonreadystatechange(),await this._littleBreath(),window.dispatchEvent(new Event("rocket-load")),await this._littleBreath(),window.rocketonload&&window.rocketonload(),await this._littleBreath(),this.allJQueries.forEach(e=>e(window).trigger("rocket-jquery-load")),await this._littleBreath();let e=new Event("rocket-pageshow");e.persisted=this.persisted,window.dispatchEvent(e),await this._littleBreath(),window.rocketonpageshow&&window.rocketonpageshow({persisted:this.persisted}),this.windowLoaded=!0}_triggerLastFunctions(){document.onreadystatechange&&document.onreadystatechange(),window.onload&&window.onload(),window.onpageshow&&window.onpageshow({persisted:this.persisted})}_handleDocumentWrite(){let e=new Map;document.write=document.writeln=function(t){let i=document.currentScript;i||console.error("WPRocket unable to document.write this: "+t);let r=document.createRange(),n=i.parentElement,s=e.get(i);void 0===s&&(s=i.nextSibling,e.set(i,s));let a=document.createDocumentFragment();r.setStart(a,0),a.appendChild(r.createContextualFragment(t)),n.insertBefore(a,s)}}async _littleBreath(){Date.now()-this.lastBreath>45&&(await this._requestAnimFrame(),this.lastBreath=Date.now())}async _requestAnimFrame(){return document.hidden?new Promise(e=>setTimeout(e)):new Promise(e=>requestAnimationFrame(e))}_emptyTrash(){this.trash.forEach(e=>e.remove())}static run(){let e=new RocketLazyLoadScripts;e._addUserInteractionListener(e)}}RocketLazyLoadScripts.run();</script>
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<link media="all" href="https://www.merci-app.com/app/cache/autoptimize/css/autoptimize_3d922efbd34c6adf61adcd8a919c9b4b.css" rel="stylesheet"><title>Comment faire une ouverture dans une conclusion ? • MerciApp</title>
+<link rel="preload" as="font" href="https://www.merci-app.com/app/themes/merciapp-wink/assets/fonts/inter/Inter-VariableFont_slnt,wght.woff2" crossorigin>
+<link rel="preload" as="font" href="https://www.merci-app.com/app/themes/merciapp-wink/assets/fonts/tropiline/Tropiline-Bold.woff2" crossorigin>
+<link rel="preload" as="font" href="https://www.merci-app.com/app/themes/merciapp-wink/assets/fonts/tropiline/Tropiline-Regular.woff2" crossorigin>
+<meta name="dc.title" content="Comment faire une ouverture dans une conclusion ? • MerciApp">
+<meta name="dc.description" content="Pertinente, offrant une perspective nouvelle : telles sont les qualités de l&#039;ouverture dans une conclusion. Voici des conseils pour la rédiger.">
+<meta name="dc.relation" content="https://www.merci-app.com/article/ouverture-dans-une-conclusion">
+<meta name="dc.source" content="https://www.merci-app.com">
+<meta name="dc.language" content="fr_FR">
+<meta name="description" content="Pertinente, offrant une perspective nouvelle : telles sont les qualités de l&#039;ouverture dans une conclusion. Voici des conseils pour la rédiger.">
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<link rel="canonical" href="https://www.merci-app.com/article/ouverture-dans-une-conclusion">
+<meta property="og:url" content="https://www.merci-app.com/article/ouverture-dans-une-conclusion">
+<meta property="og:site_name" content="MerciApp">
+<meta property="og:locale" content="fr_FR">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Comment faire une ouverture dans une conclusion ? • MerciApp">
+<meta property="og:description" content="Pertinente, offrant une perspective nouvelle : telles sont les qualités de l&#039;ouverture dans une conclusion. Voici des conseils pour la rédiger.">
+<meta property="og:image" content="https://www.merci-app.com/app/uploads/2023/07/643960a954b07f557c63b97a_63f5e18c616f963a89d18314_comment-faire-ouverture-dans-conclusion-blog-cover.jpeg">
+<meta property="og:image:secure_url" content="https://www.merci-app.com/app/uploads/2023/07/643960a954b07f557c63b97a_63f5e18c616f963a89d18314_comment-faire-ouverture-dans-conclusion-blog-cover.jpeg">
+<meta property="og:image:width" content="1280">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="https://x.com/merciapp">
+<meta name="twitter:creator" content="https://x.com/merciapp">
+<meta name="twitter:title" content="Comment faire une ouverture dans une conclusion ? • MerciApp">
+<meta name="twitter:description" content="Pertinente, offrant une perspective nouvelle : telles sont les qualités de l&#039;ouverture dans une conclusion. Voici des conseils pour la rédiger.">
+<meta name="twitter:image" content="https://www.merci-app.com/app/uploads/2023/07/643960a954b07f557c63b97a_63f5e18c616f963a89d18314_comment-faire-ouverture-dans-conclusion-blog-cover-1024x504.jpeg">
+<link rel='dns-prefetch' href='//js-eu1.hs-scripts.com' />
+<link rel='dns-prefetch' href='//assets.cello.so' />
+<link rel='dns-prefetch' href='//widget.trustpilot.com' />
+
+<link rel="alternate" type="application/rss+xml" title="MerciApp &raquo; Flux" href="https://www.merci-app.com/feed" />
+<link rel="alternate" type="application/rss+xml" title="MerciApp &raquo; Flux des commentaires" href="https://www.merci-app.com/comments/feed" />
+<script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"Article","datePublished":"2024-08-07T09:00:00+02:00","dateModified":"2024-08-07T09:33:09+02:00","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.merci-app.com\/article\/ouverture-dans-une-conclusion"},"headline":"Comment faire une ouverture dans une conclusion ?","author":{"@type":"Person","name":"Arthur Comets","url":"https:\/\/www.merci-app.com\/author\/ma_arthur"},"image":{"@type":"ImageObject","url":"https:\/\/www.merci-app.com\/app\/uploads\/2023\/07\/643960a954b07f557c63b97a_63f5e18c616f963a89d18314_comment-faire-ouverture-dans-conclusion-blog-cover.jpeg"},"publisher":{"@type":"Organization","name":"MerciApp","logo":{"@type":"ImageObject","url":"https:\/\/www.merci-app.com\/app\/uploads\/2023\/05\/MerciApp_Logo.svg","width":"121","height":"24"},"sameAs":["https:\/\/twitter.com\/https:\/\/x.com\/merciapp","https:\/\/fr.linkedin.com\/company\/merciapp"]},"description":"La r\u00e9daction d\u2019une ouverture dans une conclusion n\u2019est pas sans danger. Beaucoup d\u2019enseignants la sugg\u00e8rent \u00e0 leurs \u00e9tudiants, souvent \u00e0&hellip;"}</script>
+<script type="rocketlazyloadscript" data-no-optimize="1"> var brave_popup_data = {}; var bravepop_emailValidation=false; var brave_popup_videos = {};  var brave_popup_formData = {};var brave_popup_adminUser = false; var brave_popup_pageInfo = {"type":"single","pageID":8028,"singleType":"post"};  var bravepop_emailSuggestions={};</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			<script type="rocketlazyloadscript">document.getElementsByTagName("html")[0].classList.add("bsaweb-js");</script>
+				<script type="rocketlazyloadscript">document.getElementsByTagName("html")[0].className += " js";</script>
+		<script src="https://www.merci-app.com/wp/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js" defer></script>
+<script src="https://www.merci-app.com/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js" defer></script>
+<script src="https://www.merci-app.com/app/plugins/wpzoom-video-popup-block/dist/scripts/frontend.js?ver=994b280399ff38241b51" id="wpzoom-video-popup-block-block-script-js" defer></script>
+<link rel="https://api.w.org/" href="https://www.merci-app.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.merci-app.com/wp-json/wp/v2/posts/8028" /><link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.merci-app.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.merci-app.com%2Farticle%2Fouverture-dans-une-conclusion" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.merci-app.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.merci-app.com%2Farticle%2Fouverture-dans-une-conclusion&#038;format=xml" />
+			<!-- DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v11.1.21-->
+			<script type="rocketlazyloadscript" data-rocket-type="text/javascript" class="hsq-set-content-id" data-content-id="blog-post">
+				var _hsq = _hsq || [];
+				_hsq.push(["setContentType", "blog-post"]);
+			</script>
+			<!-- DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin -->
+			<noscript><style>.wp-grid-builder .wpgb-card.wpgb-card-hidden .wpgb-card-wrapper{opacity:1!important;visibility:visible!important;transform:none!important}.wpgb-facet {opacity:1!important;pointer-events:auto!important}.wpgb-facet *:not(.wpgb-pagination-facet){display:none}</style></noscript><link rel="apple-touch-icon" sizes="180x180" href="/app/uploads/fbrfg/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/app/uploads/fbrfg/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/app/uploads/fbrfg/favicon-16x16.png">
+<link rel="manifest" href="/app/uploads/fbrfg/site.webmanifest">
+<link rel="mask-icon" href="/app/uploads/fbrfg/safari-pinned-tab.svg" color="#0922c3">
+<link rel="shortcut icon" href="/app/uploads/fbrfg/favicon.ico">
+<meta name="msapplication-TileColor" content="#0922c3">
+<meta name="msapplication-config" content="/app/uploads/fbrfg/browserconfig.xml">
+<meta name="theme-color" content="#0922c3">		<style id="wp-custom-css">
+			.pre-header {
+	display: none; 
+}
+
+.link-before-header  {
+	color: #FFF;
+	border-bottom: 2px solid #FFF;
+	font-weight: 600 !important;
+	text-decoration: none;
+}
+
+.btn-shadow-none a,
+.btn-shadow-none a:hover,
+.btn-shadow-none a:focus {
+  box-shadow: none;
+}
+
+.btn-d-none a {
+  text-decoration: none;
+}
+
+.pre-header {
+	height: auto;
+	min-height: 71px;
+}
+
+/* ??? */
+#sect-value-box .wp-container-content-5,
+#sect-value-box .wp-container-content-9,
+#sect-value-box .wp-container-content-13 {
+  flex-basis: auto;
+}
+
+.has-border-color.is-layout-flex sup {
+  vertical-align: 5px;
+  font-weight: normal;
+}
+
+/* A propos */
+.groupe-propos-fl-job {
+  max-width: 100% !important;
+}
+
+.propos-fl-job a {
+  position: relative;
+  display: block;
+  color: var(--wp--preset--color--base) !important;
+  text-decoration: none;
+  padding-top: var(--wp--preset--spacing--md);
+  padding-right: var(--wp--preset--spacing--md);
+  padding-bottom: var(--wp--preset--spacing--md);
+  padding-left: var(--wp--preset--spacing--md);
+}
+.propos-fl-job a:before {
+  content: " ";
+  width: 24px;
+  height: 24px;
+  background-position: 0 0;
+  background-size: cover;
+  background-image: url("https://www.merci-app.com/app/uploads/2023/07/ico-white.svg");
+  position: absolute;
+  top: 50%;
+  transform: translate(0%, -50%); /* compatibilité : ie9+ */
+  right: var(--wp--preset--spacing--md);
+}
+
+/* Contact checkbox */
+.wpcf7-acceptance label,
+.wpcf7-checkbox label {
+  position: relative;
+  padding-left: 40px;
+  display: flex;
+}
+
+.wpcf7-acceptance .wpcf7-list-item,
+.wpcf7-checkbox .wpcf7-list-item {
+  margin: 0;
+}
+
+.wpcf7-acceptance input[type="checkbox"],
+.wpcf7-checkbox input[type="checkbox"] {
+  position: absolute;
+  top: 3px;
+  left: 0;
+
+  background-color: var(--color-white);
+  height: 1.5rem;
+  width: 1.5rem;
+  border-radius: 4px;
+  border: 1px solid var(--color-contrast-300);
+  z-index: 2;
+}
+.wpcf7-acceptance input[type="checkbox"]:checked,
+.wpcf7-checkbox input[type="checkbox"]:checked {
+  background: var(--color-primary-500);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16' fill='none'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M5.91006 10.4959L3.7071 8.29291C3.31658 7.90239 2.68342 7.90239 2.29289 8.29291C1.90237 8.68343 1.90237 9.3166 2.29289 9.70712L5.29288 12.7071C5.7168 13.131 6.4159 13.0892 6.7863 12.6178L13.7863 4.61786C14.1275 4.18359 14.0521 3.55494 13.6178 3.21372C13.1835 2.87251 12.5549 2.94795 12.2136 3.38222L5.91006 10.4959Z' fill='white'/%3E%3C/svg%3E");
+}
+
+/* List */
+.ul-gap-075 li {
+  margin-bottom: 0.75rem;
+}
+.ul-gap-075 li:last-child {
+  margin-bottom: 0;
+}
+
+/* Button mobile découvrir */
+.letter-1-4 {
+  letter-spacing: -1.4px;
+}
+
+.letter-14 {
+  letter-spacing: -0.14px;
+}
+
+.letter-44 {
+  letter-spacing: -0.44px;
+}
+
+.strong-700 strong {
+  font-weight: 700;
+}
+
+.remove-padding {
+  padding: 0;
+}
+
+.only-mobile-comparateur {
+  display: none;
+}
+
+@media only screen and (max-width: 781px) {
+  /* Comparateur */
+  .bsab4s-cross-table__row
+    .bsab4s-cross-table__cell:nth-child(2n)
+    .bsab4s-cross-table__label:after {
+    content: " Correction";
+  }
+
+  .bsab4s-cross-table__row
+    .bsab4s-cross-table__cell:nth-child(odd)
+    .bsab4s-cross-table__label:after {
+    content: " Explication";
+  }
+}
+
+@media only screen and (min-width: 481px) {
+  .items-center {
+    align-items: center !important;
+  }
+}
+
+@media only screen and (min-width: 80rem) {
+  .site-header__nav-dropdown {
+    left: 0;
+  }
+
+  .page-template-template-page-landing-feature
+    .site-header__nav-dropdown
+    .site-header__nav-link:hover,
+  .page-template-template-page-landing-feature
+    .site-header__nav-dropdown
+    .site-header__nav-link--hover {
+    color: var(--color-bg-400);
+    background-color: var(--color-accent-50);
+  }
+}
+
+@media (min-width: 80rem) {	
+  .page-template-template-page-landing-feature
+    .site-header__nav-dropdown
+    .site-header__nav-link {
+    color: var(--color-accent-50);
+    background: transparent;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+	.npxs {
+		padding-left: 0;
+		padding-right: 0;
+	}
+  .home h1 {
+    font-size: 20px !important;
+    font-weight: 700;
+  }
+	
+	.home .intro-home {
+		max-width: 708px !important;
+		font-size: 12px; 
+		padding-right: 10px;
+	}
+	
+  .home .width-lg-mobile {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  .site-header__nav-dropdown-icon {
+    display: block;
+  }
+
+  .page-template-template-page-landing-feature
+    .site-header__nav-dropdown
+    .site-header__nav-link {
+    background: transparent;
+  }
+
+  .page-template-template-page-landing-feature
+    .site-header__nav-dropdown
+    .site-header__nav-link {
+    color: var(--color-contrast-900);
+    text-decoration: underline;
+    background-color: transparent !important;
+    text-decoration: none;
+  }
+	
+  /* Fonctionnalités */
+  .xs-logo-width {
+    width: 150%;
+    margin-block-start: 0 !important;
+    padding-top: 0 !important;
+    margin-left: -22% !important;
+  }
+
+  /* Compatibilité */
+  .compatibility-deco-img figure {
+    width: 230px;
+  }
+
+  /* Reviews */
+  .wp-block-post.merciapp-avis:not(:last-child) .card-v4 {
+    padding-bottom: 48px;
+    margin-bottom: 48px;
+  }
+
+  .wp-block-list.wp-block-list,
+  .wp-block-list ul,
+  .wp-block-list ol {
+    padding-left: 0;
+  }
+
+  /* Card v5 */
+  .card-v5 {
+    padding: var(--space-md);
+  }
+
+  .only-mobile {
+    display: block !important;
+  }
+
+  .remove-btn-mobile a {
+    background: none;
+    border-color: transparent;
+    box-shadow: none;
+    color: var(--wp--preset--color--contrast-600);
+  }
+
+  /* Btn */
+  .btn--subtle,
+  .is-variation-subtle .wp-element-button {
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+
+  .xs-btn-40 .wp-element-button {
+    padding: 0.5rem 0.8rem;
+    font-size: 1rem;
+  }
+
+  /* Divers */
+  .ico-number-21 {
+    max-width: 116px;
+  }
+
+  .remove-pad-brd {
+    padding-left: 0 !important;
+    border: none;
+  }
+
+  .gap-xs-0 .wp-block-post-template {
+    gap: 0 !important;
+  }
+
+  .fontsize-gigantic-mobile {
+    font-size: var(--wp--preset--font-size--gigantic) !important;
+  }
+  .fontsize-xs-mobile {
+    font-size: var(--wp--preset--font-size--x-small) !important;
+  }
+	
+	.xs-number-space-brd-none {
+		margin: 2rem 0;
+		border: none;	
+	}
+	
+	.xs-pad-top-0 {
+   padding-top: 0 !important;
+	}
+	
+	.xs-height-auto {
+		min-height: 1px !important;	
+	}
+	
+}
+
+.obf-link {
+  display: block;
+  font-weight: 500;
+}
+
+.listing-items p {
+  display: flex;
+  align-items: center;
+}
+.listing-items img {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+@media (min-width: 1280px) and (max-width: 1298px) {
+  .site-header__nav-list--main {
+    gap: var(--space-xs) !important;
+  }
+}
+
+.overlap-bottom-assist {
+  margin-bottom: -200px !important;
+}
+
+.wq_quizEmailCtr form button {
+  margin: 20px 0 0 0;
+}
+
+.wq-subscribe-form input[type="checkbox"],
+.wq-consent-wrapper input[type="checkbox"] {
+  border: 1px solid #000;
+  display: inline-block;
+  height: 20px;
+  vertical-align: -3px;
+  appearance: auto;
+  width: 20px;
+}
+
+.op-interactive {
+  box-shadow: 1px 1px 50px 1px #e9ecf7;
+}
+
+.footer-navigation {
+  display: none !important;
+}
+
+/* Customer Story Video Popup Block */
+.article--customer-story .article__header figure img {
+  max-height: 40px;
+  width: auto;
+}
+
+.height-custom.wpzoom-video-popup-block {
+  min-height: 51px;
+}
+
+iframe poweredby {
+  display: none !important;
+}
+
+.p-width-auto p {
+  width: auto;
+  flex-basis: inherit;
+}
+
+.wp-block-button__width-auto {
+  text-align: center;
+}
+.wp-block-button__width-auto .wp-block-button__link {
+  width: auto !important;
+}
+
+/* Reformulation New */
+.gradient-border {
+  border-image: linear-gradient(#af90f5, #01072c) 1 !important;
+  border-width: 1px !important;
+  border-style: solid !important;
+  border-radius: 10px !important;
+}
+
+.card-border {
+	border-radius:8px;
+	border: 1px solid #D1D5E0;
+}
+
+.card-v6__img-wrapper {
+	max-height: 240px;
+}
+
+.how-to-do-card {
+	border: 1px solid #D1D5E0;
+	border-radius: 15px;
+}
+
+/* Shadows */
+.shadow-md {
+box-shadow: 0px 4px 8px -2px rgba(16, 24, 40, 0.10), 0px 2px 4px -2px rgba(16, 24, 40, 0.06);
+}
+
+.wpgb-facet .wpgb-button-label {
+    padding: 4px 6px;
+}
+
+.cta-main-desktop-img {
+    position: absolute;
+    width: 293px;
+    height: 124px;
+    bottom: 26px;
+    right: 0px !important;
+    display: block;
+}
+
+.spellchecker__analysis-detail dd {font-size:12px}
+
+/* Pre wrap on button text */
+.pre-wrap,
+.pre-wrap > a {
+	white-space: pre-wrap !important;
+}
+
+.oh { overflow: hidden; }
+
+.site-footer p img {margin-right: 10px}
+.site-footer p img,
+.site-footer p .obf-link {
+	display: inline-block;
+}
+.card-v3__link .card-v3__chip,
+.card-v3__link .card-v3__reading-time{
+	font-size: 10px;
+}
+
+.article__header__lexique .hero .article__title {
+		padding-right: var(--space-2xl);
+}
+
+.sidebar-most-lexique .wp-block-post-title a:before {
+	    content: "?" !important;
+	    top: 50% !important;
+}
+
+.spellchecker__popup-content {
+	position: relative;
+	background: #FFF;
+}
+
+.pu_2 {
+	/*background-color: hsla(var(--color-bg-400-h), var(--color-bg-400-s), var(--color-bg-400-l), .9); 
+  background-image: url('https://www.merci-app.com/app/uploads/2024/11/Website-FondPopup-510x510-1.jpg');
+  background-position: 100% 0;
+  background-repeat: no-repeat;
+  background-size: cover;*/
+}
+
+.pu_2 .wp-block-buttons>.wp-block-button.wp-block-button__width-100 {
+	text-align: center;
+}
+
+.pu_2 .wp-block-buttons>.wp-block-button.has-custom-width .wp-block-button__link {
+	width: auto;
+}
+
+.spellchecker__popup-header {
+	position: absolute;
+  z-index: 9999;
+  right: 0;
+}
+
+.spellchecker__popup-body {padding: 0}
+.spellchecker__popup {z-index: 10000 !important}
+
+/* Début du style personnalisé pour le formulaire d'affiliation */
+
+/* Cibler les formulaires générés par Contact Form 7 */
+.wpcf7 form {
+    max-width: 700px;
+    margin: 20 0 0 0;
+    padding: 20px;
+}
+
+/* Styles pour les labels */
+.wpcf7 label {
+    display: block;
+    margin-bottom: 10px !important; 
+}
+
+/* Augmente l'espacement entre les blocs label + champ */
+.wpcf7 form p {
+    margin-bottom: 30px;
+}
+
+/* Style des champs de texte, email, URL, et zones de texte */
+.wpcf7 input[type="text"],
+.wpcf7 input[type="email"],
+.wpcf7 input[type="url"],
+.wpcf7 select,
+.wpcf7 textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+/* Focus visuel sur les champs */
+.wpcf7 input[type="text"]:focus,
+.wpcf7 input[type="email"]:focus,
+.wpcf7 input[type="url"]:focus,
+.wpcf7 textarea:focus {
+    border-color: #0073aa;
+    outline: none;
+    box-shadow: 0 0 5px rgba(0, 115, 170, 0.5);
+}
+
+/* Style pour les checkbox (une par ligne) */
+.wpcf7 input[type="checkbox"] {
+    margin-right: 10px;
+}
+
+.wpcf7 .wpcf7-checkbox {
+    margin-bottom: 20px;
+    display: block;
+}
+
+/* Affiche chaque option checkbox sur une nouvelle ligne */
+.wpcf7 .wpcf7-checkbox label {
+    display: block;
+    margin-bottom: 10px; /* Réduction de l'espacement */
+}
+
+/* Style pour les textarea */
+.wpcf7 textarea {
+    height: 150px;
+    resize: vertical;
+}
+
+/* Style du bouton de soumission */
+.wpcf7 input[type="submit"] {
+    background-color: #0073aa;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.wpcf7 input[type="submit"]:hover {
+    background-color: #005177;
+}
+
+/* Responsive : amélioration sur petits écrans */
+@media (max-width: 600px) {
+    .wpcf7 form {
+        padding: 15px;
+    }
+
+    .wpcf7 input[type="text"],
+    .wpcf7 input[type="email"],
+    .wpcf7 input[type="url"],
+    .wpcf7 select,
+    .wpcf7 textarea {
+        font-size: 14px;
+    }
+
+    .wpcf7 input[type="submit"] {
+        width: 100%;
+        padding: 15px; /* Ajout pour plus de consistance */
+    }
+}
+
+/* Correction de la règle incomplète */
+.wpcf7-acceptance label, .wpcf7-checkbox label {
+    padding-right: 35px;
+    padding-left: 35px;
+}
+
+
+.spellchecker .spellchecker__popup {
+    z-index: 9999999999999999 !important;
+}		</style>
+		
+<meta name="google-adsense-account" content="ca-pub-3466453967834659">
+<script type="rocketlazyloadscript" async data-rocket-src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3466453967834659"; crossorigin="anonymous"></script>
+
+<script type="rocketlazyloadscript">
+/* Init GTM custom */
+window.dataLayer=window.dataLayer||[];
+window.dataLayer.push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+
+["keydown", "mousedown", "mousemove", "touchmove", "touchstart", "touchend", "wheel"].forEach(function(e) {
+    window.addEventListener(e, firstInteraction, {
+        once: true,
+		passive: true,
+    });
+});
+var userInteracted = false;
+
+function firstInteraction(event) {
+    if (event && !userInteracted) {
+        let load_on_interaction = [
+			"https://www.googletagmanager.com/gtm.js?id=GTM-W5JR4P8",
+        ];
+        let head = document.getElementsByTagName("head")[0];
+        load_on_interaction.forEach(function(e) {
+            var script = document.createElement("script");
+            script.setAttribute("src", e);
+            script.setAttribute("defer", "defer");
+            script.setAttribute("fetchpriority", "low");
+            head.appendChild(script);
+        });
+        userInteracted = true;
+    }
+}
+</script>
+<script type="rocketlazyloadscript">
+/*
+window.dataLayer=window.dataLayer||[];
+window.dataLayer.push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+
+let load_immediately = [
+    "https://www.googletagmanager.com/gtm.js?id=GTM-W5JR4P8",
+];
+let head = document.getElementsByTagName("head")[0];
+load_immediately.forEach(function(e) {
+    var script = document.createElement("script");
+    script.setAttribute("src", e);
+    script.setAttribute("defer", "defer");
+    script.setAttribute("fetchpriority", "low");
+    head.appendChild(script);
+});
+*/
+</script>
+
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+    var _host = document.location.host;
+    var _isProduction = _host === 'www.merci-app.com';
+
+    if (!window.dataLayer) {
+        window.dataLayer = [];
+    }
+    window.dataLayer.push({
+        'merciapp-environment': _isProduction ? 'Live' : 'Sandbox'
+    });
+</script>
+
+<script type="rocketlazyloadscript">
+var __assign = (this && this.__assign) || function () {
+    __assign = Object.assign || function(t) {
+        for (var s, i = 1, n = arguments.length; i < n; i++) {
+            s = arguments[i];
+            for (var p in s) if (Object.prototype.hasOwnProperty.call(s, p))
+                t[p] = s[p];
+        }
+        return t;
+    };
+    return __assign.apply(this, arguments);
+};
+var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {
+    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
+    return new (P || (P = Promise))(function (resolve, reject) {
+        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
+        function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
+        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }
+        step((generator = generator.apply(thisArg, _arguments || [])).next());
+    });
+};
+var __generator = (this && this.__generator) || function (thisArg, body) {
+    var _ = { label: 0, sent: function() { if (t[0] & 1) throw t[1]; return t[1]; }, trys: [], ops: [] }, f, y, t, g;
+    return g = { next: verb(0), "throw": verb(1), "return": verb(2) }, typeof Symbol === "function" && (g[Symbol.iterator] = function() { return this; }), g;
+    function verb(n) { return function (v) { return step([n, v]); }; }
+    function step(op) {
+        if (f) throw new TypeError("Generator is already executing.");
+        while (_) try {
+            if (f = 1, y && (t = op[0] & 2 ? y["return"] : op[0] ? y["throw"] || ((t = y["return"]) && t.call(y), 0) : y.next) && !(t = t.call(y, op[1])).done) return t;
+            if (y = 0, t) op = [op[0] & 2, t.value];
+            switch (op[0]) {
+                case 0: case 1: t = op; break;
+                case 4: _.label++; return { value: op[1], done: false };
+                case 5: _.label++; y = op[1]; op = [0]; continue;
+                case 7: op = _.ops.pop(); _.trys.pop(); continue;
+                default:
+                    if (!(t = _.trys, t = t.length > 0 && t[t.length - 1]) && (op[0] === 6 || op[0] === 2)) { _ = 0; continue; }
+                    if (op[0] === 3 && (!t || (op[1] > t[0] && op[1] < t[3]))) { _.label = op[1]; break; }
+                    if (op[0] === 6 && _.label < t[1]) { _.label = t[1]; t = op; break; }
+                    if (t && _.label < t[2]) { _.label = t[2]; _.ops.push(op); break; }
+                    if (t[2]) _.ops.pop();
+                    _.trys.pop(); continue;
+            }
+            op = body.call(thisArg, _);
+        } catch (e) { op = [6, e]; y = 0; } finally { f = t = 0; }
+        if (op[0] & 5) throw op[1]; return { value: op[0] ? op[1] : void 0, done: true };
+    }
+};
+var cookiesToSaveToLocalStorage = [
+    'MCIAPP-LANDING',
+    '_ga',
+    '_fbp',
+    '_gid',
+];
+var CookiesService = /** @class */ (function () {
+    function CookiesService() {
+    }
+    CookiesService.prototype.setDocumentCookiesAndSaveLocalStorageCookies = function () {
+        var localStorageCookiesMap = this.getCookiesStoredInLocalStorageMap();
+        this.setMissingDocumentCookies(localStorageCookiesMap);
+        this.saveDocumentCookiesInLocalStorage(localStorageCookiesMap);
+    };
+    CookiesService.prototype.getCookieValue = function (name) {
+        var cookieName = "".concat(name, "=");
+        var cookiesList = this.getDocumentCookies();
+        for (var i = 0; i < cookiesList.length; i++) {
+            var cookie = cookiesList[i].trimStart();
+            if (cookie.indexOf(cookieName) === 0) {
+                return cookie.substring(cookieName.length, cookie.length);
+            }
+        }
+        return null;
+    };
+    CookiesService.prototype.getCookiesStoredInLocalStorageMap = function () {
+        var cookies = cookiesToSaveToLocalStorage.reduce(function (acc, cookieName) {
+            var _a;
+            return (__assign(__assign({}, acc), (_a = {}, _a[cookieName] = localStorage.getItem(cookieName), _a)));
+        }, {});
+        return cookies;
+    };
+    CookiesService.prototype.getDocumentCookies = function () {
+        var cookiesList = decodeURIComponent(document.cookie)
+            .split(';')
+            .map(function (cookie) { return cookie.trimStart().trimEnd(); });
+        return cookiesList;
+    };
+    CookiesService.prototype.setMissingDocumentCookies = function (localStorageCookiesMap) {
+        var _this = this;
+        var cookiesInLocalStorage = Object.entries(localStorageCookiesMap).filter(function (_a) {
+            var cookieName = _a[0], cookieValue = _a[1];
+            return cookieValue !== null &&
+                cookiesToSaveToLocalStorage.some(function (cookie) { return cookieName.startsWith(cookie); });
+        });
+        cookiesInLocalStorage.forEach(function (_a) {
+            var cookieName = _a[0], cookieValue = _a[1];
+            var cookie = _this.getCookieValue(cookieName);
+            if (!cookie) {
+                _this.setCookieOnHostDomain({
+                    name: cookieName,
+                    value: cookieValue,
+                });
+            }
+        });
+    };
+    CookiesService.prototype.saveDocumentCookiesInLocalStorage = function (localStorageCookiesMap) {
+        var _this = this;
+        var cookiesMissingFromLocalStorage = Object.entries(localStorageCookiesMap).filter(function (_a) {
+            var cookieName = _a[0], cookieValue = _a[1];
+            return cookieValue === null &&
+                cookiesToSaveToLocalStorage.some(function (cookie) { return cookieName.startsWith(cookie); });
+        });
+        cookiesMissingFromLocalStorage.forEach(function (_a) {
+            var cookieName = _a[0];
+            var cookie = _this.getCookieValue(cookieName);
+            if (cookie) {
+                localStorage.setItem(cookieName, cookie);
+            }
+        });
+    };
+    CookiesService.prototype.setCookieOnHostDomain = function (_a) {
+        var name = _a.name, value = _a.value;
+        return __awaiter(this, void 0, void 0, function () {
+            var exc_1;
+            return __generator(this, function (_b) {
+                switch (_b.label) {
+                    case 0:
+                        _b.trys.push([0, 2, , 3]);
+                        return [4 /*yield*/, fetch('https://web.merci-app.com/api/analytics/cookie', {
+                                body: JSON.stringify({
+                                    name: name,
+                                    value: value,
+                                }),
+                                credentials: 'include',
+                                headers: { 'Content-Type': 'application/json' },
+                                method: 'post',
+                            })];
+                    case 1:
+                        _b.sent();
+                        return [2 /*return*/, true];
+                    case 2:
+                        exc_1 = _b.sent();
+                        // eslint-disable-next-line no-console
+                        console.error(exc_1);
+                        return [2 /*return*/, false];
+                    case 3: return [2 /*return*/];
+                }
+            });
+        });
+    };
+    return CookiesService;
+}());
+var cookiesService = new CookiesService();
+cookiesService.setDocumentCookiesAndSaveLocalStorageCookies();
+</script>
+
+
+<!-- START replace unbreakable spaces -->
+<script type="rocketlazyloadscript">
+    var articleContainerElt = document.getElementById("blog-content-richtext-id") || undefined;
+    var articleTitleElt = document.getElementsByClassName("wp-block-heading")
+        .length
+        ? document.getElementsByClassName("wp-block-heading")
+        : undefined;
+    var articleDemoModuleElt = document.getElementsByClassName("browser-card__text").length
+        ? document.getElementsByClassName("browser-card__text")
+        : undefined;
+    [articleContainerElt, articleTitleElt, articleDemoModuleElt]
+        .filter(function (elt) { return elt !== undefined; })
+        .forEach(function (elt) {
+        if (elt.innerHTML) {
+            elt.innerHTML = elt.innerHTML
+                .replace(/«\s/g, "\u00AB&nbsp;")
+                .replace(/\s»/g, "&nbsp;\u00BB")
+                .replace(/\s:/g, "&nbsp;:")
+                .replace(/\s;/g, "&nbsp;;")
+                .replace(/\s\?/g, "&nbsp;?")
+                .replace(/\s!/g, "&nbsp;!");
+        }
+    });
+  </script>
+  <!-- END replace unbreakable spaces --><noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript></head>
+
+<body class="post-template-default single single-post postid-8028 single-format-standard wp-custom-logo wp-embed-responsive theme-merciapp-wink theme-bsaweb-theme">
+
+
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W5JR4P8"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>	<a class="skip-link" href="#site-content">Aller au contenu</a>
+
+<div class="wp-site-blocks">
+
+		<div class="pre-header site-pre-header">
+		
+
+
+
+	</div>
+	
+	<header class="site-header js-site-header" role="banner" data-animation="on" >
+
+		<div class="site-header__wrapper">
+
+			<div class="site-header__container container max-width-lg">
+
+					<div class="site-header__logo site-header__logo--image" id="logo">
+					<a href="https://www.merci-app.com/#logo" class="site-header__logo-link" rel="home"><img width="362" height="73" src="https://www.merci-app.com/app/uploads/2023/09/logo-png.png" class="site-header__logo-img" alt="MerciApp correcteur orthographe" decoding="async" srcset="https://www.merci-app.com/app/uploads/2023/09/logo-png.png 362w, https://www.merci-app.com/app/uploads/2023/09/logo-png-300x60.png 300w" sizes="(max-width: 362px) 100vw, 362px" /></span>			</div>
+
+				<div class="site-header__icon-btns site-header__icon-btns--mobile">
+					<button class="reset site-header__icon-btn site-header__icon-btn--nav-control anim-menu-btn js-anim-menu-btn js-tab-focus" aria-controls="site-header-navigation" aria-label="Basculer l&#039;affichage du menu">
+						<div class="anim-menu-btn__icon-wrapper" aria-hidden="true">
+							<i class="anim-menu-btn__icon anim-menu-btn__icon--close"></i>
+						</div>
+					</button>
+				</div>
+
+				<nav class="site-header__nav" id="site-header-navigation" role="navigation" data-layout="drawer/dropdown">
+					<div class="site-header__nav-inner">
+						<ul id="menu-principal-1" class="site-header__nav-list site-header__nav-list--main"><li  id="site-header-item-73276" class="site-header__nav-item--subnav-layout-2-cols-list-feature-grid site-header__nav-item--subnav-block-template-part-header-nav-item-1-featured-card site-header__nav-item site-header__nav-item--type-custom site-header__nav-item--object-custom site-header__nav-item--has-children site-header__nav-item--73276 site-header__nav-item--depth-1 site-header__nav-item site-header__nav-item--main js-site-header__nav-item"><a  class="site-header__subnav-control js-site-header__subnav-control" role="button" href="#"><span>Notre produit</span><svg class="site-header__subnav-icon icon" aria-hidden="true" viewBox="0 0 16 16"><polyline fill="none" stroke-width="2" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="3.5,6.5 8,11 12.5,6.5 "></polyline></svg></a>
+<div class="site-header__subnav site-header__subnav--depth-1 site-header__subnav--dropdown site-header__subnav--layout-2-cols-list-feature-grid"><div class="site-header__subnav-inner"><ul class="site-header__nav-list">
+	<li  id="site-header-item-165" class="site-header__nav-item--col-1-row-2 site-header__nav-item site-header__nav-item--type-post_type site-header__nav-item--object-page site-header__nav-item--has-children site-header__nav-item--165 site-header__nav-item--depth-2 site-header__nav-item"><a  class="site-header__nav-link" data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9mb25jdGlvbm5hbGl0ZXM="><span>Fonctionnalités</span></a>
+	<div class="site-header__subnav site-header__subnav--depth-2"><ul class="site-header__nav-list">
+		<li  id="site-header-item-29345" class="site-header__nav-item site-header__nav-item--type-post_type site-header__nav-item--object-page site-header__nav-item--29345 site-header__nav-item--depth-3 site-header__nav-item"><a  class="site-header__nav-link" data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9mb25jdGlvbm5hbGl0ZXMvY29ycmVjdGlvbi1lbi10ZW1wcy1yZWVs"><span>Correction en temps réel</span></a></li>
+		<li  id="site-header-item-29344" class="site-header__nav-item site-header__nav-item--type-post_type site-header__nav-item--object-page site-header__nav-item--29344 site-header__nav-item--depth-3 site-header__nav-item"><a  class="site-header__nav-link" data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9mb25jdGlvbm5hbGl0ZXMvZXhwbGljYXRpb25zLWVtYmFycXVlZXM="><span>Explications embarquées</span></a></li>
+		<li  id="site-header-item-29343" class="site-header__nav-item site-header__nav-item--type-post_type site-header__nav-item--object-page site-header__nav-item--29343 site-header__nav-item--depth-3 site-header__nav-item"><a  class="site-header__nav-link" data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9mb25jdGlvbm5hbGl0ZXMvYXV0b2NvcnJlY3Rpb24taW50ZWxsaWdlbnRl"><span>Autocorrection intelligente</span></a></li>
+		<li  id="site-header-item-29342" class="site-header__nav-item site-header__nav-item--type-post_type site-header__nav-item--object-page site-header__nav-item--29342 site-header__nav-item--depth-3 site-header__nav-item"><a  class="site-header__nav-link" data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9mb25jdGlvbm5hbGl0ZXMvb3B0aW1pc2F0aW9uLWR1LXN0eWxl"><span>Optimisation du style</span></a></li>
+		<li  id="site-header-item-29341" class="site-header__nav-item site-header__nav-item--type-post_type site-header__nav-item--object-page site-header__nav-item--29341 site-header__nav-item--depth-3 site-header__nav-item"><a  class="site-header__nav-link" data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9mb25jdGlvbm5hbGl0ZXMvcmVmb3JtdWxhdGlvbnM="><span>Reformulations</span></a></li>
+		<li  id="site-header-item-29340" class="site-header__nav-item site-header__nav-item--type-post_type site-header__nav-item--object-page site-header__nav-item--29340 site-header__nav-item--depth-3 site-header__nav-item"><a  class="site-header__nav-link" data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9mb25jdGlvbm5hbGl0ZXMvc3RhdGlzdGlxdWVz"><span>Statistiques</span></a></li>
+		<li  id="site-header-item-29339" class="site-header__nav-item site-header__nav-item--type-post_type site-header__nav-item--object-page site-header__nav-item--29339 site-header__nav-item--depth-3 site-header__nav-item"><a  class="site-header__nav-link" data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9mb25jdGlvbm5hbGl0ZXMvZGljdGlvbm5haXJl"><span>Dictionnaire</span></a></li>
+	</ul></div>
+</li>
+	<li  id="site-header-item-27629" class="site-header__nav-item--col-2-row-1 site-header__nav-item site-header__nav-item--type-custom site-header__nav-item--object-custom site-header__nav-item--has-children site-header__nav-item--27629 site-header__nav-item--depth-2 site-header__nav-item"><a  href="#" class="site-header__nav-link"><span>Solutions</span></a>
+	<div class="site-header__subnav site-header__subnav--depth-2"><ul class="site-header__nav-list">
+		<li  id="site-header-item-27628" class="site-header__nav-item site-header__nav-item--type-post_type site-header__nav-item--object-page site-header__nav-item--27628 site-header__nav-item--depth-3 site-header__nav-item"><a  class="site-header__nav-link" data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9yZWxhdGlvbi1jbGllbnQ="><span>Équipes de relation client</span></a></li>
+		<li  id="site-header-item-30622" class="site-header__nav-item site-header__nav-item--type-post_type site-header__nav-item--object-page site-header__nav-item--30622 site-header__nav-item--depth-3 site-header__nav-item"><a  class="site-header__nav-link" data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9lcXVpcGVzLWNvbWVyY2lhbGVz"><span>Équipes commerciales</span></a></li>
+	</ul></div>
+</li>
+	<li  id="site-header-item-168" class="site-header__nav-item--col-2-row-2 site-header__nav-item site-header__nav-item--type-post_type site-header__nav-item--object-page site-header__nav-item--168 site-header__nav-item--depth-2 site-header__nav-item"><a  class="site-header__nav-link" data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9leHRlbnNpb24="><span>Compatibilité</span></a></li>
+</ul><div class="wp-block-bsaweb-blocks-card has-background has-contrast-50-background-color has-small-font-size is-layout-flow wp-block-card-is-layout-flow">
+<div class="wp-block-bsaweb-blocks-grid wp-block-bsaweb-blocks-card__body bsaweb-grid">
+<div class="wp-block-bsaweb-blocks-grid__item wp-block-bsaweb-blocks-grid-item is-layout-flow wp-container-bsaweb-blocks-grid-item-is-layout-1 wp-block-grid-item-is-layout-flow bsaweb-order-2 bsaweb-order-1@lg bsaweb-col-6 bsaweb-col-12@lg">
+
+<figure class="wp-block-image size-full wp-block-bsaweb-blocks-card__img block-visibility-hide-large-screen"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="" class="wp-image-73286" data-lazy-src="https://www.merci-app.com/app/uploads/2024/09/merciapp-assist-mobile.png"/><noscript><img src="https://www.merci-app.com/app/uploads/2024/09/merciapp-assist-mobile.png" alt="" class="wp-image-73286"/></noscript></figure>
+
+
+
+<figure class="wp-block-image size-full wp-block-bsaweb-blocks-card__img block-visibility-hide-medium-screen block-visibility-hide-small-screen"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="" class="wp-image-73287" data-lazy-src="https://www.merci-app.com/app/uploads/2024/09/merciapp-assist-desktop.png"/><noscript><img src="https://www.merci-app.com/app/uploads/2024/09/merciapp-assist-desktop.png" alt="" class="wp-image-73287"/></noscript></figure>
+
+</div>
+
+<div style="padding-top:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--md);padding-left:var(--wp--preset--spacing--md);padding-right:var(--wp--preset--spacing--md);" class="wp-block-bsaweb-blocks-grid__item wp-block-bsaweb-blocks-grid-item is-layout-flow wp-container-bsaweb-blocks-grid-item-is-layout-2 wp-block-grid-item-is-layout-flow bsaweb-order-1 bsaweb-order-2@lg bsaweb-col-12@lg bsaweb-col-6">
+
+<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-25 wp-block-group-is-layout-flex">
+<p class="radius-sm has-white-color has-success-500-background-color has-text-color has-background has-link-color wp-elements-7dd2c7de86faedffdc1e33e975744a25" style="padding-top:0.3em;padding-right:0.5em;padding-bottom:0.3em;padding-left:0.5em;font-size:0.7em;font-style:normal;font-weight:600;letter-spacing:0.05em;line-height:1;text-transform:uppercase">
+                    Nouveau
+                </p>
+</div>
+
+
+
+<div class="wp-block-group is-layout-flow wp-container-core-group-is-layout-26 wp-block-group-is-layout-flow">
+<p><strong>MerciApp Assist</strong></p>
+
+
+
+<p class="has-contrast-600-color has-text-color has-link-color wp-elements-974fe82e98b447eec60b90af8d2e0e1b">Votre assistant de rédaction</p>
+</div>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex" style="margin-top:var(--wp--preset--spacing--md)">
+<div class="wp-block-button has-custom-font-size has-small-font-size"><a class="wp-block-button__link wp-element-button btn btn--subtle" href="https://www.merci-app.com/page/assist">Découvrir</a></div>
+</div>
+
+</div>
+</div>
+</div></div></div>
+</li>
+<li  id="site-header-item-73290" class="site-header__nav-item site-header__nav-item--type-custom site-header__nav-item--object-custom site-header__nav-item--has-children site-header__nav-item--73290 site-header__nav-item--depth-1 site-header__nav-item site-header__nav-item--main js-site-header__nav-item"><a  href="#" class="site-header__nav-link"><span>Nos outils gratuits</span><svg class="site-header__subnav-icon icon" aria-hidden="true" viewBox="0 0 16 16"><polyline fill="none" stroke-width="2" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="3.5,6.5 8,11 12.5,6.5 "></polyline></svg></a>
+<div class="site-header__subnav site-header__subnav--depth-1 site-header__subnav--dropdown"><ul class="site-header__nav-list">
+	<li  id="site-header-item-73291" class="site-header__nav-item site-header__nav-item--type-custom site-header__nav-item--object-custom site-header__nav-item--home site-header__nav-item--73291 site-header__nav-item--depth-2 site-header__nav-item"><a  class="site-header__nav-link" data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS8="><span>Correcteur d&rsquo;orthographe</span></a></li>
+	<li  id="site-header-item-73292" class="site-header__nav-item site-header__nav-item--type-custom site-header__nav-item--object-custom site-header__nav-item--73292 site-header__nav-item--depth-2 site-header__nav-item"><a  class="site-header__nav-link" data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9yZWZvcm11bGVyLXVuLXRleHRl"><span>Reformuler un texte</span></a></li>
+</ul></div>
+</li>
+<li  id="site-header-item-149" class="site-header__nav-item site-header__nav-item--type-custom site-header__nav-item--object-custom site-header__nav-item--has-children site-header__nav-item--149 site-header__nav-item--depth-1 site-header__nav-item site-header__nav-item--main js-site-header__nav-item"><a  href="#" class="site-header__nav-link"><span>Ressources</span><svg class="site-header__subnav-icon icon" aria-hidden="true" viewBox="0 0 16 16"><polyline fill="none" stroke-width="2" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="3.5,6.5 8,11 12.5,6.5 "></polyline></svg></a>
+<div class="site-header__subnav site-header__subnav--depth-1 site-header__subnav--dropdown"><ul class="site-header__nav-list">
+	<li  id="site-header-item-155" class="site-header__nav-item--figure-fishes site-header__nav-item site-header__nav-item--type-post_type site-header__nav-item--object-page site-header__nav-item--155 site-header__nav-item--depth-2 site-header__nav-item"><a  class="site-header__nav-link" data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9ibG9n"><span>Blog</span></a></li>
+	<li  id="site-header-item-156" class="site-header__nav-item--figure-wink-star site-header__nav-item site-header__nav-item--type-post_type site-header__nav-item--object-page site-header__nav-item--156 site-header__nav-item--depth-2 site-header__nav-item"><a  class="site-header__nav-link" data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9sZXhpcXVl"><span>Lexique</span></a></li>
+	<li  id="site-header-item-154" class="site-header__nav-item--figure-zen site-header__nav-item site-header__nav-item--type-post_type site-header__nav-item--object-page site-header__nav-item--154 site-header__nav-item--depth-2 site-header__nav-item"><a  class="site-header__nav-link" data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9yZWdsZXMtZGUtZnJhbmNhaXM="><span>Règles de français</span></a></li>
+	<li  id="site-header-item-35353" class="site-header__nav-item--figure-dictionnaire site-header__nav-item site-header__nav-item--type-custom site-header__nav-item--object-custom site-header__nav-item--35353 site-header__nav-item--depth-2 site-header__nav-item"><a  class="site-header__nav-link" data-obflink-url="aHR0cHM6Ly9kaWN0aW9ubmFpcmUubWVyY2ktYXBwLmNvbS8="><span>Dictionnaire</span></a></li>
+</ul></div>
+</li>
+<li  id="site-header-item-29351" class="site-header__nav-item site-header__nav-item--type-post_type site-header__nav-item--object-page site-header__nav-item--29351 site-header__nav-item--depth-1 site-header__nav-item site-header__nav-item--main js-site-header__nav-item"><a  class="site-header__nav-link" data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS90YXJpZnM="><span>Tarifs</span></a></li>
+<li  id="site-header-item-62643" class="site-header__nav-item site-header__nav-item--type-custom site-header__nav-item--object-custom site-header__nav-item--has-children site-header__nav-item--62643 site-header__nav-item--depth-1 site-header__nav-item site-header__nav-item--main js-site-header__nav-item"><a  href="#" class="site-header__nav-link"><span>Clients</span><svg class="site-header__subnav-icon icon" aria-hidden="true" viewBox="0 0 16 16"><polyline fill="none" stroke-width="2" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="3.5,6.5 8,11 12.5,6.5 "></polyline></svg></a>
+<div class="site-header__subnav site-header__subnav--depth-1 site-header__subnav--dropdown"><ul class="site-header__nav-list">
+	<li  id="site-header-item-159" class="site-header__nav-item site-header__nav-item--type-post_type site-header__nav-item--object-page site-header__nav-item--159 site-header__nav-item--depth-2 site-header__nav-item"><a  class="site-header__nav-link" data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9hdmlzLWNvcnJlY3RldXItb3J0aG9ncmFwaGUtZ3JhbW1haXJl"><span>Avis</span></a></li>
+	<li  id="site-header-item-62647" class="site-header__nav-item site-header__nav-item--type-custom site-header__nav-item--object-custom site-header__nav-item--has-children site-header__nav-item--62647 site-header__nav-item--depth-2 site-header__nav-item--has-dropdown-nested site-header__nav-item"><a  href="#" class="site-header__nav-link"><span>Témoignages</span><svg class="icon site-header__subnav-icon" aria-hidden="true" viewBox="0 0 16 16"><g stroke-width="2" stroke="currentColor"><polyline fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="6.5,3.5 11,8 6.5,12.5 "></polyline></g></svg></a>
+	<div class="site-header__subnav site-header__subnav--depth-2 site-header__subnav--dropdown site-header__subnav--dropdown-nested"><ul class="site-header__nav-list">
+		<li  id="site-header-item-62644" class="site-header__nav-item site-header__nav-item--type-post_type site-header__nav-item--object-merciapp-customer site-header__nav-item--62644 site-header__nav-item--depth-3 site-header__nav-item"><a  class="site-header__nav-link" data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9jdXN0b21lci9mcmFuY2UtdHY="><span>France TV</span></a></li>
+		<li  id="site-header-item-62645" class="site-header__nav-item site-header__nav-item--type-post_type site-header__nav-item--object-merciapp-customer site-header__nav-item--62645 site-header__nav-item--depth-3 site-header__nav-item"><a  class="site-header__nav-link" data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9jdXN0b21lci9sdWNjYQ=="><span>Lucca</span></a></li>
+		<li  id="site-header-item-62646" class="site-header__nav-item site-header__nav-item--type-post_type site-header__nav-item--object-merciapp-customer site-header__nav-item--62646 site-header__nav-item--depth-3 site-header__nav-item"><a  class="site-header__nav-link" data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9jdXN0b21lci9hcm1hdGlz"><span>Armatis</span></a></li>
+	</ul></div>
+</li>
+</ul></div>
+</li>
+</ul>						<ul id="menu-principal-2" class="site-header__nav-list site-header__nav-list--main"><li  id="site-header-item-11" class="site-header__nav-item site-header__nav-item--type-custom site-header__nav-item--object-custom site-header__nav-item--11 site-header__nav-item--depth-1 site-header__nav-item site-header__nav-item--main js-site-header__nav-item"><a  class="site-header__nav-link" data-obflink-url="aHR0cHM6Ly93ZWIubWVyY2ktYXBwLmNvbS8=" data-label="click-cta-connect-menu" data-evt-trigger="click" data-category="click-cta" data-event="click-cta-connect"><span>Connexion</span></a></li>
+<li  id="site-header-item-12" class="has-icon has-icon--before has-icon--firefox site-header__nav-item site-header__nav-item--type-custom site-header__nav-item--object-custom site-header__nav-item--12 site-header__nav-item--depth-1 site-header__nav-item site-header__nav-item--main js-site-header__nav-item"><a  class="btn btn--primary visible-by-browser js-visible-by-browser visible-by-browser--firefox" data-obflink-url="aHR0cHM6Ly9hc3NldHMubWVyY2ktYXBwLmNvbS93ZWJleHRlbnNpb24tcmV2aWV3cmVkaXJlY3QuaHRtbA==" data-browser="firefox" data-label="click-cta-connect-menu" data-evt-trigger="click" data-category="click-cta" data-event="click-cta-install"><span>Installer l&rsquo;extension (gratuit)</span></a></li>
+<li  id="site-header-item-11830" class="has-icon has-icon--before has-icon--chrome site-header__nav-item site-header__nav-item--type-custom site-header__nav-item--object-custom site-header__nav-item--11830 site-header__nav-item--depth-1 site-header__nav-item site-header__nav-item--main js-site-header__nav-item"><a  class="btn btn--primary visible-by-browser js-visible-by-browser visible-by-browser--chrome" data-obflink-url="aHR0cHM6Ly9hc3NldHMubWVyY2ktYXBwLmNvbS93ZWJleHRlbnNpb24tcmV2aWV3cmVkaXJlY3QuaHRtbA==" data-browser="chrome" data-label="click-cta-connect-menu" data-evt-trigger="click" data-category="click-cta" data-event="click-cta-install"><span>Installer l&rsquo;extension (gratuit)</span></a></li>
+<li  id="site-header-item-11831" class="has-icon has-icon--before has-icon--edge site-header__nav-item site-header__nav-item--type-custom site-header__nav-item--object-custom site-header__nav-item--11831 site-header__nav-item--depth-1 site-header__nav-item site-header__nav-item--main js-site-header__nav-item"><a  class="btn btn--primary visible-by-browser js-visible-by-browser visible-by-browser--edge" data-obflink-url="aHR0cHM6Ly9hc3NldHMubWVyY2ktYXBwLmNvbS93ZWJleHRlbnNpb24tcmV2aWV3cmVkaXJlY3QuaHRtbA==" data-browser="edge" data-label="click-cta-connect-menu" data-evt-trigger="click" data-category="click-cta" data-event="click-cta-install"><span>Installer l&rsquo;extension (gratuit)</span></a></li>
+<li  id="site-header-item-29229" class="site-header__nav-item site-header__nav-item--type-custom site-header__nav-item--object-custom site-header__nav-item--29229 site-header__nav-item--depth-1 site-header__nav-item site-header__nav-item--main js-site-header__nav-item"><a  class="btn btn--primary visible-by-browser js-visible-by-browser visible-by-browser--safari" data-obflink-url="aHR0cHM6Ly9hc3NldHMubWVyY2ktYXBwLmNvbS93ZWJleHRlbnNpb24tcmV2aWV3cmVkaXJlY3QuaHRtbA==" data-browser="safari" data-label="click-cta-connect-menu" data-evt-trigger="click" data-category="click-cta" data-event="click-cta-install"><span>Essayer gratuitement</span></a></li>
+</ul>					</div>
+				</nav>
+
+			</div>
+
+		</div>
+
+	</header>
+
+	<main class="site-main" id="site-content">
+	
+		<article class="article padding-top-lg padding-bottom-xl container max-width-md">
+
+			<header class="article__header margin-bottom-xl grid gap-md items-start">
+				<nav class="breadcrumbs article__breadcrumbs"  aria-label="Fil d&#039;Ariane"><ol class="breadcrumbs__list" itemscope itemtype="https://schema.org/BreadcrumbList"><li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemscope itemtype="http://schema.org/WebPage" itemprop="item" itemid="https://www.merci-app.com#bread" href="https://www.merci-app.com#bread"><span itemprop="name">MerciApp <span class="sr-only">correcteur orthographe</span></span></a><span class="breadcrumbs__item-separator" aria-hidden="true"> / </span><meta itemprop="position" content="1"></li><li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemscope itemtype="http://schema.org/WebPage" itemprop="item" itemid="https://www.merci-app.com/blog-categories/redaction" href="https://www.merci-app.com/blog-categories/redaction"><span itemprop="name">Rédaction</span></a><span class="breadcrumbs__item-separator" aria-hidden="true"> / </span><meta itemprop="position" content="2"></li><li class="breadcrumbs__item breadcrumbs__item--current" aria-current="page" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><span itemprop="name">Comment faire une ouverture dans une conclusion ?</span><meta itemprop="position" content="3"></li></ol></nav class="breadcrumbs article__breadcrumbs">
+				<h1 class="article__title text-6xl">Comment faire une ouverture dans une conclusion ?</h1>
+				<div class="flex gap-sm text-sm">
+					<ul class="flex flex-wrap gap-sm"><li><span class="article__term chip chip--outline"><span><i class="chip__label">Rédaction</i></span></span></li></ul>					<span class="article__reading-time chip chip--outline">8 minutes</span>				</div>
+
+				<figure class="article__img"><img width="1280" height="630" src="https://www.merci-app.com/app/uploads/2023/07/643960a954b07f557c63b97a_63f5e18c616f963a89d18314_comment-faire-ouverture-dans-conclusion-blog-cover.jpeg" class="article__img radius-lg overflow-hidden wp-post-image" alt="" loading="eager" data-skip-lazy="true" /></figure>
+				<div class="article__meta text-sm grid gap-md">
+					<div class="col-2@md">
+						<p class="font-secondary font-italic font-bold color-contrast-500" aria-hidden="true">Écrit par</p>
+						<p><span class="sr-only">Publié par</span> <span class="vcard">Arthur Comets</span></p>					</div>
+					<div class="col-2@md">
+						<p class="font-secondary font-italic font-bold color-contrast-500" aria-hidden="true">Posté le</p>
+						<p><span class="sr-only">Publié le</span> 7 août 2024</p>					</div>
+				</div>
+			</header>
+
+						
+			<div class="article__content grid gap-xl">
+				<div class="article__body wp-block-post-content is-layout-constrained col">
+					<p>La rédaction d’une <strong>ouverture dans une conclusion</strong> n’est pas sans danger. Beaucoup d’enseignants la suggèrent à leurs étudiants, souvent à raison. La phrase finale d’un devoir valorise en effet le développement. Elle renvoie vers d’autres perspectives de réflexion et atteste du travail fourni.</p>
+
+
+<div class="bsaweb-note bsaweb-note--info wp-block-bsaweb-blocks-note"><div class="bsaweb-note__icon-wrapper"><svg class="bsaweb-icon bsaweb-note__icon" width="24" height="24" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M4.92893 4.92893C6.8043 3.05357 9.34784 2 12 2C14.6522 2 17.1957 3.05357 19.0711 4.92893C20.9464 6.8043 22 9.34784 22 12C22 13.3132 21.7413 14.6136 21.2388 15.8268C20.7362 17.0401 19.9997 18.1425 19.0711 19.0711C18.1425 19.9997 17.0401 20.7362 15.8268 21.2388C14.6136 21.7413 13.3132 22 12 22C10.6868 22 9.38642 21.7413 8.17317 21.2388C6.95991 20.7362 5.85752 19.9997 4.92893 19.0711C4.00035 18.1425 3.26375 17.0401 2.7612 15.8268C2.25866 14.6136 2 13.3132 2 12C2 9.34784 3.05357 6.8043 4.92893 4.92893ZM12 4C9.87827 4 7.84344 4.84285 6.34315 6.34315C4.84285 7.84344 4 9.87827 4 12C4 13.0506 4.20693 14.0909 4.60896 15.0615C5.011 16.0321 5.60028 16.914 6.34315 17.6569C7.08601 18.3997 7.96793 18.989 8.93853 19.391C9.90914 19.7931 10.9494 20 12 20C13.0506 20 14.0909 19.7931 15.0615 19.391C16.0321 18.989 16.914 18.3997 17.6569 17.6569C18.3997 16.914 18.989 16.0321 19.391 15.0615C19.7931 14.0909 20 13.0506 20 12C20 9.87827 19.1571 7.84344 17.6569 6.34315C16.1566 4.84285 14.1217 4 12 4ZM11 9C11 8.44772 11.4477 8 12 8H12.01C12.5623 8 13.01 8.44772 13.01 9C13.01 9.55228 12.5623 10 12.01 10H12C11.4477 10 11 9.55228 11 9ZM10 12C10 11.4477 10.4477 11 11 11H12C12.5523 11 13 11.4477 13 12V15C13.5523 15 14 15.4477 14 16C14 16.5523 13.5523 17 13 17H12C11.4477 17 11 16.5523 11 16V13C10.4477 13 10 12.5523 10 12Z"></path></svg></div><div class="bsaweb-note__content is-layout-flow">
+
+<p>Il en va de même dans le milieu professionnel. Une <strong>ouverture conclusive</strong> au cours d’une réunion de travail ou d’une présentation peut marquer les esprits. Vous devez cependant bien la maîtriser et l’adapter à l’objet de la prise de parole.</p>
+
+</div></div>
+
+
+<p>Voici quelques exemples pour <strong>trouver la bonne ouverture dans une conclusion</strong>. Nos recommandations d’usage vous éviteront de déconcerter vos lecteurs ou auditeurs.</p>
+
+
+<div class="bsaweb-toc js-bsaweb-toc bsaweb-toc--static@md wp-block-bsaweb-blocks-table-of-contents">
+			<button class="bsaweb-toc__control js-bsaweb-tab-focus js-bsaweb-toc__control" aria-controls="bsaweb-toc-1">
+				<span class="bsaweb-toc__control-text">
+					<i class="js-bsaweb-toc__control-label">Plan de l'article <span class="sr-only">– appuyez sur le bouton pour sélectionner une nouvelle section.</span></i>
+				</span>
+			
+				<svg class="bsaweb-toc__icon-arrow bsaweb-icon" viewbox="0 0 16 16" aria-hidden="true">
+					<g class="bsaweb-icon__group" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+					<path d="M3 3l10 10"></path>
+					<path d="M13 3L3 13"></path>
+					</g>
+				</svg>
+			</button>
+		<div class="bsaweb-toc__header"><p class="bsaweb-toc__title">Plan de l'article</p></div><nav class="bsaweb-toc__nav"><ul class="bsaweb-toc__list js-bsaweb-toc__list bsaweb-toc__list--heading-level-2">
+<li class="bsaweb-toc__item">
+<a class="bsaweb-toc__link" href="#les-meilleurs-exemples-pour-une-ouverture-dans-une-conclusion">Les meilleurs exemples pour une ouverture dans une conclusion</a>
+		<ul class="bsaweb-toc__list js-bsaweb-toc__list bsaweb-toc__list--heading-level-3"><li class="bsaweb-toc__item">
+<a class="bsaweb-toc__link" href="#la-projection-dans-le-futur-comme-idee-douverture-conclusive">La projection dans le futur comme idée d’ouverture conclusive</a></li><li class="bsaweb-toc__item">
+<a class="bsaweb-toc__link" href="#proverbe-et-citation-des-elements-apprecies-pour-louverture-dune-conclusion">Proverbe et citation : des éléments appréciés pour l’ouverture d’une conclusion</a></li><li class="bsaweb-toc__item">
+<a class="bsaweb-toc__link" href="#faire-coincider-les-derniers-mots-dun-bilan-de-presentation-avec-lactualite">Faire coïncider les derniers mots d’un bilan de présentation avec l’actualité</a></li></ul>
+</li><li class="bsaweb-toc__item">
+<a class="bsaweb-toc__link" href="#estce-toujours-une-bonne-idee-de-conclure-un-texte-par-une-ouverture">Est-ce toujours une bonne idée de conclure un texte par une ouverture ?</a>
+		<ul class="bsaweb-toc__list js-bsaweb-toc__list bsaweb-toc__list--heading-level-3"><li class="bsaweb-toc__item">
+<a class="bsaweb-toc__link" href="#les-arguments-en-faveur-de-louverture-dans-la-conclusion">Les arguments en faveur de l’ouverture dans la conclusion</a></li><li class="bsaweb-toc__item">
+<a class="bsaweb-toc__link" href="#conclure-par-une-ouverture-un-probleme-de-methode-pouvant-nuire-au-developpement">Conclure par une ouverture : un problème de méthode pouvant nuire au développement</a></li></ul>
+</li></ul></nav></div>
+
+<h2 class="wp-block-heading bsaweb-toc-content__target" id="les-meilleurs-exemples-pour-une-ouverture-dans-une-conclusion">Les meilleurs exemples pour une ouverture dans une conclusion</h2>
+
+
+<p>Dans le plan d’une dissertation, d’un mémoire ou d’une intervention professionnelle, la <a href="https://www.merci-app.com/article/rediger-conclusion"><strong>conclusion</strong></a><strong> est un élément essentiel</strong>. Idéalement, elle répond aux problématiques évoquées au sein de l’introduction. Ce bilan peut se terminer par une ouverture, offrant de nouveaux horizons d’idées.</p>
+
+
+
+<p>Il existe plus d’une manière de <strong>formuler une ouverture</strong> dans une conclusion. Voici des exemples probants, ayant fait leurs preuves auprès de nombreux correcteurs et auditoires.</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="ouverture conclusion" data-lazy-src="https://www.merci-app.com/app/uploads/2023/07/2_63f494e3dbe2a6fac784360d_ouverture20dans20conclusion.jpg"><noscript><img decoding="async" src="https://www.merci-app.com/app/uploads/2023/07/2_63f494e3dbe2a6fac784360d_ouverture20dans20conclusion.jpg" alt="ouverture conclusion"></noscript></figure>
+
+
+<h3 class="wp-block-heading bsaweb-toc-content__target" id="la-projection-dans-le-futur-comme-idee-douverture-conclusive">La projection dans le futur comme idée d’ouverture conclusive</h3>
+
+
+<p>Un exposé professionnel ou étudiant se conclut après une longue argumentation. Le bilan de ce travail doit reprendre les idées avancées au cours de la dissertation ou du commentaire. Mieux : il crée une <strong>brèche vers un futur proche</strong>.</p>
+
+
+
+<p>-&gt; Pour garantir que votre conclusion soit impeccable et sans fautes, essayez le <a href="https://www.merci-app.com/">correcteur orthographique</a> MerciApp dès maintenant !</p>
+
+
+
+
+
+
+
+<div class="wp-block-group shadow-lg radius-lg cta-meilleur-expression has-global-padding is-content-justification-left is-layout-constrained wp-container-core-group-is-layout-32 wp-block-group-is-layout-constrained block-visibility-hide-large-screen block-visibility-hide-medium-screen" style="margin-top:var(--wp--preset--spacing--2-xl);margin-bottom:var(--wp--preset--spacing--2-xl);padding-top:var(--wp--preset--spacing--sm);padding-bottom:var(--wp--preset--spacing--sm)">
+<p class="title-cta-vwo has-primary-500-color has-text-color has-secondary-font-family has-huge-font-size" style="font-style:normal;font-weight:700">Le meilleur de votre expression écrite.</p>
+
+
+
+<p class="has-contrast-500-color has-text-color" style="margin-top:var(--wp--preset--spacing--xs)">MerciApp analyse et corrige en temps réel tout ce que vous écrivez pour vous garantir de faire bonne impression à l’écrit.</p>
+
+
+
+<div class="wp-block-buttons cta-main-vwo is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button button-cta-vwo"><a data-category="click-cta" data-event="click-cta-main-inpost" data-evt-trigger="click" data-label="click-cta-discover-article-module" data-obflink-url="aHR0cHM6Ly93ZWIubWVyY2ktYXBwLmNvbS9yZWdpc3RyYXRpb24tYWw=" class="wp-block-button__link wp-element-button btn btn--primary" href="https://web.merci-app.com/registration-al">Utiliser MerciApp gratuitement</a></div>
+</div>
+
+
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-31 wp-block-group-is-layout-constrained">
+<p class="has-contrast-500-color has-text-color has-small-font-size">Fonctionne avec tous vos outils préférés</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="67" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%2067'%3E%3C/svg%3E" alt="" class="wp-image-15781" data-lazy-srcset="https://www.merci-app.com/app/uploads/2023/07/61e84b86e1680afc0683dd9c_favorite-apps-1024x67.png 1024w, https://www.merci-app.com/app/uploads/2023/07/61e84b86e1680afc0683dd9c_favorite-apps-300x20.png 300w, https://www.merci-app.com/app/uploads/2023/07/61e84b86e1680afc0683dd9c_favorite-apps-768x51.png 768w, https://www.merci-app.com/app/uploads/2023/07/61e84b86e1680afc0683dd9c_favorite-apps.png 1154w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://www.merci-app.com/app/uploads/2023/07/61e84b86e1680afc0683dd9c_favorite-apps-1024x67.png" /><noscript><img decoding="async" width="1024" height="67" src="https://www.merci-app.com/app/uploads/2023/07/61e84b86e1680afc0683dd9c_favorite-apps-1024x67.png" alt="" class="wp-image-15781" srcset="https://www.merci-app.com/app/uploads/2023/07/61e84b86e1680afc0683dd9c_favorite-apps-1024x67.png 1024w, https://www.merci-app.com/app/uploads/2023/07/61e84b86e1680afc0683dd9c_favorite-apps-300x20.png 300w, https://www.merci-app.com/app/uploads/2023/07/61e84b86e1680afc0683dd9c_favorite-apps-768x51.png 768w, https://www.merci-app.com/app/uploads/2023/07/61e84b86e1680afc0683dd9c_favorite-apps.png 1154w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript></figure>
+</div>
+</div>
+
+
+
+<div data-btn-labels="Lire plus,Lire moins" class="wp-block-group shadow-lg radius-lg cta-meilleur-expression has-global-padding is-content-justification-left is-layout-constrained wp-container-core-group-is-layout-34 wp-block-group-is-layout-constrained block-visibility-hide-small-screen" style="margin-top:var(--wp--preset--spacing--2-xl);margin-bottom:var(--wp--preset--spacing--2-xl);padding-top:var(--wp--preset--spacing--sm);padding-bottom:var(--wp--preset--spacing--sm)">
+<p class="title-cta-vwo has-primary-500-color has-text-color has-secondary-font-family has-huge-font-size" style="font-style:normal;font-weight:700">Le meilleur de votre expression écrite.</p>
+
+
+
+<p class="has-contrast-500-color has-text-color" style="margin-top:var(--wp--preset--spacing--xs)">MerciApp analyse et corrige en temps réel tout ce que vous écrivez pour vous garantir de faire bonne impression à l’écrit.</p>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button cta-main-vwo button-cta-vwo"><a data-category="click-cta" data-event="click-cta-main-inpost" data-evt-trigger="click" data-label="click-cta-discover-article-module" data-obflink-url="aHR0cHM6Ly93ZWIubWVyY2ktYXBwLmNvbS9yZWdpc3RyYXRpb24tYWw=" class="wp-block-button__link wp-element-button btn btn--primary" href="https://web.merci-app.com/registration-al">Utiliser MerciApp gratuitement</a></div>
+</div>
+
+
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-33 wp-block-group-is-layout-constrained">
+<p class="has-contrast-500-color has-text-color has-small-font-size">Fonctionne avec tous vos outils préférés</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="67" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%2067'%3E%3C/svg%3E" alt="" class="wp-image-15781" data-lazy-srcset="https://www.merci-app.com/app/uploads/2023/07/61e84b86e1680afc0683dd9c_favorite-apps-1024x67.png 1024w, https://www.merci-app.com/app/uploads/2023/07/61e84b86e1680afc0683dd9c_favorite-apps-300x20.png 300w, https://www.merci-app.com/app/uploads/2023/07/61e84b86e1680afc0683dd9c_favorite-apps-768x51.png 768w, https://www.merci-app.com/app/uploads/2023/07/61e84b86e1680afc0683dd9c_favorite-apps.png 1154w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://www.merci-app.com/app/uploads/2023/07/61e84b86e1680afc0683dd9c_favorite-apps-1024x67.png" /><noscript><img decoding="async" width="1024" height="67" src="https://www.merci-app.com/app/uploads/2023/07/61e84b86e1680afc0683dd9c_favorite-apps-1024x67.png" alt="" class="wp-image-15781" srcset="https://www.merci-app.com/app/uploads/2023/07/61e84b86e1680afc0683dd9c_favorite-apps-1024x67.png 1024w, https://www.merci-app.com/app/uploads/2023/07/61e84b86e1680afc0683dd9c_favorite-apps-300x20.png 300w, https://www.merci-app.com/app/uploads/2023/07/61e84b86e1680afc0683dd9c_favorite-apps-768x51.png 768w, https://www.merci-app.com/app/uploads/2023/07/61e84b86e1680afc0683dd9c_favorite-apps.png 1154w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript></figure>
+</div>
+</div>
+
+
+<h4 class="wp-block-heading bsaweb-toc-content__target" id="ecrire-une-reflexion-logique-par-rapport-a-largumentation">Écrire une réflexion logique par rapport à l’argumentation</h4>
+
+<div class="bsaweb-note bsaweb-note--info wp-block-bsaweb-blocks-note"><div class="bsaweb-note__icon-wrapper"><svg class="bsaweb-icon bsaweb-note__icon" width="24" height="24" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M4.92893 4.92893C6.8043 3.05357 9.34784 2 12 2C14.6522 2 17.1957 3.05357 19.0711 4.92893C20.9464 6.8043 22 9.34784 22 12C22 13.3132 21.7413 14.6136 21.2388 15.8268C20.7362 17.0401 19.9997 18.1425 19.0711 19.0711C18.1425 19.9997 17.0401 20.7362 15.8268 21.2388C14.6136 21.7413 13.3132 22 12 22C10.6868 22 9.38642 21.7413 8.17317 21.2388C6.95991 20.7362 5.85752 19.9997 4.92893 19.0711C4.00035 18.1425 3.26375 17.0401 2.7612 15.8268C2.25866 14.6136 2 13.3132 2 12C2 9.34784 3.05357 6.8043 4.92893 4.92893ZM12 4C9.87827 4 7.84344 4.84285 6.34315 6.34315C4.84285 7.84344 4 9.87827 4 12C4 13.0506 4.20693 14.0909 4.60896 15.0615C5.011 16.0321 5.60028 16.914 6.34315 17.6569C7.08601 18.3997 7.96793 18.989 8.93853 19.391C9.90914 19.7931 10.9494 20 12 20C13.0506 20 14.0909 19.7931 15.0615 19.391C16.0321 18.989 16.914 18.3997 17.6569 17.6569C18.3997 16.914 18.989 16.0321 19.391 15.0615C19.7931 14.0909 20 13.0506 20 12C20 9.87827 19.1571 7.84344 17.6569 6.34315C16.1566 4.84285 14.1217 4 12 4ZM11 9C11 8.44772 11.4477 8 12 8H12.01C12.5623 8 13.01 8.44772 13.01 9C13.01 9.55228 12.5623 10 12.01 10H12C11.4477 10 11 9.55228 11 9ZM10 12C10 11.4477 10.4477 11 11 11H12C12.5523 11 13 11.4477 13 12V15C13.5523 15 14 15.4477 14 16C14 16.5523 13.5523 17 13 17H12C11.4477 17 11 16.5523 11 16V13C10.4477 13 10 12.5523 10 12Z"></path></svg></div><div class="bsaweb-note__content is-layout-flow">
+
+<p>Cette partie de la conclusion peut se situer sur trois plans : optimise, pessimiste, ou hypothétique. Le choix de la formulation de phrase donne du crédit au postulat avancé auparavant par l’étudiant ou le professionnel. Écrire une ouverture dans une conclusion permet ainsi d’<strong>étayer son argumentation</strong>.</p>
+
+</div></div>
+
+
+<p>En ce qui concerne la recherche littéraire, elle peut <strong>évoquer les travaux futurs d’un auteur</strong>. En soulignant des thématiques persistantes, cette pirouette permet de sceller une dimension d’œuvre complète et unie.</p>
+
+
+<h4 class="wp-block-heading bsaweb-toc-content__target" id="exemples-dordre-litteraire-ou-professionnel">Exemples d’ordre littéraire ou professionnel</h4>
+
+
+<p><strong>Mentionner les adaptations</strong>, au cinéma ou au théâtre, de livres est une pratique courante des étudiants. Voici un exemple de cette formulation d’ouverture en conclusion.</p>
+
+
+
+<div class="wp-block-group is-style-merciapp-wink-box-dashed is-layout-flow wp-block-group-is-layout-flow">
+<p><em>L’œuvre de Shakespeare, en dépit de son âge, possède des thématiques intemporelles. La transposition moderne de </em>Roméo et Juliette<em>, signée Baz Luhrmann en 1996, le prouve.</em></p>
+</div>
+
+
+
+<p>Pour une présentation professionnelle, la <strong>projection dans le futur</strong> peut s’accompagner de comparaisons avec d’autres secteurs.</p>
+
+
+
+<div class="wp-block-group is-style-merciapp-wink-box-dashed is-layout-flow wp-block-group-is-layout-flow">
+<p><em>Aujourd’hui, la démocratisation de la réalité virtuelle est encore mineure dans les foyers. Avec des entreprises investissant dans ce secteur, comme Meta, il y a fort à parier qu’il s’agit d’un marché prometteur. Après tout, ne prédisait-on pas également la faillite à Netflix avec son service d’abonnement de vidéo à la demande ?</em></p>
+</div>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E" alt="Comment faire une ouverture dans une conclusion ?
+" class="wp-image-71671" data-lazy-srcset="https://www.merci-app.com/app/uploads/2024/08/Comment-faire-une-ouverture-dans-une-conclusion-_-1024x683.jpg 1024w, https://www.merci-app.com/app/uploads/2024/08/Comment-faire-une-ouverture-dans-une-conclusion-_-300x200.jpg 300w, https://www.merci-app.com/app/uploads/2024/08/Comment-faire-une-ouverture-dans-une-conclusion-_-768x512.jpg 768w, https://www.merci-app.com/app/uploads/2024/08/Comment-faire-une-ouverture-dans-une-conclusion-_.jpg 1200w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://www.merci-app.com/app/uploads/2024/08/Comment-faire-une-ouverture-dans-une-conclusion-_-1024x683.jpg" /><noscript><img decoding="async" width="1024" height="683" src="https://www.merci-app.com/app/uploads/2024/08/Comment-faire-une-ouverture-dans-une-conclusion-_-1024x683.jpg" alt="Comment faire une ouverture dans une conclusion ?
+" class="wp-image-71671" srcset="https://www.merci-app.com/app/uploads/2024/08/Comment-faire-une-ouverture-dans-une-conclusion-_-1024x683.jpg 1024w, https://www.merci-app.com/app/uploads/2024/08/Comment-faire-une-ouverture-dans-une-conclusion-_-300x200.jpg 300w, https://www.merci-app.com/app/uploads/2024/08/Comment-faire-une-ouverture-dans-une-conclusion-_-768x512.jpg 768w, https://www.merci-app.com/app/uploads/2024/08/Comment-faire-une-ouverture-dans-une-conclusion-_.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript></figure>
+
+
+
+<p>-&gt; Découvrez <a href="https://www.merci-app.com/article/8-conseils-de-pro-pour-rediger-une-dissertation-sans-faute-exceptionnelle">comment rédiger une dissertation</a> de qualité.</p>
+
+
+<h3 class="wp-block-heading bsaweb-toc-content__target" id="proverbe-et-citation-des-elements-apprecies-pour-louverture-dune-conclusion">Proverbe et citation : des éléments appréciés pour l’ouverture d’une conclusion</h3>
+
+
+<p>Les étudiants confrontés à la perspective d’une ouverture conclusive ont souvent recours à la citation. Proverbe, littérature, philosophie, <strong>parole de personnalité</strong> : chaque rédacteur peut choisir sa source.</p>
+
+
+<h4 class="wp-block-heading bsaweb-toc-content__target" id="la-recherche-dune-citation-pour-prolonger-la-reflexion-du-plan">La recherche d’une citation pour prolonger la réflexion du plan</h4>
+
+<div class="bsaweb-note bsaweb-note--info wp-block-bsaweb-blocks-note"><div class="bsaweb-note__icon-wrapper"><svg class="bsaweb-icon bsaweb-note__icon" width="24" height="24" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M4.92893 4.92893C6.8043 3.05357 9.34784 2 12 2C14.6522 2 17.1957 3.05357 19.0711 4.92893C20.9464 6.8043 22 9.34784 22 12C22 13.3132 21.7413 14.6136 21.2388 15.8268C20.7362 17.0401 19.9997 18.1425 19.0711 19.0711C18.1425 19.9997 17.0401 20.7362 15.8268 21.2388C14.6136 21.7413 13.3132 22 12 22C10.6868 22 9.38642 21.7413 8.17317 21.2388C6.95991 20.7362 5.85752 19.9997 4.92893 19.0711C4.00035 18.1425 3.26375 17.0401 2.7612 15.8268C2.25866 14.6136 2 13.3132 2 12C2 9.34784 3.05357 6.8043 4.92893 4.92893ZM12 4C9.87827 4 7.84344 4.84285 6.34315 6.34315C4.84285 7.84344 4 9.87827 4 12C4 13.0506 4.20693 14.0909 4.60896 15.0615C5.011 16.0321 5.60028 16.914 6.34315 17.6569C7.08601 18.3997 7.96793 18.989 8.93853 19.391C9.90914 19.7931 10.9494 20 12 20C13.0506 20 14.0909 19.7931 15.0615 19.391C16.0321 18.989 16.914 18.3997 17.6569 17.6569C18.3997 16.914 18.989 16.0321 19.391 15.0615C19.7931 14.0909 20 13.0506 20 12C20 9.87827 19.1571 7.84344 17.6569 6.34315C16.1566 4.84285 14.1217 4 12 4ZM11 9C11 8.44772 11.4477 8 12 8H12.01C12.5623 8 13.01 8.44772 13.01 9C13.01 9.55228 12.5623 10 12.01 10H12C11.4477 10 11 9.55228 11 9ZM10 12C10 11.4477 10.4477 11 11 11H12C12.5523 11 13 11.4477 13 12V15C13.5523 15 14 15.4477 14 16C14 16.5523 13.5523 17 13 17H12C11.4477 17 11 16.5523 11 16V13C10.4477 13 10 12.5523 10 12Z"></path></svg></div><div class="bsaweb-note__content is-layout-flow">
+
+<p>Cette méthode est loin d’être mauvaise, mais s’aborde avec précaution. La citation doit mentionner une source vérifiée et authentique. Prêter des propos de Platon à Socrate peut <strong>générer un effet néfaste</strong> auprès du lecteur.</p>
+
+</div></div>
+
+
+<p>Par ailleurs, ce type de conclusion doit <strong>respecter le développement du texte</strong> et son argumentation. Citer votre chanteur ou humoriste préféré peut vous plaire. Toutefois, le propos choisi doit idéalement montrer une piste de réflexion supplémentaire.</p>
+
+
+<h4 class="wp-block-heading bsaweb-toc-content__target" id="quelques-idees-de-sources-a-utiliser">Quelques idées de sources à utiliser</h4>
+
+
+<p>Il s’agit de choisir une source fiable et politiquement correcte. Un des conseils passe-partout pour ce cas de figure consiste à <strong>citer Pierre Desproges</strong>. Le défunt humoriste français possède un nombre grandiloquent de citations intelligentes et adaptées à une conclusion.</p>
+
+
+
+<p>Citer cette source a le mérite de <strong>divertir votre auditoire</strong>. Voici un exemple de ce type d’ouverture pour une conclusion d’analyse d’ouvrages antimilitaristes.</p>
+
+
+
+<div class="wp-block-group is-style-merciapp-wink-box-dashed is-layout-flow wp-block-group-is-layout-flow">
+<p><em>Il ne faut pas désespérer des imbéciles. Avec un peu d’entraînement, on peut en faire des militaires.</em></p>
+</div>
+
+
+
+<p>Dans le cadre d’une réunion professionnelle,  <a href="https://www.merci-app.com/tag/entrepreneuriat"> certains </a> <strong>propos d’</strong><strong>entrepreneurs</strong> peuvent faire office d’ouverture en conclusion. Ainsi, ces paroles de Steve Jobs restent appropriées à l’exercice :</p>
+
+
+
+<div class="wp-block-group is-style-merciapp-wink-box-dashed is-layout-flow wp-block-group-is-layout-flow">
+<p>‍<em>Les grandes choses dans le business ne sont jamais réalisées par une seule personne. Elles sont accomplies par une équipe.</em></p>
+</div>
+
+
+
+<div class="wp-block-cover padding-0 margin-0" style="border-radius:8px;margin-top:var(--wp--preset--spacing--xl);padding-top:0px;padding-right:0;padding-bottom:0px;padding-left:0;min-height:50px;aspect-ratio:unset;"><span aria-hidden="true" class="wp-block-cover__background has-base-background-color has-background-dim-0 has-background-dim"></span><img decoding="async" width="680" height="346" class="wp-block-cover__image-background wp-image-38114" alt="" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20680%20346'%3E%3C/svg%3E" style="object-position:51% 47%" data-object-fit="cover" data-object-position="51% 47%" data-lazy-srcset="https://www.merci-app.com/app/uploads/2024/01/BG-Container-1.png 680w, https://www.merci-app.com/app/uploads/2024/01/BG-Container-1-300x153.png 300w" data-lazy-sizes="(max-width: 680px) 100vw, 680px" data-lazy-src="https://www.merci-app.com/app/uploads/2024/01/BG-Container-1.png" /><noscript><img decoding="async" width="680" height="346" class="wp-block-cover__image-background wp-image-38114" alt="" src="https://www.merci-app.com/app/uploads/2024/01/BG-Container-1.png" style="object-position:51% 47%" data-object-fit="cover" data-object-position="51% 47%" srcset="https://www.merci-app.com/app/uploads/2024/01/BG-Container-1.png 680w, https://www.merci-app.com/app/uploads/2024/01/BG-Container-1-300x153.png 300w" sizes="(max-width: 680px) 100vw, 680px" /></noscript><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
+<div class="wp-block-group alignwide shadow-lg radius-lg is-style-default has-global-padding is-content-justification-center is-layout-constrained wp-container-core-group-is-layout-43 wp-block-group-is-layout-constrained" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--lg);padding-right:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--lg);padding-left:var(--wp--preset--spacing--md)">
+<div data-btn-labels="Lire plus,Lire moins" class="wp-block-group alignwide is-horizontal is-content-justification-center is-nowrap is-layout-flex wp-container-core-group-is-layout-42 wp-block-group-is-layout-flex " style="padding-right:var(--wp--preset--spacing--sm);padding-left:var(--wp--preset--spacing--sm)">
+<div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-40 wp-block-group-is-layout-constrained">
+<p class="has-base-color has-text-color has-secondary-font-family has-huge-font-size" style="font-style:normal;font-weight:700">Êtes-vous sûr(e) de toutes les connaître?</p>
+
+
+
+<p class="has-contrast-100-color has-text-color has-medium-font-size" style="margin-top:var(--wp--preset--spacing--xs)">Téléchargez votre guide gratuit exclusif et révolutionnez votre écriture dès maintenant en évitant les 14 fautes qui minent votre crédibilité !</p>
+
+
+
+<div class="wp-block-group wp-container-content-1 is-content-justification-center is-nowrap is-layout-flex wp-container-core-group-is-layout-39 wp-block-group-is-layout-flex block-visibility-hide-large-screen" style="min-height:0px;margin-top:var(--wp--preset--spacing--md);margin-bottom:0;padding-top:0;padding-right:var(--wp--preset--spacing--md);padding-bottom:0;padding-left:var(--wp--preset--spacing--md)">
+<figure class="wp-block-image alignwide size-full has-custom-border is-style-default"><img decoding="async" width="580" height="701" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20580%20701'%3E%3C/svg%3E" alt="Book Mockup (1)" class="wp-image-40279" style="border-style:none;border-width:0px;border-radius:0px;object-fit:cover" data-lazy-srcset="https://www.merci-app.com/app/uploads/2024/02/Book-Mockup-1.png 580w, https://www.merci-app.com/app/uploads/2024/02/Book-Mockup-1-248x300.png 248w" data-lazy-sizes="(max-width: 580px) 100vw, 580px" data-lazy-src="https://www.merci-app.com/app/uploads/2024/02/Book-Mockup-1.png" /><noscript><img decoding="async" width="580" height="701" src="https://www.merci-app.com/app/uploads/2024/02/Book-Mockup-1.png" alt="Book Mockup (1)" class="wp-image-40279" style="border-style:none;border-width:0px;border-radius:0px;object-fit:cover" srcset="https://www.merci-app.com/app/uploads/2024/02/Book-Mockup-1.png 580w, https://www.merci-app.com/app/uploads/2024/02/Book-Mockup-1-248x300.png 248w" sizes="(max-width: 580px) 100vw, 580px" /></noscript></figure>
+</div>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex justify-start@lg justify-center items-center items-center@lg">
+<div class="wp-block-button"><a data-category="click-cta-leadmagnet" data-event="click-cta-leadmagnet-productivity" data-evt-trigger="click" data-label="click-cta-leadmagnet-productivity-intext" class="wp-block-button__link has-warning-500-background-color has-background wp-element-button btn btn--primary" href="https://media.merci-app.com/livre-blanc-fautes-d-orthographe?utm_source=merciapp&amp;utm_medium=blog&amp;utm_campaign=livre-blanc-14-fautes-dorthographe" style="border-radius:100px">Obtenez votre guide (gratuit)</a></div>
+</div>
+</div>
+
+
+
+<div class="wp-block-group wp-container-content-2 is-layout-flow wp-container-core-group-is-layout-41 wp-block-group-is-layout-flow block-visibility-hide-medium-screen block-visibility-hide-small-screen" style="min-height:0px;margin-top:0;margin-bottom:0;padding-top:0;padding-right:0px;padding-bottom:0;padding-left:0px">
+<figure class="wp-block-image alignwide size-full has-custom-border is-style-default"><img decoding="async" width="580" height="701" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20580%20701'%3E%3C/svg%3E" alt="Book Mockup (1)" class="wp-image-40279" style="border-style:none;border-width:0px;border-radius:0px;object-fit:contain" data-lazy-srcset="https://www.merci-app.com/app/uploads/2024/02/Book-Mockup-1.png 580w, https://www.merci-app.com/app/uploads/2024/02/Book-Mockup-1-248x300.png 248w" data-lazy-sizes="(max-width: 580px) 100vw, 580px" data-lazy-src="https://www.merci-app.com/app/uploads/2024/02/Book-Mockup-1.png" /><noscript><img decoding="async" width="580" height="701" src="https://www.merci-app.com/app/uploads/2024/02/Book-Mockup-1.png" alt="Book Mockup (1)" class="wp-image-40279" style="border-style:none;border-width:0px;border-radius:0px;object-fit:contain" srcset="https://www.merci-app.com/app/uploads/2024/02/Book-Mockup-1.png 580w, https://www.merci-app.com/app/uploads/2024/02/Book-Mockup-1-248x300.png 248w" sizes="(max-width: 580px) 100vw, 580px" /></noscript></figure>
+</div>
+</div>
+</div>
+</div></div>
+
+
+<h3 class="wp-block-heading bsaweb-toc-content__target" id="faire-coincider-les-derniers-mots-dun-bilan-de-presentation-avec-lactualite">Faire coïncider les derniers mots d’un bilan de présentation avec l’actualité</h3>
+
+
+<p>Il existe une troisième manière d’apporter une réponse à votre problématique en conclusion : l’<strong>analyse de faits d’actualité</strong>.</p>
+
+
+<h4 class="wp-block-heading bsaweb-toc-content__target" id="comment-se-servir-de-lactualite-pour-faire-une-bonne-ouverture">Comment se servir de l’actualité pour faire une bonne ouverture ?</h4>
+
+
+<p>Bien maniée, cette pirouette conclusive permet d’<strong>apporter une résonance au plan de la dissertation</strong> ou du commentaire. Elle s’inscrit dans un ordre contemporain. Toutefois, cette méthode ne peut s’appliquer à tous les exercices.</p>
+
+
+
+<p>Le commentaire de texte, de fait social ou d’histoire, ainsi que la dissertation s’y prêtent parfaitement. Une thèse ou un mémoire sont des travaux universitaires devant davantage survivre aux affres du temps.</p>
+
+
+
+<p><strong>Ancrer l’ouverture dans une actualité</strong> trop précise peut mettre en péril l’ensemble de l’exercice. Prêtez attention à sa rédaction, sous peine de rendre vos arguments obsolètes.</p>
+
+
+
+<p>-&gt; Maîtrisez-les règles d’une <a href="https://www.merci-app.com/article/comment-rediger-lintroduction-dun-commentaire-de-texte" data-type="URL" data-id="https://www.merci-app.com/article/comment-rediger-lintroduction-dun-commentaire-de-texte">introduction de commentaire de texte</a> à succès !</p>
+
+
+<h4 class="wp-block-heading bsaweb-toc-content__target" id="idee-dapplication-de-cette-methode-en-milieu-professionnel">Idée d’application de cette méthode en milieu professionnel</h4>
+
+
+<p>Dans le domaine professionnel, une évocation de faits d’actualité permet de <strong>mieux définir les enjeux</strong> et objectifs d’une entreprise ou d’une marque.</p>
+
+
+
+<p>Voici un exemple ancré dans l’actualité.</p>
+
+
+
+<div class="wp-block-group is-style-merciapp-wink-box-dashed is-layout-flow wp-block-group-is-layout-flow">
+<p>‍<em>L’échec du service Salto dans le secteur du streaming vidéo par abonnement doit porter à réflexion. Un marché saturé n’accepte pas plus de concurrence. Mieux vaut privilégier un élément différenciant pour valoriser notre produit auprès de la clientèle potentielle.</em></p>
+</div>
+
+
+<h2 class="wp-block-heading bsaweb-toc-content__target" id="estce-toujours-une-bonne-idee-de-conclure-un-texte-par-une-ouverture">Est-ce toujours une bonne idée de conclure un texte par une ouverture ?</h2>
+
+
+<p>La conclusion fait partie des <strong>étapes indispensables à toute présentation</strong> professionnelle ou étudiante. L’ouverture reste, quant à elle, facultative. Si un auditoire ou jury peut plébisciter la démarche, un autre pourrait la pénaliser. Quels sont les avantages et défauts de l’ouverture en conclusion ?</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="ouverture conclusion" data-lazy-src="https://www.merci-app.com/app/uploads/2023/07/2_63f494faa0d82b303c3aad67_ouverture20conclusion.jpg"><noscript><img decoding="async" src="https://www.merci-app.com/app/uploads/2023/07/2_63f494faa0d82b303c3aad67_ouverture20conclusion.jpg" alt="ouverture conclusion"></noscript></figure>
+
+
+
+<p>-&gt; Découvrez les 8 clés indispensables pour <a href="https://www.merci-app.com/article/rediger-introduction">rédiger une introduction</a> de qualité.</p>
+
+
+<h3 class="wp-block-heading bsaweb-toc-content__target" id="les-arguments-en-faveur-de-louverture-dans-la-conclusion">Les arguments en faveur de l’ouverture dans la conclusion</h3>
+
+
+<p>L’ouverture se situe à la toute fin d’un travail. Il s’agit, <em>a priori</em>, de la dernière ligne de l’exercice demandé : prise de parole, dissertation, commentaire de texte, thèse, mémoire, etc. Si la conclusion répond à l’introduction, le <strong>rôle de l’ouverture</strong> est différent.</p>
+
+
+<div class="bsaweb-note bsaweb-note--info wp-block-bsaweb-blocks-note"><div class="bsaweb-note__icon-wrapper"><svg class="bsaweb-icon bsaweb-note__icon" width="24" height="24" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M4.92893 4.92893C6.8043 3.05357 9.34784 2 12 2C14.6522 2 17.1957 3.05357 19.0711 4.92893C20.9464 6.8043 22 9.34784 22 12C22 13.3132 21.7413 14.6136 21.2388 15.8268C20.7362 17.0401 19.9997 18.1425 19.0711 19.0711C18.1425 19.9997 17.0401 20.7362 15.8268 21.2388C14.6136 21.7413 13.3132 22 12 22C10.6868 22 9.38642 21.7413 8.17317 21.2388C6.95991 20.7362 5.85752 19.9997 4.92893 19.0711C4.00035 18.1425 3.26375 17.0401 2.7612 15.8268C2.25866 14.6136 2 13.3132 2 12C2 9.34784 3.05357 6.8043 4.92893 4.92893ZM12 4C9.87827 4 7.84344 4.84285 6.34315 6.34315C4.84285 7.84344 4 9.87827 4 12C4 13.0506 4.20693 14.0909 4.60896 15.0615C5.011 16.0321 5.60028 16.914 6.34315 17.6569C7.08601 18.3997 7.96793 18.989 8.93853 19.391C9.90914 19.7931 10.9494 20 12 20C13.0506 20 14.0909 19.7931 15.0615 19.391C16.0321 18.989 16.914 18.3997 17.6569 17.6569C18.3997 16.914 18.989 16.0321 19.391 15.0615C19.7931 14.0909 20 13.0506 20 12C20 9.87827 19.1571 7.84344 17.6569 6.34315C16.1566 4.84285 14.1217 4 12 4ZM11 9C11 8.44772 11.4477 8 12 8H12.01C12.5623 8 13.01 8.44772 13.01 9C13.01 9.55228 12.5623 10 12.01 10H12C11.4477 10 11 9.55228 11 9ZM10 12C10 11.4477 10.4477 11 11 11H12C12.5523 11 13 11.4477 13 12V15C13.5523 15 14 15.4477 14 16C14 16.5523 13.5523 17 13 17H12C11.4477 17 11 16.5523 11 16V13C10.4477 13 10 12.5523 10 12Z"></path></svg></div><div class="bsaweb-note__content is-layout-flow">
+
+<p>Elle apporte une <strong>piste supplémentaire de réflexion</strong> sur la même problématique. Véritable prolongement du développement fourni tout au long de l’argumentation, elle concrétise la recherche. Elle démontre les capacités logiques et intellectuelles de l’étudiant ou du professionnel.</p>
+
+</div></div>
+
+
+<p>L’ouverture amène la <strong>présentation de nouveaux éléments et arguments</strong>. Le travail peut ainsi marquer des points supplémentaires auprès du lecteur. Toutefois, mal maîtrisée, cette perspective nouvelle laissera un goût <a href="https://dictionnaire.merci-app.com/definition/amer">amer</a>, se reflétant sur la note finale.</p>
+
+
+<h3 class="wp-block-heading bsaweb-toc-content__target" id="conclure-par-une-ouverture-un-probleme-de-methode-pouvant-nuire-au-developpement">Conclure par une ouverture : un problème de méthode pouvant nuire au développement</h3>
+
+
+<p>« Inutile » ou « dangereuse » : les <strong>critiques sur l’ouverture en conclusion</strong> sont légion. Un correcteur peut la recommander, lorsque d’autres la conspuent.</p>
+
+
+<div class="bsaweb-note bsaweb-note--warning wp-block-bsaweb-blocks-note"><div class="bsaweb-note__icon-wrapper"><svg class="bsaweb-icon bsaweb-note__icon" width="24" height="24" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.5697 2.04295C11.0063 1.797 11.4989 1.66779 12 1.66779C12.5011 1.66779 12.9937 1.797 13.4303 2.04295C13.8668 2.2889 14.2326 2.64327 14.4923 3.07183L14.4949 3.07623L22.6009 16.6122L22.6093 16.6265C22.8633 17.067 22.9976 17.5663 22.9989 18.0749C23.0002 18.5834 22.8683 19.0834 22.6165 19.5252C22.3646 19.967 22.0016 20.3352 21.5634 20.5932C21.1251 20.8512 20.627 20.9901 20.1185 20.9959L20.107 20.9961L3.88175 20.996C3.37303 20.9903 2.87466 20.8514 2.43623 20.5933C1.9978 20.3352 1.63458 19.9669 1.38269 19.5248C1.13081 19.0828 0.999043 18.5825 1.0005 18.0738C1.00196 17.565 1.13659 17.0655 1.391 16.6249L1.39909 16.6112L9.48906 3.10395C9.49507 3.09314 9.50129 3.08244 9.50771 3.07183C9.76736 2.64327 10.1331 2.2889 10.5697 2.04295ZM12 3.66779C11.8428 3.66779 11.6883 3.70831 11.5514 3.78546C11.4208 3.85903 11.3104 3.96353 11.2298 4.08964C11.2269 4.09473 11.2239 4.09979 11.2209 4.10483L3.11973 17.6307C3.04203 17.7675 3.00094 17.9221 3.00049 18.0795C3.00004 18.2391 3.04136 18.396 3.12037 18.5346C3.19938 18.6733 3.3133 18.7888 3.45082 18.8698C3.58702 18.95 3.74166 18.9934 3.89964 18.996H20.1002C20.258 18.9934 20.4125 18.9499 20.5486 18.8698C20.6861 18.7888 20.8 18.6733 20.879 18.5348C20.958 18.3962 20.9993 18.2394 20.9989 18.0799C20.9985 17.9226 20.9576 17.7681 20.88 17.6314L12.7817 4.10818C12.7813 4.10757 12.781 4.10696 12.7806 4.10636C12.6992 3.97275 12.5849 3.86225 12.4486 3.78546C12.3117 3.70831 12.1572 3.66779 12 3.66779ZM12 8C12.5523 8 13 8.44772 13 9V13C13 13.5523 12.5523 14 12 14C11.4477 14 11 13.5523 11 13V9C11 8.44772 11.4477 8 12 8ZM11 16C11 15.4477 11.4477 15 12 15H12.01C12.5623 15 13.01 15.4477 13.01 16C13.01 16.5523 12.5623 17 12.01 17H12C11.4477 17 11 16.5523 11 16Z"></path></svg></div><div class="bsaweb-note__content is-layout-flow">
+
+<p>Trop souvent, la rédaction de cette nouvelle perspective dans l’analyse paraît forcée ou bancale. Si tel est le cas, la recherche de points supplémentaires se transforme en <strong>évaluation négative</strong>. Au format numérique, ayez toujours à disposition un correcteur orthographique pour vous relire. Vous éviterez de finir sur une fausse note.</p>
+
+</div></div>
+
+
+<p>En outre, l’ouverture doit toujours s’imposer d’elle-même, <strong>de manière naturelle et logique</strong>. Dans un contexte <a href="https://dictionnaire.merci-app.com/definition/professionnel">professionnel</a>, un discours se terminant par une phrase peu maîtrisée peut générer de la confusion auprès de l’auditoire. Prenez garde à ne jamais aller à l’encontre des éléments avancés au cours de la présentation.</p>
+
+
+
+<p>N’oubliez pas le caractère généralement <a href="https://dictionnaire.merci-app.com/definition/facultatif">facultatif</a> de l’ouverture dans une conclusion. Si vous souhaitez absolument la rédiger, les exemples mentionnés plus haut vous seront utiles. Ils vous aideront à écrire une <strong>ouverture conclusive de qualité et appréciée</strong> du lecteur.</p>
+
+
+
+<p>‍</p>
+
+
+
+
+
+<div class="wp-block-group shadow-lg radius-lg cta-meilleur-expression has-global-padding is-content-justification-left is-layout-constrained wp-container-core-group-is-layout-50 wp-block-group-is-layout-constrained block-visibility-hide-large-screen block-visibility-hide-medium-screen" style="margin-top:var(--wp--preset--spacing--2-xl);margin-bottom:var(--wp--preset--spacing--2-xl);padding-top:var(--wp--preset--spacing--sm);padding-bottom:var(--wp--preset--spacing--sm)">
+<p class="title-cta-vwo has-primary-500-color has-text-color has-secondary-font-family has-huge-font-size" style="font-style:normal;font-weight:700">Le meilleur de votre expression écrite.</p>
+
+
+
+<p class="has-contrast-500-color has-text-color" style="margin-top:var(--wp--preset--spacing--xs)">MerciApp analyse et corrige en temps réel tout ce que vous écrivez pour vous garantir de faire bonne impression à l’écrit.</p>
+
+
+
+<div class="wp-block-buttons cta-main-vwo is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button button-cta-vwo"><a data-category="click-cta" data-event="click-cta-main-inpost" data-evt-trigger="click" data-label="click-cta-discover-article-module" data-obflink-url="aHR0cHM6Ly93ZWIubWVyY2ktYXBwLmNvbS9yZWdpc3RyYXRpb24tYWw=" class="wp-block-button__link wp-element-button btn btn--primary" href="https://web.merci-app.com/registration-al">Utiliser MerciApp gratuitement</a></div>
+</div>
+
+
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-49 wp-block-group-is-layout-constrained">
+<p class="has-contrast-500-color has-text-color has-small-font-size">Fonctionne avec tous vos outils préférés</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="67" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%2067'%3E%3C/svg%3E" alt="" class="wp-image-15781" data-lazy-srcset="https://www.merci-app.com/app/uploads/2023/07/61e84b86e1680afc0683dd9c_favorite-apps-1024x67.png 1024w, https://www.merci-app.com/app/uploads/2023/07/61e84b86e1680afc0683dd9c_favorite-apps-300x20.png 300w, https://www.merci-app.com/app/uploads/2023/07/61e84b86e1680afc0683dd9c_favorite-apps-768x51.png 768w, https://www.merci-app.com/app/uploads/2023/07/61e84b86e1680afc0683dd9c_favorite-apps.png 1154w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://www.merci-app.com/app/uploads/2023/07/61e84b86e1680afc0683dd9c_favorite-apps-1024x67.png" /><noscript><img decoding="async" width="1024" height="67" src="https://www.merci-app.com/app/uploads/2023/07/61e84b86e1680afc0683dd9c_favorite-apps-1024x67.png" alt="" class="wp-image-15781" srcset="https://www.merci-app.com/app/uploads/2023/07/61e84b86e1680afc0683dd9c_favorite-apps-1024x67.png 1024w, https://www.merci-app.com/app/uploads/2023/07/61e84b86e1680afc0683dd9c_favorite-apps-300x20.png 300w, https://www.merci-app.com/app/uploads/2023/07/61e84b86e1680afc0683dd9c_favorite-apps-768x51.png 768w, https://www.merci-app.com/app/uploads/2023/07/61e84b86e1680afc0683dd9c_favorite-apps.png 1154w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript></figure>
+</div>
+</div>
+
+
+
+<div data-btn-labels="Lire plus,Lire moins" class="wp-block-group shadow-lg radius-lg cta-meilleur-expression has-global-padding is-content-justification-left is-layout-constrained wp-container-core-group-is-layout-52 wp-block-group-is-layout-constrained block-visibility-hide-small-screen" style="margin-top:var(--wp--preset--spacing--2-xl);margin-bottom:var(--wp--preset--spacing--2-xl);padding-top:var(--wp--preset--spacing--sm);padding-bottom:var(--wp--preset--spacing--sm)">
+<p class="title-cta-vwo has-primary-500-color has-text-color has-secondary-font-family has-huge-font-size" style="font-style:normal;font-weight:700">Le meilleur de votre expression écrite.</p>
+
+
+
+<p class="has-contrast-500-color has-text-color" style="margin-top:var(--wp--preset--spacing--xs)">MerciApp analyse et corrige en temps réel tout ce que vous écrivez pour vous garantir de faire bonne impression à l’écrit.</p>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button cta-main-vwo button-cta-vwo"><a data-category="click-cta" data-event="click-cta-main-inpost" data-evt-trigger="click" data-label="click-cta-discover-article-module" data-obflink-url="aHR0cHM6Ly93ZWIubWVyY2ktYXBwLmNvbS9yZWdpc3RyYXRpb24tYWw=" class="wp-block-button__link wp-element-button btn btn--primary" href="https://web.merci-app.com/registration-al">Utiliser MerciApp gratuitement</a></div>
+</div>
+
+
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-51 wp-block-group-is-layout-constrained">
+<p class="has-contrast-500-color has-text-color has-small-font-size">Fonctionne avec tous vos outils préférés</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="67" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%2067'%3E%3C/svg%3E" alt="" class="wp-image-15781" data-lazy-srcset="https://www.merci-app.com/app/uploads/2023/07/61e84b86e1680afc0683dd9c_favorite-apps-1024x67.png 1024w, https://www.merci-app.com/app/uploads/2023/07/61e84b86e1680afc0683dd9c_favorite-apps-300x20.png 300w, https://www.merci-app.com/app/uploads/2023/07/61e84b86e1680afc0683dd9c_favorite-apps-768x51.png 768w, https://www.merci-app.com/app/uploads/2023/07/61e84b86e1680afc0683dd9c_favorite-apps.png 1154w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://www.merci-app.com/app/uploads/2023/07/61e84b86e1680afc0683dd9c_favorite-apps-1024x67.png" /><noscript><img decoding="async" width="1024" height="67" src="https://www.merci-app.com/app/uploads/2023/07/61e84b86e1680afc0683dd9c_favorite-apps-1024x67.png" alt="" class="wp-image-15781" srcset="https://www.merci-app.com/app/uploads/2023/07/61e84b86e1680afc0683dd9c_favorite-apps-1024x67.png 1024w, https://www.merci-app.com/app/uploads/2023/07/61e84b86e1680afc0683dd9c_favorite-apps-300x20.png 300w, https://www.merci-app.com/app/uploads/2023/07/61e84b86e1680afc0683dd9c_favorite-apps-768x51.png 768w, https://www.merci-app.com/app/uploads/2023/07/61e84b86e1680afc0683dd9c_favorite-apps.png 1154w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript></figure>
+</div>
+</div>
+
+[share-main]
+
+							
+	<div class="author-card padding-y-xl border-bottom border-top border-contrast-200">
+					<figure class="author-card__img-wrapper">
+				<img alt='Avatar de l&#039;auteur Arthur Comets' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20156%20156'%3E%3C/svg%3E" class='avatar avatar-156 photo' height='156' width='156' data-lazy-src="https://secure.gravatar.com/avatar/39ac688a777adf4ea832b2c27153213d?s=156&#038;d=mm&#038;r=g" /><noscript><img alt='Avatar de l&#039;auteur Arthur Comets' src='https://secure.gravatar.com/avatar/39ac688a777adf4ea832b2c27153213d?s=156&#038;d=mm&#038;r=g' class='avatar avatar-156 photo' height='156' width='156' /></noscript>	
+			</figure>
+		
+		<div class="author-card__content text-component text-component--tight">
+										<p class="author-card__name">
+					<a href="https://www.merci-app.com/author/ma_arthur" class="author-card__link" rel="author">
+						Arthur Comets					</a>
+				</p>
+			
+							<p class="author-card__desc">Très intéressé par les nouvelles technologies, c'est en 1997 que je découvre Internet. Je passe alors des journées entières à me perdre dans les profondeurs de la toile. Plus de 20 ans plus tard, ma fibre pour le web et le business m'orienteront naturellement vers une carrière dans le webmarketing et le SEO. En mai 2022, j’ai rejoint l’aventure MerciApp pour faire passer un nouveau cap au trafic organique du site et profiter d’une expérience humaine et professionnelle hors du commun.</p>
+					</div>
+	</div>
+					</div>
+				<div class="article__sidebar col-4@md">
+					<div class="flex flex-column gap-lg height-100%">
+						
+<aside class="wp-block-group is-layout-flow wp-container-core-group-is-layout-53 wp-block-group-is-layout-flow" style="border-radius:0.38em;padding-right:0;padding-left:0">
+<h2 class="wp-block-heading has-medium-font-size">Les articles les plus lus</h2>
+
+
+
+<div class="wp-block-query is-layout-flow wp-block-query-is-layout-flow"><ul class="wp-block-post-template is-layout-flow wp-block-post-template-is-layout-flow"><li class="wp-block-post post-7649 post type-post status-publish format-standard has-post-thumbnail hentry category-communication category-redaction tag-hors-serie tag-redaction-et-style-decriture">
+<article class="post-line wp-block-merciapp-post-line" ><a class="post-line__link" href="https://www.merci-app.com/article/copywriting" aria-label="En savoir plus sur &quot;Copywriting : le guide complet pour tout comprendre et se lancer (+ 20 techniques)&quot;"><figure class="post-line__img-wrapper"><img width="1280" height="631" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201280%20631'%3E%3C/svg%3E" class="attachment-full size-full" alt="Copywriting : le guide complet pour tout comprendre et se lancer (+ 20 techniques)" decoding="async" data-lazy-srcset="https://www.merci-app.com/app/uploads/2024/05/Copywriting-_-le-guide.jpg 1280w, https://www.merci-app.com/app/uploads/2024/05/Copywriting-_-le-guide-300x148.jpg 300w, https://www.merci-app.com/app/uploads/2024/05/Copywriting-_-le-guide-1024x505.jpg 1024w, https://www.merci-app.com/app/uploads/2024/05/Copywriting-_-le-guide-768x379.jpg 768w" data-lazy-sizes="(max-width: 1280px) 100vw, 1280px" data-lazy-src="https://www.merci-app.com/app/uploads/2024/05/Copywriting-_-le-guide.jpg" /><noscript><img width="1280" height="631" src="https://www.merci-app.com/app/uploads/2024/05/Copywriting-_-le-guide.jpg" class="attachment-full size-full" alt="Copywriting : le guide complet pour tout comprendre et se lancer (+ 20 techniques)" decoding="async" srcset="https://www.merci-app.com/app/uploads/2024/05/Copywriting-_-le-guide.jpg 1280w, https://www.merci-app.com/app/uploads/2024/05/Copywriting-_-le-guide-300x148.jpg 300w, https://www.merci-app.com/app/uploads/2024/05/Copywriting-_-le-guide-1024x505.jpg 1024w, https://www.merci-app.com/app/uploads/2024/05/Copywriting-_-le-guide-768x379.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" /></noscript></figure><div class="post-line__content"><h3 class="post-line__title">Copywriting : le guide complet pour tout comprendre et se lancer (+ 20 techniques)</h3></div></a></article> 
+</li><li class="wp-block-post post-8124 post type-post status-publish format-standard has-post-thumbnail hentry category-redaction tag-hors-serie tag-mail-professionnel">
+<article class="post-line wp-block-merciapp-post-line" ><a class="post-line__link" href="https://www.merci-app.com/article/rediger-email-professionnel" aria-label="En savoir plus sur &quot;6 Étapes pour rédiger un e-mail professionnel remarquable&quot;"><figure class="post-line__img-wrapper"><img width="1280" height="630" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201280%20630'%3E%3C/svg%3E" class="attachment-full size-full" alt="rédiger un e-mail professionnel remarquable" decoding="async" data-lazy-srcset="https://www.merci-app.com/app/uploads/2024/03/rediger-un-e-mail-professionnel-remarquable.jpg 1280w, https://www.merci-app.com/app/uploads/2024/03/rediger-un-e-mail-professionnel-remarquable-300x148.jpg 300w, https://www.merci-app.com/app/uploads/2024/03/rediger-un-e-mail-professionnel-remarquable-1024x504.jpg 1024w, https://www.merci-app.com/app/uploads/2024/03/rediger-un-e-mail-professionnel-remarquable-768x378.jpg 768w" data-lazy-sizes="(max-width: 1280px) 100vw, 1280px" data-lazy-src="https://www.merci-app.com/app/uploads/2024/03/rediger-un-e-mail-professionnel-remarquable.jpg" /><noscript><img width="1280" height="630" src="https://www.merci-app.com/app/uploads/2024/03/rediger-un-e-mail-professionnel-remarquable.jpg" class="attachment-full size-full" alt="rédiger un e-mail professionnel remarquable" decoding="async" srcset="https://www.merci-app.com/app/uploads/2024/03/rediger-un-e-mail-professionnel-remarquable.jpg 1280w, https://www.merci-app.com/app/uploads/2024/03/rediger-un-e-mail-professionnel-remarquable-300x148.jpg 300w, https://www.merci-app.com/app/uploads/2024/03/rediger-un-e-mail-professionnel-remarquable-1024x504.jpg 1024w, https://www.merci-app.com/app/uploads/2024/03/rediger-un-e-mail-professionnel-remarquable-768x378.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" /></noscript></figure><div class="post-line__content"><h3 class="post-line__title">6 Étapes pour rédiger un e-mail professionnel remarquable</h3></div></a></article> 
+</li><li class="wp-block-post post-7852 post type-post status-publish format-standard has-post-thumbnail hentry category-redaction tag-fautes">
+<article class="post-line wp-block-merciapp-post-line" ><a class="post-line__link" href="https://www.merci-app.com/article/grammarly-equivalent-francais" aria-label="En savoir plus sur &quot;Grammarly : Existe-t-il un équivalent pour le français ?&quot;"><figure class="post-line__img-wrapper"><img width="1280" height="630" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201280%20630'%3E%3C/svg%3E" class="attachment-full size-full" alt="" decoding="async" data-lazy-srcset="https://www.merci-app.com/app/uploads/2023/07/643960a0c118a2fe808af0d1_6046009431fd0840e2db7f47_grammarly20pour20le20francais.png 1280w, https://www.merci-app.com/app/uploads/2023/07/643960a0c118a2fe808af0d1_6046009431fd0840e2db7f47_grammarly20pour20le20francais-300x148.png 300w, https://www.merci-app.com/app/uploads/2023/07/643960a0c118a2fe808af0d1_6046009431fd0840e2db7f47_grammarly20pour20le20francais-1024x504.png 1024w, https://www.merci-app.com/app/uploads/2023/07/643960a0c118a2fe808af0d1_6046009431fd0840e2db7f47_grammarly20pour20le20francais-768x378.png 768w" data-lazy-sizes="(max-width: 1280px) 100vw, 1280px" data-lazy-src="https://www.merci-app.com/app/uploads/2023/07/643960a0c118a2fe808af0d1_6046009431fd0840e2db7f47_grammarly20pour20le20francais.png" /><noscript><img width="1280" height="630" src="https://www.merci-app.com/app/uploads/2023/07/643960a0c118a2fe808af0d1_6046009431fd0840e2db7f47_grammarly20pour20le20francais.png" class="attachment-full size-full" alt="" decoding="async" srcset="https://www.merci-app.com/app/uploads/2023/07/643960a0c118a2fe808af0d1_6046009431fd0840e2db7f47_grammarly20pour20le20francais.png 1280w, https://www.merci-app.com/app/uploads/2023/07/643960a0c118a2fe808af0d1_6046009431fd0840e2db7f47_grammarly20pour20le20francais-300x148.png 300w, https://www.merci-app.com/app/uploads/2023/07/643960a0c118a2fe808af0d1_6046009431fd0840e2db7f47_grammarly20pour20le20francais-1024x504.png 1024w, https://www.merci-app.com/app/uploads/2023/07/643960a0c118a2fe808af0d1_6046009431fd0840e2db7f47_grammarly20pour20le20francais-768x378.png 768w" sizes="(max-width: 1280px) 100vw, 1280px" /></noscript></figure><div class="post-line__content"><h3 class="post-line__title">Grammarly : Existe-t-il un équivalent pour le français ?</h3></div></a></article> 
+</li><li class="wp-block-post post-7608 post type-post status-publish format-standard has-post-thumbnail hentry category-redaction tag-hors-serie tag-redaction-et-style-decriture">
+<article class="post-line wp-block-merciapp-post-line" ><a class="post-line__link" href="https://www.merci-app.com/article/comment-faire-resume" aria-label="En savoir plus sur &quot;Comment faire un résumé convaincant en 7 étapes  ? (La méthode)&quot;"><figure class="post-line__img-wrapper"><img width="1280" height="630" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201280%20630'%3E%3C/svg%3E" class="attachment-full size-full" alt="Faire un résumé convaincant en 7 étapes" decoding="async" data-lazy-srcset="https://www.merci-app.com/app/uploads/2024/07/Faire-un-résumé-convaincant-en-7-étapes-1.jpg 1280w, https://www.merci-app.com/app/uploads/2024/07/Faire-un-résumé-convaincant-en-7-étapes-1-300x148.jpg 300w, https://www.merci-app.com/app/uploads/2024/07/Faire-un-résumé-convaincant-en-7-étapes-1-1024x504.jpg 1024w, https://www.merci-app.com/app/uploads/2024/07/Faire-un-résumé-convaincant-en-7-étapes-1-768x378.jpg 768w" data-lazy-sizes="(max-width: 1280px) 100vw, 1280px" data-lazy-src="https://www.merci-app.com/app/uploads/2024/07/Faire-un-résumé-convaincant-en-7-étapes-1.jpg" /><noscript><img width="1280" height="630" src="https://www.merci-app.com/app/uploads/2024/07/Faire-un-résumé-convaincant-en-7-étapes-1.jpg" class="attachment-full size-full" alt="Faire un résumé convaincant en 7 étapes" decoding="async" srcset="https://www.merci-app.com/app/uploads/2024/07/Faire-un-résumé-convaincant-en-7-étapes-1.jpg 1280w, https://www.merci-app.com/app/uploads/2024/07/Faire-un-résumé-convaincant-en-7-étapes-1-300x148.jpg 300w, https://www.merci-app.com/app/uploads/2024/07/Faire-un-résumé-convaincant-en-7-étapes-1-1024x504.jpg 1024w, https://www.merci-app.com/app/uploads/2024/07/Faire-un-résumé-convaincant-en-7-étapes-1-768x378.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" /></noscript></figure><div class="post-line__content"><h3 class="post-line__title">Comment faire un résumé convaincant en 7 étapes  ? (La méthode)</h3></div></a></article> 
+</li><li class="wp-block-post post-7673 post type-post status-publish format-standard has-post-thumbnail hentry category-communication tag-hors-serie tag-reseaux-sociaux">
+<article class="post-line wp-block-merciapp-post-line" ><a class="post-line__link" href="https://www.merci-app.com/article/creer-post-linkedin" aria-label="En savoir plus sur &quot;4 étapes pour créer un post LinkedIn qui performe&quot;"><figure class="post-line__img-wrapper"><img width="1280" height="630" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201280%20630'%3E%3C/svg%3E" class="attachment-full size-full" alt="pour créer un post LinkedIn" decoding="async" data-lazy-srcset="https://www.merci-app.com/app/uploads/2024/04/pour-creer-un-post-LinkedIn.jpg 1280w, https://www.merci-app.com/app/uploads/2024/04/pour-creer-un-post-LinkedIn-300x148.jpg 300w, https://www.merci-app.com/app/uploads/2024/04/pour-creer-un-post-LinkedIn-1024x504.jpg 1024w, https://www.merci-app.com/app/uploads/2024/04/pour-creer-un-post-LinkedIn-768x378.jpg 768w" data-lazy-sizes="(max-width: 1280px) 100vw, 1280px" data-lazy-src="https://www.merci-app.com/app/uploads/2024/04/pour-creer-un-post-LinkedIn.jpg" /><noscript><img width="1280" height="630" src="https://www.merci-app.com/app/uploads/2024/04/pour-creer-un-post-LinkedIn.jpg" class="attachment-full size-full" alt="pour créer un post LinkedIn" decoding="async" srcset="https://www.merci-app.com/app/uploads/2024/04/pour-creer-un-post-LinkedIn.jpg 1280w, https://www.merci-app.com/app/uploads/2024/04/pour-creer-un-post-LinkedIn-300x148.jpg 300w, https://www.merci-app.com/app/uploads/2024/04/pour-creer-un-post-LinkedIn-1024x504.jpg 1024w, https://www.merci-app.com/app/uploads/2024/04/pour-creer-un-post-LinkedIn-768x378.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" /></noscript></figure><div class="post-line__content"><h3 class="post-line__title">4 étapes pour créer un post LinkedIn qui performe</h3></div></a></article> 
+</li><li class="wp-block-post post-7529 post type-post status-publish format-standard has-post-thumbnail hentry category-redaction tag-fautes">
+<article class="post-line wp-block-merciapp-post-line" ><a class="post-line__link" href="https://www.merci-app.com/article/5-erreurs-de-syntaxe-a-ne-plus-commettre" aria-label="En savoir plus sur &quot;5 fautes de syntaxe à éliminer d&#039;urgence !&quot;"><figure class="post-line__img-wrapper"><img width="1280" height="630" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201280%20630'%3E%3C/svg%3E" class="attachment-full size-full" alt="5 fautes de syntaxe à éliminer d’urgence !" decoding="async" data-lazy-srcset="https://www.merci-app.com/app/uploads/2023/07/646c89423ef3476f135462c2_5-erreurs-de-syntaxe-a-ne-plus-commettre-blog-cover.jpg 1280w, https://www.merci-app.com/app/uploads/2023/07/646c89423ef3476f135462c2_5-erreurs-de-syntaxe-a-ne-plus-commettre-blog-cover-300x148.jpg 300w, https://www.merci-app.com/app/uploads/2023/07/646c89423ef3476f135462c2_5-erreurs-de-syntaxe-a-ne-plus-commettre-blog-cover-1024x504.jpg 1024w, https://www.merci-app.com/app/uploads/2023/07/646c89423ef3476f135462c2_5-erreurs-de-syntaxe-a-ne-plus-commettre-blog-cover-768x378.jpg 768w" data-lazy-sizes="(max-width: 1280px) 100vw, 1280px" data-lazy-src="https://www.merci-app.com/app/uploads/2023/07/646c89423ef3476f135462c2_5-erreurs-de-syntaxe-a-ne-plus-commettre-blog-cover.jpg" /><noscript><img width="1280" height="630" src="https://www.merci-app.com/app/uploads/2023/07/646c89423ef3476f135462c2_5-erreurs-de-syntaxe-a-ne-plus-commettre-blog-cover.jpg" class="attachment-full size-full" alt="5 fautes de syntaxe à éliminer d’urgence !" decoding="async" srcset="https://www.merci-app.com/app/uploads/2023/07/646c89423ef3476f135462c2_5-erreurs-de-syntaxe-a-ne-plus-commettre-blog-cover.jpg 1280w, https://www.merci-app.com/app/uploads/2023/07/646c89423ef3476f135462c2_5-erreurs-de-syntaxe-a-ne-plus-commettre-blog-cover-300x148.jpg 300w, https://www.merci-app.com/app/uploads/2023/07/646c89423ef3476f135462c2_5-erreurs-de-syntaxe-a-ne-plus-commettre-blog-cover-1024x504.jpg 1024w, https://www.merci-app.com/app/uploads/2023/07/646c89423ef3476f135462c2_5-erreurs-de-syntaxe-a-ne-plus-commettre-blog-cover-768x378.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" /></noscript></figure><div class="post-line__content"><h3 class="post-line__title">5 fautes de syntaxe à éliminer d'urgence !</h3></div></a></article> 
+</li><li class="wp-block-post post-7998 post type-post status-publish format-standard has-post-thumbnail hentry category-productivite tag-gestion-de-projet tag-hors-serie">
+<article class="post-line wp-block-merciapp-post-line" ><a class="post-line__link" href="https://www.merci-app.com/article/modele-compte-rendu-reunion" aria-label="En savoir plus sur &quot;Modèle de compte rendu de réunion : 5 conseils pour le rédiger (+ exemples)&quot;"><figure class="post-line__img-wrapper"><img width="1280" height="630" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201280%20630'%3E%3C/svg%3E" class="attachment-full size-full" alt="" decoding="async" data-lazy-srcset="https://www.merci-app.com/app/uploads/2023/07/643960a994422adf2fd16a4e_641039dfd518d3242034cb02_modele-compte-rendu-reunion-blog-cover.jpeg 1280w, https://www.merci-app.com/app/uploads/2023/07/643960a994422adf2fd16a4e_641039dfd518d3242034cb02_modele-compte-rendu-reunion-blog-cover-300x148.jpeg 300w, https://www.merci-app.com/app/uploads/2023/07/643960a994422adf2fd16a4e_641039dfd518d3242034cb02_modele-compte-rendu-reunion-blog-cover-1024x504.jpeg 1024w, https://www.merci-app.com/app/uploads/2023/07/643960a994422adf2fd16a4e_641039dfd518d3242034cb02_modele-compte-rendu-reunion-blog-cover-768x378.jpeg 768w" data-lazy-sizes="(max-width: 1280px) 100vw, 1280px" data-lazy-src="https://www.merci-app.com/app/uploads/2023/07/643960a994422adf2fd16a4e_641039dfd518d3242034cb02_modele-compte-rendu-reunion-blog-cover.jpeg" /><noscript><img width="1280" height="630" src="https://www.merci-app.com/app/uploads/2023/07/643960a994422adf2fd16a4e_641039dfd518d3242034cb02_modele-compte-rendu-reunion-blog-cover.jpeg" class="attachment-full size-full" alt="" decoding="async" srcset="https://www.merci-app.com/app/uploads/2023/07/643960a994422adf2fd16a4e_641039dfd518d3242034cb02_modele-compte-rendu-reunion-blog-cover.jpeg 1280w, https://www.merci-app.com/app/uploads/2023/07/643960a994422adf2fd16a4e_641039dfd518d3242034cb02_modele-compte-rendu-reunion-blog-cover-300x148.jpeg 300w, https://www.merci-app.com/app/uploads/2023/07/643960a994422adf2fd16a4e_641039dfd518d3242034cb02_modele-compte-rendu-reunion-blog-cover-1024x504.jpeg 1024w, https://www.merci-app.com/app/uploads/2023/07/643960a994422adf2fd16a4e_641039dfd518d3242034cb02_modele-compte-rendu-reunion-blog-cover-768x378.jpeg 768w" sizes="(max-width: 1280px) 100vw, 1280px" /></noscript></figure><div class="post-line__content"><h3 class="post-line__title">Modèle de compte rendu de réunion : 5 conseils pour le rédiger (+ exemples)</h3></div></a></article> 
+</li><li class="wp-block-post post-8176 post type-post status-publish format-standard has-post-thumbnail hentry category-redaction tag-hors-serie tag-redaction-et-style-decriture">
+<article class="post-line wp-block-merciapp-post-line" ><a class="post-line__link" href="https://www.merci-app.com/article/synthese" aria-label="En savoir plus sur &quot;Synthèse : définition et 7 conseils de rédaction&quot;"><figure class="post-line__img-wrapper"><img width="1280" height="630" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201280%20630'%3E%3C/svg%3E" class="attachment-full size-full" alt="Synthese" decoding="async" data-lazy-srcset="https://www.merci-app.com/app/uploads/2024/02/Synthese.jpg 1280w, https://www.merci-app.com/app/uploads/2024/02/Synthese-300x148.jpg 300w, https://www.merci-app.com/app/uploads/2024/02/Synthese-1024x504.jpg 1024w, https://www.merci-app.com/app/uploads/2024/02/Synthese-768x378.jpg 768w" data-lazy-sizes="(max-width: 1280px) 100vw, 1280px" data-lazy-src="https://www.merci-app.com/app/uploads/2024/02/Synthese.jpg" /><noscript><img width="1280" height="630" src="https://www.merci-app.com/app/uploads/2024/02/Synthese.jpg" class="attachment-full size-full" alt="Synthese" decoding="async" srcset="https://www.merci-app.com/app/uploads/2024/02/Synthese.jpg 1280w, https://www.merci-app.com/app/uploads/2024/02/Synthese-300x148.jpg 300w, https://www.merci-app.com/app/uploads/2024/02/Synthese-1024x504.jpg 1024w, https://www.merci-app.com/app/uploads/2024/02/Synthese-768x378.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" /></noscript></figure><div class="post-line__content"><h3 class="post-line__title">Synthèse : définition et 7 conseils de rédaction</h3></div></a></article> 
+</li><li class="wp-block-post post-7580 post type-post status-publish format-standard has-post-thumbnail hentry category-productivite tag-hors-serie tag-ia">
+<article class="post-line wp-block-merciapp-post-line" ><a class="post-line__link" href="https://www.merci-app.com/article/chat-gpt" aria-label="En savoir plus sur &quot;ChatGPT : le guide d&#039;utilisation + Exemples de prompts&quot;"><figure class="post-line__img-wrapper"><img width="1280" height="630" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201280%20630'%3E%3C/svg%3E" class="attachment-full size-full" alt="" decoding="async" data-lazy-srcset="https://www.merci-app.com/app/uploads/2023/07/643960983b73800ee52673f5_640ef0d16702c9aee3b56fb7_Chat-GPT-blog-cover.jpeg 1280w, https://www.merci-app.com/app/uploads/2023/07/643960983b73800ee52673f5_640ef0d16702c9aee3b56fb7_Chat-GPT-blog-cover-300x148.jpeg 300w, https://www.merci-app.com/app/uploads/2023/07/643960983b73800ee52673f5_640ef0d16702c9aee3b56fb7_Chat-GPT-blog-cover-1024x504.jpeg 1024w, https://www.merci-app.com/app/uploads/2023/07/643960983b73800ee52673f5_640ef0d16702c9aee3b56fb7_Chat-GPT-blog-cover-768x378.jpeg 768w" data-lazy-sizes="(max-width: 1280px) 100vw, 1280px" data-lazy-src="https://www.merci-app.com/app/uploads/2023/07/643960983b73800ee52673f5_640ef0d16702c9aee3b56fb7_Chat-GPT-blog-cover.jpeg" /><noscript><img width="1280" height="630" src="https://www.merci-app.com/app/uploads/2023/07/643960983b73800ee52673f5_640ef0d16702c9aee3b56fb7_Chat-GPT-blog-cover.jpeg" class="attachment-full size-full" alt="" decoding="async" srcset="https://www.merci-app.com/app/uploads/2023/07/643960983b73800ee52673f5_640ef0d16702c9aee3b56fb7_Chat-GPT-blog-cover.jpeg 1280w, https://www.merci-app.com/app/uploads/2023/07/643960983b73800ee52673f5_640ef0d16702c9aee3b56fb7_Chat-GPT-blog-cover-300x148.jpeg 300w, https://www.merci-app.com/app/uploads/2023/07/643960983b73800ee52673f5_640ef0d16702c9aee3b56fb7_Chat-GPT-blog-cover-1024x504.jpeg 1024w, https://www.merci-app.com/app/uploads/2023/07/643960983b73800ee52673f5_640ef0d16702c9aee3b56fb7_Chat-GPT-blog-cover-768x378.jpeg 768w" sizes="(max-width: 1280px) 100vw, 1280px" /></noscript></figure><div class="post-line__content"><h3 class="post-line__title">ChatGPT : le guide d'utilisation + Exemples de prompts</h3></div></a></article> 
+</li><li class="wp-block-post post-8132 post type-post status-publish format-standard has-post-thumbnail hentry category-redaction tag-hors-serie tag-redaction-et-style-decriture">
+<article class="post-line wp-block-merciapp-post-line" ><a class="post-line__link" href="https://www.merci-app.com/article/reformuler-un-texte" aria-label="En savoir plus sur &quot;5 outils en ligne pour reformuler un texte et le paraphraser&quot;"><figure class="post-line__img-wrapper"><img width="1280" height="630" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201280%20630'%3E%3C/svg%3E" class="attachment-full size-full" alt="" decoding="async" data-lazy-srcset="https://www.merci-app.com/app/uploads/2023/07/643960ad7206fe0e8af26f24_63174d0c6725de913df7f2d8_reformuler-paraphraser-texte-5-outils-blog-cover.png 1280w, https://www.merci-app.com/app/uploads/2023/07/643960ad7206fe0e8af26f24_63174d0c6725de913df7f2d8_reformuler-paraphraser-texte-5-outils-blog-cover-300x148.png 300w, https://www.merci-app.com/app/uploads/2023/07/643960ad7206fe0e8af26f24_63174d0c6725de913df7f2d8_reformuler-paraphraser-texte-5-outils-blog-cover-1024x504.png 1024w, https://www.merci-app.com/app/uploads/2023/07/643960ad7206fe0e8af26f24_63174d0c6725de913df7f2d8_reformuler-paraphraser-texte-5-outils-blog-cover-768x378.png 768w" data-lazy-sizes="(max-width: 1280px) 100vw, 1280px" data-lazy-src="https://www.merci-app.com/app/uploads/2023/07/643960ad7206fe0e8af26f24_63174d0c6725de913df7f2d8_reformuler-paraphraser-texte-5-outils-blog-cover.png" /><noscript><img width="1280" height="630" src="https://www.merci-app.com/app/uploads/2023/07/643960ad7206fe0e8af26f24_63174d0c6725de913df7f2d8_reformuler-paraphraser-texte-5-outils-blog-cover.png" class="attachment-full size-full" alt="" decoding="async" srcset="https://www.merci-app.com/app/uploads/2023/07/643960ad7206fe0e8af26f24_63174d0c6725de913df7f2d8_reformuler-paraphraser-texte-5-outils-blog-cover.png 1280w, https://www.merci-app.com/app/uploads/2023/07/643960ad7206fe0e8af26f24_63174d0c6725de913df7f2d8_reformuler-paraphraser-texte-5-outils-blog-cover-300x148.png 300w, https://www.merci-app.com/app/uploads/2023/07/643960ad7206fe0e8af26f24_63174d0c6725de913df7f2d8_reformuler-paraphraser-texte-5-outils-blog-cover-1024x504.png 1024w, https://www.merci-app.com/app/uploads/2023/07/643960ad7206fe0e8af26f24_63174d0c6725de913df7f2d8_reformuler-paraphraser-texte-5-outils-blog-cover-768x378.png 768w" sizes="(max-width: 1280px) 100vw, 1280px" /></noscript></figure><div class="post-line__content"><h3 class="post-line__title">5 outils en ligne pour reformuler un texte et le paraphraser</h3></div></a></article> 
+</li></ul></div>
+</aside>
+
+
+
+<aside class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-54 wp-block-group-is-layout-constrained wp-container-2 is-position-sticky" style="border-radius:0.38em;margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0">
+<figure class="wp-block-image size-full"><a href="https://web.merci-app.com/registration" data-event="click-cta-sidebar-articles" data-evt-trigger="click"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="CTA (10)" class="wp-image-62499" data-lazy-src="https://www.merci-app.com/app/uploads/2024/04/CTA-10.png"/><noscript><img src="https://www.merci-app.com/app/uploads/2024/04/CTA-10.png" alt="CTA (10)" class="wp-image-62499"/></noscript></a></figure>
+</aside>
+
+
+
+
+
+
+					</div>
+				</div>
+			</div>
+
+		</article>
+
+		
+		</main>
+			
+	<footer class="site-footer has-global-padding" id="site-footer" role="contentinfo" >
+	
+		
+<div class="wp-block-group alignfull has-global-padding is-layout-constrained wp-block-group-is-layout-constrained"></div>
+
+<div class="wp-block-group alignfull has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+<div class="wp-block-group alignwide has-contrast-50-background-color has-background has-global-padding is-layout-constrained wp-container-core-group-is-layout-61 wp-block-group-is-layout-constrained" style="padding-top:var(--wp--preset--spacing--xl);padding-right:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--xl);padding-left:var(--wp--preset--spacing--md)">
+<h2 class="wp-block-heading has-text-align-center has-display-2-font-size"><strong>Découvrez de </strong><br>nouveaux super-pouvoirs</h2>
+
+
+
+<p class="has-text-align-center" style="margin-bottom:var(--wp--preset--spacing--xl)">Vous serez stupéfait(e) de voir jusqu'où vous pouvez aller.</p>
+
+
+
+<div class="wp-block-buttons alignwide is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-19 wp-block-buttons-is-layout-flex block-visibility-hide-small-screen justify-center justify-start@md">
+<div data-browser="firefox" class="wp-block-button xs-btn-40 visible-by-browser js-visible-by-browser visible-by-browser--firefox"><a data-category="click-cta" data-event="click-cta-install-extension" data-evt-trigger="click" data-goto="aHR0cHM6Ly9hc3NldHMubWVyY2ktYXBwLmNvbS93ZWJleHRlbnNpb24tcmV2aWV3cmVkaXJlY3QuaHRtbA==" data-label="click-cta-install-extension" class="wp-block-button__link wp-element-button btn btn--primary"><img class="wp-image-1493" style="width: 24px;" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="" data-lazy-src="https://www.merci-app.com/app/uploads/2023/07/firefox.svg"><noscript><img class="wp-image-1493" style="width: 24px;" src="https://www.merci-app.com/app/uploads/2023/07/firefox.svg" alt=""></noscript>Ajouter à Firefox <span style="font-style:normal; font-weight:400;" class="has-font">(gratuit)</span></a></div>
+
+
+
+<div data-browser="chrome" class="wp-block-button xs-btn-40 visible-by-browser js-visible-by-browser visible-by-browser--chrome"><a data-category="click-cta" data-event="click-cta-install-extension" data-evt-trigger="click" data-goto="aHR0cHM6Ly9hc3NldHMubWVyY2ktYXBwLmNvbS93ZWJleHRlbnNpb24tcmV2aWV3cmVkaXJlY3QuaHRtbA==" data-label="click-cta-install-extension" class="wp-block-button__link wp-element-button btn btn--primary"><img class="wp-image-1491" style="width: 24px;" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="" data-lazy-src="https://www.merci-app.com/app/uploads/2023/07/chrome.svg"><noscript><img class="wp-image-1491" style="width: 24px;" src="https://www.merci-app.com/app/uploads/2023/07/chrome.svg" alt=""></noscript>Ajouter à Chrome <span style="font-style:normal; font-weight:400;" class="has-font">(gratuit)</span></a></div>
+
+
+
+<div data-browser="edge" class="wp-block-button xs-btn-40 visible-by-browser js-visible-by-browser visible-by-browser--edge"><a data-category="click-cta" data-event="click-cta-install-extension" data-evt-trigger="click" data-goto="aHR0cHM6Ly9hc3NldHMubWVyY2ktYXBwLmNvbS93ZWJleHRlbnNpb24tcmV2aWV3cmVkaXJlY3QuaHRtbA==" data-label="click-cta-install-extension" class="wp-block-button__link wp-element-button btn btn--primary"><img class="wp-image-1492" style="width: 24px;" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="" data-lazy-src="https://www.merci-app.com/app/uploads/2023/07/edge.svg"><noscript><img class="wp-image-1492" style="width: 24px;" src="https://www.merci-app.com/app/uploads/2023/07/edge.svg" alt=""></noscript>Ajouter à Edge <span style="font-style:normal; font-weight:400;" class="has-font">(gratuit)</span></a></div>
+
+
+
+<div data-browser="safari" class="wp-block-button xs-btn-40 visible-by-browser js-visible-by-browser visible-by-browser--safari"><a data-category="click-cta" data-event="click-cta-install-extension" data-evt-trigger="click" data-goto="aHR0cHM6Ly9hc3NldHMubWVyY2ktYXBwLmNvbS93ZWJleHRlbnNpb24tcmV2aWV3cmVkaXJlY3QuaHRtbA==" data-label="click-cta-install-extension" class="wp-block-button__link wp-element-button btn btn--primary">Essayer gratuitement</a></div>
+</div>
+
+
+
+<div class="wp-block-buttons alignwide is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-20 wp-block-buttons-is-layout-flex block-visibility-hide-large-screen block-visibility-hide-medium-screen justify-center justify-start@md">
+<div class="wp-block-button"><a data-goto="aHR0cHM6Ly93ZWIubWVyY2ktYXBwLmNvbS9yZWdpc3RyYXRpb24=" class="wp-block-button__link wp-element-button btn btn--primary">Essayer gratuitement</a></div>
+</div>
+
+
+
+<p></p>
+
+
+
+<div class="wp-block-group is-content-justification-center is-nowrap is-layout-flex wp-container-core-group-is-layout-60 wp-block-group-is-layout-flex">
+<div class="trustpilot-widget" data-locale="fr-FR" data-template-id="5419b732fbfb950b10de65e5" data-businessunit-id="63ce547adc605ae34625f153" data-style-height="24px" data-style-width="100%">
+<a href="https://fr.trustpilot.com/review/merci-app.com" target="_blank" rel="noopener">Trustpilot</a>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="wp-block-group alignfull has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+<div class="wp-block-group alignwide has-contrast-50-background-color has-background has-global-padding is-layout-constrained wp-container-core-group-is-layout-71 wp-block-group-is-layout-constrained" style="padding-top:var(--wp--preset--spacing--lg);padding-right:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--lg);padding-left:var(--wp--preset--spacing--md)"><div class="wp-block-bsaweb-blocks-grid has-small-font-size bsaweb-grid bsaweb-gap-lg">
+<div class="wp-block-bsaweb-blocks-grid__item wp-block-bsaweb-blocks-grid-item is-layout-flow wp-container-bsaweb-blocks-grid-item-is-layout-3 wp-block-grid-item-is-layout-flow bsaweb-col@sm bsaweb-col@lg">
+
+<div class="wp-block-group is-layout-flow wp-container-core-group-is-layout-63 wp-block-group-is-layout-flow">
+<p class="has-contrast-500-color has-text-color" style="font-style:normal;font-weight:500">MerciApp</p>
+
+
+<span data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9hLXByb3Bvcy8=" class="obf-link" tabindex="0" style="cursor:pointer;">A propos</span>
+
+
+
+<p style="font-style:normal;font-weight:500"></p>
+
+
+<span data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS90YXJpZnMv" class="obf-link" tabindex="0" style="cursor:pointer;">Tarifs</span>
+
+
+
+<p style="font-style:normal;font-weight:500"></p>
+
+
+<span data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9hdmlzLWNvcnJlY3RldXItb3J0aG9ncmFwaGUtZ3JhbW1haXJl" class="obf-link" tabindex="0" style="cursor:pointer;">Avis</span>
+
+
+
+<p style="font-style:normal;font-weight:500"></p>
+
+
+<span data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9wYXJyYWluYWdl" class="obf-link" tabindex="0" style="cursor:pointer;">Parrainage</span>
+
+
+
+<p style="font-style:normal;font-weight:500"></p>
+
+
+<span data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9hZmZpbGlhdGlvbg==" class="obf-link" tabindex="0" style="cursor:pointer;">Affiliation</span>
+
+
+
+<p style="font-style:normal;font-weight:500"></p>
+
+
+<span data-obflink-url="aHR0cHM6Ly9haWRlLm1lcmNpLWFwcC5jb20vZnIv" class="obf-link" tabindex="0" style="cursor:pointer;">Centre d'aide</span>
+
+
+
+<p style="font-style:normal;font-weight:500"></p>
+
+
+<span data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9jb250YWN0" class="obf-link" tabindex="0" style="cursor:pointer;">Nous contacter</span>
+
+
+
+<p style="font-style:normal;font-weight:500"></p>
+
+
+
+<p style="font-style:normal;font-weight:500"></p>
+
+
+<span data-obflink-url="aHR0cHM6Ly9tZXJjaWFwcC5ub3Rpb24uc2l0ZS9SZWpvaW5kcmUtTWVyY2lBcHAtNDhmZDFkZDQ4MWZlNGJkMjlhNDE4OTUyYjYwYWQ2ZTE=" class="obf-link" tabindex="0" style="cursor:pointer;">Le guide du candidat</span>
+</div>
+
+</div>
+
+<div class="wp-block-bsaweb-blocks-grid__item wp-block-bsaweb-blocks-grid-item is-layout-flow wp-container-bsaweb-blocks-grid-item-is-layout-4 wp-block-grid-item-is-layout-flow bsaweb-col@sm bsaweb-col@lg">
+
+<div class="wp-block-group is-layout-flow wp-container-core-group-is-layout-64 wp-block-group-is-layout-flow">
+<p class="has-contrast-500-color has-text-color" style="font-style:normal;font-weight:500">Notre solution</p>
+
+
+<span data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9mb25jdGlvbm5hbGl0ZXM=" class="obf-link" tabindex="0" style="cursor:pointer;">Fonctionnalités</span>
+
+
+
+<p style="font-style:normal;font-weight:500"></p>
+
+
+<span data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9ldm9sdXRpb25z" class="obf-link" tabindex="0" style="cursor:pointer;">Évolutions</span>
+
+
+
+<p style="font-style:normal;font-weight:500"></p>
+
+
+<span data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9kZW1v" class="obf-link" tabindex="0" style="cursor:pointer;">Organiser une démo</span>
+
+
+
+<p style="font-style:normal;font-weight:500"></p>
+</div>
+
+
+
+<div class="wp-block-group is-layout-flow wp-container-core-group-is-layout-65 wp-block-group-is-layout-flow">
+<p class="has-contrast-500-color has-text-color" style="font-style:normal;font-weight:500">Ressources</p>
+
+
+
+<p style="font-style:normal;font-weight:500"></p>
+
+
+<span data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9ibG9n" class="obf-link" tabindex="0" style="cursor:pointer;">Blog</span>
+
+
+
+<p style="font-style:normal;font-weight:500"></p>
+
+
+<span data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9sZXhpcXVl" class="obf-link" tabindex="0" style="cursor:pointer;">Lexique</span>
+
+
+
+<p style="font-style:normal;font-weight:500"></p>
+
+
+<span data-obflink-url="aHR0cHM6Ly9kaWN0aW9ubmFpcmUubWVyY2ktYXBwLmNvbS8=" class="obf-link" tabindex="0" style="cursor:pointer;">Dictionnaire en ligne</span>
+
+
+
+<p style="font-style:normal;font-weight:500"></p>
+
+
+<span data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9yZWdsZXMtZGUtZnJhbmNhaXM=" class="obf-link" tabindex="0" style="cursor:pointer;">Règles de français</span>
+
+
+
+<p style="font-style:normal;font-weight:500"></p>
+
+
+<span data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9ldHVkZS1vcnRob2dyYXBoZS1mcmFuY2Fpcw==" class="obf-link" tabindex="0" style="cursor:pointer;">Étude IFOP : Les Français et l'orthographe</span>
+
+
+
+<p style="font-style:normal;font-weight:500"></p>
+</div>
+
+</div>
+
+<div class="wp-block-bsaweb-blocks-grid__item wp-block-bsaweb-blocks-grid-item is-layout-flow wp-container-bsaweb-blocks-grid-item-is-layout-5 wp-block-grid-item-is-layout-flow bsaweb-col@sm bsaweb-col@lg">
+
+<div class="wp-block-group is-layout-flow wp-container-core-group-is-layout-66 wp-block-group-is-layout-flow">
+<p class="has-contrast-500-color has-text-color" style="font-style:normal;font-weight:500">Nos extensions navigateurs</p>
+
+
+<p><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2012%2012'%3E%3C/svg%3E" alt="logo chrome" width="12px" height="12px" data-lazy-src="https://www.merci-app.com/app/uploads/2023/10/chrome-1.svg" /><noscript><img src="https://www.merci-app.com/app/uploads/2023/10/chrome-1.svg" alt="logo chrome" width="12px" height="12px" /></noscript><span data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9nby9jb3JyZWN0ZXVyLWNocm9tZQ==" class="obf-link" tabindex="0" style="cursor:pointer;">Correcteur Chrome</span></p>
+
+
+
+<p style="font-style:normal;font-weight:500"></p>
+
+
+<p><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2012%2012'%3E%3C/svg%3E" width="12px" height="12px" data-lazy-src="https://www.merci-app.com/app/uploads/2023/10/firefox-1.svg" /><noscript><img src="https://www.merci-app.com/app/uploads/2023/10/firefox-1.svg" width="12px" height="12px" /></noscript><span data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9nby9jb3JyZWN0ZXVyLWZpcmVmb3g=" class="obf-link" tabindex="0" style="cursor:pointer;">Correcteur Firefox</span></p>
+
+
+
+<p style="font-style:normal;font-weight:500"></p>
+
+
+<p><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2012%2012'%3E%3C/svg%3E" alt="logo edge" width="12px" height="12px" data-lazy-src="https://www.merci-app.com/app/uploads/2023/10/edge-1.svg" /><noscript><img src="https://www.merci-app.com/app/uploads/2023/10/edge-1.svg" alt="logo edge" width="12px" height="12px" /></noscript><span data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9nby9jb3JyZWN0ZXVyLWVkZ2U=" class="obf-link" tabindex="0" style="cursor:pointer;">Correcteur Edge</span></p>
+
+
+
+<p style="font-style:normal;font-weight:500"></p>
+</div>
+
+
+
+<div class="wp-block-group is-layout-flow wp-container-core-group-is-layout-67 wp-block-group-is-layout-flow">
+<p class="has-contrast-500-color has-text-color" style="font-style:normal;font-weight:500">Correcteur multilingue</p>
+
+
+<p><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2012%2012'%3E%3C/svg%3E" alt="logo anglais" width="12px" height="12px" data-lazy-src="https://www.merci-app.com/app/uploads/2024/09/flag-en.svg" /><noscript><img src="https://www.merci-app.com/app/uploads/2024/09/flag-en.svg" alt="logo anglais" width="12px" height="12px" /></noscript><span data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9jb3JyZWN0ZXVyLWFuZ2xhaXMtZW4tbGlnbmU=" class="obf-link" tabindex="0" style="cursor:pointer;">Correcteur anglais</span></p>
+
+
+<p><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2012%2012'%3E%3C/svg%3E" alt="logo espagnol" width="12px" height="12px" data-lazy-src="https://www.merci-app.com/app/uploads/2024/09/flag-es.svg" /><noscript><img src="https://www.merci-app.com/app/uploads/2024/09/flag-es.svg" alt="logo espagnol" width="12px" height="12px" /></noscript><span data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9jb3JyZWN0ZXVyLWVzcGFnbm9sLWVuLWxpZ25l" class="obf-link" tabindex="0" style="cursor:pointer;">Correcteur espagnol</span></p>
+
+
+<p><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2012%2012'%3E%3C/svg%3E" alt="logo allemand" width="12px" height="12px" data-lazy-src="https://www.merci-app.com/app/uploads/2024/09/flag-all.svg" /><noscript><img src="https://www.merci-app.com/app/uploads/2024/09/flag-all.svg" alt="logo allemand" width="12px" height="12px" /></noscript><span data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9jb3JyZWN0ZXVyLWFsbGVtYW5kLWVuLWxpZ25l" class="obf-link" tabindex="0" style="cursor:pointer;">Correcteur allemand</span></p>
+
+
+<p><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2012%2012'%3E%3C/svg%3E" alt="logo portugais" width="12px" height="12px" data-lazy-src="https://www.merci-app.com/app/uploads/2024/09/flag-pt.svg" /><noscript><img src="https://www.merci-app.com/app/uploads/2024/09/flag-pt.svg" alt="logo portugais" width="12px" height="12px" /></noscript><span data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9jb3JyZWN0ZXVyLXBvcnR1Z2Fpcy1lbi1saWduZQ==" class="obf-link" tabindex="0" style="cursor:pointer;">Correcteur portugais</span></p>
+</div>
+
+</div>
+
+<div class="wp-block-bsaweb-blocks-grid__item wp-block-bsaweb-blocks-grid-item is-layout-flow wp-container-bsaweb-blocks-grid-item-is-layout-6 wp-block-grid-item-is-layout-flow bsaweb-col@sm bsaweb-col@lg">
+
+<div class="wp-block-group is-layout-flow wp-container-core-group-is-layout-68 wp-block-group-is-layout-flow">
+<p class="has-contrast-500-color has-text-color" style="font-style:normal;font-weight:500">Comparer</p>
+
+
+<span data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9jb21wYXJhdGlmLWNvcnJlY3RldXItZ21haWw=" class="obf-link" tabindex="0" style="cursor:pointer;">Correcteur Gmail</span>
+
+
+
+<p style="font-style:normal;font-weight:500"></p>
+
+
+<span data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9jb21wYXJhdGlmLWNvcnJlY3RldXItb3V0bG9vaw==" class="obf-link" tabindex="0" style="cursor:pointer;">Correcteur Outlook</span>
+
+
+
+<p style="font-style:normal;font-weight:500"></p>
+
+
+
+<p style="font-style:normal;font-weight:500"></p>
+
+
+<span data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9hcnRpY2xlL2xhbmd1YWdldG9vbC1tZXJjaWFwcA==" class="obf-link" tabindex="0" style="cursor:pointer;">Alternative à LanguageTool</span>
+
+
+
+<p style="font-style:normal;font-weight:500"></p>
+
+
+<span data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9nby9tZWlsbGV1cmUtYWx0ZXJuYXRpdmUtYS1hbnRpZG90ZQ==" class="obf-link" tabindex="0" style="cursor:pointer;">Alternative à Antidote</span>
+
+
+
+<p style="font-style:normal;font-weight:500"></p>
+
+
+<span data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9hcnRpY2xlL2dyYW1tYXJseS1lcXVpdmFsZW50LWZyYW5jYWlz" class="obf-link" tabindex="0" style="cursor:pointer;">Alternative à Grammarly</span>
+
+
+
+<p style="font-style:normal;font-weight:500"></p>
+</div>
+
+</div>
+</div>
+
+
+<hr class="wp-block-separator has-text-color has-contrast-300-color has-alpha-channel-opacity has-contrast-300-background-color has-background"/>
+
+
+<div class="wp-block-bsaweb-blocks-grid has-small-font-size bsaweb-grid bsaweb-gap-md bsaweb-justify-between">
+<div class="wp-block-bsaweb-blocks-grid__item wp-block-bsaweb-blocks-grid-item is-layout-flow wp-block-grid-item-is-layout-flow bsaweb-col-content">
+
+<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-69 wp-block-group-is-layout-flex"><span data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9pbmZvcy1sZWdhbGVzL2Nvb2tpZXM=" class="obf-link" tabindex="0" style="cursor:pointer;">Politique de cookies</span>
+
+
+<span data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9pbmZvcy1sZWdhbGVzL2NndXM=" class="obf-link" tabindex="0" style="cursor:pointer;">CGUS</span>
+
+
+<span data-obflink-url="aHR0cHM6Ly93d3cubWVyY2ktYXBwLmNvbS9pbmZvcy1sZWdhbGVzL3BvbGl0aXF1ZS1jb25maWRlbnRpYWxpdGU=" class="obf-link" tabindex="0" style="cursor:pointer;">Politique de confidentialité</span>
+</div>
+
+</div>
+
+<div class="wp-block-bsaweb-blocks-grid__item wp-block-bsaweb-blocks-grid-item is-layout-flow wp-block-grid-item-is-layout-flow bsaweb-col-content">
+
+<div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-70 wp-block-group-is-layout-flex">
+<p class="has-contrast-500-color has-text-color has-link-color wp-elements-7a7debda761132d6415f495ff6fd0726">© 2024 MerciApp.</p>
+
+
+
+<p class="has-contrast-500-color has-text-color has-link-color wp-elements-26bbf2fe13cc2156b074b0a7934fabd5">Tous droits réservés.</p>
+</div>
+
+</div>
+</div></div>
+</div>
+		
+	</footer>
+
+</div>
+
+<div id="bravepop_element_tooltip"></div><div id="bravepop_element_lightbox"><div id="bravepop_element_lightbox_close" onclick="brave_lightbox_close()"></div><div id="bravepop_element_lightbox_content"></div></div><script type="rocketlazyloadscript">wisepops("properties", { pagetype: "post", pageblogcategory: "redaction" }, { temporary: true });</script><style id='core-block-supports-inline-css'>
+.wp-elements-523a4b7ee14245dd48f1f64f092f8514 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--contrast-900);}.wp-container-core-buttons-is-layout-1{justify-content:center;}.wp-container-core-group-is-layout-1 > .alignfull{margin-right:calc(0px * -1);margin-left:calc(0px * -1);}.wp-container-core-group-is-layout-2 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-2 > * + *{margin-block-start:var(--wp--preset--spacing--xs);margin-block-end:0;}.wp-elements-74c32d2623b45feb37791d9308f60d1d a:where(:not(.wp-element-button)){color:var(--wp--preset--color--contrast-900);}.wp-container-core-group-is-layout-5 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-5 > * + *{margin-block-start:var(--wp--preset--spacing--xs);margin-block-end:0;}.wp-container-core-group-is-layout-6 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:35rem;margin-left:0 !important;margin-right:auto !important;}.wp-container-core-group-is-layout-6 > .alignwide{max-width:35rem;}.wp-container-core-group-is-layout-6 .alignfull{max-width:none;}.wp-container-core-group-is-layout-7 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-7 > * + *{margin-block-start:var(--wp--preset--spacing--xs);margin-block-end:0;}.wp-container-core-group-is-layout-8 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:100%;margin-left:0 !important;margin-right:auto !important;}.wp-container-core-group-is-layout-8 > .alignwide{max-width:100%;}.wp-container-core-group-is-layout-8 .alignfull{max-width:none;}.wp-container-core-group-is-layout-9{flex-wrap:nowrap;gap:var(--wp--preset--spacing--xs);align-items:center;}.wp-elements-adf45aaf009d7c115a0ee745f0750141 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--base);}.wp-elements-adf45aaf009d7c115a0ee745f0750141 a:where(:not(.wp-element-button)):hover{color:var(--wp--preset--color--base);}.wp-container-core-buttons-is-layout-5{justify-content:flex-end;}.wp-container-core-group-is-layout-10 > .alignfull{margin-right:calc(0px * -1);}.wp-container-core-columns-is-layout-1{flex-wrap:nowrap;gap:2em 0;}.wp-container-core-group-is-layout-13{flex-wrap:nowrap;justify-content:center;}.wp-elements-42d9dc3c3fc6815a89ad5971becf335f a:where(:not(.wp-element-button)){color:var(--wp--preset--color--base);}.wp-elements-42d9dc3c3fc6815a89ad5971becf335f a:where(:not(.wp-element-button)):hover{color:var(--wp--preset--color--base);}.wp-container-core-columns-is-layout-2{flex-wrap:nowrap;gap:var(--wp--preset--spacing--xs) 2em;}.wp-elements-dd25f290511aa683565a687c35553413 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--base);}.wp-elements-dd25f290511aa683565a687c35553413 a:where(:not(.wp-element-button)):hover{color:var(--wp--preset--color--base);}.wp-container-core-group-is-layout-15{flex-wrap:nowrap;gap:12px;justify-content:center;}.wp-container-core-group-is-layout-17{flex-wrap:nowrap;gap:var(--wp--preset--spacing--xs);align-items:center;}.wp-container-core-buttons-is-layout-6{justify-content:flex-end;}.wp-container-core-group-is-layout-18 > .alignfull{margin-right:calc(0px * -1);}.wp-container-core-columns-is-layout-3{flex-wrap:nowrap;gap:2em 0;}.wp-container-core-group-is-layout-21{flex-wrap:nowrap;justify-content:center;}.wp-container-core-columns-is-layout-4{flex-wrap:nowrap;gap:var(--wp--preset--spacing--xs) 2em;}.wp-container-core-group-is-layout-23{flex-wrap:nowrap;gap:12px;justify-content:center;}.wp-container-bsaweb-blocks-grid-item-is-layout-1 > *{margin-block-start:0;margin-block-end:0;}.wp-container-bsaweb-blocks-grid-item-is-layout-1 > * + *{margin-block-start:0;margin-block-end:0;}.wp-elements-7dd2c7de86faedffdc1e33e975744a25 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--white);}.wp-container-core-group-is-layout-25{flex-wrap:nowrap;}.wp-elements-974fe82e98b447eec60b90af8d2e0e1b a:where(:not(.wp-element-button)){color:var(--wp--preset--color--contrast-600);}.wp-container-core-group-is-layout-26 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-26 > * + *{margin-block-start:0.5rem;margin-block-end:0;}.wp-container-bsaweb-blocks-grid-item-is-layout-2 > *{margin-block-start:0;margin-block-end:0;}.wp-container-bsaweb-blocks-grid-item-is-layout-2 > * + *{margin-block-start:var(--wp--preset--spacing--xs);margin-block-end:0;}.wp-container-core-buttons-is-layout-8{justify-content:center;}.wp-container-core-group-is-layout-27 > .alignfull{margin-right:calc(0px * -1);margin-left:calc(0px * -1);}.wp-container-core-group-is-layout-28 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-28 > * + *{margin-block-start:var(--wp--preset--spacing--xs);margin-block-end:0;}.wp-container-core-group-is-layout-31 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-31 > * + *{margin-block-start:var(--wp--preset--spacing--xs);margin-block-end:0;}.wp-container-core-group-is-layout-32 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:35rem;margin-left:0 !important;margin-right:auto !important;}.wp-container-core-group-is-layout-32 > .alignwide{max-width:35rem;}.wp-container-core-group-is-layout-32 .alignfull{max-width:none;}.wp-container-core-group-is-layout-33 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-33 > * + *{margin-block-start:var(--wp--preset--spacing--xs);margin-block-end:0;}.wp-container-core-group-is-layout-34 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:100%;margin-left:0 !important;margin-right:auto !important;}.wp-container-core-group-is-layout-34 > .alignwide{max-width:100%;}.wp-container-core-group-is-layout-34 .alignfull{max-width:none;}.wp-container-content-1{flex-basis:450px;}.wp-container-core-group-is-layout-39{flex-wrap:nowrap;gap:0;justify-content:center;}.wp-container-core-group-is-layout-40 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-40 > * + *{margin-block-start:var(--wp--preset--spacing--lg);margin-block-end:0;}.wp-container-content-2{flex-basis:450px;}.wp-container-core-group-is-layout-41 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-41 > * + *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-42{flex-wrap:nowrap;justify-content:center;}.wp-container-core-group-is-layout-43 > .alignfull{margin-right:calc(var(--wp--preset--spacing--md) * -1);margin-left:calc(var(--wp--preset--spacing--md) * -1);}.wp-container-core-buttons-is-layout-13{justify-content:center;}.wp-container-core-group-is-layout-45 > .alignfull{margin-right:calc(0px * -1);margin-left:calc(0px * -1);}.wp-container-core-group-is-layout-46 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-46 > * + *{margin-block-start:var(--wp--preset--spacing--xs);margin-block-end:0;}.wp-container-core-group-is-layout-49 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-49 > * + *{margin-block-start:var(--wp--preset--spacing--xs);margin-block-end:0;}.wp-container-core-group-is-layout-50 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:35rem;margin-left:0 !important;margin-right:auto !important;}.wp-container-core-group-is-layout-50 > .alignwide{max-width:35rem;}.wp-container-core-group-is-layout-50 .alignfull{max-width:none;}.wp-container-core-group-is-layout-51 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-51 > * + *{margin-block-start:var(--wp--preset--spacing--xs);margin-block-end:0;}.wp-container-core-group-is-layout-52 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:100%;margin-left:0 !important;margin-right:auto !important;}.wp-container-core-group-is-layout-52 > .alignwide{max-width:100%;}.wp-container-core-group-is-layout-52 .alignfull{max-width:none;}.wp-container-core-group-is-layout-53 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-53 > * + *{margin-block-start:var(--wp--preset--spacing--sm);margin-block-end:0;}.wp-container-core-group-is-layout-54 > .alignfull{margin-right:calc(0px * -1);margin-left:calc(0px * -1);}.wp-container-core-group-is-layout-54 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-54 > * + *{margin-block-start:0;margin-block-end:0;}.wp-container-2{top:calc(0px + var(--wp-admin--admin-bar--position-offset, 0px));position:sticky;z-index:10;}.wp-container-core-group-is-layout-55 > .alignfull{margin-right:calc(0px * -1);margin-left:calc(0px * -1);}.wp-container-core-group-is-layout-55 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-55 > * + *{margin-block-start:0;margin-block-end:0;}.wp-container-3{top:calc(0px + var(--wp-admin--admin-bar--position-offset, 0px));position:sticky;z-index:10;}.wp-container-core-group-is-layout-56 > .alignfull{margin-right:calc(0px * -1);margin-left:calc(0px * -1);}.wp-container-core-group-is-layout-56 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-56 > * + *{margin-block-start:0;margin-block-end:0;}.wp-container-4{top:calc(0px + var(--wp-admin--admin-bar--position-offset, 0px));position:sticky;z-index:10;}.wp-container-core-group-is-layout-57 > .alignfull{margin-right:calc(0px * -1);margin-left:calc(0px * -1);}.wp-container-core-group-is-layout-57 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-57 > * + *{margin-block-start:0;margin-block-end:0;}.wp-container-5{top:calc(0px + var(--wp-admin--admin-bar--position-offset, 0px));position:sticky;z-index:10;}.wp-container-core-group-is-layout-58 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:69rem;margin-left:auto !important;margin-right:auto !important;}.wp-container-core-group-is-layout-58 > .alignwide{max-width:69rem;}.wp-container-core-group-is-layout-58 .alignfull{max-width:none;}.wp-container-core-group-is-layout-58 > .alignfull{margin-right:calc(var(--wp--preset--spacing--lg) * -1);margin-left:calc(var(--wp--preset--spacing--lg) * -1);}.wp-container-core-buttons-is-layout-19{justify-content:center;}.wp-container-core-buttons-is-layout-20{justify-content:center;}.wp-container-core-group-is-layout-60{flex-wrap:nowrap;justify-content:center;}.wp-container-core-group-is-layout-61 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:45.5rem;margin-left:auto !important;margin-right:auto !important;}.wp-container-core-group-is-layout-61 > .alignwide{max-width:45.5rem;}.wp-container-core-group-is-layout-61 .alignfull{max-width:none;}.wp-container-core-group-is-layout-61 > .alignfull{margin-right:calc(var(--wp--preset--spacing--md) * -1);margin-left:calc(var(--wp--preset--spacing--md) * -1);}.wp-container-core-group-is-layout-63 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-63 > * + *{margin-block-start:var(--wp--preset--spacing--xs);margin-block-end:0;}.wp-container-bsaweb-blocks-grid-item-is-layout-3 > *{margin-block-start:0;margin-block-end:0;}.wp-container-bsaweb-blocks-grid-item-is-layout-3 > * + *{margin-block-start:var(--wp--preset--spacing--lg);margin-block-end:0;}.wp-container-core-group-is-layout-64 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-64 > * + *{margin-block-start:var(--wp--preset--spacing--xs);margin-block-end:0;}.wp-container-core-group-is-layout-65 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-65 > * + *{margin-block-start:var(--wp--preset--spacing--xs);margin-block-end:0;}.wp-container-bsaweb-blocks-grid-item-is-layout-4 > *{margin-block-start:0;margin-block-end:0;}.wp-container-bsaweb-blocks-grid-item-is-layout-4 > * + *{margin-block-start:var(--wp--preset--spacing--lg);margin-block-end:0;}.wp-container-core-group-is-layout-66 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-66 > * + *{margin-block-start:var(--wp--preset--spacing--xs);margin-block-end:0;}.wp-container-core-group-is-layout-67 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-67 > * + *{margin-block-start:var(--wp--preset--spacing--xs);margin-block-end:0;}.wp-container-bsaweb-blocks-grid-item-is-layout-5 > *{margin-block-start:0;margin-block-end:0;}.wp-container-bsaweb-blocks-grid-item-is-layout-5 > * + *{margin-block-start:var(--wp--preset--spacing--lg);margin-block-end:0;}.wp-container-core-group-is-layout-68 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-68 > * + *{margin-block-start:var(--wp--preset--spacing--xs);margin-block-end:0;}.wp-container-bsaweb-blocks-grid-item-is-layout-6 > *{margin-block-start:0;margin-block-end:0;}.wp-container-bsaweb-blocks-grid-item-is-layout-6 > * + *{margin-block-start:var(--wp--preset--spacing--lg);margin-block-end:0;}.wp-container-core-group-is-layout-69{flex-wrap:nowrap;}.wp-elements-7a7debda761132d6415f495ff6fd0726 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--contrast-500);}.wp-elements-26bbf2fe13cc2156b074b0a7934fabd5 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--contrast-500);}.wp-container-core-group-is-layout-70{flex-wrap:nowrap;gap:var(--wp--preset--spacing--xs);}.wp-container-core-group-is-layout-71 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:69rem;margin-left:auto !important;margin-right:auto !important;}.wp-container-core-group-is-layout-71 > .alignwide{max-width:69rem;}.wp-container-core-group-is-layout-71 .alignfull{max-width:none;}.wp-container-core-group-is-layout-71 > .alignfull{margin-right:calc(var(--wp--preset--spacing--md) * -1);margin-left:calc(var(--wp--preset--spacing--md) * -1);}.wp-container-core-group-is-layout-71 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-71 > * + *{margin-block-start:var(--wp--preset--spacing--lg);margin-block-end:0;}
+</style>
+
+<script id="leadin-script-loader-js-js-extra">
+var leadin_wordpress = {"userRole":"visitor","pageType":"post","leadinPluginVersion":"11.1.21"};
+</script>
+<script data-minify="1" src="https://www.merci-app.com/app/cache/min/1/143688371.js?ver=1736516081" id="leadin-script-loader-js-js" defer></script>
+<script id="wpil-frontend-script-js-extra">
+var wpilFrontend = {"ajaxUrl":"\/wp\/wp-admin\/admin-ajax.php","postId":"8028","postType":"post","openInternalInNewTab":"0","openExternalInNewTab":"0","disableClicks":"0","openLinksWithJS":"0","trackAllElementClicks":"0","clicksI18n":{"imageNoText":"Image in link: No Text","imageText":"Image Title: ","noText":"No Anchor Text Found"}};
+</script>
+<script src="https://www.merci-app.com/app/plugins/link-whisper-premium/js/frontend.min.js?ver=1718646073" id="wpil-frontend-script-js" defer></script>
+<script id="obflink-js-extra">
+var obflink_link_options = {"data_url":"data-obflink-url"};
+</script>
+<script src="https://www.merci-app.com/app/plugins/obflink/script/obflink.js?ver=2.1.3" id="obflink-js" defer></script>
+<script src="https://www.merci-app.com/app/themes/merciapp-wink/assets/js/scripts.js?ver=1.6.1" id="merciapp-wink-scripts-js" defer></script>
+<script src="https://www.merci-app.com/app/themes/merciapp-wink/assets/js/obf.js?ver=6.6.2" id="merciapp-wink-obf-js" defer></script>
+<script src="https://www.merci-app.com/app/themes/merciapp-wink/assets/js/visibility-by-browser.js?ver=1.6.1" id="merciapp-wink-visibility-by-browser-script-js" defer></script>
+<script src="https://www.merci-app.com/app/themes/merciapp-wink/assets/js/scrolling-list-animation.js?ver=1.6.1" id="merciapp-wink-scrolling-list-animation-script-js" defer></script>
+<script type="rocketlazyloadscript" data-rocket-src="//assets.cello.so/attribution/latest/cello-attribution.js?ver=6.6.2" id="cello-js" defer></script>
+<script data-minify="1" src="https://www.merci-app.com/app/cache/min/1/bootstrap/v5/tp.widget.bootstrap.min.js?ver=1736516081" id="trustpilot-js" defer></script>
+<script src="https://www.merci-app.com/app/plugins/bsaweb-blocks/build/components/read-more/index.js?ver=1.1.0" id="bsaweb-blocks-read-more-component-script-js" defer></script>
+<script src="https://www.merci-app.com/app/plugins/bsaweb-blocks/build/components/table-of-contents/index.js?ver=1.1.0" id="bsaweb-blocks-table-of-contents-component-script-js" defer></script>
+<script id="bravepop_front_js-js-extra">
+var bravepop_global = {"loggedin":"false","isadmin":"false","referer":"","security":"591d24ea3e","goalSecurity":"ec579842af","couponSecurity":"a8d524e188","cartURL":"","checkoutURL":"","ajaxURL":"https:\/\/www.merci-app.com\/wp\/wp-admin\/admin-ajax.php","field_required":"Required","no_html_allowed":"No Html Allowed","invalid_number":"Invalid Number","invalid_email":"Invalid Email","invalid_url":"Invalid URL","invalid_date":"Invalid Date","fname_required":"First Name is Required.","lname_required":"Last Name is Required.","username_required":"Username is Required.","email_required":"Email is Required.","email_invalid":"Invalid Email addresss.","pass_required":"Password is Required.","pass_short":"Password is too Short.","yes":"Yes","no":"No","login_error":"Something Went Wrong. Please contact the Site administrator.","pass_reset_success":"Please check your Email for the Password reset link.","customFonts":[],"disableGoogleFonts":"false"};
+</script>
+<script src="https://www.merci-app.com/app/plugins/brave-popup-builder/assets/frontend/brave.js?ver=6.6.2" id="bravepop_front_js-js" defer></script>
+
+<!-- DO NOT DEFER THIS SCRIPT -->
+<!-- Start Browser Detection -->
+<script data-minify="1" src="https://www.merci-app.com/app/cache/min/1/mci-checkactualbrowser.js?ver=1736516081" defer></script>
+<!-- End Browser Detection -->
+
+
+<!-- HED: Tracking initial pages and UTMs -->
+<script data-minify="1" src="https://www.merci-app.com/app/cache/min/1/scripts-growth/drop-tracking-cookie.js?ver=1736516081" type="text/javascript" defer></script>
+
+<!-- Extend Cookies -->
+<script type="rocketlazyloadscript">
+setTimeout(function() {
+  fetch("https://web.merci-app.com/api/analytics/extendcookies", {
+    credentials: "include",
+    method: "GET",
+    headers: {'Content-Type': 'application/json'},
+  }).then(function(res) {
+    return res.json();
+  }).then(function(res) {
+    console.log('Res:', res);
+  })
+  .catch(function(exc) {
+    console.error(exc);
+  });
+}, 1000);
+</script>
+
+<script type="rocketlazyloadscript">
+window.dataLayer = window.dataLayer || [];
+</script>
+<script>window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://www.merci-app.com/app/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script>
+</body>
+</html>
+
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1736516267 -->

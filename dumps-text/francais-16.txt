@@ -1,0 +1,315 @@
+   #Flux RSS des actualitÃ©s du site CoopIst (Cirad)
+
+     * Aller au contenu de la page
+     * Aller au menu de navigation
+     * Aller au bas de page
+
+     * La DiscO au Cirad
+     *
+
+   Texte à chercher : ____________ Recherche
+
+   MENU
+
+Coop-Ist
+
+Coopérer en information scientifique et technique
+
+     * La lettre de CoopIST
+     * Archives
+     * Cirad
+
+     * Twitter
+     * Bluesky
+     * Rss
+
+     * Trouver l'information
+          + Les ressources
+          + Du sujet à l'équation
+          + Choisir les sources
+          + Utiliser des moteurs de recherche
+          + Interroger les sources
+          + Créer une veille
+          + Utiliser un DOI
+          + Bénéficier du programme R4L
+     * Etre auteur
+          + Définir les auteurs
+          + Reconnaître tous les contributeurs
+          + Rédiger une affiliation
+          + Créer un ORCID ID
+          + Utiliser un identifiant chercheur
+          + Protéger vos droits d'auteurs
+          + Savoir lire un contrat d'édition
+          + Utiliser les licences Creative Commons
+     * Rédiger
+          + Style scientifique et technique
+          + Connaître les types d'articles scientifiques
+          + Article scientifique
+          + Policy brief
+          + Article de synthèse
+          + Fiche technique
+          + Réaliser un poster
+          + Utiliser les images
+          + Citer une référence
+     * Publier et diffuser
+          + Les modèles économiques des revues
+          + Rendre public son preprint
+          + Choisir la revue
+          + Publier dans une revue en libre accès
+          + Publier un ouvrage
+          + Publier un colloque
+          + Eviter les revues et éditeurs prédateurs
+          + Outils d'aide à la détection de revues et éditeurs prédateurs
+          + Eviter les conférences prédatrices
+          + Diffuser librement l'article
+          + Connaître les conditions d'autoarchivage avec Sherpa Romeo
+          + Déposer dans une archive ouverte
+          + Diffuser sa thèse sur internet
+          + Communiquer sur sa publication
+          + Connaître les réseaux sociaux scientifiques
+          + Agir pour le libre accès
+          + Publier dans un partenariat public-privé
+     * Evaluer
+          + Choisir un référentiel disciplinaire
+          + Indicateurs de notoriété
+          + Mesurer l'impact des publications
+          + Comprendre les classements internationaux
+          + Evaluer les publications d'une institution
+          + Top Citations
+          + Le h-index d'un chercheur
+          + Les altmetrics
+          + Le facteur d'impact et ses indicateurs associés
+          + Eigenfactor et Article Influence
+          + L'indicateur SNIP
+          + L'indicateur SJR
+          + Les indicateurs CiteScore et IPP
+          + Etre relecteur
+          + Comprendre les modèles d'évaluation d'un article
+     * Gérer des données
+          + S'initier en ligne aux données de la recherche
+          + Mettre en oeuvre une gestion des données
+          + Distinguer dans un article les jeux de données
+          + Se familiariser avec les PGD
+          + Rédiger un PGD
+          + Trouver des plans de gestion de données (PGD) pour s'en
+            inspirer
+          + Ouvrir ses jeux de données scientifiques
+          + Choisir le meilleur entrepôt de données
+          + Trouver des jeux de données via des bases
+          + Publier un Data paper
+          + Citer un jeu de données
+          + Mesurer l'impact des données
+          + Diffuser les données
+          + Attribuer un DOI à une plateforme scientifique
+
+     * Trouver l'information
+          + Les ressources
+          + Du sujet à l'équation
+          + Choisir les sources
+          + Utiliser des moteurs de recherche
+          + Interroger les sources
+          + Créer une veille
+          + Utiliser un DOI
+          + Bénéficier du programme R4L
+     * Etre auteur
+          + Définir les auteurs
+          + Reconnaître tous les contributeurs
+          + Rédiger une affiliation
+          + Créer un ORCID ID
+          + Utiliser un identifiant chercheur
+          + Protéger vos droits d'auteurs
+          + Savoir lire un contrat d'édition
+          + Utiliser les licences Creative Commons
+     * Rédiger
+          + Style scientifique et technique
+          + Connaître les types d'articles scientifiques
+          + Article scientifique
+               o Le message
+               o Le titre
+               o Les points forts
+               o Les mots-clés
+               o L'introduction
+               o Le résumé
+               o Matériels et méthodes
+               o Résultats
+               o Discussion
+               o Conclusion
+               o La lettre d'accompagnement
+          + Policy brief
+          + Article de synthèse
+          + Fiche technique
+          + Réaliser un poster
+          + Utiliser les images
+          + Citer une référence
+     * Publier et diffuser
+          + Les modèles économiques des revues
+          + Rendre public son preprint
+          + Choisir la revue
+          + Publier dans une revue en libre accès
+          + Publier un ouvrage
+          + Publier un colloque
+          + Eviter les revues et éditeurs prédateurs
+          + Outils d'aide à la détection de revues et éditeurs prédateurs
+          + Eviter les conférences prédatrices
+          + Diffuser librement l'article
+          + Connaître les conditions d'autoarchivage avec Sherpa Romeo
+          + Déposer dans une archive ouverte
+          + Diffuser sa thèse sur internet
+          + Communiquer sur sa publication
+          + Connaître les réseaux sociaux scientifiques
+          + Agir pour le libre accès
+          + Publier dans un partenariat public-privé
+     * Evaluer
+          + Choisir un référentiel disciplinaire
+          + Indicateurs de notoriété
+          + Mesurer l'impact des publications
+          + Comprendre les classements internationaux
+          + Evaluer les publications d'une institution
+          + Top Citations
+          + Le h-index d'un chercheur
+          + Les altmetrics
+          + Le facteur d'impact et ses indicateurs associés
+          + Eigenfactor et Article Influence
+          + L'indicateur SNIP
+          + L'indicateur SJR
+          + Les indicateurs CiteScore et IPP
+          + Etre relecteur
+          + Comprendre les modèles d'évaluation d'un article
+     * Gérer des données
+          + S'initier en ligne aux données de la recherche
+          + Mettre en oeuvre une gestion des données
+          + Distinguer dans un article les jeux de données
+          + Se familiariser avec les PGD
+          + Rédiger un PGD
+          + Trouver des plans de gestion de données (PGD) pour s'en
+            inspirer
+          + Ouvrir ses jeux de données scientifiques
+          + Choisir le meilleur entrepôt de données
+          + Trouver des jeux de données via des bases
+          + Publier un Data paper
+          + Citer un jeu de données
+          + Mesurer l'impact des données
+          + Diffuser les données
+          + Attribuer un DOI à une plateforme scientifique
+
+     * La Dist au Cirad
+     * Contact
+
+   Vous êtes ici : Coop IST > Gérer des données > Ouvrir ses jeux de
+   données scientifiques > 2 - Qu'est-ce que l'ouverture des données (Open
+   data) ?
+
+     * Gérer des données
+          + S'initier en ligne aux données de la recherche
+          + Mettre en oeuvre une gestion des données
+          + Distinguer dans un article les jeux de données
+          + Se familiariser avec les PGD
+          + Rédiger un PGD
+          + Trouver des plans de gestion de données (PGD) pour s'en
+            inspirer
+          + Ouvrir ses jeux de données scientifiques
+          + Choisir le meilleur entrepôt de données
+          + Trouver des jeux de données via des bases
+          + Publier un Data paper
+          + Citer un jeu de données
+          + Mesurer l'impact des données
+          + Diffuser les données
+          + Attribuer un DOI à une plateforme scientifique
+
+Ouvrir ses jeux de données scientifiques
+
+     * 1 - Qu'est-ce qu'un jeu de données scientifiques ?
+     * 2 - Qu'est-ce que l'ouverture des données (Open data) ?
+     * 3 - Ouvrir ses jeux de données est une décision stratégique
+     * 4 - Quelles sont les options pour diffuser ses données de recherche
+       ?
+     * 5 - Préparer ses données pour leur diffusion
+     * 6 - Choisir une licence de diffusion pour la réutilisation des
+       données
+     * Liens utiles
+
+2 - Qu' est-ce que l'ouverture des données (Open data) ?
+
+   L'ouverture des données (Open data en anglais) vise la diffusion
+   gratuite et à tous publics via internet des données d'origine publique
+   ou privée et leur libre réutilisation. Le terme ouvert désigne la
+   liberté d'utiliser, de modifier et de redistribuer les données, même si
+   cette liberté peut être encadrée par l'usage d'une licence de
+   diffusion.
+   L'ouverture des données de recherche (Open research data) s'inscrit
+   dans le mouvement mondial du libre accès à la connaissance (Open
+   knowledge) et plus largement de la Science ouverte (Open science (voir
+   la fiche CoopIST : Découvrir des dictionnaires sur la science ouverte),
+   qui considère la science comme un bien commun dont la diffusion est
+   d'intérêt général public.
+
+   L'ouverture des données de recherche répond ainsi à cinq enjeux :
+     * accélérer les découvertes scientifiques, les innovations et le
+       retour sur investissement en recherche et développement ;
+     * encourager la collaboration scientifique et les possibilités de
+       recherche interdisciplinaire ;
+     * éviter la duplication des expériences, favoriser la réutilisation
+       des données et minimiser le risque de perte des données ;
+     * assurer l'intégrité et la reproductibilité de la recherche
+       (meilleure qualité des résultats, transparence des méthodologies) ;
+     * accéder librement à une masse de données ouvrant de nouveaux champs
+       d'analyse non envisagés par le producteur des données (gain de
+       temps et de ressources)
+
+   Share
+   on
+   Facebook
+
+   Share
+   on
+   Twitter
+
+   Share
+   by
+   E-Mail
+
+PDF
+
+   Ouvrir ses jeux de données scientifiques (application/pdf | 2024-08-06
+   | 327.09 Ko)
+
+Citer ce document
+
+   Barthélemy C. 2024. Ouvrir ses jeux de données scientifiques, en 6
+   points. 2024 . Montpellier (FRA) : CIRAD, 6 p.
+   https://doi.org/10.18167/coopist/0059
+
+Voir aussi
+
+   Rédiger et publier un data paper
+
+   Citer un jeu de données scientifiques
+
+Contact
+
+   coopist@cirad.fr
+
+   logocirad_fff2_listitem
+
+   L'organisme français de recherche agronomique et de coopération
+   internationale pour le développement durable des régions tropicales et
+   méditerranéennes
+
+   En savoir plus
+
+   La DiscO au Cirad
+
+
+   La Délégation à l'information scientifique et à la science ouverte
+   (DiscO) développe des produits et services pour accompagner les
+   collectifs du Cirad dans l'accès aux ressources documentaires,
+   l'analyse d'information, la publication, la gestion des données de
+   recherche et la valorisation de la production scientifique. En savoir
+   plus
+
+   © Cirad, 2012- A propos de CoopIST Mentions légales Cookies et
+   statistiques Publié sous licence CC-BY-NC-SA
+
+   Javascript est désactivé. Bien que nous fassions le maximum pour que le
+   site reste consultable sans Javascript, vous devriez l'activer afin de
+   disposer de toutes les fonctionnalités du site.

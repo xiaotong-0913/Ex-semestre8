@@ -1,0 +1,19 @@
+   (BUTTON) Menu
+
+   Ouverture data.gouv.fr
+
+   Tableau de suivi des ouvertures de données, codes sources et API
+   publics
+   (BUTTON) Fermer
+--
+     * Nous contacter
+
+Suivre les ouvertures de données publiques
+
+   Les données ouvertes (open data) sont des données en accès libre et
+--
+Données de forte valeur
+
+   Suivi de l'ouverture des données de forte valeur identifiées par la
+   Commission européenne.
+

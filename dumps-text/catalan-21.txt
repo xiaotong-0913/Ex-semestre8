@@ -1,258 +1,758 @@
-   #alternate alternate alternate alternate alternate alternate alternate
-   alternate alternate alternate alternate Consorci AOC » Canal
-   d'informació Consorci AOC » Canal dels comentaris Consorci AOC »
-   Presentació del llibre: Obertura i reutilització de dades públiques
-   Canal dels comentaris alternate alternate alternate
+   #alternate alternate alternate alternate alternate alternate
 
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-NLTL62
+   [tr?id=1298986093515085&ev=PageView&noscript=1]
 
-   Saltar al contingut
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-K9KDB48
+
+   crt1 0 0.00
 
    (BUTTON)
-   AOC
 
-     * Serveis
-     * Innovació
-     * Indicadors
-     * Suport
-     * Seu-e
-     * Blog
-     * Estat Serveis
-
-   (BUTTON) Cerca
-   ____________________ ____________________ Start search
+   Enviaments a botiga gratis
+   Enviaments gratuïts a domicili a partir de 30€
+   Devolucions fins al 15 de Gener
+   FINS AL 50% EN REBAIXES
+   (BUTTON)
+   (BUTTON)
+   0
    (BUTTON)
 
-   Generic selectors
+          + DONA
+          + HOME
+          + KIDS
+     * NEW COLLECTION
+     * REBAIXES 2025
+          + Veure-ho Tot VEURE-HO TOT
+          + Jaquetes JAQUETES
+          + Pantalons PANTALONS
+          + Punt i Jerseis PUNT I JERSEIS
+          + Dessuadores DESSUADORES
+          + Camises CAMISES
+          + Polos POLOS
+          + Roba interior ROBA INTERIOR
+          + Calçat CALÇAT
+          + Samarretes SAMARRETES
+     * JAQUETES I ABRICS
+          + Abrics & Parkas ABRICS & PARKAS
+          + Caçadora efecte pell CAÇADORA EFECTE PELL
+          + Jaquetes Caçadores JAQUETES CAÇADORES
+          + Caçadora Denim CAÇADORA DENIM
+          + Armilles ARMILLES
+          + Veure-ho Tot VEURE-HO TOT
+     * PANTALONS & JEANS
+          + Veure tot VEURE TOT
+          + SLIM SLIM
+          + straigth STRAIGTH
+          + Cargo CARGO
+          + Chino CHINO
+          + Joggers JOGGERS
+          + Bikers BIKERS
+          + Colors COLORS
+     * SAMARRETES
+          + veure-ho Tot VEURE-HO TOT
+          + Samarreta màniga llarga SAMARRETA MÀNIGA LLARGA
+          + Samarreta màniga curta SAMARRETA MÀNIGA CURTA
+          + Samarreta sense mànigues SAMARRETA SENSE MÀNIGUES
+     * CAMISES
+          + Camises màniga llarga CAMISES MÀNIGA LLARGA
+          + Camises màniga curta CAMISES MÀNIGA CURTA
+          + veure-ho Tot VEURE-HO TOT
+     * DESSUADORES
+     * PUNT & JERSEIS
+     * POLOS
+          + Polo Màniga Curta POLO MÀNIGA CURTA
+          + Polo màniga llarga POLO MÀNIGA LLARGA
+          + Veure-ho Tot VEURE-HO TOT
+     * ROBA INTERIOR & ACCESSORIS
+          + Roba interior ROBA INTERIOR
+          + Cinturons CINTURONS
+          + Mitjons MITJONS
+          + Carteres CARTERES
+          + Pijames PIJAMES
+          + Barrets hivern BARRETS HIVERN
+          + Cobreix-mascareta COBREIX-MASCARETA
+          + Veure-ho Tot VEURE-HO TOT
+     * CALÇAT
+     * MOTXILLES
+     * Inici sessió/Registre
+     * Idioma : Català
+          + Français
+          + Español
+          + English
+          + Deutsch
+          + Català
+     * Botigues
+     * Qui som
 
-   [ ]
-   Exact matches only
-   [X]
-   Search in title
-   [X]
-   Search in content
-   [X]
+   [banner-symbol-white.svg]
+   Enviaments a botiga gratis
+   Enviaments gratuïts a domicili a partir de 30€
+   Devolucions fins al 15 de Gener
+   FINS AL 50% EN REBAIXES
+     * (BUTTON)
 
-   Post Type Selectors
+     * (BUTTON) CERCA
+       ____________________
+       (BUTTON)
+       (BUTTON)
+     * (BUTTON) CA
+     *
+     *
+     * 0
 
-   [X]
-   [X]
-   [X]
-   [X]
-
-   (BUTTON) Tancar
-   (BUTTON) CA
-     * العربية
-     * Català
-     * Deutsch
-     * English
-     * Español
+   Selecciona idioma
      * Français
-     * Italiano
-     * Nederlands
-     * Português
-     * Русский
-     * 简体中文
-
-   fletxa esquerra Blog AOC
-   Subscriure'm
-     * Administració oberta
-     *
-     * Dades Obertes i Transparència
-     *
-
-Presentació del llibre: Obertura i reutilització de dades públiques
-
-   1 desembre 2014
-   Aquesta publicació té més de 1 any. És possible que el contingut no
-   estigui actualitzat.
-
-   presentacio_llibre La Generalitat de Catalunya, de la mà de la Direcció
-   General d’Atenció Ciutadana i Difusió, va presentar el passat  17 de
-   novembre el llibre Obertura i reutilització de dades públiques, segon
-   volum de la col·lecció ‘Govern Obert’, l’autor del qual és Martín
-   Álvarez Espinar, responsable de l’Oficina del World Wide Web Consortium
-   (W3C) a Espanya i membre de la Fundació CTIC.
-
-   En aquest llibre, s’analitza l’obertura de dades i el foment de la
-   reutilització de la informació pública, el seu cicle de vida, el marc
-   legal vigent i examina algunes de les principals iniciatives a escala
-   internacional. A més, contextualitza el món de les dades obertes en un
-   marc general però també en els àmbits que ens són més propers:
-   comunitat nacional, àmbit professional i institucional, internacional,
-   etc. Ja ens el podem descarregar en català, castellà i anglès.
-
-   Per a més informació sobre el llibre o l’autor o si voleu
-   descarregar-vos el llibre, podeu accedir al següent enllaç: Obertura i
-   reutilització de dades públiques
-
-Entrades relacionades
-
-     * Administració oberta
-     *
-     * Certificació digital
-     *
-     * Identitat digital
-     *
-     * Identitat i signatura digital
-     *
-
-   L’AOC culmina el pla 2024 de certificació de l’ENS de nivell alt amb un
-   nou servei: la Plataforma de Serveis d’Identificació i Signatura
-
-     * Administració oberta
-     *
-     * Innovació
-     *
-     * Serveis a la ciutadania
-     *
-     * Seu i Tauler electrònic
-     *
-     * Tramitació electrònica
-     *
-
-   El Sistema de Disseny AOC, ara a disposició de les administracions
-   públiques
-
-     * Administració oberta
-     *
-
-   Es posa en marxa l’Observatori de l’Administració Digital de la
-   Generalitat de Catalunya
-
-Subscriviu-vos al butlletí AOC
-
-   Rebeu setmanalment la dosis de vitamines per avançar cap a un govern
-   digital
-   (BUTTON) Subscriure'm
-
-   X
-   #alternate alternate alternate alternate alternate alternate alternate
-   alternate alternate alternate alternate Consorci AOC » Canal
-   d'informació Consorci AOC » Canal dels comentaris Consorci AOC »
-   Presentació del llibre: Obertura i reutilització de dades públiques
-   Canal dels comentaris alternate alternate alternate
-
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-NLTL62
-
-   Saltar al contingut
-
-   (BUTTON)
-   AOC
-
-     * Serveis
-     * Innovació
-     * Indicadors
-     * Suport
-     * Seu-e
-     * Blog
-     * Estat Serveis
-
-   (BUTTON) Cerca
-   ____________________ ____________________ Start search
-   (BUTTON)
-
-   Generic selectors
-
-   [ ]
-   Exact matches only
-   [X]
-   Search in title
-   [X]
-   Search in content
-   [X]
-
-   Post Type Selectors
-
-   [X]
-   [X]
-   [X]
-   [X]
-
-   (BUTTON) Tancar
-   (BUTTON) CA
-     * العربية
-     * Català
-     * Deutsch
-     * English
      * Español
+     * English
+     * Deutsch
+     * Català
+
+   (BUTTON)
+   La meva compra
+   0 Productes
+   No tens articles a la cistella.
+
+   (BUTTON)
+     * DONA
+     * HOME
+     * KIDS
+
+     * NEW COLLECTION
+     * REBAIXES 2025
+       VEURE-HO TOT
+       JAQUETES
+       PANTALONS
+       PUNT I JERSEIS
+       DESSUADORES
+       CAMISES
+       POLOS
+       ROBA INTERIOR
+       CALÇAT
+       SAMARRETES
+     * JAQUETES I ABRICS
+       ABRICS & PARKAS
+       CAÇADORA EFECTE PELL
+       JAQUETES CAÇADORES
+       CAÇADORA DENIM
+       ARMILLES
+       VEURE-HO TOT
+     * PANTALONS & JEANS
+       VEURE TOT
+       SLIM
+       STRAIGTH
+       CARGO
+       CHINO
+       JOGGERS
+       BIKERS
+       COLORS
+     * SAMARRETES
+       VEURE-HO TOT
+       SAMARRETA MÀNIGA LLARGA
+       SAMARRETA MÀNIGA CURTA
+       SAMARRETA SENSE MÀNIGUES
+     * CAMISES
+       CAMISES MÀNIGA LLARGA
+       CAMISES MÀNIGA CURTA
+       VEURE-HO TOT
+     * DESSUADORES
+     * PUNT & JERSEIS
+     * POLOS
+       POLO MÀNIGA CURTA
+       POLO MÀNIGA LLARGA
+       VEURE-HO TOT
+     * ROBA INTERIOR & ACCESSORIS
+       ROBA INTERIOR
+       CINTURONS
+       MITJONS
+       CARTERES
+       PIJAMES
+       BARRETS HIVERN
+       COBREIX-MASCARETA
+       VEURE-HO TOT
+     * CALÇAT
+     * MOTXILLES
+
+     * Inici
+     * Home
+     * Samarretes
+     * Samarretes de màniga llarga i coll rodó amb obertura i estampat
+       davanter per a home de color blau indi
+
+   (BUTTON)
+   Samarretes de màniga llarga i coll rodó amb obertura i estampat
+   davanter per a home de color blau indi
+   Samarretes de màniga llarga i coll rodó amb obertura i estampat
+   davanter per a home de color blau indi
+   Samarretes de màniga llarga i coll rodó amb obertura i estampat
+   davanter per a home de color blau indi
+   Samarretes de màniga llarga i coll rodó amb obertura i estampat
+   davanter per a home de color blau indi
+   Samarretes de màniga llarga i coll rodó amb obertura i estampat
+   davanter per a home de color blau indi
+   Samarretes de màniga llarga i coll rodó amb obertura i estampat
+   davanter per a home de color blau indi 5
+   Samarretes de màniga llarga i coll rodó amb obertura i estampat
+   davanter per a home de color blau indi
+   Samarretes de màniga llarga i coll rodó amb obertura i estampat
+   davanter per a home de color blau indi
+   Ref. 2421ML13-000123
+
+Samarretes de màniga llarga i coll rodó amb obertura i estampat davanter per
+a home de color blau indi
+
+   35.99€
+   Talla
+   S (*)
+   M ( )
+   L ( )
+   XL ( )
+   3XL ( )
+   (BUTTON)
+     * Guia de talles Guia de talles
+     * Com mesurar la teva mida? Com mesurar la teva mida?
+
+   (BUTTON)
+   (BUTTON)
+   El model porta la talla M.
+   Incorpora un toc d'estil contemporani al teu guarda-roba amb la
+   samarreta de màniga llarga i coll rodó amb obertura i estampat davanter
+   per a home de color blau indi de Koroshi. Aquesta peça, confeccionada
+   en 100% cotó d'alta qualitat, és ideal per als que busquen un equilibri
+   perfecte entre comoditat i disseny modern.
+   El color blau indi, profund i versàtil, s´adapta fàcilment a qualsevol
+   ocasió, aportant un toc de sofisticació al teu look. El disseny de coll
+   rodó amb obertura afegeix un detall únic que complementa l'estampat
+   davanter, creant un look modern i cridaner que destaca entre les altres
+   opcions al teu armari.
+   La marca Koroshi, reconeguda pel seu compromís amb la qualitat i el
+   disseny innovador, ha creat aquesta samarreta per oferir una peça
+   duradora i confortable. El cotó 100% assegura una suavitat excepcional
+   i una transpirabilitat òptima, fent-la perfecta per fer servir durant
+   tot el dia, ja sigui en climes càlids o frescos.
+   Aquesta samarreta de màniga llarga compta amb un tall clàssic que
+   sʻadapta còmodament a qualsevol tipus de cos, proporcionant una silueta
+   afavoridora i actual. És fàcil de combinar amb texans, pantalons
+   casuals o fins i tot sota una jaqueta per a un look més formal, cosa
+   que la converteix en una peça essencial per a qualsevol ocasió.
+   Adquireix ara la samarreta de màniga llarga amb coll rodó, obertura i
+   estampat davanter de Koroshi de color blau indi i afegeix un toc
+   d'estil distintiu i elegant al teu vestuari. Amb aquesta peça, gaudiràs
+   d'una combinació perfecta de disseny i comoditat que esdevindrà un dels
+   teus favorits pel dia a dia.
+   Informació addicional
+   Composició
+     * 100% COTÓ
+
+   Cures
+     * Neteja en sec, amb percloroetilè
+     * No assecar a màquina
+     * No utilitzar lleixiu ni blanquejadors
+     * Planxar a temperatura màxima de 110 ºC
+     * Rentat a mà
+     * Rentat a màquina a temperatura màxima de 30ºC
+     * Rentat en fred
+
+   Enviaments Enviaments
+   Compra avui i rep la teva comanda de 2 a 4 dies Laborals a Espanya, 7 a
+   10 dies Laborals a comandes Internacionals.
+   Les comandes efectuades a partir de les 12h es preparen al dia següent.
+   Canvi i Devolucions Canvi i Devolucions
+   El client disposa de 30 dies naturals per fer un canvi.
+   (BUTTON)
+   (BUTTON) Talla
+   (BUTTON) (BUTTON) Afegir a la cistella
+   (BUTTON)
+   Talla
+   S (*)
+   M ( )
+   L ( )
+   XL ( )
+   3XL ( )
+   (BUTTON)
+     * Guia de talles Guia de talles
+     * Com mesurar la teva mida? Com mesurar la teva mida?
+
+   https://www.koroshishop.com/samarretes-màniga-llarga-coll-rodó-obertura
+   -estampat-davanter-home-color-blau-indi 2421ML13-000123 Samarretes de
+   màniga llarga i coll rodó amb obertura i estampat davanter per a home
+   de color blau indi
+   El model porta la talla M.
+   Incorpora un toc d'estil contemporani al teu guarda-roba amb la
+   samarreta de màniga llarga i coll rodó amb obertura i estampat davanter
+   per a home de color blau indi de Koroshi. Aquesta peça, confeccionada
+   en 100% cotó d'alta qualitat, és ideal per als que busquen un equilibri
+   perfecte entre comoditat i disseny modern.
+   El color blau indi, profund i versàtil, s´adapta fàcilment a qualsevol
+   ocasió, aportant un toc de sofisticació al teu look. El disseny de coll
+   rodó amb obertura afegeix un detall únic que complementa l'estampat
+   davanter, creant un look modern i cridaner que destaca entre les altres
+   opcions al teu armari.
+   La marca Koroshi, reconeguda pel seu compromís amb la qualitat i el
+   disseny innovador, ha creat aquesta samarreta per oferir una peça
+   duradora i confortable. El cotó 100% assegura una suavitat excepcional
+   i una transpirabilitat òptima, fent-la perfecta per fer servir durant
+   tot el dia, ja sigui en climes càlids o frescos.
+   Aquesta samarreta de màniga llarga compta amb un tall clàssic que
+   sʻadapta còmodament a qualsevol tipus de cos, proporcionant una silueta
+   afavoridora i actual. És fàcil de combinar amb texans, pantalons
+   casuals o fins i tot sota una jaqueta per a un look més formal, cosa
+   que la converteix en una peça essencial per a qualsevol ocasió.
+   Adquireix ara la samarreta de màniga llarga amb coll rodó, obertura i
+   estampat davanter de Koroshi de color blau indi i afegeix un toc
+   d'estil distintiu i elegant al teu vestuari. Amb aquesta peça, gaudiràs
+   d'una combinació perfecta de disseny i comoditat que esdevindrà un dels
+   teus favorits pel dia a dia.
+   https://www.koroshishop.com/cdnassets/2421ML13_000123_1_l.jpg 35.99
+   InStock /home/samarretes 0 -1
+   https://www.koroshishop.com/cdnassets/2421ML13_000123_1_s.jpg
+   (BUTTON) (BUTTON) (BUTTON) (BUTTON)
+   (BUTTON) (BUTTON)
+
+   Inicia sessió
+   Email ____________________
+   Contrasenya ____________________
+   Entra
+   Recorda'm la contrasenya Crea un compte
+   O accedeix amb...
+   Inicia sessió o crea el teu compte KORÖSHI amb el teu perfil social
+   facebook
+   facebook
+   google
+   google
+   Encara no tens compte?
+   Crea un compte a KORÖSHI i gestiona les teves comandes, guarda favorits
+   i molt més
+   Crea un compte
+
+   (BUTTON) Ajuda
+     * Fes que la Familia Koroshi creixi ¡
+     * Descompte Estudiants
+     * Atenció al client
+     * Koröshi Club
+     * Majoristes
+
+   (BUTTON) Empresa
+     * Qui som
+     * Oficines
+     * Botigues
+     * Sostenibilitat
+     * Franquícies
+     * Treballa amb nosaltres
+
+   (BUTTON) Guia de compra
+     * Formes de pagament
+     * Terminis de lliurament
+     * Enviaments
+     * Pagament Segur
+     * Devolucions
+     * Canvis
+
+   (BUTTON) Condicions legals
+     * Política de cookies
+     * Dret de Desistiment, Garantia Legal, Facturació i Litigis
+     * Condicions de compra
+     * Canal de l'Informant
+     * Política de privacitat
+     * Avís Legal
+
+   (BUTTON) Social
+     * Facebook
+     * Instagram
+     * Twitter
+     * Tik tok
+
+     * Koröshi a l'Apple App Store Koröshi a l'Apple App Store
+     * Koröshi a Google Play Koröshi a Google Play
+
+     * © 2025 KORÖSHI. Tots els drets reservats
+     * [Amazon-Pay.svg]
+     * [Bizum.svg]
+     * [Mastercard.svg]
+     * [logotipo-seQura-pastilla-_1_.jpg]
+     * [trustpilot-logo-2.png]
+     * [PayPal.svg]
+     * [Visa.svg]
+     * [klarna.png]
+     * [apple-pay-2-1.PNG]
+     * eCommerce by trilogi.com
+
+   © 2025 KORÖSHI. Tots els drets reservats
+   #alternate alternate alternate alternate alternate alternate
+
+   [tr?id=1298986093515085&ev=PageView&noscript=1]
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-K9KDB48
+
+   crt1 0 0.00
+
+   (BUTTON)
+
+   Enviaments a botiga gratis
+   Enviaments gratuïts a domicili a partir de 30€
+   Devolucions fins al 15 de Gener
+   FINS AL 50% EN REBAIXES
+   (BUTTON)
+   (BUTTON)
+   0
+   (BUTTON)
+
+          + DONA
+          + HOME
+          + KIDS
+     * NEW COLLECTION
+     * REBAIXES 2025
+          + Veure-ho Tot VEURE-HO TOT
+          + Jaquetes JAQUETES
+          + Pantalons PANTALONS
+          + Punt i Jerseis PUNT I JERSEIS
+          + Dessuadores DESSUADORES
+          + Camises CAMISES
+          + Polos POLOS
+          + Roba interior ROBA INTERIOR
+          + Calçat CALÇAT
+          + Samarretes SAMARRETES
+     * JAQUETES I ABRICS
+          + Abrics & Parkas ABRICS & PARKAS
+          + Caçadora efecte pell CAÇADORA EFECTE PELL
+          + Jaquetes Caçadores JAQUETES CAÇADORES
+          + Caçadora Denim CAÇADORA DENIM
+          + Armilles ARMILLES
+          + Veure-ho Tot VEURE-HO TOT
+     * PANTALONS & JEANS
+          + Veure tot VEURE TOT
+          + SLIM SLIM
+          + straigth STRAIGTH
+          + Cargo CARGO
+          + Chino CHINO
+          + Joggers JOGGERS
+          + Bikers BIKERS
+          + Colors COLORS
+     * SAMARRETES
+          + veure-ho Tot VEURE-HO TOT
+          + Samarreta màniga llarga SAMARRETA MÀNIGA LLARGA
+          + Samarreta màniga curta SAMARRETA MÀNIGA CURTA
+          + Samarreta sense mànigues SAMARRETA SENSE MÀNIGUES
+     * CAMISES
+          + Camises màniga llarga CAMISES MÀNIGA LLARGA
+          + Camises màniga curta CAMISES MÀNIGA CURTA
+          + veure-ho Tot VEURE-HO TOT
+     * DESSUADORES
+     * PUNT & JERSEIS
+     * POLOS
+          + Polo Màniga Curta POLO MÀNIGA CURTA
+          + Polo màniga llarga POLO MÀNIGA LLARGA
+          + Veure-ho Tot VEURE-HO TOT
+     * ROBA INTERIOR & ACCESSORIS
+          + Roba interior ROBA INTERIOR
+          + Cinturons CINTURONS
+          + Mitjons MITJONS
+          + Carteres CARTERES
+          + Pijames PIJAMES
+          + Barrets hivern BARRETS HIVERN
+          + Cobreix-mascareta COBREIX-MASCARETA
+          + Veure-ho Tot VEURE-HO TOT
+     * CALÇAT
+     * MOTXILLES
+     * Inici sessió/Registre
+     * Idioma : Català
+          + Français
+          + Español
+          + English
+          + Deutsch
+          + Català
+     * Botigues
+     * Qui som
+
+   [banner-symbol-white.svg]
+   Enviaments a botiga gratis
+   Enviaments gratuïts a domicili a partir de 30€
+   Devolucions fins al 15 de Gener
+   FINS AL 50% EN REBAIXES
+     * (BUTTON)
+
+     * (BUTTON) CERCA
+       ____________________
+       (BUTTON)
+       (BUTTON)
+     * (BUTTON) CA
+     *
+     *
+     * 0
+
+   Selecciona idioma
      * Français
-     * Italiano
-     * Nederlands
-     * Português
-     * Русский
-     * 简体中文
+     * Español
+     * English
+     * Deutsch
+     * Català
 
-   fletxa esquerra Blog AOC
-   Subscriure'm
-     * Administració oberta
-     *
-     * Dades Obertes i Transparència
-     *
+   (BUTTON)
+   La meva compra
+   0 Productes
+   No tens articles a la cistella.
 
-Presentació del llibre: Obertura i reutilització de dades públiques
+   (BUTTON)
+     * DONA
+     * HOME
+     * KIDS
 
-   1 desembre 2014
-   Aquesta publicació té més de 1 any. És possible que el contingut no
-   estigui actualitzat.
+     * NEW COLLECTION
+     * REBAIXES 2025
+       VEURE-HO TOT
+       JAQUETES
+       PANTALONS
+       PUNT I JERSEIS
+       DESSUADORES
+       CAMISES
+       POLOS
+       ROBA INTERIOR
+       CALÇAT
+       SAMARRETES
+     * JAQUETES I ABRICS
+       ABRICS & PARKAS
+       CAÇADORA EFECTE PELL
+       JAQUETES CAÇADORES
+       CAÇADORA DENIM
+       ARMILLES
+       VEURE-HO TOT
+     * PANTALONS & JEANS
+       VEURE TOT
+       SLIM
+       STRAIGTH
+       CARGO
+       CHINO
+       JOGGERS
+       BIKERS
+       COLORS
+     * SAMARRETES
+       VEURE-HO TOT
+       SAMARRETA MÀNIGA LLARGA
+       SAMARRETA MÀNIGA CURTA
+       SAMARRETA SENSE MÀNIGUES
+     * CAMISES
+       CAMISES MÀNIGA LLARGA
+       CAMISES MÀNIGA CURTA
+       VEURE-HO TOT
+     * DESSUADORES
+     * PUNT & JERSEIS
+     * POLOS
+       POLO MÀNIGA CURTA
+       POLO MÀNIGA LLARGA
+       VEURE-HO TOT
+     * ROBA INTERIOR & ACCESSORIS
+       ROBA INTERIOR
+       CINTURONS
+       MITJONS
+       CARTERES
+       PIJAMES
+       BARRETS HIVERN
+       COBREIX-MASCARETA
+       VEURE-HO TOT
+     * CALÇAT
+     * MOTXILLES
 
-   presentacio_llibre La Generalitat de Catalunya, de la mà de la Direcció
-   General d’Atenció Ciutadana i Difusió, va presentar el passat  17 de
-   novembre el llibre Obertura i reutilització de dades públiques, segon
-   volum de la col·lecció ‘Govern Obert’, l’autor del qual és Martín
-   Álvarez Espinar, responsable de l’Oficina del World Wide Web Consortium
-   (W3C) a Espanya i membre de la Fundació CTIC.
+     * Inici
+     * Home
+     * Samarretes
+     * Samarretes de màniga llarga i coll rodó amb obertura i estampat
+       davanter per a home de color blau indi
 
-   En aquest llibre, s’analitza l’obertura de dades i el foment de la
-   reutilització de la informació pública, el seu cicle de vida, el marc
-   legal vigent i examina algunes de les principals iniciatives a escala
-   internacional. A més, contextualitza el món de les dades obertes en un
-   marc general però també en els àmbits que ens són més propers:
-   comunitat nacional, àmbit professional i institucional, internacional,
-   etc. Ja ens el podem descarregar en català, castellà i anglès.
+   (BUTTON)
+   Samarretes de màniga llarga i coll rodó amb obertura i estampat
+   davanter per a home de color blau indi
+   Samarretes de màniga llarga i coll rodó amb obertura i estampat
+   davanter per a home de color blau indi
+   Samarretes de màniga llarga i coll rodó amb obertura i estampat
+   davanter per a home de color blau indi
+   Samarretes de màniga llarga i coll rodó amb obertura i estampat
+   davanter per a home de color blau indi
+   Samarretes de màniga llarga i coll rodó amb obertura i estampat
+   davanter per a home de color blau indi
+   Samarretes de màniga llarga i coll rodó amb obertura i estampat
+   davanter per a home de color blau indi 5
+   Samarretes de màniga llarga i coll rodó amb obertura i estampat
+   davanter per a home de color blau indi
+   Samarretes de màniga llarga i coll rodó amb obertura i estampat
+   davanter per a home de color blau indi
+   Ref. 2421ML13-000123
 
-   Per a més informació sobre el llibre o l’autor o si voleu
-   descarregar-vos el llibre, podeu accedir al següent enllaç: Obertura i
-   reutilització de dades públiques
+Samarretes de màniga llarga i coll rodó amb obertura i estampat davanter per
+a home de color blau indi
 
-Entrades relacionades
+   35.99€
+   Talla
+   S (*)
+   M ( )
+   L ( )
+   XL ( )
+   3XL ( )
+   (BUTTON)
+     * Guia de talles Guia de talles
+     * Com mesurar la teva mida? Com mesurar la teva mida?
 
-     * Administració oberta
-     *
-     * Certificació digital
-     *
-     * Identitat digital
-     *
-     * Identitat i signatura digital
-     *
+   (BUTTON)
+   (BUTTON)
+   El model porta la talla M.
+   Incorpora un toc d'estil contemporani al teu guarda-roba amb la
+   samarreta de màniga llarga i coll rodó amb obertura i estampat davanter
+   per a home de color blau indi de Koroshi. Aquesta peça, confeccionada
+   en 100% cotó d'alta qualitat, és ideal per als que busquen un equilibri
+   perfecte entre comoditat i disseny modern.
+   El color blau indi, profund i versàtil, s´adapta fàcilment a qualsevol
+   ocasió, aportant un toc de sofisticació al teu look. El disseny de coll
+   rodó amb obertura afegeix un detall únic que complementa l'estampat
+   davanter, creant un look modern i cridaner que destaca entre les altres
+   opcions al teu armari.
+   La marca Koroshi, reconeguda pel seu compromís amb la qualitat i el
+   disseny innovador, ha creat aquesta samarreta per oferir una peça
+   duradora i confortable. El cotó 100% assegura una suavitat excepcional
+   i una transpirabilitat òptima, fent-la perfecta per fer servir durant
+   tot el dia, ja sigui en climes càlids o frescos.
+   Aquesta samarreta de màniga llarga compta amb un tall clàssic que
+   sʻadapta còmodament a qualsevol tipus de cos, proporcionant una silueta
+   afavoridora i actual. És fàcil de combinar amb texans, pantalons
+   casuals o fins i tot sota una jaqueta per a un look més formal, cosa
+   que la converteix en una peça essencial per a qualsevol ocasió.
+   Adquireix ara la samarreta de màniga llarga amb coll rodó, obertura i
+   estampat davanter de Koroshi de color blau indi i afegeix un toc
+   d'estil distintiu i elegant al teu vestuari. Amb aquesta peça, gaudiràs
+   d'una combinació perfecta de disseny i comoditat que esdevindrà un dels
+   teus favorits pel dia a dia.
+   Informació addicional
+   Composició
+     * 100% COTÓ
 
-   L’AOC culmina el pla 2024 de certificació de l’ENS de nivell alt amb un
-   nou servei: la Plataforma de Serveis d’Identificació i Signatura
+   Cures
+     * Neteja en sec, amb percloroetilè
+     * No assecar a màquina
+     * No utilitzar lleixiu ni blanquejadors
+     * Planxar a temperatura màxima de 110 ºC
+     * Rentat a mà
+     * Rentat a màquina a temperatura màxima de 30ºC
+     * Rentat en fred
 
-     * Administració oberta
-     *
-     * Innovació
-     *
-     * Serveis a la ciutadania
-     *
-     * Seu i Tauler electrònic
-     *
-     * Tramitació electrònica
-     *
+   Enviaments Enviaments
+   Compra avui i rep la teva comanda de 2 a 4 dies Laborals a Espanya, 7 a
+   10 dies Laborals a comandes Internacionals.
+   Les comandes efectuades a partir de les 12h es preparen al dia següent.
+   Canvi i Devolucions Canvi i Devolucions
+   El client disposa de 30 dies naturals per fer un canvi.
+   (BUTTON)
+   (BUTTON) Talla
+   (BUTTON) (BUTTON) Afegir a la cistella
+   (BUTTON)
+   Talla
+   S (*)
+   M ( )
+   L ( )
+   XL ( )
+   3XL ( )
+   (BUTTON)
+     * Guia de talles Guia de talles
+     * Com mesurar la teva mida? Com mesurar la teva mida?
 
-   El Sistema de Disseny AOC, ara a disposició de les administracions
-   públiques
+   https://www.koroshishop.com/samarretes-màniga-llarga-coll-rodó-obertura
+   -estampat-davanter-home-color-blau-indi 2421ML13-000123 Samarretes de
+   màniga llarga i coll rodó amb obertura i estampat davanter per a home
+   de color blau indi
+   El model porta la talla M.
+   Incorpora un toc d'estil contemporani al teu guarda-roba amb la
+   samarreta de màniga llarga i coll rodó amb obertura i estampat davanter
+   per a home de color blau indi de Koroshi. Aquesta peça, confeccionada
+   en 100% cotó d'alta qualitat, és ideal per als que busquen un equilibri
+   perfecte entre comoditat i disseny modern.
+   El color blau indi, profund i versàtil, s´adapta fàcilment a qualsevol
+   ocasió, aportant un toc de sofisticació al teu look. El disseny de coll
+   rodó amb obertura afegeix un detall únic que complementa l'estampat
+   davanter, creant un look modern i cridaner que destaca entre les altres
+   opcions al teu armari.
+   La marca Koroshi, reconeguda pel seu compromís amb la qualitat i el
+   disseny innovador, ha creat aquesta samarreta per oferir una peça
+   duradora i confortable. El cotó 100% assegura una suavitat excepcional
+   i una transpirabilitat òptima, fent-la perfecta per fer servir durant
+   tot el dia, ja sigui en climes càlids o frescos.
+   Aquesta samarreta de màniga llarga compta amb un tall clàssic que
+   sʻadapta còmodament a qualsevol tipus de cos, proporcionant una silueta
+   afavoridora i actual. És fàcil de combinar amb texans, pantalons
+   casuals o fins i tot sota una jaqueta per a un look més formal, cosa
+   que la converteix en una peça essencial per a qualsevol ocasió.
+   Adquireix ara la samarreta de màniga llarga amb coll rodó, obertura i
+   estampat davanter de Koroshi de color blau indi i afegeix un toc
+   d'estil distintiu i elegant al teu vestuari. Amb aquesta peça, gaudiràs
+   d'una combinació perfecta de disseny i comoditat que esdevindrà un dels
+   teus favorits pel dia a dia.
+   https://www.koroshishop.com/cdnassets/2421ML13_000123_1_l.jpg 35.99
+   InStock /home/samarretes 0 -1
+   https://www.koroshishop.com/cdnassets/2421ML13_000123_1_s.jpg
+   (BUTTON) (BUTTON) (BUTTON) (BUTTON)
+   (BUTTON) (BUTTON)
 
-     * Administració oberta
-     *
+   Inicia sessió
+   Email ____________________
+   Contrasenya ____________________
+   Entra
+   Recorda'm la contrasenya Crea un compte
+   O accedeix amb...
+   Inicia sessió o crea el teu compte KORÖSHI amb el teu perfil social
+   facebook
+   facebook
+   google
+   google
+   Encara no tens compte?
+   Crea un compte a KORÖSHI i gestiona les teves comandes, guarda favorits
+   i molt més
+   Crea un compte
 
-   Es posa en marxa l’Observatori de l’Administració Digital de la
-   Generalitat de Catalunya
+   (BUTTON) Ajuda
+     * Fes que la Familia Koroshi creixi ¡
+     * Descompte Estudiants
+     * Atenció al client
+     * Koröshi Club
+     * Majoristes
 
-Subscriviu-vos al butlletí AOC
+   (BUTTON) Empresa
+     * Qui som
+     * Oficines
+     * Botigues
+     * Sostenibilitat
+     * Franquícies
+     * Treballa amb nosaltres
 
-   Rebeu setmanalment la dosis de vitamines per avançar cap a un govern
-   digital
-   (BUTTON) Subscriure'm
+   (BUTTON) Guia de compra
+     * Formes de pagament
+     * Terminis de lliurament
+     * Enviaments
+     * Pagament Segur
+     * Devolucions
+     * Canvis
 
-   X
+   (BUTTON) Condicions legals
+     * Política de cookies
+     * Dret de Desistiment, Garantia Legal, Facturació i Litigis
+     * Condicions de compra
+     * Canal de l'Informant
+     * Política de privacitat
+     * Avís Legal
+
+   (BUTTON) Social
+     * Facebook
+     * Instagram
+     * Twitter
+     * Tik tok
+
+     * Koröshi a l'Apple App Store Koröshi a l'Apple App Store
+     * Koröshi a Google Play Koröshi a Google Play
+
+     * © 2025 KORÖSHI. Tots els drets reservats
+     * [Amazon-Pay.svg]
+     * [Bizum.svg]
+     * [Mastercard.svg]
+     * [logotipo-seQura-pastilla-_1_.jpg]
+     * [trustpilot-logo-2.png]
+     * [PayPal.svg]
+     * [Visa.svg]
+     * [klarna.png]
+     * [apple-pay-2-1.PNG]
+     * eCommerce by trilogi.com
+
+   © 2025 KORÖSHI. Tots els drets reservats

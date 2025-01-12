@@ -1,3 +1,64 @@
+   [Header_DIEC2_GRAN.png]
+   Aquest recurs compta amb el suport de  [LogoFundacioLaCaixa.png]
+   [LOGO_DIEC2.png]
+   (BUTTON)
+     *
+     * |
+     * Sobre el DIEC2
+     * |
+     * Cerca avançada
+     * |
+     * Instruccions
+     * |
+     * Abreviatures
+     * |
+     * Actualitzacions
+     * |
+     * IEC
+
+   [LOGO_IEC2.png]
+   .
+   obertura____________
+   Condició de cerca:
+   [Coincident___________]
+   .
+   C [LUPA.png]
+   Cerca bàsica
+
+   Resultats de la consulta
+   Entrada coincident: obertura.
+   Afina la cerca
+   *Consulta sense perdre els criteris de selecció inicials
+
+   1 registres
+   DEIEC
+   DDLC
+   CTILC
+   BDLEX
+   DCVB
+   Sinònims
+   CIT
+   TERMCAT
+
+   Imprimir llista
+   obertura
+   Conjugació
+   Article complet
+   Actualitzacions
+   Imprimir
+   Comparteix
+   [TWITTER-ICON.png] [FACEBOOK-ICON.png]
+
+   Institut d'Estudis Catalans
+
+   C/ del Carme, 47. 08001 Barcelona
+
+   Telèfon +34 932 701 620 / Fax +34 932 701 180
+
+   oficines.lexicografiques@iec.cat
+
+   observacions.paraulogic@iec.cat
+   Informació legal
    #alternate Modifica Viquipèdia (ca) Canal de sindicació Atom Viquipèdia
 
    Vés al contingut

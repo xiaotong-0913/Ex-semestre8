@@ -1,0 +1,59 @@
+
+   Vous serez alerté(e) par courriel dès que la page « Comment créer des
+   ouvertures dans une maison (fenêtre, porte, balcon ...) ? » sera mise à
+   jour significativement.
+
+--
+   de distance vis-à-vis des propriétés voisines si vos travaux permettent
+   de voir dans leur jardin ou dans certaines pièces de leurs maisons.
+     * (BUTTON) Ouverture avec vue
+     * (BUTTON) Sans vue
+
+Ouverture avec vue
+
+   Certaines règles de distance doivent être respectées lorsque vous créez
+   une ouverture (porte, fenêtre, balcon...) qui vous permet de voir chez
+   votre voisin.
+
+--
+(BUTTON) Vue droite (ou directe)
+
+   Si l'ouverture vous permet de voir directement chez votre voisin depuis
+   l'intérieur de chez vous sans avoir à vous pencher, on parle d'une vue
+   droite.
+--
+(BUTTON) Vue oblique (ou indirecte)
+
+   Si l'ouverture vous permet de voir chez votre voisin, non pas
+   directement, mais en vous penchant à l'extérieur (accès visuel
+   indirect), on parle de vue oblique.
+--
+
+   Le juge qualifie au cas par cas les caractéristiques de l'ouverture
+   (vue droite, vue oblique, ouverture sans vue).
+
+   Il tient compte principalement de la possibilité ou non de regarder sur
+--
+   Lorsqu'elle ne permet pas de porter de regard chez votre voisin, la
+   création d'une ouverture est soumise au respect de certaines règles de
+   hauteur si l'ouverture donne du côté de la propriété voisine. Dans le
+   cas contraire, aucune règle spécifique de hauteur ou de distance ne
+   s'applique.
+--
+   (BUTTON) Tout déplier
+
+(BUTTON) Ouverture sur voisinage pour éclairage
+
+   Vous pouvez aménager des jours de souffrance, c'est-à-dire des fenêtres
+--
+   Leur dimension n'est pas réglementée.
+
+(BUTTON) Ouverture hors voisinage
+
+   Si aucune vue n'est possible sur le terrain voisin, les règles de
+--
+   (BUTTON) Envoyer vos remarques
+
+   Ouverture donnant chez le voisin. Elle laisse passer la lumière, mais
+   ne permet pas de voir chez le voisin. Par exemple : un carré de verre.
+

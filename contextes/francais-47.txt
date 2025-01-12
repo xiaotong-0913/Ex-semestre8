@@ -1,0 +1,56 @@
+          + Contacts
+
+L'ouverture des ventes
+
+     * Aide en ligne
+--
+     Rechercher un itinéraire et réserver
+
+     L'ouverture des ventes
+
+   (BUTTON) Anticiper son déplacement
+--
+   Noël, d'hiver, de printemps et d'été.
+
+   Prochaines ouverture des ventes
+
+TGV INOUI en France et en Europe et INTERCITÉS
+
+   Ouverture des circulations du 15/12/2024 au 08/01/2025 : le 2 octobre
+   2024
+
+   Ouverture des circulations du 09/01/2025 au 30/03/2025 le : le 13
+   novembre 2024
+
+OUIGO
+
+   Ouverture des circulations du 15/12/2024 au 08/01/2025 : le 2 octobre
+   2024
+
+   Ouverture des circulations du 09/01/2025 au 30/03/2025 le : le 2
+   octobre 2024
+
+--
+
+
+   CAPTION: Ouverture des ventes TER
+
+           Régions            Ouvertures
+--
+
+   travaux   Attention : Des travaux peuvent modifier et décaler
+   l'ouverture à la vente de votre train.
+
+   astuce   Vous souhaitez réserver un voyage aller-retour mais le trajet
+--
+     * Optez pour un achat séparé : d'abord l'aller, puis le retour dès
+       qu'il est disponible,
+     * Attendez l'ouverture à la vente du trajet retour pour réserver
+       l'ensemble,
+
+--
+   des billets qui vous intéressent.
+
+   IFRAME: /aide/calendrier-des-ouvertures-des-ventes
+
+Avons-nous répondu à votre question ?

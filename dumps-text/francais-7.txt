@@ -1,0 +1,476 @@
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate
+
+     * Apple
+
+   [ ]
+
+   Guide d'utilisation du Mac
+   Ouvrir le menu Fermer le menu
+     * Communautés
+
+   macOS Sequoia 15
+   macOS Sonoma 14
+   macOS Ventura 13
+   macOS Monterey 12
+   macOS Big Sur 11.0
+   macOS Catalina 10.15
+   macOS Mojave 10.14
+   macOS High Sierra
+
+   Sélectionner la version :
+   [macOS Sequoia 15____]
+   La modification de cette commande entraînera le rechargement de la
+   page.
+   Table des matières
+
+Guide d'utilisation du Mac
+
+     * Bienvenue
+     * (BUTTON) À propos du modèle du Mac
+          + MacBook Air
+          + MacBook Pro
+          + iMac
+          + Mac mini
+          + Mac Studio
+          + Mac Pro
+     * Nouveautés de macOS Sequoia
+     * (BUTTON) Se familiariser avec le bureau
+          + Effectuer des tâches depuis le bureau
+          + Que contient la barre des menus ?
+          + Modifier rapidement les réglages
+          + Que contient le menu Pomme ?
+          + Rechercher avec Spotlight
+          + Utiliser Siri
+          + Recevoir des notifications
+          + Ouvrir des apps depuis le Dock
+          + Organiser les fichiers dans le Finder
+     * (BUTTON) Notions élémentaires sur le Mac
+          + Se connecter à Internet
+          + Se connecter à un compte Apple
+          + Configurer iCloud
+          + Naviguer sur le web
+          + Obtenir un aperçu d'un fichier
+          + Effectuer une capture d'écran
+          + Modifier la luminosité de l'écran
+          + Régler le volume
+          + Utiliser des gestes de trackpad et de souris
+          + Utiliser Touch ID
+          + Imprimer des documents
+          + Raccourcis clavier
+     * (BUTTON) Apps
+          + Apps incluses sur le Mac
+          + Ouvrir des applications
+          + Utiliser les fenêtres d'apps
+          + Disposer des fenêtres d'apps en mosaïque
+          + Utiliser des apps en plein écran
+          + Utiliser des apps en Split View
+          + Utiliser « Stage Manager »
+          + Obtenir des apps sur l'App Store
+          + Installer et réinstaller des apps à partir de l'App Store
+          + Installer et désinstaller d'autres apps
+     * (BUTTON) Fichiers et dossiers
+          + Créer et utiliser des documents
+          + Ouvrir des documents
+          + Annoter des fichiers
+          + Combiner des fichiers en un document PDF
+          + Organiser des fichiers sur le bureau
+          + Organiser les fichiers avec des dossiers
+          + Associer des tags à des fichiers et dossiers
+          + Sauvegarder des fichiers
+          + Restaurer des fichiers
+     * (BUTTON) Personnaliser son Mac
+          + Modifier Réglages Système
+          + Choisir son image de bureau
+          + Ajouter et personnaliser des widgets
+          + Utiliser un économiseur d'écran
+          + Ajouter un utilisateur ou un groupe
+          + Ajouter des comptes de messagerie et d'autres comptes
+          + Automatiser des tâches avec Raccourcis
+          + Créer des Memoji
+          + Modifier son image d'ouverture de session
+          + Changer la langue du système
+          + Augmenter la taille du contenu de l'écran
+     * (BUTTON) Se familiariser avec Siri
+          + Comment utiliser Siri
+          + Personnaliser Siri
+          + Que sont les suggestions de Siri ?
+          + Utiliser les résultats de Siri
+          + Ajouter des raccourcis Siri
+     * (BUTTON) Apple Intelligence
+          + Premiers pas avec Apple Intelligence
+          + Utiliser les outils d'écriture
+          + Utilisez Apple Intelligence dans Mail
+          + Utilisez Apple Intelligence dans Messages
+          + Utilisez Apple Intelligence avec Siri
+          + Obtenir des résumés de pages web
+          + Résumer un enregistrement audio
+          + Créez des images originales avec Image Playground
+          + Utilisez Apple Intelligence dans Photos
+          + Résumer les notifications et réduire les interruptions
+          + Utiliser ChatGPT avec Apple Intelligence
+          + Apple Intelligence et confidentialité
+          + Bloquer l'accès aux fonctionnalités d'Apple Intelligence
+     * (BUTTON) Notions avancées sur le Mac
+          + Configurer un mode de concentration pour rester concentré sur
+            une tâche
+          + Bloquer les pop-up dans Safari
+          + Utiliser Dictée
+          + Effectuer des actions rapides avec les coins actifs
+          + Envoyer des e-mails
+          + Envoyer des messages texte
+          + Passer un appel FaceTime
+          + Modifier des photos et des vidéos
+          + Utiliser « Texte en direct » pour interagir avec du texte dans
+            une photo
+          + Créer une note rapide
+          + Obtenir un itinéraire
+     * (BUTTON) Utiliser conjointement des appareils Apple
+          + Présentation de Continuité
+          + Utiliser AirDrop pour envoyer des éléments à des appareils à
+            proximité
+          + Transférer des tâches entre des appareils
+          + Contrôler son iPhone depuis son Mac
+          + Copier et coller du contenu entre plusieurs appareils
+          + Diffuser du contenu vidéo et audio avec AirPlay
+          + Émettre et recevoir des appels et messages texte sur son Mac
+          + Utiliser la connexion Internet de son iPhone sur son Mac
+          + Partager un mot de passe Wi-Fi avec un autre appareil
+          + Utiliser son iPhone comme une webcam
+          + Insérer des dessins, des photos et des numérisations depuis un
+            iPhone ou un iPad
+          + Déverrouiller le Mac avec l'Apple Watch
+          + Utiliser l'iPad comme deuxième moniteur
+          + Utiliser un clavier et une souris pour commander le Mac et
+            l'iPad
+          + Synchroniser la musique, les livres et bien plus encore entre
+            les appareils
+     * (BUTTON) Compte Apple et iCloud
+          + Gérer les réglages Compte Apple
+          + Configurer l'image de son compte Apple
+          + Qu'est-ce qu'iCloud ?
+          + Qu'est-ce qu'iCloud+ ?
+          + Stocker des fichiers sur iCloud Drive
+          + Partager des fichiers et des dossiers et collaborer dessus
+          + Gérer le stockage iCloud
+          + Utiliser Photos iCloud
+     * (BUTTON) Temps d'écran
+          + Premiers pas avec Temps d'écran
+          + Configurer « Temps d'écran » pour vous
+          + Configurer « Temps d'écran » pour un enfant
+          + Suivre l'utilisation des apps et appareils
+          + Définir des limites de temps pour les apps et sites web
+          + Configurer les restrictions relatives au contenu et à la
+            confidentialité
+     * (BUTTON) Partage familial
+          + Configurer le partage familial
+          + Obtenir des recommandations pour le partage familial
+          + Ajouter des membres de la famille à un groupe de partage
+            familial
+          + Supprimer des membres de la famille du groupe de partage
+            familial
+          + Gérer les réglages de partage et parentaux
+          + Partager une photothèque
+          + Collaborer sur des projets
+          + Trouver du contenu partagé
+          + Trouver votre famille et vos amis
+     * (BUTTON) Regarder, écouter et apprendre
+          + Écouter de la musique
+          + Écouter et regarder du contenu à plusieurs avec SharePlay
+          + Écouter des podcasts
+          + Regarder des séries TV et des films
+          + Lire et écouter des livres
+          + Lire l'actualité
+          + Suivre la bourse et le marché
+          + Jouer à des jeux avec vos amis
+          + (BUTTON) S'abonner à des services Apple
+               o Apple Music
+               o Apple TV+
+               o Apple Arcade
+               o Apple News+
+               o Apple Podcasts
+               o Gérer les abonnements dans l'App Store
+               o Afficher les abonnements familiaux
+     * (BUTTON) Utiliser des accessoires et du matériel
+          + Se connecter à un moniteur externe
+          + Utiliser la caméra
+          + Connecter un accessoire sans fil
+          + Connecter une imprimante à un Mac
+          + Connecter des AirPods à un Mac
+          + Optimiser l'autonomie de la batterie du Mac
+          + Optimiser l'espace de stockage
+          + Graver des CD et des DVD
+          + Contrôler les accessoires de votre domicile
+          + Utiliser Windows sur un Mac
+     * (BUTTON) Accessibilité
+          + Premiers pas
+          + Vision
+          + Audition
+          + Motricité
+          + Parole
+     * (BUTTON) Sécurité et confidentialité
+          + Contrôler les informations partagées
+          + Configurer votre Mac pour en assurer la sécurité
+          + Autoriser les apps à voir la position du Mac
+          + Utiliser la navigation privée
+          + Protéger ses données
+          + Comprendre les mots de passe
+          + Modifier les mots de passe faibles ou compromis
+          + Protéger son compte Apple
+          + Utiliser la protection de la confidentialité dans Mail
+          + Utiliser « Connexion avec Apple » pour les apps et les sites
+            web
+          + Trouver un appareil égaré
+     * (BUTTON) Redémarrer, mettre à jour, réinitialiser et restaurer
+          + Éteindre ou redémarrer le Mac
+          + Démarrer votre Mac en mode sans échec
+          + Garder votre Mac à jour
+          + Réinstaller macOS
+          + Effacer votre Mac
+     * Ressources pour votre Mac
+     * Ressources pour vos appareils Apple
+     * Copyright
+
+Modifier les réglages « Ouverture et extensions » sur Mac
+
+   Si vous êtes un administrateur de votre Mac, vous pouvez utiliser les
+   réglages « Ouverture et extensions » pour sélectionner les apps, les
+   documents et les connexions serveur qui s'ouvrent automatiquement
+   lorsque vous ouvrez une session sur votre Mac.
+
+   Vous pouvez également activer et désactiver des extensions Apple et
+   tierces pour votre Mac, et sélectionnez des extensions à inclure dans
+   le menu Partager. Les extensions, comme Annoter, ajoutent des
+   fonctionnalités aux apps, au Finder et à la Touch Bar.
+
+   Pour modifier ces réglages, choisissez le menu Pomme   >
+   Réglages Système, cliquez sur Général  dans la barre latérale, puis sur
+   « Ouverture et extensions ». Vous devrez peut-être faire défiler la
+   page vers le bas.
+
+   Ouvrir les réglages « Ouverture et extensions »
+
+Réglages Ouverture
+
+   Option
+
+   Description
+
+   Ouvrir avec la session
+
+   Choisissez les éléments qui s'ouvrent automatiquement à l'ouverture de
+   session.
+     * Pour ajouter un élément d'ouverture : Cliquez sur le bouton Ajouter
+       sous la liste des éléments d'ouverture, puis sélectionnez l'élément
+       que vous souhaitez ouvrir lors de l'ouverture de session.
+     * Pour supprimer un élément d'ouverture : Sélectionnez-le dans la
+       liste des éléments d'ouverture, puis cliquez sur le bouton
+       Supprimer .
+
+   Si vous voyez le symbole un triangle jaune en regard d'un élément, cela
+   signifie que l'élément ne s'ouvrira pas automatiquement, car il a été
+   déplacé ou supprimé.
+
+   Colonne Élément
+
+   Affichez le nom des apps, documents, dossiers ou connexions qui
+   s'ouvrent automatiquement.
+
+   Colonne Type
+
+   Affichez le type d'élément (app, document, dossier ou volume).
+
+   Autoriser en arrière-plan
+
+   Autorisez des apps à effectuer des tâches lorsque l'app n'est pas
+   ouverte, comme la vérification des mises à jour logicielles ou la
+   synchronisation des données.
+
+Réglages Extensions
+
+   Pour modifier ces réglages, cliquez sur le bouton d'informations en
+   regard d'une option, activez ou désactivez l'option, puis cliquez sur
+   OK.
+
+   Option
+
+   Description
+
+   Extensions ajoutées
+
+   Les extensions que vous avez installées sur votre Mac. Ce sont des
+   extensions créées par des développeurs tiers.
+
+   S'il s'agit d'une extension de contenu qui étend les fonctionnalités
+   des apps, une case à cocher Actions s'affiche sous celle-ci. Dans le
+   cas d'une extension du Finder, une case Finder s'affiche. Cochez cette
+   case pour activer l'extension.
+
+   Actions
+
+   Les extensions de contenu installées sur votre Mac. Sélectionnez une
+   extension pour qu'elle soit disponible dans les apps.
+
+   Par exemple, si vous avez activé Annotation, vous pouvez dessiner sur
+   des images et signer des documents dans des apps telles que Mail,
+   TextEdit ou Aperçu.
+
+   Extensions de caméra
+
+   Les extensions de caméra installées sur votre Mac. Ces extensions vous
+   permettent d'installer et d'utiliser des caméras personnalisées.
+
+   Panneaux de couleurs
+
+   Extensions de panneaux de couleurs installées sur votre Mac. Ces
+   extensions vous permettent de sélectionner et d'afficher des couleurs,
+   de copier et coller des codes de couleur, de créer des palettes et plus
+   encore.
+
+   Mosaïques du Dock
+
+   Extensions de mosaïques du Dock installées sur votre Mac. Ces
+   extensions vous permettent de personnaliser le Dock grâce à l'ajout de
+   séparateurs, à la définition d'actions rapides, à l'affichage d'aperçus
+   et d'actions, et plus encore.
+
+   Extensions de gestionnaire
+
+   Les extensions de gestionnaire installées sur votre Mac. Ces extensions
+   vous permettent d'installer des gestionnaires personnalisés, afin
+   d'accorder aux apps un accès à des fonctionnalités système.
+
+   Extensions de sécurité de point de terminaison
+
+   Extensions de sécurité de point de transmission installées sur votre
+   Mac. Ces extensions améliorent les fonctionnalité de sécurité en
+   surveillant des événements système afin de détecter les activités
+   potentiellement malveillantes.
+
+   Fournisseurs de fichiers
+
+   Les extensions de fournisseurs de fichiers installées sur votre Mac.
+   Ces extensions vous permettent de consulter des fichiers locaux et les
+   fichiers stockés à distance dans une même présentation dans le FInder.
+
+   Finder
+
+   Extensions du Finder installées sur votre Mac, comme iCloud Drive. Les
+   extensions du Finder améliorent les fonctionnalités de recherche et
+   d'organisation pour les fichiers, documents, images et plus encore.
+   Activez les extensions auxquelles vous souhaitez accéder depuis le menu
+   « Actions rapides » sur le bureau et dans le Finder, ainsi que dans la
+   sous-fenêtre d'aperçu du Finder. Consultez la rubrique Effectuer des
+   actions rapides dans le Finder.
+
+   Contenu multimédia
+
+   Extension de contenu multimédia installées sur votre Mac. Ces
+   extensions ajoutent des commandes de lecture, d'édition et de partage.
+   Les extensions permettent également de lire des fichiers dans
+   différents formats.
+
+   Extensions du réseau
+
+   Extensions du réseau installées sur votre Mac. Ces extensions vous
+   permettent de personnaliser et de compléter les fonctionnalités réseau
+   essentielles. Elles vous permettent par exemple de configurer un VPN ou
+   de filtrer du contenu.
+
+   Projets Photos
+
+   Les extensions de projets photo installées sur votre Mac. Ces
+   extensions vous permettent de créer, de modifier et de commander des
+   projets d'impression dans Photos.
+
+   Modification de photos
+
+   Extensions de Photos installées sur votre Mac, comme Annoter. Activez
+   une extension de Photos pour qu'elle soit disponible dans Photos lors
+   d'une édition de photos.
+
+   Coup d'oeil
+
+   Extensions Coup d'oeil installées sur votre Mac. Ces extensions vous
+   permettent de cliquer sur un fichier, puis d'appuyer sur la barre
+   d'espace pour afficher un aperçu du fichier.
+
+   Partage
+
+   Sélectionnez les extensions de partage que vous souhaitez inclure dans
+   le menu Partager (disponible depuis le bouton le bouton Partager dans
+   le Finder et dans de nombreuses apps Mac).
+     * Il n'est pas possible de désactiver les extensions par défaut,
+       telles que Mail et AirDrop.
+     * Si une extension activée dans la liste n'apparaît pas dans le menu
+       Partager, vous ne pouvez pas partager l'élément que vous souhaitez
+       partager à l'aide de cette extension. Par exemple, vous pouvez
+       utiliser AirDrop pour partager une page web dans Safari, mais par
+       pour partager du texte sélectionné.
+
+   Lecteurs de carte à puce
+
+   Les extensions de lecteur de carte à puce installées sur votre Mac. Ces
+   extensions vous permettent de gérer des cartes à puce et des
+   certificats, de vous authentifier et d'exécuter des tâches dans les
+   apps.
+
+   Spotlight
+
+   Extensions Spotlight installées sur votre Mac. Ces extensions
+   améliorent la fonctionnalité de recherche en permettant à votre Mac de
+   rechercher et d'affiche du contenu de nombreuses sources et apps.
+
+   Touch Bar
+
+   Si votre Mac possède une Touch Bar, activez les extensions auxquelles
+   vous souhaitez accéder depuis celle-ci. Vous devez tout d'abord définir
+   des options pour la Touch Bar de façon à afficher « Actions rapides »,
+   ou ajouter le bouton « Actions rapides » à la Touch Bar.
+   Voir aussiOuvrir automatiquement des éléments lors de l'ouverture de
+   session sur Mac
+
+   Avez-vous trouvé cet article utile ?
+
+   (BUTTON) Oui (BUTTON) Non
+
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   Limite de caractères : 250
+   Veuillez n'inclure aucune information personnelle dans votre
+   commentaire.
+   La limite maximale des caractères est 250.
+   (BUTTON) Envoyer
+   Merci de votre feedback.
+
+Apple Footer
+
+   ¿ Apple
+    1. Assistance
+
+     Guide d'utilisation du Mac
+
+     Modifier les réglages « Ouverture et extensions » sur Mac
+
+   Afrique
+
+   Copyright © 2025 Apple Inc. Tous droits réservés.
+   Engagement de confidentialité Conditions d'utilisation

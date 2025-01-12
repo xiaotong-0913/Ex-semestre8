@@ -1,316 +1,430 @@
-    Passa al contingut principal
 
-   Ajuda — Perfil d'empresa a Google
-   (BUTTON)
-   ____________________
-   (BUTTON) (BUTTON)
-   Inicia la sessió
-   Ajuda de Google
-   (BUTTON)
-     Centre d'Ajuda
-     Perfil d'empresa a Google
-     Política de privadesa
-     Condicions del servei
-     Envia suggeriments
-
-   Envia suggeriments sobre...
-   (*)
-   Aquest contingut i informació d'ajuda
-   ( )
-   Experiència general del Centre d'ajuda
-   (BUTTON) Següent
-     * Centre d'Ajuda
      *
-     * Gestionar el perfil d'empresa
-
-   Perfil d'empresa a Google
-     * Edita la informació de l'empresa
-     * Editar l'horari
-     * Com es pot afegir la data d'obertura d'una empresa
-
-Com es pot afegir la data d'obertura d'una empresa
-
-   Si la teva empresa encara no ha obert, pots crear un perfil d'empresa a
-   Google perquè la comunitat sàpiga quan obrirà la teva empresa. Defineix
-   la data d'obertura, interacciona amb els clients i anuncia on i quan
-   l'empresa estarà oberta al públic.
-   Consell: les empreses que ja estan obertes poden afegir la data en què
-   van obrir.
-
-Crear un perfil d'empresa i verificar-lo més tard
-
-   Per assegurar-te que l'empresa no es mostri erròniament com a oberta,
-   defineix la data d'obertura abans de fer la verificació. En crear un
-   perfil d'empresa, pots triar l'opció "Verifica més tard" quan se't
-   demani que la verifiquis.
-
-   Important: en el cas dels comptes verificats de manera massiva, és
-   especialment necessari que defineixis la data d'obertura abans de la
-   verificació, ja que aquests comptes es verifiquen immediatament.
-    1. Crea el teu perfil d'empresa.
-    2. Quan se't demani que facis la verificació, selecciona Més opcions.
-    3. A "Verifica més tard", selecciona Més tard.
-
-Definir una data d'obertura
-
-   Només l'any i el mes de la data d'obertura són obligatoris. Pots
-   introduir una data situada com a màxim a un any vista.
-
-   Després d'introduir la data i de verificar l'empresa, el teu perfil es
-   mostrarà a Google 90 dies abans de la data d'obertura.
-    1. Selecciona Edita el perfil i, a continuació, Informació d'empresa.
-          + Consell: a l'ordinador, amb la Cerca de Google, selecciona
-            Edita el perfil.
-    2. Al costat de "Data d'obertura", selecciona la icona de llapis Edita
-       .
-    3. Introdueix els camps obligatoris.
-    4. Selecciona Desa.
-
-Interaccionar amb els clients
-
-   Pots interaccionar amb la comunitat 90 dies abans de la data
-   d'obertura. Per establir relacions amb els clients, pots fer servir les
-   funcions següents de Perfil d'empresa:
-     * Crea publicacions: fes una publicació per anunciar l'obertura,
-       mantenir els clients informats sobre l'empresa i compartir un
-       descompte o un cupó per al dia de la inauguració.
-     * Afegeix fotos: si afegeixes fotos de la ubicació, podràs mantenir
-       informada la comunitat sobre el progrés de l'establiment, des de
-       les obres de condicionament fins a la inauguració.
-     * Inclou una descripció del comerciant: explica a la comunitat, de
-       primera mà, a què es dedica la teva empresa.
-
-    Un cop hagis obert, el perfil es mostrarà a Google amb l'etiqueta "Ha
-   obert recentment" durant 90 dies.
-
-Necessites més ajuda?
-
-Prova aquests passos:
-
-   Contacta amb nosaltres Proporciona'ns més informació i t'ajudarem
-   true
-
-Editar l'horari
-
-     * 1 de 8
-       Editar un horari d'obertura
-     * 2 de 8
-       Marcar una empresa com a tancada
-     * 3 de 8
-       Marcar una empresa com a reoberta
-     * 4 de 8
-       Com es pot definir un horari especial
-     * 5 de 8
-       Com es pot definir l'opció Més horaris
-     * 6 de 8
-       Sobre les hores de més afluència, el temps d'espera i les dades de
-       durada de la visita
-     * 7 de 8
-       Dies festius a Google
-     * 8 de 8
-       Com es pot afegir la data d'obertura d'una empresa
-
-     * ©2025 Google
-     * Política de privadesa
-     * Condicions del servei
-
-   Idioma [català‎__________________...]
-   (BUTTON)
-   Activa el mode fosc
-   Envia suggeriments sobre...
-   (BUTTON) Aquest contingut i informació d'ajuda (BUTTON) Experiència
-   general del Centre d'ajuda
-
-   Cerca
-   Esborra la cerca
-   Tanca la cerca
-   Aplicacions de Google
-   Menú principal
-
-
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-
-   5494021924877141035
-
-   true
-
-   Cerca al Centre d'ajuda
-
-   true
-
-   true
-
-   true
-
-   true
-
-   true
-
-   99729
-
-   false
-
-   false
-
-   false
-    Passa al contingut principal
-
-   Ajuda — Perfil d'empresa a Google
-   (BUTTON)
-   ____________________
-   (BUTTON) (BUTTON)
-   Inicia la sessió
-   Ajuda de Google
-   (BUTTON)
-     Centre d'Ajuda
-     Perfil d'empresa a Google
-     Política de privadesa
-     Condicions del servei
-     Envia suggeriments
-
-   Envia suggeriments sobre...
-   (*)
-   Aquest contingut i informació d'ajuda
-   ( )
-   Experiència general del Centre d'ajuda
-   (BUTTON) Següent
-     * Centre d'Ajuda
      *
-     * Gestionar el perfil d'empresa
+     *
+     *
+     *
+     *
 
-   Perfil d'empresa a Google
-     * Edita la informació de l'empresa
-     * Editar l'horari
-     * Com es pot afegir la data d'obertura d'una empresa
+     * (BUTTON)
+     *
 
-Com es pot afegir la data d'obertura d'una empresa
+     * Inici
+     * Actualitat
+     * Opinió
+     * Cultura
+     * Esports
+     * Vídeos
+     * Podcasts
+     * Classificats
+     * Obituari
+     * Més
+     * Subscriu-te al Butlletí
 
-   Si la teva empresa encara no ha obert, pots crear un perfil d'empresa a
-   Google perquè la comunitat sàpiga quan obrirà la teva empresa. Defineix
-   la data d'obertura, interacciona amb els clients i anuncia on i quan
-   l'empresa estarà oberta al públic.
-   Consell: les empreses que ja estan obertes poden afegir la data en què
-   van obrir.
+   ____________________
+     * Seccions
+          + Inici
+          + Actualitat
+          + Entrevistes
+          + Reportatges
+          + Opinió
+          + Cultura
+          + Esports
+          + Vídeos
+          + Podcasts
+          + Classificats
+          + Obituari
+     * Categories
+          + Religió
+          + Transport
+          + Turisme
+          + Energia
+          + Territori
+          + Medi Ambient
+          + Cinegètica
+          + Patrimoni natural
+          + Afers Exteriors
+          + Història
+          + Finances
+          + Empreses
+          + Salut
+          + Afers Socials
+          + Interior
+          + Infraestructures
+          + Equipaments
+          + Justícia
+          + Estacions
+          + Neu
+          + Educació
+          + Cultura
+          + Successos
+          + Societat
+          + Política
+          + Economia
+     * Altaveu
+          + Qui som
+          + Contacte
+          + Publicitat
+          + Butlletí
+       Descarrega l'app
+          + Descarrega a l'App Store Descarrega a Google Play
 
-Crear un perfil d'empresa i verificar-lo més tard
+   Mobilitat
 
-   Per assegurar-te que l'empresa no es mostri erròniament com a oberta,
-   defineix la data d'obertura abans de fer la verificació. En crear un
-   perfil d'empresa, pots triar l'opció "Verifica més tard" quan se't
-   demani que la verifiquis.
+França preveu obrir la frontera per a vehicles lleugers aquest dimarts a
+partir de 2/4 de 9 del matí
 
-   Important: en el cas dels comptes verificats de manera massiva, és
-   especialment necessari que defineixis la data d'obertura abans de la
-   verificació, ja que aquests comptes es verifiquen immediatament.
-    1. Crea el teu perfil d'empresa.
-    2. Quan se't demani que facis la verificació, selecciona Més opcions.
-    3. A "Verifica més tard", selecciona Més tard.
+Les autoritats franceses encara esperen noves precipitacions de neu per
+aquesta tarda i ràfegues de vent que poden arribar als 80 quilòmetres per
+hora
 
-Definir una data d'obertura
+   toni solanelles
 
-   Només l'any i el mes de la data d'obertura són obligatoris. Pots
-   introduir una data situada com a màxim a un any vista.
+   Toni Solanelles
 
-   Després d'introduir la data i de verificar l'empresa, el teu perfil es
-   mostrarà a Google 90 dies abans de la data d'obertura.
-    1. Selecciona Edita el perfil i, a continuació, Informació d'empresa.
-          + Consell: a l'ordinador, amb la Cerca de Google, selecciona
-            Edita el perfil.
-    2. Al costat de "Data d'obertura", selecciona la icona de llapis Edita
-       .
-    3. Introdueix els camps obligatoris.
-    4. Selecciona Desa.
+   23/12/2024 (15:49 CET)
 
-Interaccionar amb els clients
+   Comentaris
+     *
+     *
+     *
+     *
+     *
+     *
 
-   Pots interaccionar amb la comunitat 90 dies abans de la data
-   d'obertura. Per establir relacions amb els clients, pots fer servir les
-   funcions següents de Perfil d'empresa:
-     * Crea publicacions: fes una publicació per anunciar l'obertura,
-       mantenir els clients informats sobre l'empresa i compartir un
-       descompte o un cupó per al dia de la inauguració.
-     * Afegeix fotos: si afegeixes fotos de la ubicació, podràs mantenir
-       informada la comunitat sobre el progrés de l'establiment, des de
-       les obres de condicionament fins a la inauguració.
-     * Inclou una descripció del comerciant: explica a la comunitat, de
-       primera mà, a què es dedica la teva empresa.
+   Una màquina llevaneus treballant a la zona fronterera. Una màquina
+   llevaneus treballant a la zona fronterera.
 
-    Un cop hagis obert, el perfil es mostrarà a Google amb l'etiqueta "Ha
-   obert recentment" durant 90 dies.
+   Les autoritats franceses preveuen obrir la frontera a partir d’aquest
+   dimarts a 2/4 de 9 del matí. Això en el cas dels vehicles considerats
+   lleugers. Pel que fa als vehicles de 19 tones, per tant, dels
+   automòbils pensants, la previsió d’obertura del pas fronterer és a les
+   3 de la tarda. Fins llavors, no hi ha previsió que pugui passar ningú
+   en cap sentit, a no ser que sigui per un cas d’urgència imprescindible
+   que cal acreditar.
 
-Necessites més ajuda?
+   Segons fonts oficials, tot i la millora de les condicions
+   meteorològiques, encara s’esperen alguns centímetres de neu aquesta
+   tarda, amb ràfegues de vent de fins a 80 quilòmetres l’hora. Davant
+   d’aquest fet, les autoritats franceses mantenen tancada la frontera. I
+   no serà fins la matinada de dimarts que una vegada passat el front
+   principal de neu i vent es faran els treballs necessaris per poder
+   procedir a l’obertura.
 
-Prova aquests passos:
+   El que no està clar és si hi ha algun protocol -el Govern de moment
+   tampoc ho ha aclarit- pel qual a partir d’ara davant de cada episodi de
+   nevades, les autoritats franceses hagin acordat tancar el pas
+   fronterer. El comú d’Encamp, per l’interès econòmic i social que suposa
+   el Pas de la Casa, el primer damnificat en tot plegat, està fent “el
+   seguiment” de la qüestió mantenint-se en contacte amb l’administració
+   central però, per ara, prefereix no pronunciar-se la situació que ja fa
+   dos cops en pocs dies que es repeteix.
 
-   Contacta amb nosaltres Proporciona'ns més informació i t'ajudarem
-   true
+   Etiquetes
+     * Mobilitat
+     * afers exteriors
+     * França
+     * neu
 
-Editar l'horari
-
-     * 1 de 8
-       Editar un horari d'obertura
-     * 2 de 8
-       Marcar una empresa com a tancada
-     * 3 de 8
-       Marcar una empresa com a reoberta
-     * 4 de 8
-       Com es pot definir un horari especial
-     * 5 de 8
-       Com es pot definir l'opció Més horaris
-     * 6 de 8
-       Sobre les hores de més afluència, el temps d'espera i les dades de
-       durada de la visita
-     * 7 de 8
-       Dies festius a Google
-     * 8 de 8
-       Com es pot afegir la data d'obertura d'una empresa
-
-     * ©2025 Google
-     * Política de privadesa
-     * Condicions del servei
-
-   Idioma [català‎__________________...]
-   (BUTTON)
-   Activa el mode fosc
-   Envia suggeriments sobre...
-   (BUTTON) Aquest contingut i informació d'ajuda (BUTTON) Experiència
-   general del Centre d'ajuda
-
-   Cerca
-   Esborra la cerca
-   Tanca la cerca
-   Aplicacions de Google
-   Menú principal
-
-
+   Comentaris (10)
+   Ordena per
+   [Data_________]
+   Resposta a l'usuari X
+   Nom ____________________
+   Correu electrònic ____________________
+   El teu comentari
    ____________________________________________________________
    ____________________________________________________________
    ____________________________________________________________
    ____________________________________________________________
+   [ ] He llegit i accepto la Política de Privacitat i Protecció de Dades
+   Envia el comentari
+   Et pot interessar
+   Els bombers fent tasques per retirar el cadàver.
 
-   12908398399431718915
+   Successos
+   Apareix morta a la vorera a Fiter i Rossell una dona que s’hauria
+   precipitat des d’un tercer pis
+   Ladislau Baró, al Consell General.
 
-   true
+   Educació
+   Educació vol intentar rebaixar les tensions que hi ha entre el SEP i
+   Funció Pública
+   Un dels vehicles denunciats.
 
-   Cerca al Centre d'ajuda
+   Reportatge
+   ‘Esquí de fons’ amb el tot-terreny
+   Una imatge de l'interior del local.
 
-   true
+   Successos
+   S’entrega un dels agressors del local de copes d’Andorra la Vella
+   Els bombers un cop ja havien acabat la intervenció a la Rotonda.
 
-   true
+   Successos
+   Mobilització d’urbans i bombers per unes brases que es volien encendre
+   a la Rotonda
+   Els dos vehicles que han topat a la rotonda de la Margineda.
 
-   true
+   Successos
+   Accident a la rotonda de la Margineda entre dos turismes que acaba amb
+   danys materials
+   La seu del consolat argentí a Barcelona.
 
-   true
+   Afers Exteriors
+   La comunitat argentina veu amb optimisme la possibilitat de tenir un
+   consolat itinerant aquest 2025
+   Trending
+    1. Es busquen dos homes per agredir amb brutalitat una parella en un
+       local de copes d’Andorra la Vella
+    2. Agent de circulació d’Encamp amb un peu ‘atropellat’ i bus amb un
+       vidre trencat per un petit xoc
+    3. Mor una de les figures clau que va contribuir al retorn dels
+       frescos de Sant Esteve a Andorra
+    4. Enxampen amb droga el delator de la macrooperació ‘Big Bang’ mentre
+       espera sentència ferma
+    5. L’associació de monitors d’esquí denuncia una oferta que busca
+       instructors sense titulació
 
-   true
+   Altaveu
+     *
+     *
+     *
+     *
+     *
+     *
 
-   99729
+     * Inici
+     * Actualitat
+     * Opinió
+     * Cultura
+     * Esports
+     * Vídeos
+     * Podcasts
+     * Classificats
+     * Necrològiques
 
-   false
+     * Qui som
+     * Contacte
+     * Publicitat
+     * Política de Protecció de Dades
+     * Política de Cookies
+     * Avís legal
 
-   false
+   Amb la col·laboració de:
+   Generalitat de Catalunya - Departament de la Presidència
+   Descarrega a l'App Store Descarrega a Google Play
 
-   false
+     *
+     *
+     *
+     *
+     *
+     *
+
+     * (BUTTON)
+     *
+
+     * Inici
+     * Actualitat
+     * Opinió
+     * Cultura
+     * Esports
+     * Vídeos
+     * Podcasts
+     * Classificats
+     * Obituari
+     * Més
+     * Subscriu-te al Butlletí
+
+   ____________________
+     * Seccions
+          + Inici
+          + Actualitat
+          + Entrevistes
+          + Reportatges
+          + Opinió
+          + Cultura
+          + Esports
+          + Vídeos
+          + Podcasts
+          + Classificats
+          + Obituari
+     * Categories
+          + Religió
+          + Transport
+          + Turisme
+          + Energia
+          + Territori
+          + Medi Ambient
+          + Cinegètica
+          + Patrimoni natural
+          + Afers Exteriors
+          + Història
+          + Finances
+          + Empreses
+          + Salut
+          + Afers Socials
+          + Interior
+          + Infraestructures
+          + Equipaments
+          + Justícia
+          + Estacions
+          + Neu
+          + Educació
+          + Cultura
+          + Successos
+          + Societat
+          + Política
+          + Economia
+     * Altaveu
+          + Qui som
+          + Contacte
+          + Publicitat
+          + Butlletí
+       Descarrega l'app
+          + Descarrega a l'App Store Descarrega a Google Play
+
+   Mobilitat
+
+França preveu obrir la frontera per a vehicles lleugers aquest dimarts a
+partir de 2/4 de 9 del matí
+
+Les autoritats franceses encara esperen noves precipitacions de neu per
+aquesta tarda i ràfegues de vent que poden arribar als 80 quilòmetres per
+hora
+
+   toni solanelles
+
+   Toni Solanelles
+
+   23/12/2024 (15:49 CET)
+
+   Comentaris
+     *
+     *
+     *
+     *
+     *
+     *
+
+   Una màquina llevaneus treballant a la zona fronterera. Una màquina
+   llevaneus treballant a la zona fronterera.
+
+   Les autoritats franceses preveuen obrir la frontera a partir d’aquest
+   dimarts a 2/4 de 9 del matí. Això en el cas dels vehicles considerats
+   lleugers. Pel que fa als vehicles de 19 tones, per tant, dels
+   automòbils pensants, la previsió d’obertura del pas fronterer és a les
+   3 de la tarda. Fins llavors, no hi ha previsió que pugui passar ningú
+   en cap sentit, a no ser que sigui per un cas d’urgència imprescindible
+   que cal acreditar.
+
+   Segons fonts oficials, tot i la millora de les condicions
+   meteorològiques, encara s’esperen alguns centímetres de neu aquesta
+   tarda, amb ràfegues de vent de fins a 80 quilòmetres l’hora. Davant
+   d’aquest fet, les autoritats franceses mantenen tancada la frontera. I
+   no serà fins la matinada de dimarts que una vegada passat el front
+   principal de neu i vent es faran els treballs necessaris per poder
+   procedir a l’obertura.
+
+   El que no està clar és si hi ha algun protocol -el Govern de moment
+   tampoc ho ha aclarit- pel qual a partir d’ara davant de cada episodi de
+   nevades, les autoritats franceses hagin acordat tancar el pas
+   fronterer. El comú d’Encamp, per l’interès econòmic i social que suposa
+   el Pas de la Casa, el primer damnificat en tot plegat, està fent “el
+   seguiment” de la qüestió mantenint-se en contacte amb l’administració
+   central però, per ara, prefereix no pronunciar-se la situació que ja fa
+   dos cops en pocs dies que es repeteix.
+
+   Etiquetes
+     * Mobilitat
+     * afers exteriors
+     * França
+     * neu
+
+   Comentaris (10)
+   Ordena per
+   [Data_________]
+   Resposta a l'usuari X
+   Nom ____________________
+   Correu electrònic ____________________
+   El teu comentari
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   [ ] He llegit i accepto la Política de Privacitat i Protecció de Dades
+   Envia el comentari
+   Et pot interessar
+   Els bombers fent tasques per retirar el cadàver.
+
+   Successos
+   Apareix morta a la vorera a Fiter i Rossell una dona que s’hauria
+   precipitat des d’un tercer pis
+   Ladislau Baró, al Consell General.
+
+   Educació
+   Educació vol intentar rebaixar les tensions que hi ha entre el SEP i
+   Funció Pública
+   Un dels vehicles denunciats.
+
+   Reportatge
+   ‘Esquí de fons’ amb el tot-terreny
+   Una imatge de l'interior del local.
+
+   Successos
+   S’entrega un dels agressors del local de copes d’Andorra la Vella
+   Els bombers un cop ja havien acabat la intervenció a la Rotonda.
+
+   Successos
+   Mobilització d’urbans i bombers per unes brases que es volien encendre
+   a la Rotonda
+   Els dos vehicles que han topat a la rotonda de la Margineda.
+
+   Successos
+   Accident a la rotonda de la Margineda entre dos turismes que acaba amb
+   danys materials
+   L'avinguda Rocafort de Sant Julià on s'ha produït la discussió.
+
+   Successos
+   Una discussió per un problema de circulació està a punt d’acabar amb
+   una baralla a Sant Julià
+   Trending
+    1. Es busquen dos homes per agredir amb brutalitat una parella en un
+       local de copes d’Andorra la Vella
+    2. Agent de circulació d’Encamp amb un peu ‘atropellat’ i bus amb un
+       vidre trencat per un petit xoc
+    3. Mor una de les figures clau que va contribuir al retorn dels
+       frescos de Sant Esteve a Andorra
+    4. Enxampen amb droga el delator de la macrooperació ‘Big Bang’ mentre
+       espera sentència ferma
+    5. L’associació de monitors d’esquí denuncia una oferta que busca
+       instructors sense titulació
+
+   Altaveu
+     *
+     *
+     *
+     *
+     *
+     *
+
+     * Inici
+     * Actualitat
+     * Opinió
+     * Cultura
+     * Esports
+     * Vídeos
+     * Podcasts
+     * Classificats
+     * Necrològiques
+
+     * Qui som
+     * Contacte
+     * Publicitat
+     * Política de Protecció de Dades
+     * Política de Cookies
+     * Avís legal
+
+   Amb la col·laboració de:
+   Generalitat de Catalunya - Departament de la Presidència
+   Descarrega a l'App Store Descarrega a Google Play

@@ -1,0 +1,1251 @@
+   #Tonton Photo RSS Feed Tonton Photo Atom Feed Tonton Photo » Flux
+   Tonton Photo » Flux des commentaires Tonton Photo » L'exposition (1/3)
+   : Comprendre l'ouverture en moins de 3 minutes Flux des commentaires
+   L'exposition (2/3) : Comprendre la vitesse d'obturation en moins de 3
+   minutes alternate alternate
+
+   Tonton Photo
+
+   ____________________
+
+Filtrer par catégorie ou par mots-clés
+
+   [Catégorie__________________]
+   [Mots-clés_____________________]
+
+     * Par où commencer ? 5 étapes
+     * Questions / Réponses
+     * Qui est Tonton Photo ?
+     * Mes photos
+     * Contact
+
+   Tonton Photo
+
+   ____________________
+
+Filtrer par catégorie ou par mots-clés
+
+   [Catégorie__________________]
+   [Mots-clés_____________________]
+     * Par où commencer ? 5 étapes
+     * Questions / Réponses
+     * Qui est Tonton Photo ?
+     * Mes photos
+     * Contact
+
+   Tonton Photo
+
+   ____________________
+
+Filtrer par catégorie ou par mots-clés
+
+   [Catégorie__________________]
+   [Mots-clés_____________________]
+
+     * Par où commencer ? 5 étapes
+     * Questions / Réponses
+     * Qui est Tonton Photo ?
+     * Mes photos
+     * Contact
+
+     * Par où commencer ? 5 étapes
+     * Questions / Réponses
+     * Qui est Tonton Photo ?
+     * Mes photos
+     * Contact
+
+   Découvrez mon livre ! « Les coulisses d'une photo - 30 photos
+   décryptées pour progresser et s'inspirer » Pour comprendre de manière
+   très concrète comment se construit une photo, comment raconter une
+   histoire ou restituer une ambiance... avec des mots simples !
+   Infos et avis des lecteurs sur mon livre : Les coulisses d'une photo -
+   30 photos décryptées pour progresser et s'inspirer, par Clément
+   Racineux / Tonton Photo
+
+     * Niveau débutant
+
+L'exposition (1/3) :
+Comprendre l'ouverture en moins de 3 minutes
+
+   [ig-com.svg] 88 Commentaires
+
+   Bonjour à tous !
+   Cet article est le premier d'une série de trois, sur les règles de base
+   de l'exposition. En effet, pour correctement exposer une photo, il faut
+   agir sur trois paramètres :
+   > l'ouverture (article 1/3)
+   > la vitesse d'obturation (article 2/3)
+   > la sensibilité (article 3/3)
+   Nous allons donc parler aujourd'hui de l'ouverture...
+     * Au sommaire
+     * 1/ La théorie
+     * 2/ La pratique : concrètement, comment modifier l'ouverture ?
+     * 3/ La preuve par l'exemple
+     * 4/ À vous de jouer !
+
+
+La théorie
+
+   Pour commencer, vous devez savoir que la photo peut se résumer au fait
+   de laisser entrer de la lumière dans votre appareil photo, sur une
+   surface photo-sensible, c'est-à-dire sensible à la lumière.
+
+   À l'origine et jusqu'à une période très récente, il s'agissait de
+   provoquer, dans votre appareil photo, une réaction chimique entre la
+   lumière et une pellicule. Aujourd'hui dans votre appareil numérique,
+   c'est un capteur électronique qui joue le rôle de pellicule.
+
+   Votre premier rôle en tant que photographe est donc de maitriser la
+   quantité de lumière qui rentre dans l'appareil, pour que le cliché soit
+   correctement exposé : ni trop clair (« sur-exposé »), ni trop sombre
+   (« sous-exposé »).
+
+   L'ouverture, c'est tout simplement la quantité de lumière que votre
+   objectif laisse rentrer dans l'appareil grâce à un système de
+   diaphragme en iris (voir grande photo en haut de page). Vous pouvez
+   contrôler l'ouverture en fermant ou en ouvrant votre diaphragme.
+
+   L'unité de mesure de l'ouverture de l'iris s'exprime en « F/ ». Ainsi,
+   sur l'objectif ci-contre, la gamme d'ouvertures possibles va de f/1.8 à
+   f/22.
+
+   Et c'est là qu'intervient le premier piège, celui qui perturbe beaucoup
+   les débutants en photographie : plus le chiffre est petit, plus
+   l'ouverture est grande. À f/1.8, mon ouverture est très grande, elle
+   laisse entrer beaucoup plus de lumière qu'à f/22, une ouverture très
+   petite.
+
+     Si cela peut vous aider, je vous livre la petite astuce que je
+     gardais en tête à mes débuts : j'avais décidé de raisonner non pas
+     en termes d'ouverture du diaphragme, mais en termes de fermeture.
+
+     Ainsi, f/ 1,8 est un petit chiffre, donc une petite « fermeture » du
+     diaphragme (soit, par inversion, une grande ouverture).
+     À l'inverse, f/22 est un grand chiffre, donc une grande
+     « fermeture »...
+
+     Ce n'est pas très orthodoxe, mais si cette astuce peut vous aider,
+     c'est le principal
+
+
+
+La pratique :
+concrètement, comment modifier l'ouverture ?
+
+   Vous pouvez contrôler cette étape directement sur l'objectif grâce à la
+   bague dédiée, ou grâce aux touches de votre appareil si votre objectif
+   est entièrement électronique. Sur votre boîtier, deux modes vous
+   permettent de prendre la main sur l'ouverture : le mode manuel (M) ou
+   le mode « Priorité à l'Ouverture » (Av ou A).
+
+   En mode Priorité à l'ouverture, vous pourrez jouer avec l'ouverture
+   pour en comprendre les implications, pendant que votre appareil
+   adaptera automatiquement les réglages de vitesse d'obturation et
+   éventuellement de sensibilité (ISO) si vous avez choisi le mode ISO
+   automatique.
+
+
+La preuve par l'exemple
+
+   Dans les images ci-dessous, j'ai pris la même scène (des champignons,
+   oui, je revenais du marché au moment d'écrire cet article, le sujet à
+   photographier était donc tout trouvé ;)), avec des ouvertures
+   différentes, en mode manuel puis en mode Priorité à l'ouverture.
+
+Voici donc le résultat, pour le mode manuel
+
+   (la vitesse d'obturation, la sensibilité et le cadrage sont les mêmes
+   sur les 4 clichés. Seule l'ouverture diffère...)
+
+   Comprendre l'ouverture en photo : test pratique en mode manuel (M) ©
+   Tonton Photo
+
+   Comprendre l'ouverture en photo : test pratique en mode manuel (M) ©
+   Tonton Photo
+
+   Comme vous le constatez très clairement, la première photo reçoit trop
+   de lumière, elle est donc trop exposée (j'ai utilisé l'ouverture
+   maximale de mon objectif, à F/1.8). Pour les clichés suivants, je ferme
+   un peu plus, avec des ouvertures plus resserrées. On voit donc
+   clairement que mes prises de vues vont de la surexposition à la
+   sous-exposition. Le cliché correctement exposé étant le second.
+
+
+Voici ensuite le résultat du test en mode `Priorité à l'Ouverture'
+(A ou Av)
+
+   Test de 4 ouvertures différentes en mode manuel © Tonton Photo
+
+   Test de 4 ouvertures différentes en mode manuel © Tonton Photo
+
+   Pendant que je changeais mon ouverture, ce mode automatique se
+   chargeait de calculer automatiquement la bonne vitesse d'obturation,
+   afin de garder une exposition correcte. Ce qui explique pourquoi les 4
+   clichés ont une exposition à peu près constante. Vous pouvez d'ailleurs
+   voir que sur la quatrième photo, la petite ouverture entraîne une
+   vitesse d'obturation lente, et donc une photo floue... En effet, comme
+   mon diaphragme était très fermé (f/13), il fallait un temps
+   d'exposition plus long pour laisser entrer la bonne quantité de
+   lumière. Mais nous aurons l'occasion d'en reparler dans l'article
+   consacré à la vitesse d'obturation ;).
+
+   Voilà, l'ouverture, ça n'est pas plus compliqué que ça !
+
+   Quand vous aurez progressé, la maîtrise de l'ouverture vous permettra
+   aussi de jouer avec la profondeur de champ (vous pouvez d'ores et déjà
+   observer qu'à f/1.8 la zone de netteté est très courte, alors qu'à f/8
+   on distingue nettement la quasi-totalité des champignons).
+
+À vous de jouer !
+
+     J'espère que vous aurez désormais compris ce qu'est l'ouverture ! Je
+     vous conseille de prendre immédiatement votre appareil photo tant
+     que ces explications sont fraîches dans votre esprit, et de jouer
+     avec la fonction « Priorité à l'Ouverture » pour bien comprendre son
+     incidence sur vos prises de vues ! Faites aussi le test avec la
+     fonction manuelle, pour commencer à prendre en main ce mode.
+
+
+La suite
+
+   Pour lire la suite de cette trilogie sur le triangle d'exposition, je
+   vous invite à lire l'article suivant : L'exposition (2/3) : Comprendre
+   la vitesse d'obturation en moins de 3 minutes
+
+Et vous, utilisez-vous déjà la fonction « Priorité à l'ouverture » ? Ou bien
+êtes-vous bloqués face à cette fonction ? Êtes-vous perturbés par la règle du
+« petit chiffre = grande ouverture » ?
+
+   Dites-le moi dans vos commentaires, et posez-moi vos questions si vous
+   avez besoin d'approfondir le sujet !
+     * Cet article vous a plu ? Partagez-le !
+     *
+     *
+     *
+     *
+
+   Étiquettes : bases de la photo, conseil, diaphragme, exposition, iris,
+   ouverture, priorité à l'ouverture, profondeur de champ, triangle
+   Mon prénom / Pseudo*
+   Mon e-mail*_________
+   Recevoir le guide par e-mail
+   Rejoignez les abonnés du blog !
+   *champs obligatoires
+   SUIVANT >
+
+L'exposition (2/3) :
+Comprendre la vitesse d'obturation en moins de 3 minutes
+
+   Exposition photo : comprendre la vitesse d'obturation en moins de 3mn ©
+   Tonton Photo
+
+88 Commentaires
+
+    1.
+
+Farah
+       21 novembre 2011
+       Bonjour,
+       Ah quel plaisir de voir un beau blog !! Esthétiquement parlant, ça
+       fait du bien aux yeux... et ça donne donc envie d'en savoir plus !!
+       Je reviendrai...
+       Au plaisir de vous lire
+       Répondre
+          +
+
+Tonton Photo
+            23 novembre 2011
+            Merci Farah !
+            Je suis ravi que ce blog te plaise. Les travaux sont encore en
+            cours, mais la version finale ne devrait plus tarder...
+            Au plaisir !
+            Répondre
+    2.
+
+Etienne
+       28 novembre 2011
+       Salut Tonton !
+       Bonne initiative ce blog ! Il faudrait simplement que ta police de
+       caractère soit un peu plus grande.
+       Sur mon blog, il y a toute une série sur les couchers de soleil où
+       j'ai travaillé l'ouverture et la profondeur de champ. C'est
+       amusant...
+       Bon courage !
+       Etienne
+       Répondre
+          +
+
+Tonton Photo
+            1 décembre 2011
+            Bonjour Etienne !
+            Merci pour le conseil, j'en prends bonne note Les couchers de
+            soleil sont toujours une source d'inspiration en photographie.
+            Au plaisir d'en rediscuter !
+            Répondre
+    3.
+
+Dominique
+       30 novembre 2011
+       Bonjour Clément,
+       Je possède un bridge, lorsque je passe en mode A, l'appareil
+       compense automatique l'ouverture et la sensibilité ce qui fait que
+       j'ai toujours une photo exposée à peux près de la même façon, par
+       contre la profondeur de champ est carrément différente et j'obtiens
+       des effets très sympas.
+       Merci pour cet article, vivement les prochains.
+       Dominique
+       Répondre
+          +
+
+Tonton Photo
+            2 décembre 2011
+            Bonjour Dominique, merci pour ton commentaire. En effet, le
+            mode A permet de toujours compenser, ce qui est très pratique.
+            Dans un prochain article j'expliquerai les paramètres qui
+            permettent de maîtriser la profondeur de champ... ce qui
+            t'ouvrira justement à un champ de créativité très grand ! A
+            bientôt !
+            Répondre
+    4.
+
+Jerome
+       7 décembre 2011
+       Salut Clément,
+       Vraiment sympa ton blog !!!
+       J'aime beaucoup la photo, alors je reviendrai souvent te voir pour
+       apprendre de nouvelles techniques et la façon de faire de la photo,
+       cela me sera très utile je crois !!!!
+       Tes photos en bas de page sont vraiment magnifiques.
+       Salutations
+       Jérôme@para-ovni.com
+       Répondre
+          +
+
+Tonton Photo
+            12 décembre 2011
+            Merci Jérôme pour ton commentaire
+            Je serai ravi si ce blog peut être utile aux amateurs de
+            photographie !
+            Répondre
+    5.
+
+Mariette
+       4 janvier 2012
+       Bonjour Tonton,
+       Un superbe look pour ton blog, et j'y reviendrai pour améliorer mes
+       photographies.
+       Donneras-tu aussi des conseils en matière d'achat d'appareil?
+       Amicalement.
+       Mariette
+       Répondre
+          +
+
+Tonton Photo
+            4 janvier 2012
+            Bonjour Mariette,
+            merci pour ton commentaire. En effet, je prévois de donner
+            quelques conseils matériels au fil de ce blog... affaire à
+            suivre !
+            Répondre
+    6.
+
+Didier
+       7 mars 2012
+       Bonsoir Tonton photo, sympa le design de ton blog et les photos
+       portait sont très belles. L'article est, dommage, trop technique
+       pour moi - heu oui, la photo ce n'est pas mon truc, mais la
+       regarder, oh oui, cela, j'aime bien. Alors je reviendrai. A+
+       Didier
+       Didier Articles récents..Instantané sur séance (2) My Profile
+       Répondre
+    7.
+
+Samir
+       4 janvier 2013
+       Très bon article concis et pratique pour les débutants
+       Il existe des outils super pratiques pour simuler le choix de
+       l'ouverture d'une photo, je vous conseille d'aller faire un tour
+       ici : http://www.photonhead.com/simcam/shutteraperture.php
+       Samir Articles récents..Photos de Noël : 14 images pour vous
+       inspirer My Profile
+       Répondre
+          +
+
+Tonton Photo
+            4 janvier 2013
+            Merci Samir pour ton commentaire. Je ne connaissais pas cet
+            outil, c'est en effet bien pratique pour visualiser les
+            différences de choix entre ouverture et vitesse !
+            Répondre
+    8.
+
+Moukita
+       23 janvier 2014
+       Bonjour Tonton photo,
+       Tout d'abord, bravo pour ce blog qui est bien conçu et joli, pour
+       ne rien gâcher. Et ensuite, merci pour ton explication, j'ai enfin
+       pigé le truc (sans doute grâce à ton astuce au sujet de la
+       « fermeture »).
+       Répondre
+          +
+
+Tonton Photo
+            23 janvier 2014
+            Merci, j'en suis ravi !
+            Répondre
+    9.
+
+Laure V.
+       20 février 2014
+       Bonjour. Tout d'abord une pluie de félicitations pour votre blog
+       qui est tout simplement merveilleux. J'aime tout ! Le ton, les
+       sujets abordés, l'humour, la technique, les astuces, tout !
+       J'ai une question qui va peut-être vous sembler bête, mais tant
+       pis. J'ai un 24-70 F/2,8 et un 70-200 F/2,8, j'aimerais pouvoir
+       faire des photos de groupe où tout le monde soit net, du premier au
+       dernier plan, ou des photos de conventions où tout soit net, du
+       plan le plus proche au plan le plus lointain, de devant moi à
+       l'infini.
+       Ai-je les bonnes optiques ?
+       Si non, laquelle faut-il ?
+       Si oui, je n'arrive pas à cet effet de netteté même en réglant à
+       2,8, je suis un peu plus net qu'avec une focale plus grande mais en
+       aucun cas de devant moi à l'infini.... J'arrive à être net sur
+       quelques cm mais pas bcp plus...
+       J'ai aussi fait des essais en basse lumière et à 2,8 le tps de pose
+       est si long que la photo est floue...
+       J'arrive à avoir la netteté à l'infini avec un smartphone... et je
+       ne comprends pas pourquoi...
+       J'espère que je me suis bien exprimée et que vous saurez
+       m'aider....
+       Merci infiniment
+       Laure V.
+       Répondre
+          +
+
+Didier
+            11 mars 2014
+            Bonsoir
+            Plus l'ouverture est grande (= f petit), plus la profondeur de
+            champ est faible et inversement.
+            Répondre
+          +
+
+Tonton Photo
+            12 mars 2014
+            Bonjour Laure,
+            merci pour votre commentaire et désolé pour le délai de
+            réponse, j'ai été pas mal absent ces derniers temps.
+            Votre question n'est pas bête du tout ! Vous avez les bonnes
+            optiques, aucun problème à ce niveau.
+            Difficile de répondre rapidement à votre question, je vous
+            prépare une réponse complète d'ici quelques jours.
+            À très bientôt,
+            Répondre
+          +
+
+Tonton Photo
+            11 avril 2014
+            Chère Laure,
+            voilà, avec un petit peu d'attente, j'ai répondu publiquement
+            à votre question, car d'autres personnes se posent sans doute
+            la même question que vous : Comment faire une photo de groupe
+            où tout le monde soit net ?
+            Répondre
+   10.
+
+stef
+       30 mai 2014
+       Pas mal du tout j ai enfin compris. Les images sont un bon atout à
+       la compréhension car c est assez complexe. Merci en tout cas
+       Répondre
+          +
+
+Tonton Photo
+            19 juin 2014
+            Merci pour votre commentaire, j'en suis ravi
+            Répondre
+   11.
+
+DECHENE
+       15 juin 2014
+       Bonsoir, Pour ma pension, j'ai reçu du bureau un appareil photo,
+       comme je l'avais souhaité, il y a de cela quelques temps. Néanmoins
+       je n'ai pas encore réussi de le maitriser comme je le souhaite. En
+       découvrant votre site, j'ai l'impression que je ferai des progrès à
+       la vitesse du chat botté. Encore grand merci!!
+       Répondre
+          +
+
+Tonton Photo
+            19 juin 2014
+            Merci à vous, je suis très content si ce blog s'avère utile
+            Répondre
+   12.
+
+Emma
+       30 juillet 2014
+       Bonjour,
+       Je découvre votre blog. Les articles « par où commencer » sont
+       vraiment sympa car les notions compliquées sont expliquées très
+       simplement. Dommage que je ne l'ai pas trouvé plus tôt ça m'aurait
+       éviter quelques maux de tête lol J'ai hâte de naviguer un peu plus
+       pour voir la suite. Je recommanderais.
+       Répondre
+          +
+
+Tonton Photo
+            30 juillet 2014
+            Bonjour Emma,
+            merci pour ce message qui me fait très plaisir, je suis ravi
+            si ce blog éclaircit quelques notions nébuleuses
+            Répondre
+   13.
+
+Vincent
+       28 août 2014
+       Bonjour,
+       Je suis tombé sur votre blog par hasard en recherchant des infos
+       pour débuter en photo.
+       Possédant un NIKON D40 depuis plusieurs années, je me rend compte
+       que je ne l'utilise que en mode tout auto. Ce qui est finalement
+       pas très adapté aux fonctions de cet appareil.
+       Je suis donc décidé à apprendre à l'utilisé correctement et part la
+       même occasion me perfectionner dans la photo.
+       J'ai déjà plaisir a lire vos articles qui sont très pédagogues et
+       non abrutissants pour les novices comme moi.
+       Merci pour tous cela, et pour le reste à venir.
+       Bien cordialement, Vincent.
+       Répondre
+          +
+
+Tonton Photo
+            29 août 2014
+            Merci pour votre message, je suis ravi si ce blog vous aide à
+            sortir du mode tout automatique
+            Répondre
+   14.
+
+Aline
+       13 septembre 2014
+       Enfin un article concernant l'ouverture, clair et facile à
+       comprendre. Chapeau et merci!
+       Répondre
+          +
+
+Tonton Photo
+            16 septembre 2014
+            Merci !
+            Répondre
+   15.
+
+sipep
+       8 octobre 2014
+       Une vraie approche pédagogique, super boulot. Merci
+       Répondre
+          +
+
+Tonton Photo
+            8 octobre 2014
+            Merci
+            Répondre
+   16.
+
+Lorène
+       4 novembre 2014
+       Bonjour Bonjour.
+       Tout d'abord, moi qui décide enfin de faire vivre mon appareil je
+       suis bien contente d'avoir trouvé ce site ! Super bien présenté et
+       de très bonnes explications !
+       Néanmoins il y à un petit quelque chose que je ne comprend pas.
+       J'ai un Canon EOS 1100D.
+       J'ai donc fais des essais avec le mode MANUEL chez moi.
+       seulement mes ouvertures commencent à F/4, mes photos sont donc
+       vite très sombre je sais pas comment compenser... Help
+       Répondre
+          +
+
+Tonton Photo
+            5 novembre 2014
+            Bonjour Lorène,
+            pour compenser, il faut jouer sur la sensibilité ISO (en
+            l'augmentant le capteur deviendra plus sensible à la lumière,
+            mais le risque est l'apparition de bruit dans l'image), et sur
+            la vitesse d'obturation (une vitesse plus lente laissera plus
+            de lumière rentrer sur le capteur).
+            Répondre
+   17.
+
+Mallaury
+       16 décembre 2014
+       Bonsoir et un grand merci pour ce blog très ludique, pratique,
+       rapide et simple. J'ai réussi à m'éclairer là où ça n'allait pas
+       Mais quelque chose est encore flou.. Je possède un Nikon D7000
+       ainsi qu'un Nikkor 50mm 1.8, j'ai voulu faire vos petits exercices
+       d'application et lorsque je passe en mode « priorité à
+       l'ouverture » mon boitier n'arrive pas à se stabiliser au niveau de
+       la vitesse et me pousse mes ISO à H2.0 (donc bien supérieur 6400),
+       impossible de bien faire mes réglages, et pas moyen de trouver une
+       solution... Un petit conseil s'il vous plaît? Une bonne soirée et
+       encore merci pour ce partage.
+       PS : vu que j'ai abandonné mon mode A, j'ai réalisé bokeh sous vos
+       conseils, votre avis m'intéressait beaucoup
+       Répondre
+          +
+
+Tonton Photo
+            10 janvier 2015
+            Bonjour Mallaury,
+            merci pour ce commentaire.
+            D »après le « bonsoir » dans votre texte, vous avez réalisé
+            vos tests le soir, ce qui peut expliquer que votre appareil
+            ait eu besoin de monter très haut en sensibilité pour
+            compenser le manquer de lumière, surtout si l'ouverture était
+            petite (donc F/ grand chiffre).
+            Si c'est bien le cas, que vous refaites votre test en soirée
+            et qu'il fait donc sombre, pensez bien à ouvrir grand le
+            diaphragme de votre 50mm, soit F/ petit chiffre.
+            PS : cool pour les bokeh
+            Répondre
+   18.
+
+Maryse Létourneau
+       21 décembre 2014
+       Bonjour Tontonphoto!
+       Vraiment, je trouve que votre site est superbe!!! Sans exagération!
+       Je suis très heureuse d'être tombée sur ce site, par hasard! Et
+       combien je trouve votre présentation vraiment bien faite! Couleurs,
+       disposition et tout!
+       Merci! car je cherchais quelque chose pour mes débuts, et des
+       explications très précises, pour commencer, et que je n'ai pas
+       beaucoup de bagage dans le domaine du vocabulaire, pour tout ce qui
+       touche la photo.
+       C'est certain que j'ai déjà partagé avec mes connaissances, votre
+       site, puisqu'il est super!
+       Bonne continuation pour vous!
+       Merci d'être là!
+       Maryse Létourneau
+       Répondre
+   19.
+
+Spelters myriam
+       23 décembre 2014
+       Bonjour tonton photo
+       Je débute dans la photo. Un grand merci pour toutes vos
+       explications.
+       Je n'ai plus qu' a mettre en pratique vos conseilles et de
+       m'exercer le plus possible.
+       Répondre
+   20.
+
+Crèvecoeur
+       2 janvier 2015
+       Concernant l'ouverture et le fait de dire que f/2 est une ouverture
+       plus grande que f/22, je viens de trouver un truc sur un autre
+       site, astuce que je souhaite partager :
+       - f/2 parfois exprimé 1:2 peut se traduire par une division : 1/2 =
+       1:2 = 0,5 correspondant à la quantité de lumière qui entre dans
+       l'objectif
+       - faisons le calcul pour f/22, par exemple, on trouve alors : 1/22
+       = 1:22 = 0,04545454...
+       - on vérifie bien que 0,04545454... < 0,5 , il y a donc moins de
+       lumière qui entre dans l'objectif en f/22 qu'en f/2
+       CQFD (mnémonique : prendre le caractère / ou le caractère : comme
+       signe de division)
+       Répondre
+   21.
+
+Cassandra
+       10 janvier 2015
+       HALLELUJAH !
+       Enfin je comprends !!! Après tant de recherches sur des sites, des
+       vidéos pour comprendre ce sujet (car je suis débutante) je viens
+       enfin de comprendre ! Quel plaisir ! ça y est j'ai trouvé mon site
+       favoris, tout est si bien expliqué, on a l'impression d'avoir
+       Tonton Photo juste en face de nous ! J'adhère complètement, merci
+       de partager ce savoir sans de blabla professionnel !
+       Continuez comme ça !
+       & tout mes voeux pour 2015 au passage
+       A très vite ! Cassandra
+       Répondre
+          +
+
+Tonton Photo
+            10 janvier 2015
+            Super nouvelle, merci Cassandra pour ce message chaleureux, et
+            bonne année également
+            Répondre
+   22.
+
+David
+       11 mars 2015
+       Pour l'ouverture, perso, je l'explique plutôt en nombre de choses
+       nettes sur la photo via la profondeur de champ
+       Plus le chiffre est petit moins y a de choses nettes sur la photo,
+       comme ça, ça va dans le même sens, petit-pas beaucoup / grand -
+       beaucoup
+       Très bel article, bravo !
+       Répondre
+   23.
+
+Rom
+       20 mars 2015
+       Salut Tonton,
+       Techniquement, pourquoi en ouvrant plus, donc en faisant entrer
+       plus de lumière, on réduit la profondeur de champ? Je comprend
+       l'application mais pas la logique!
+       Merci pour ce superbe blog!
+       Rom
+       Répondre
+          +
+
+wookiee
+            25 juin 2015
+            Alors je vais essayer de répondre sans pour autant te dire que
+            c'est la vérité absolue mais plutôt une ébauche d'explication
+            physique ^^
+            Quand tu ferme le diaphragme tu vas concentrer les rayons de
+            lumière vers le centre de l'objectif.
+            Là où ils restent le plus parallèle à la lentille de ton
+            objectif donc moins de perte.
+            Par contre quand tu ouvre ton diaphragme (donc petite valeur
+            de f) tu laisse rentrer plus de rayons et tous ne vont pas
+            bien converger ce qui va réduire la zone de netteté de la
+            photo.
+            C'est une explication que j'ai trouvé quelque part et qui m'a
+            vraiment paru logique.
+            Certains en photo ne s'occupe pas de ça et y arrive très bien
+            mais perso j'ai besoin de comprendre pour vraiment maitriser
+            ^^
+            Répondre
+   24.
+
+mario
+       20 mars 2015
+       bonsoir
+       Cela fait quelques temps que j'essaie de prendre plaisir à faire de
+       la photo mais voilà j `ai beaucoup de mal et je me décourage .
+       Je compte sur vous avec vos explications claires pour avancer
+       Ma grande difficultée ,je ne sais pas utiliser mon ouverture je
+       mets le chiffre au hasard et par crainte de tout rater je mets mon
+       appareil sur automatique (ce n'est pas le but que je recherche )
+       alors voilà je vais essayer d'exploiter au maximum vos conseils .
+       merci et je vais suivre le blog merci beaucoup
+       Répondre
+   25.
+
+Mélanie
+       21 septembre 2015
+       Bonjour Tonton photo,
+       Je commence à m'intéresser à la photo depuis peu de temps et je
+       suis tombée sur votre blog qui est tout simplement génial! Vos
+       articles sont bien conçus et très clairs ce qui m'a permis de bien
+       comprendre les principes de bases de la photo.
+       Bravo et merci!
+       Répondre
+   26.
+
+Bissières Claudette
+       6 novembre 2015
+       Bonjour je viens de trouver votre site par hasard il est génial
+       mais ouverture et vitesse sont pour moi un casse tête
+       j' ai un objectif 70:200 ouverture 2-8 ça je sais mais après quand
+       il faut l' associer à la vitesse!!!comment je vais faire pour
+       vraiment figer les mésanges en arrivant sur leur mangeoire
+       tant que je n' aurai pas le réflexe de le faire à chaque fois ou
+       faire suivre vos conseils sur un petit papier merci bonne
+       continuation
+       Répondre
+   27.
+
+Philou
+       6 décembre 2015
+       Bonsoir,
+       J'ai appris plein de choses et très simplement.
+       Tous les sujets partagés sont essentiels pour me permettre
+       « d'essayer » de réussir, mes petites photos.
+       Un grand merci pour le blog, les explications très claires et super
+       passionnantes.
+       Vite mon boitier !
+       Philou
+       Répondre
+   28.
+
+PH
+       15 janvier 2016
+       Hello Tonton,
+       Tes démonstrations sont très pédagogiques, c'est très facile à lire
+       et à comprendre!
+       Merci pour tes conseils!... Pressé de recevoir mon reflex dans 10
+       jours!
+       Répondre
+   29.
+
+Emma
+       22 mai 2016
+       Explications très claires !
+       J'ai tout compris en moins de 3 minutes !!
+       Parfait, merci pour le blog ;D
+       Répondre
+   30.
+
+janvier severine
+       8 juillet 2016
+       j aimerai un conseil si je prend une photo dans un champ de blé
+       ensoleillé que me conseiller vous en iso et focale pour avoir une
+       belle image sans flou?
+       Répondre
+   31.
+
+Event Photography Dublin
+       30 septembre 2016
+       Merci pour cet article. Tres bon blog.
+       Répondre
+   32.
+
+DAN
+       26 novembre 2016
+       Je suis perdue, je veux changer mon appareil, dont je suis
+       satisfaite par la qualité des photos, bon zoom LUMIX FZ200, j'ai
+       également un LUMIX TZ10, mais pas assez lumineux et zoom pas assez
+       puissant. Vous l'aurez compris, je suis attachée aux LUMIX, je
+       n'énumérai pas tous ceux que j'ai achetés.
+       Je ne sors jamais sans mon LUMIX FZ200, je fais beaucoup de photos
+       de voitures anciennes, des scènes de rues, de voyages, mais je le
+       trouve encombrant et lourd. Je voudrais le changer mais par un
+       compact mais lequel LUMIX TZ 100, TZ101, ou TZ80 ?
+       J'apporte une grande importance au zoom, les animaux sont parfois
+       loin, les détails architecturaux parfois très hauts etc ...., les
+       photos doivent être lumineuses.
+       L'appareil doit être simple d'utilisation.
+       Donc je lis, je lis ... mais je suis perdue je vais à la fête des
+       lumières à Lyon, je voudrais bien avoir fait mon achat pour cette
+       fête, puis suivra un voyage.
+       Si vous pouvez me guider, cela m'aiderait beaucoup. Par avance
+       merci.
+       Répondre
+   33.
+
+Cochinard Marie
+       8 mars 2017
+       Bonjour, sur mon reflex Canon EOS 750D l'ouverture dont le chiffre
+       est le plus bas s'arrête à F5,6 et ne va pas plus bas pourquoi ?
+       Répondre
+   34.
+
+Nadim J.
+       20 mai 2017
+       Je ne pouvais pas profiter de la lecture de ce 2eme article sans te
+       remercier et te féliciter pour:
+       1) la Clareté
+       2) la simplicité
+       3) la pédagogie
+       4) l'humour
+       5) le ton
+       6) les sujets
+       7) le design
+       8) les photos
+       Tu es magnifique
+       et je vais continuer les autres articles avant de passer à la
+       pratique pour améliorer mes photos et mes posts
+       Instagram/NadimOmran
+       Merci bcp
+       Répondre
+          +
+
+Tonton Photo
+            1 septembre 2017
+            Merci Nadim pour ce message qui me fait chaud au coeur ! Je
+            vais tâcher de continuer à écrire des tutoriels, en espérant
+            vous aider toujours plus !
+            Répondre
+   35.
+
+Michalis
+       17 août 2017
+       Bonjour,
+       Ce blog est il encore actif ?
+       Merci pour votre réponse
+       Cordialement
+       Répondre
+          +
+
+Tonton Photo
+            1 septembre 2017
+            Bonjour Michalis,
+            oui ce blog est toujours actif !
+            J'ai été pas mal absent ces derniers mois pour des raisons
+            personnelles, mais je prépare mon retour, avec de nouveaux
+            articles & tutoriels !
+            À très bientôt,
+            Répondre
+   36.
+
+Celine
+       4 septembre 2017
+       Bonjour,
+       je vienne de decouvrir votre blog, mais comme je voyais les
+       commentaires des années précédentes j'avais peur que vous ne soyez
+       plus actif! Mais heureusement vous l'etes toujours
+       Merci pour vos explications par rapport à la luminositée etc...
+       j'ai ete faire un test dans ma cour, et effectivement coté
+       luminositée j'ai encore quelques soucis, je m'embrouille par
+       rapport aux chiffres etc... mais je garde precieusement votre blog
+       ouvert, et j'espere qu'il pourra m'aider!
+       Bonne journée
+       Répondre
+   37.
+
+jeff59
+       30 septembre 2017
+       bonjour
+       merci pour le temps consacré pour nous faire comprendre la photo !
+       Répondre
+          +
+
+Tonton Photo
+            12 octobre 2017
+            De rien ! Les commentaires des lecteurs me font toujours
+            plaisir et me motivent à continuer
+            Répondre
+   38.
+
+Franck
+       13 février 2018
+       Bonjour.
+       Je viens de parcourir votre explication simple et accessible sur la
+       focale. Cela m'a permis de mieux maitriser le sujet, merci! Je
+       pense revenir sur votre blog pour lire d'autres articles.
+       Cordialement, Franck
+       Répondre
+          +
+
+Tonton Photo
+            13 février 2018
+            Merci Franck, je suis ravi si l'article vous a permis de mieux
+            comprendre les choses ! Bienvenue sur le blog
+            Répondre
+   39.
+
+julien
+       21 février 2018
+       salut, l'explication est très bien faite, par contre il doit y
+       avoir une erreur (faute de frappe à priori) ou alors je ne comprend
+       pas tout, j'avoue que je n'ai pas lu tous les commentaire pour voir
+       si le sujet a déjà été abordé. sur la deuxième série de photos avec
+       les champignons, le temps d'ouverture est plus long en f:8 qu'en
+       f:13 ce qui ne semble pas logique, surtout que la photo en f:8 est
+       bien nette comparée à celle en f:13 qui est floue à cause d'un
+       temps d'ouverture trop long.
+       Répondre
+          +
+
+Tonton Photo
+            22 février 2018
+            Bien vu Julien ! Effectivement il y avait une faute de frappe,
+            la photo à f/8 était prise à 1/15 (et non 1/5)
+            J'ai rectifié l'image à l'instant, merci beaucoup !
+            Répondre
+   40.
+
+Nie Zufrieden
+       9 avril 2018
+       Merci infiniment pour le partage et la générosité de ce blog. J'ai
+       acheté un APN Lumix DMC-FZ220 en 2014 et depuis, je l'ai laissé sur
+       « automatique » car je ne connais rien à la photo. J'ai décidé de
+       m'y mettre pour voir ce que je pourrais obtenir de cet appareil.
+       J'ai cherché ce que signifiait « ouverture » et je suis arrivée
+       ici. Ouf !
+       Merci encore
+       Répondre
+   41.
+
+Martin
+       11 janvier 2019
+       Hello Tonton !
+       Merci pour ce blog simple, clair, et effectivement agréable à voir.
+       Pour le novice que je suis c'est une mine d'or !
+       Merci beaucoup et au plaisir de continuer à apprendre en toute
+       simplicité.
+       Répondre
+   42.
+
+Tonton Photo
+       18 janvier 2019
+       Merci à tous pour vos commentaires chaleureux ! Je suis ravi si
+       tout mon travail vous aide à progresser
+       Tonton Photo Articles récents..Quels sont vos besoins photo pour
+       2019 ? My Profile
+       Répondre
+   43.
+
+Thierry
+       4 avril 2019
+       Bonjour Tonton.
+       Sujet très clair, vraiment bien expliqué et les images sont des
+       atouts pour bien comprendre.
+       Merci beaucoup.
+       Répondre
+   44.
+
+NeveuPhoto
+       8 avril 2019
+       Bonjour.
+       J'ai lu quelque part cette analogie parlante : la pluie (la
+       lumière) et le puits (le capteur).
+       L'ouverture, c'est le diamètre du puits dans lequel il pleut. Plus
+       il est large, plus il y a d'eau qui rentre.
+       La vitesse d'obturation, c'est la durée de la pluie. Plus longtemps
+       il pleut, plus le puits se remplit d'eau (quel que soit son
+       diamètre).
+       La sensibilité, c'est la profondeur du puits. Moins il est profond,
+       plus vite il déborde.
+       La bonne photo, c'est, par exemple, en fonction de ce qu'on cherche
+       à obtenir, un puits à moitié plein. Ou bien un puits avec 100
+       litres d'eau. On comprend bien ici que pour y parvenir, on peut
+       jouer sur le diamètre du puits, la durée de la pluie, ou encore la
+       profondeur du puits.
+       Répondre
+   45.
+
+Joe
+       25 mai 2019
+       Merci pour ces infos. Il y a juste un truc que je ne comprend pas.
+       Je viens de tester en mode À avec F3,5. Résultat, suréxposé. Je
+       teste différents F jusqu'a 16 et toujours surexposé. Je passe en
+       mode S, et là nickel. Je n'utilise jamais le mode À parce que je
+       trouve que le temps de déclenchement est toujours trop long et me
+       surexpose mes photos ... C'est moi qui m'y prend mal ou il y a un
+       truc que je n'ai pas compris, mais si vous avez des infos, je suis
+       preneur ...
+       Répondre
+          +
+
+axel
+            30 mai 2019
+            Regardez dans vos réglages, votre ISO est peut etre trop élevé
+            Répondre
+   46.
+
+Pierre
+       13 juin 2019
+       bonjour !
+       j'ai une question par rapport a la lumière environnante. si l'on
+       est dans un environnement lumineux, il vaut mieux avoir une
+       ouverture petite et inversement dans un environnement sombre ? j'ai
+       des doutes sur la question c'est pour cela que je me permets de
+       vous demandez
+       sinon blog très agréable a lire et a explorer
+       Répondre
+   47.
+
+RAFFAULT
+       25 octobre 2019
+       Bonjour, votre blog est parfait mais il y a une question que je me
+       pose
+       dans vos photos de champignons (qui sont très compréhensives) vous
+       parlez d'ouverture de f/1.8 à f/8
+       j'ai plusieurs objectifs mais ils ont une ouverture de f/3.5 à
+       f/4.5 donc je ne peux pas modifier l'ouverture en dela et en deca
+       de ces valeurs (f/3.5 à f/4.5 ?
+       ce qui oblige à avoir des objectifs à ouvertures différentes ?
+       merci d'avance et continuez car nous en avons besoin pour nous
+       améliorer
+       cordialement
+       Répondre
+          +
+
+JBC
+            28 octobre 2019
+            Ne confondriez-vous pas l'ouverture et la focale ?
+            Répondre
+   48.
+
+Jéjé
+       2 décembre 2019
+       Bonjour, merci pour votre article fort intéressant.
+       Que pensez-vous des objectifs à ouverture constante comme le Sony
+       SELP 18-105 mm à ouverture 4 uniquement ?
+       Merci pour votre réponse
+       Jéjé
+       Répondre
+   49.
+
+Jules
+       23 mai 2020
+       Merci beaucoup pour ces supers conseils photos, moi qui suit
+       débutant.
+       Tout est très bien expliqué et facilement en plus,
+       Merci !!!
+       Répondre
+   50.
+
+chris
+       28 mai 2020
+       j'ai remarqué aussi qu'en changeant la correction d'exposition(-5
+       au+5) puis en essayant différentes ( ouvertures f22 à f3,5)bien
+       évidement l'exposition changeait beaucoup plus.
+       grâce à votre article j'ai pu comprendre en mieux le jeu avec
+       l'ouverture et la correction de l'exposition
+       merci
+       Répondre
+   51.
+
+Virginie
+       7 mars 2021
+       Merci beaucoup pour ce blog extrêmement bien fait. Super
+       explications, facile à comprendre, avec les essais photos(...) J'ai
+       bcp appris en peu de temps. Vraiment top. Et merci. Pouvoir
+       profiter de vos conseils, et sans avoir à payer!!
+       Répondre
+   52.
+
+Marie
+       5 septembre 2021
+       Merci pour ce blog, gros tips mille merci
+       Répondre
+   53.
+
+Marie
+       5 septembre 2021
+       Merci beaucoup Tonton!
+       Marie Articles récents..Les expos photo immanquables cet été My
+       Profile
+       Répondre
+
+Laissez un commentaire
+
+   / Annuler ma réponse
+   Nom ______________________________
+   E-mail ______________________________
+   Site Internet ______________________________
+
+
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   Publier mon commentaire
+
+   Attention : l'image que vous tentez de publier n'est pas valide. Si
+   vous publiez votre commentaire, elle ne s'y affichera pas. Relisez
+   d'abord les recommandations sur les formats d'images.
+     Insérez une image dans votre commentaire avant de le publier  ^|^|
+                       
+     Formats acceptés : GIF, PNG, JPG, JPEG. Largeur/Hauteur
+   maximum : 1000px.
+   Merci de respecter ces dimensions sinon la photo sera trop lourde et la
+   page sera lente à afficher pour tout le monde !
+   Pour redimensionner votre image, vous pouvez utiliser ce service
+   gratuit : www.bloggif.com/resize (mettre 1000px dans chaque case de
+   largeur/hauteur).
+   [X] CommentLuv badge Montrer plus d'articles
+
+SUR LE MÊME THÈME
+
+     * [tuto-profondeur-de-champ-comprendre-tonton-photo-280x185.jpg]
+
+Qu'est-ce que la profondeur de champ & comment s'en servir ?
+     * [5-types-lumiere-progresser-photo-tonton-photo-280x185.jpg]
+
+5 types de lumières à connaître pour donner du caractère à vos photos
+     * [tuto-regle-tiers-photo-tonton-photo-couv-280x185.jpg]
+
+Cadrez mieux vos images grâce à la règle des tiers !
+
+Rejoignez-moi aussi sur Instagram !
+
+   [ DÉFI RE-CONFINEMENT PHOTO - MINI-SÉRIES ðU9FU98·ðU9FU93· ]     Voici
+   ma nouvelle mini-série "La fougère dans tous ses états" pour le défi
+   mini-série #monconfinementphoto. Comme je n'ai pas 1000 endroits où me
+   rendre dans le kilomètre réglementaire autour de chez moi, j'ai décidé
+   de poursuivre dans l'environnement forestier. Qu'en pensez-vous ? À
+   vous de jouer pour vos propres mini-séries du confinement avec le
+   hasthtag #monconfinementphoto ! (suivez le lien dans ma bio pour
+   l'article explicatif sur ce défi photo du reconfinement) . . . . . . .
+   . . .
+   #reconfinement  #confinement #covid19 #tontonphoto #apprendrelaphoto #i
+   gersfrance #pasbesoindallerloin
+   #expressyourself #xphotographer #fierdemonfuji #fujifilmexperience #fre
+   nchflair #nikonfr #canonfrance #pentaxfr #jaimelafrance #onsoccupecomme
+   onpeut #paslechoix #distanciationsociale #photocreative #photocréative
+   #revueepic
+   [ DÉFI RE-CONFINEMENT PHOTO - MINI-SÉRIES ðU9FU98·ðU9FU93· ]   Je
+   commence avec cette première mini-série, « Lumière de sous-bois »,
+   réalisée lors d'une promenade matinale d'une heure dans un petit bois
+   local et dans le cadre des règles du confinement. Mon but était de
+   photographier le jeu d'ombres et lumières en sous-bois lorsque le
+   soleil perce la végétation. C'est un moment qui me met particulièrement
+   de bonne humeur, j'en retire beaucoup de bonne énergie. J'ai pris
+   beaucoup de photos mais ai été sévère dans mon tri pour m'assurer d'une
+   certaine unité visuelle entre ces trois images. Qu'en pensez-vous ? À
+   vous de jouer pour vos propres mini-séries du confinement !
+   #monconfinementphoto . . . . . . . . . . #reconfinement
+   #confinement #covid19 #tontonphoto #apprendrelaphoto #igersfrance #pasb
+   esoindallerloin
+   #expressyourself #xphotographer #fierdemonfuji #fujifilmexperience #fre
+   nchflair #nikonfr #canonfrance #pentaxfr #jaimelafrance #onsoccupecomme
+   onpeut #paslechoix #distanciationsociale #photocreative #photocréative
+   [ DÉFI RE-CONFINEMENT PHOTO - MINI-SÉRIES ðU9FU98·ðU9FU93· ] Chers amis
+   photographes, je vous propose de renouveller le défi photo du
+   confinement, en ajoutant un défi supplémentaire : travailler en
+   mini-séries de 2 à 3 images maximum ! Taguez vos images
+   avec #monconfinementphoto, partageons nos images sur Instagram et
+   laissons notre créativité s'exprimer ! Je relaierai vos plus belles
+   photos en stories et sur le site http://tontonphoto.fr/ :) Faites
+   passer le message autour de vous, plus nous serons nombreux, plus
+   l'inspiration sera au RDV ! . . . . . . . . . . #reconfinement
+   #confinement #covid19 #tontonphoto #apprendrelaphoto
+   #igersfrance #pasbesoindallerloin #hellofrom #selfexpression
+   #expressyourself #xphotographer #fierdemonfuji #fujifilmexperience #fre
+   nchflair #nikonfr #canonfrance #pentaxfr #jaimelafrance #onsoccupecomme
+   onpeut #paslechoix #distanciationsociale #onrestecheznous #restezchezvo
+   us #photocreative #photocréative
+   [Textures 3/3] On dirait une mappemonde ! J'adore [Textures 3/3] On
+   dirait une mappemonde ! J'adore les textures des vaguelettes et de ces
+   algues affleurant à marée basse. Cancale (Ille-et-Vilaine). âU81
+   #bretagne #apprendrelaphoto #tutophoto #tontonphoto #bretagnetourisme
+   #illetevilaine #cancale #fujifilmfrance #fujixe3 #fierdemonfuji
+   [Textures 2/3] La lande bretonne toute en textures [Textures 2/3] La
+   lande bretonne toute en textures, couleurs, et herbes rases collées au
+   sol par le vent du large... âU81  #apprendrelaphoto #tutophoto
+   #tontonphoto #bretagnetourisme #cotesdarmor #finistere #bretagne
+   #fujifilmfrance #fujixe3 #fierdemonfuji #texture
+   [Texture 1/3] Champ d'algues affleurant la surface [Texture 1/3] Champ
+   d'algues affleurant la surface, ou graphisme de la nature en
+   bichromie...âU81  âU81  #bretagnetourisme #cotesdarmor
+   #apprendrelaphoto #tutophoto #tontonphoto #cotesdarmortourisme
+   #bretagne @fujifilmfrance #fujixe3 #fierdemonfuji
+   Suivre Tonton Photo sur Instagram
+
+   Articles récents
+     * Comment faire du format 6×7 en photo numérique ?
+     * Exercice photo : comment jouer avec l'ombre et la lumière ?
+     * Peut-on passer un objectif APS-C sur capteur plein-format ?
+     * Comment photographier le brouillard ? Mes 6 conseils
+     * J'ai testé pour vous : les tirages photos sur papier d'art, chez
+       labophotos.fr
+
+   <- Revenir à l'accueil
+   Salut à toi, ô cher lecteur, qui prend le temps de lire ce petit bloc
+   de texte perdu en bas de page. Sache que je partage gratuitement mes
+   conseils avec toi pour t'aider à progresser en photo et pour que nous
+   puissions partager ce plaisir ensemble. En revanche, tous les droits me
+   sont réservés sur les contenus de ce site : textes, photos, vidéos. Il
+   est important de respecter ce principe car je consacre beaucoup de
+   temps à ce blog. Si tu veux t'en inspirer ou le partager avec tes
+   élèves ou partenaires de club photo, n'hésite pas à m'écrire ! Je serai
+   ravi d'en discuter avec toi.
+   Bon, et bien, voilà voilà, je vais te laisser maintenant, j'ai
+   piscine... Au fait, as-tu pensé à t'inscrire à ma newsletter ? C'est
+   gratuit, et tu recevras directement mes conseils dans ta boîte e-mail.
+   C'est pratique et sympa car on reste en contact. Pour t'inscrire, c'est
+   ici (en plus tu recevras en cadeau un super e-book que j'ai écrit tout
+   spécialement pour mes lecteurs, ainsi qu'un mémo imprimable). À bientôt
+   !
+   Copyright © Tonton Photo / Design © Kalao Studio

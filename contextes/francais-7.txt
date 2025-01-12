@@ -1,0 +1,11 @@
+          + Automatiser des tâches avec Raccourcis
+          + Créer des Memoji
+          + Modifier son image d'ouverture de session
+          + Changer la langue du système
+          + Augmenter la taille du contenu de l'écran
+--
+     * Pour ajouter un élément d'ouverture : Cliquez sur le bouton Ajouter
+       sous la liste des éléments d'ouverture, puis sélectionnez l'élément
+       que vous souhaitez ouvrir lors de l'ouverture de session.
+     * Pour supprimer un élément d'ouverture : Sélectionnez-le dans la
+       liste des éléments d'ouverture, puis cliquez sur le bouton

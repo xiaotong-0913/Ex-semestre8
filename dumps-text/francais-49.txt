@@ -1,0 +1,567 @@
+   (BUTTON) >
+   (BUTTON) menu (BUTTON)
+   (BUTTON) menu (BUTTON)
+   actus tech société pop culture sciences cyberguerre vroom
+   (BUTTON) (BUTTON) s'abonner
+   (BUTTON) s'abonner
+   (BUTTON) Installer l'application
+
+     * actualités
+
+     * sciences
+          + découvertes
+          + environnement
+          + espace
+          + santé
+
+     * tech
+          + casques
+          + consoles de jeu
+          + culture du libre
+          + écouteurs
+          + informatique
+          + intelligence artificielle
+          + maison connectée
+          + objets connectés
+          + p2p
+          + smartphone
+          + télécoms
+          + tv & hi-fi
+          + web
+
+     * société
+          + culture web
+          + entourloupes
+          + désinformation
+          + droit du numérique
+          + éducation
+          + fait divers
+          + genre et sexualité
+          + inclusivité
+          + influenceurs
+          + politique
+          + travail
+
+     * pop culture
+          + jeux et jouets
+          + jeux vidéo
+          + littérature
+          + science-fiction
+          + séries et cinéma
+          + streaming musical
+
+     * cyberguerre
+          + cybercriminalité
+          + géopolitique
+          + hygiène numérique
+          + sécurité informatique b2b
+
+     * vroom
+          + moto électrique
+          + scooter électrique
+          + trottinette électrique
+          + vélo électrique
+          + transports en commun
+          + voiture
+
+     * nos newsletters
+     * nos comparateurs
+          + offres fibres et adsl
+          + forfait mobile
+          + offres svod
+          + sécurité numérique
+          + meilleurs vpn
+          + gestionnaires de mots de passe
+     * applications
+
+     * explorer
+          + casques
+          + écouteurs
+          + films
+          + séries tv
+          + jeux de société
+          + jeux vidéo
+          + ordinateurs portables
+          + smartphones
+          + tablettes
+          + tv
+          + voitures
+          + scooters
+          + vélos
+          + autres
+
+     * actualités
+     * enquêtes
+     * tests
+     * vidéos
+     * guides
+     * bons plans
+     * glossaire
+     * explorer
+          + casques
+          + écouteurs
+          + films
+          + séries tv
+          + jeux de société
+          + jeux vidéo
+          + ordinateurs portables
+          + smartphones
+          + tablettes
+          + tv
+          + voitures
+          + scooters
+          + vélos
+          + autres
+
+     * Mentions légales
+     * Contact
+     * Politique Cookies
+     * Données personnelles
+
+   (BUTTON)
+
+   Mis à jour le 19 décembre 2024 à 08h44
+    1. Tech
+    2. Web
+    3. Vie privée et données personnelles
+
+L'Europe demande une ouverture inédite sur iPhone : Apple dénonce des risques
+
+   Interopérabilité forcée
+   5 min
+   L'avatar de Nicolas Lellouche L'avatar de Nicolas Lellouche Nicolas
+   Lellouche
+   Nicolas Lellouche
+   5 min
+   Le logo Apple dans le drapeau de l'Union européenne. // Source :
+   Numerama
+   5 min
+   L'avatar de Nicolas Lellouche L'avatar de Nicolas Lellouche Nicolas
+   Lellouche
+   Nicolas Lellouche
+   (BUTTON) Ne plus voir cette pub
+   (BUTTON) Lecture Zen (BUTTON) Résumer l'article
+   Dans un communiqué, la Commission européenne fait des propositions pour
+   forcer Apple à traiter les montres connectées, les casques VR et les
+   enceintes connectées de ses concurrents comme s'il s'agissait de ses
+   propres produits, avec un accès total aux données de l'iPhone. Apple
+   prévient qu'une telle implémentation du DMA offrirait à Meta et à des
+   entreprises réputées intrusives des données stockées aujourd'hui
+   localement.
+
+   Avec le Digital Markets Act, son grand texte de régulation du
+   numérique, la Commission européenne a contraint Apple à effectuer un
+   très grand nombre de changements. Parmi eux : l'ouverture de l'iPhone
+   aux magasins d'applications alternatifs, la suppression de la
+   quasi-totalité des applications système ou le remplacement d'Apple Pay
+   par des logiciels concurrents. La plupart de ces changements sont
+   exclusifs à l'UE, puisque Apple ne les a pas déployés ailleurs.
+
+   Dans un communiqué publié le 18 décembre, auquel Apple répond sur son
+   site développeur, la Commission européenne dit lancer une consultation
+   pour forcer Apple à effectuer de nouveaux changements. Au nom de
+   l'interopérabilité, elle exige qu'un iPhone ou un iPad ne fasse plus de
+   différences entre une Apple Watch et une montre concurrente, un Apple
+   Vision Pro et un casque VR tiers ou une enceinte HomePod et un produit
+   audio d'une autre marque. Apple ne s'oppose pas à l'idée, mais indique
+   que son implémentation pourrait être fatale pour les données des
+   Européens.
+
+« Ça devient personnel » : Apple accuse l'Europe de le cibler et de ne pas
+comprendre sa politique de vie privée
+
+   Dans son document, Apple ne s'en prend pas directement à la demande de
+   l'Union européenne, mais dénonce les « abus » qu'elle pourrait
+   provoquer.
+
+   Sur le papier, Apple se dit plutôt favorable à l'idée qu'une montre
+   Google puisse faire la même chose qu'une Apple Watch, au nom du droit à
+   la concurrence. La marque dit néanmoins craindre que la Commission
+   européene ne comprenne pas bien le fonctionnement d'un système
+   d'exploitation comme iOS, qui traite toutes les données localement.
+
+   L'exemple donné par Apple est celui d'une Apple Watch qui reçoit un SMS
+   depuis un iPhone et permet d'y répondre, sans passer par des serveurs
+   web. Le fonctionnement actuel garantit à l'utilisateur que le contenu
+   du message n'est jamais lu par qui que ce soit. Dans l'hypothèse où un
+   développeur tiers obtiendrait les mêmes droits système qu'Apple, alors
+   il serait libre d'appliquer sa propre politique de confidentialité.
+   Tout l'historique iMessage d'un Européen pourrait alors être absorbé
+   par Google ou Meta, sans le moindre garde-fou.
+   Google Pixel Watch 2 // Source : Thomas Ancelle / Numerama Google Pixel
+   Watch 2 // Source : Thomas Ancelle / Numerama La Google Pixel Watch
+   sera-t-elle un jour reconnue par iOS comme une Apple Watch, avec une
+   seule application pour les montres ? // Source : Thomas Ancelle /
+   Numerama
+
+   Avec ces explications, Apple espère convaincre l'Europe que sa
+   consultation fait fausse route, tout en comptant sur le soutien de ses
+   utilisateurs pour mieux encadrer le projet. La marque laisse notamment
+   entendre que la fausse information selon laquelle nos téléphones nous
+   écouteraient pourrait devenir une réalité si l'accès au microphone
+   n'était plus soumis à des validations manuelles. Aujourd'hui, il y a un
+   petit indicateur. Demain, si le micro est un service système obtenu par
+   un développeur, alors il pourrait ne plus y en avoir.
+
+Meta a déjà demandé 15 autorisations spéciales à Apple : la marque dénonce
+son comportement
+
+   Dans le cadre de l'interopérabilité offerte par le DMA, le groupe Meta,
+   qui détient Facebook, WhatsApp et Messenger, a déjà effectué 15
+   demandes spéciales à Apple afin de pouvoir mettre ses casques Meta
+   Quest et ses lunettes Meta Ray-Ban sur un pied d'égalité avec l'Apple
+   Vision Pro. « Aucune entreprise n'a fait plus de demandes que Meta »
+   indique Apple.
+
+   Selon Apple, Meta est l'exemple parfait de l'entreprise qui souhaite
+   abuser du DMA. La marque demande à pouvoir contrôler l'accès aux
+   messages, aux réseaux Wi-Fi, à l'appareil photo, au Bluetooth, à
+   l'écran, à CarPlay et aux notifications d'un iPhone, juste pour son
+   casque VR. Apple indique que lui accorder cet accès lui permettrait de
+   collecter toutes les données d'un iPhone sur ses serveurs, sans que
+   l'utilisateur ne puisse rien faire. Apple refuse pour l'instant les
+   demandes de Meta, mais pourrait être obligé de dire oui si l'Europe le
+   force à le faire.
+   Apple indique que Meta demande beaucoup trop de données pour un casque
+   VR. Apple indique que Meta demande beaucoup trop de données pour un
+   casque VR. Apple indique que Meta demande beaucoup trop de données pour
+   un casque VR. // Source : Capture Numerama
+
+   « Si Apple devait accepter toutes ces demandes, Facebook, Instagram et
+   WhatsApp pourraient permettre à Meta de lire sur l'appareil d'un
+   utilisateur tous ses messages et mails, de voir tous ses appels
+   téléphoniques, de suivre toutes les applications qu'il utilise, toutes
+   ses photos, de consulter ses fichiers et ses calendriers, d'enregistrer
+   tous ses mots de passe, et bien plus encore. Il s'agit de données
+   auxquelles Apple elle-même a choisi de ne pas accéder afin de fournir
+   la protection la plus forte possible » explique la marque dans son
+   article envoyé à l'Europe.
+
+   « Apple est la seule entreprise obligée de partager ses innovations de
+   cette manière avec les autres, y compris ceux qui ne partagent pas son
+   engagement en faveur de la protection de la vie privée des utilisateurs
+   », ajoute l'entreprise.
+
+Un peu de mauvaise foi, mais aussi des vérités
+
+   Apple a-t-il raison de s'opposer au projet européen ? Ne soyons pas
+   naïfs, il protège aussi son propre business.
+
+   Le constructeur californien avait aussi dénoncé des risques pour la
+   sécurité des utilisateurs avec l'ouverture de l'iPhone aux applications
+   tierces, mais a parfaitement réussi à encadrer la distribution
+   d'applications tierces en dehors de l'App Store pour l'instant. Il
+   serait certainement possible pour Apple de mettre en place des API
+   protectrices, qui garantissent des données traitées localement sur les
+   appareils tiers, à condition que l'Europe ne lui demande pas
+   explicitement d'abaisser le niveau de sécurité.
+   L'installation de l'Epic Games Store depuis Safari. // Source :
+   Numerama L'installation de l'Epic Games Store depuis Safari. // Source
+   : Numerama L'installation de l'Epic Games Store depuis Safari, avec
+   plein de messages d'alerte. Quand il le veut, Apple sait mettre des
+   protections. // Source : Numerama
+
+   Même si Apple exagère, la marque a sans doute raison quand elle dénonce
+   les abus rendus possibles par le DMA.
+
+   Si la Commission européenne n'encadre pas strictement le partage de
+   données, alors des groupes comme Meta ou Google pourraient recourir à
+   la justice européenne pour forcer Apple à s'ouvrir un peu plus à chaque
+   fois, et donc dérober les données des utilisateurs sans les protections
+   actuellement mises en place. Le contrat virtuel signé entre le client
+   et son iPhone serait alors rompu, puisqu'Apple ne serait plus celui qui
+   garde ses données. C'est dans l'intérêt d'Apple, et donc des
+   consommateurs, de s'assurer que l'Europe comprenne que
+   l'interopérabilité ne revient pas à « ouvrir l'iPhone aux concurrents
+   ». Les risques pourraient être grands si une entreprise abuse de ses
+   autorisations spéciales pour nourrir ses propres algorithmes.
+
+   La consultation de l'Europe prendra fin le 9 janvier 2025, avec ensuite
+   des consignes directement envoyées à Apple.
+
+   Ce contenu est bloqué car vous n'avez pas accepté les cookies et autres
+   traceurs. Ce contenu est fourni par YouTube.
+   Pour pouvoir le visualiser, vous devez accepter l'usage étant opéré par
+   YouTube avec vos données qui pourront être utilisées pour les finalités
+   suivantes : vous permettre de visualiser et de partager des contenus
+   avec des médias sociaux, favoriser le développement et l'amélioration
+   des produits d'Humanoid et de ses partenaires, vous afficher des
+   publicités personnalisées par rapport à votre profil et activité, vous
+   définir un profil publicitaire personnalisé, mesurer la performance des
+   publicités et du contenu de ce site et mesurer l'audience de ce site
+   (en savoir plus)
+
+   En cliquant sur « J'accepte tout », vous consentez aux finalités
+   susmentionnées pour l'ensemble des cookies et autres traceurs déposés
+   par Humanoid et ses partenaires.
+
+   Vous gardez la possibilité de retirer votre consentement à tout moment.
+   Pour plus d'informations, nous vous invitons à prendre connaissance de
+   notre Politique cookies.
+   (BUTTON) J'accepte tout
+
+   Gérer mes choix
+   une comparateur meilleur vpn numerama une comparateur meilleur vpn
+   numerama
+   Votre VPN préféré n'est pas celui que vous croyez Quel est le meilleur
+   VPN en 2024 ? Notre comparatif Retrouvez notre comparateur pour choisir
+   le meilleur VPN
+
+   Vous avez lu 0 articles sur Numerama ce mois-ci
+   Il y a une bonne raison de ne pas s'abonner à
+
+   Tout le monde n'a pas les moyens de payer pour l'information.
+   C'est pourquoi nous maintenons notre journalisme ouvert à tous.
+
+   Mais si vous le pouvez,
+   voici trois bonnes raisons de soutenir notre travail :
+     * 1 Numerama+ contribue à offrir une expérience gratuite à tous les
+       lecteurs de Numerama.
+     * 2 Vous profiterez d'une lecture sans publicité, de nombreuses
+       fonctions avancées de lecture et des contenus exclusifs.
+     * 3 Aider Numerama dans sa mission : comprendre le présent pour
+       anticiper l'avenir.
+
+   Si vous croyez en un web gratuit et à une information de qualité
+   accessible au plus grand nombre, rejoignez Numerama+.
+   S'abonner à Numerama+
+     __________________________________________________________________
+
+   Si vous avez aimé cet article, vous aimerez les suivants : ne les
+   manquez pas en vous abonnant à Numerama sur Google News.
+
+   Tout ce qu'il faut savoir sur le Digital Markets Act (DMA)
+     * Les 5 moments qui ont marqué la tech en 2024
+     * Où tester Apple Intelligence en Europe ? On a trouvé
+     * L'Europe demande une ouverture inédite sur iPhone : Apple dénonce
+       des risques
+     * TikTok bientôt interdit : quand fermera le réseau social ?
+     * Meta AI arrive en Europe : les lunettes Meta Ray-Ban parlent
+       français
+     * La Commission européenne accuse Apple de discriminer les Européens
+       (ce n'est pas une blague)
+
+   Crédit photo de la une : Numerama
+   Signaler une erreur dans le texte
+
+   Partager l'article
+     *
+     *
+     *
+     *
+
+     * Apple
+     * Apple Watch
+     * Europe
+     * Meta
+     * Numerama Plus
+
+   (BUTTON) Ne plus voir cette pub
+   (BUTTON) Ne plus voir cette pub
+   Sur le même thème
+   Rejoignez la révolution voiture électrique avec la newsletter Watt Else
+   par Numerama ! Rejoignez la révolution voiture électrique avec la
+   newsletter Watt Else par Numerama !
+
+   Rejoignez la révolution voiture électrique avec la newsletter Watt Else
+   par Numerama ! Humanoid Native
+   Les lettres DMA inscrites sur le drapeau européen. // Source :
+   Numerama, avec Midjourney Les lettres DMA inscrites sur le drapeau
+   européen. // Source : Numerama, avec Midjourney
+
+   Tout comprendre au DMA, la loi européenne pour réguler Apple, Google et
+   Meta
+   iPhone Union Européenne DMA // Source : Numerama iPhone Union
+   Européenne DMA // Source : Numerama
+
+   App Store, Safari... Apple annonce des changements historiques sur
+   iPhone
+   L'iPhone 16 Pro // Source : Capture d'écran L'iPhone 16 Pro // Source :
+   Capture d'écran
+
+   iPhone 16, 16 Pro, Apple Watch Series 10, AirPods 4, Apple
+   Intelligence : la keynote Apple en résumé
+   L'iPhone 16 rose. // Source : Alfred Tertrais / Numerama L'iPhone 16
+   rose. // Source : Alfred Tertrais / Numerama
+
+   Test des iPhone 16 et iPhone 16 Plus : nos coups de coeur chez Apple en
+   2024
+   Une émulation Game Boy sur une montre connectée. // Source : R3V3RB_7 /
+   Reddit Une émulation Game Boy sur une montre connectée. // Source :
+   R3V3RB_7 / Reddit
+
+   L'arrivée des émulateurs sur l'App Store ouvre la porte à la Game Boy
+   sur iPhone et Apple Watch
+   (BUTTON) Ne plus voir cette pub
+
+   À lire
+   Les liseuses Kobo sont en promotion chez la Fnac : notre guide pour
+   bien la choisir Les liseuses Kobo sont en promotion chez la Fnac :
+   notre guide pour bien la choisir
+
+   Les liseuses Kobo sont en promotion chez la Fnac : notre guide pour
+   bien la choisir Humanoid Native
+   sponso
+   L'essentiel vie privée et données personnelles
+   Le logo Apple dans le drapeau de l'Union européenne. // Source :
+   Numerama Le logo Apple dans le drapeau de l'Union européenne. // Source
+   : Numerama
+
+   L'Europe demande une ouverture inédite sur iPhone : Apple dénonce des
+   risques
+
+   Comment savoir si j'ai été bloqué sur Instagram ?
+
+   Comment cacher ses photos dans son téléphone Android pour éviter les
+   indiscrétions ?
+
+   Comment effacer toutes les données de son smartphone avant de le
+   revendre ou le recycler
+
+   Sites porno interdits aux mineurs : bientôt une application pour
+   contrôler l'âge
+
+   Merci à nos Fondateurs
+     * StephaneM
+     * cgarcia
+     * kevinmc
+     * marine-ara
+     * Lou V
+     * Julien-D
+     * timtom
+     * Anis Bouzourene
+     * Raphaël Nguyen
+     * manon.andre
+     * cbonnet.96
+     * emmalefevre
+     *
+
+   (BUTTON) Mettre la liste de membres à jour Découvre Numerama+
+   (BUTTON) Ne plus voir cette pub
+   (BUTTON) Ne plus voir cette pub
+   (BUTTON) Ne plus voir cette pub
+   Les derniers articles tech
+   Offres sur les smartphones pour les soldes d'hiver // Source : Numerama
+   Offres sur les smartphones pour les soldes d'hiver // Source : Numerama
+   tech smartphone
+
+   Quel smartphone acheter pendant les soldes ? Les meilleures offres
+   disponibles en ligne
+
+   11.01.2025 18:02
+   Un spectacle magique !
+   Disney-Minia-1 Disney-Minia-1
+
+   VIDÉO - On vous dévoile les coulisses du nouveau spectacle de
+   Disneyland Paris
+
+   11.01.2025 09:52
+   Apple Airpods 4 // Source : Montage Numerama Apple Airpods 4 // Source
+   : Montage Numerama
+   tech écouteurs
+
+   Les récents et très bons écouteurs AirPods 4 sont moins chers pour les
+   soldes d'hiver
+
+   11.01.2025 09:22
+   Facebook // Source : Nino Barbey pour Numerama Facebook // Source :
+   Nino Barbey pour Numerama
+   tech web réseaux sociaux
+
+   Comment supprimer un compte Facebook définitivement ?
+
+   11.01.2025 07:00
+   Meilleures offres des soldes d'hiver // Source : Numerama Meilleures
+   offres des soldes d'hiver // Source : Numerama
+   tech informatique accessoires informatiques
+
+   Soldes d'hiver 2025 : ces 20 offres mettent la barre très haut dès la
+   première démarque
+
+   10.01.2025 17:48
+   soldes-hiver-2025-oneplus-13 soldes-hiver-2025-oneplus-13
+   tech smartphone smartphones android
+
+   Le tout récent OnePlus 13, le smartphone haut de gamme endurant, est
+   déjà soldé
+
+   10.01.2025 17:21
+   Source : CAL FIRE_Official Source : CAL FIRE_Official
+   tech smartphone applications
+
+   Feux de forêt : Google Maps permet de suivre les incendies, comment ça
+   marche ?
+
+   10.01.2025 12:08
+   L'Acer Nitro Blaze 11 // Source : Acer L'Acer Nitro Blaze 11 // Source
+   : Acer
+   tech consoles de jeu
+
+   Vous pensez que la Switch 2 sera grande ? Cette console vous prouve le
+   contraire
+
+   10.01.2025 12:06
+   Un excellent prix pour la meilleure alternative au steam Deck
+   Rog Ally Z1 Extreme Asus // Source : Montage Numerama Rog Ally Z1
+   Extreme Asus // Source : Montage Numerama
+
+   Les soldes font baisser de 200 EUR le prix de la console portable Rog
+   Ally Z1 Extreme d'Asus
+
+   10.01.2025 11:15
+   Le logo de xAI/Grok // Source : Montage Numerama avec Canva Le logo de
+   xAI/Grok // Source : Montage Numerama avec Canva
+   tech smartphone applications
+
+   L'appli Grok est là : le ChatGPT d'Elon Musk disponible sur iPhone
+
+   10.01.2025 10:05
+   (BUTTON) Ne plus voir cette pub
+   (BUTTON) Ne plus voir cette pub
+
+     *
+       Retour
+
+     (BUTTON)
+       Enregistrer dans vos signets
+     (BUTTON)
+       Partager
+
+   à propos
+   mentions légales
+   données personnelles
+   politique cookies
+   contact
+   gérer utiq
+
+   (BUTTON)
+
+   Préférences utilisateur
+
+   Réglages
+
+   (*) Clair
+   ( ) Sombre
+   ( ) Système
+
+   Mes préférences Numerama+
+
+   [ ] Mode Zen automatique
+   [ ] Désactiver les publicités
+   [ ] Désactiver le thème Numerama+
+   [ ] Désactiver les articles sponsorisés
+   [ ] Désactiver les bons plans
+   [ ] Résumé par IA automatique
+   Découvrir Numerama+
+
+   (BUTTON)
+
+   Fonction Numerama+
+
+   Bénéficiez de nombreux avantages en devenant adhérent·e Numerama+
+     * Suppression des publicités
+     * Accès au mode Zen
+     * Accès à la newsletter exclusive "Toujours Plus"
+     * Et plus encore
+
+   Découvrir Numerama+ Déjà abonné ? Connectez-vous

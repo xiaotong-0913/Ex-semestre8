@@ -1,0 +1,324 @@
+     * 2.1 Notation APEX
+
+     2.2 Ouverture photométrique (T-number)
+
+     2.3 Ouverture effective
+
+
+--
+   [ ] Basculer la table des matières
+
+Ouverture (photographie)
+
+   [ ] 35 langues
+--
+   Page d'aide sur l'homonymie
+
+   Pour les articles homonymes, voir Ouverture.
+   Page d'aide sur l'homonymie
+
+   Ne doit pas être confondu avec Ouverture numérique.
+   [250px-Lenses_with_different_apetures.jpg] Différents réglages de
+   l'ouverture. f / 1,8 est l'ouverture utile (dite "maximale") de cet
+   objectif.objectif Nikkor Bague de réglage de l'ouverture (objectif
+   Nikon).
+
+   L'ouverture d'un objectif photographique est le réglage qui permet
+   d'ajuster le diamètre d'ouverture du diaphragme. Elle est caractérisée
+   par N qui est le nombre d'ouverture^[1] ou ouverture
+   géométrique^[2](elle est aussi fréquemment notée par le quotient « f /
+   N »). Ce nombre sans dimension est défini comme le rapport du diamètre
+--
+   l'augmentation de l'influence de la diffraction.
+
+   Les fabricants indiquent toujours l'ouverture utile^[3] ou pleine
+   ouverture de l'objectif : elle est fréquemment gravée sur la partie
+   frontale de l'objectif et indique le nombre d'ouverture pour une
+   ouverture maximale du diaphragme ; plus ce nombre est petit, plus
+   l'objectif est lumineux.
+
+   L'ouverture relative est tantôt définie de façon identique au nombre
+   d'ouverture^[3]^,^[4], tantôt comme son inverse^[1]^,^[5]^,^[6], alors
+   exprimée sous la forme du rapport « 1 : N » où N est le nombre
+   d'ouverture.
+
+   L'indice d'ouverture utilise une échelle logarithmique :
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>A</mi> <mrow
+--
+
+   Plusieurs notations sont utilisées pour donner la valeur de
+   l'ouverture. Par exemple, pour exprimer qu'un objectif est utilisé à
+   une ouverture de 2,8, on trouvera les notations suivantes.
+     * N = 2,8 : la notation utilisée dans cet article, qui se trouve
+       aussi dans des ouvrages traitant d'optique photographique. Elle
+--
+     * f/2,8 : la notation la plus courante. On écrira par exemple qu'une
+       photo a été « prise à f/2,8 », et il est alors entendu qu'il s'agit
+       de l'ouverture.
+     * F2.8 : dans des ouvrages et sites anglophones. Probablement issue
+       d'une simplification de la notation précédente.
+     * 1:2.8 : utilisée par les fabricants pour exprimer l'ouverture
+       maximale des objectifs. Il s'agit de l'ouverture relative
+       c'est-à-dire de l'inverse du nombre d'ouverture.
+     * 2.8 : lorsqu'il n'y a pas d'ambiguïté, la seule valeur numérique
+--
+   préfixe introduisant le nombre d'ouverture. D'où le nom f-number
+   (littéralement : « nombre f ») utilisé en anglais pour désigner le
+   nombre d'ouverture.
+
+Régulation de l'exposition
+
+   [modifier | modifier le code]
+   [250px-Ouvertures_standards.svg.png] Séquence des nombres d'ouverture
+   standards les plus courants (de f/1 à f/32). Chaque disque a une
+   surface double de celle du suivant.
+--
+       <annotation encoding="application/x-tex">{\displaystyle
+       N}</annotation> </semantics> :MATH]
+       {\displaystyle N} le nombre d'ouverture.
+
+   L'éclairement de la surface sensible est donc inversement proportionnel
+   au carré du nombre d'ouverture N. L'exposition peut ainsi être modifiée
+   soit par modification de l'ouverture, soit par modification du temps de
+   pose. Dans le cas de poses longues, au lieu de diaphragmer pour que
+   l'image ne soit pas surexposée, on peut utiliser un filtre à densité
+--
+   Entre chaque repère, il peut exister un ou deux crans supplémentaires
+   pour les valeurs intermédiaires. Ils donnent alors un réglage précis au
+   demi-diaph ou au tiers de diaph. L'ouverture est généralement limitée à
+   16 ou 22 (voire 32 pour les grands formats) afin d'éviter une
+   dégradation excessive de l'image du fait de la diffraction.
+--
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \Phi _{i}=I\cdot \Omega } en direction de la pupille
+   d'ouverture. En supposant la distance
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>p</mi> </mstyle> </mrow>
+--
+
+   Dans le système APEX, l'ouverture est représentée en échelle
+   logarithmique par l'indice d'ouverture A[v], aussi notée AV (aperture
+   value), définie par :
+
+--
+          {\displaystyle 2^{A_{v}/2}} ).
+
+   Augmenter l'indice d'ouverture AV d'une unité correspond alors à fermer
+   d'un « diaph ». Les tableaux ci-dessous donnent les correspondances
+   entre AV et nombres d'ouverture, pour des progressions par
+   demi-diaphragme, tiers de diaphragme, quart de diaphragme et huitième
+   de diaphragme. Les nombres d'ouverture dans ces tableaux sont présentés
+   conventionnellement arrondis à deux chiffres significatifs^[7].
+
+--
+   valeurs d'AV croissantes, de l'AV-2 à l'AV14 (plage de 17 AV), et par
+   groupe de deux lignes. Sur la première ligne figure l'indice
+   d'ouverture AV et sur la seconde, le nombre d'ouverture N
+   correspondant. Il va de l'ouverture 0,5 à l'ouverture 128 (soit 17
+   ouvertures normalisées).
+   Le dernier tableau par huitième de diaphragme, destiné à relever les
+   ouvertures maximum des objectifs qui ne correspondent pas à une valeur
+   entière d'AV, va uniquement de l'ouverture 0,5 à l'ouverture 5,6 (plage
+   de 8 AV).
+
+   CAPTION: Correspondance entre AV et ouverture N (valeurs normalisées)
+   par incrément de un demi-diaphragme
+
+--
+   N 32 38 45 54 64 76 90 108 128
+
+   CAPTION: Correspondance entre AV et ouverture N (valeurs normalisées)
+   par incrément de un tiers de diaphragme
+
+--
+   N 64 72 81 90 102 114 128
+
+   CAPTION: Correspondance entre AV et ouverture N (valeurs calculées) par
+   incrément de un quart de diaphragme
+
+--
+   N 90 99 108 117 128
+
+   CAPTION: Correspondance entre AV et ouverture N (valeurs calculées) par
+   incrément de un huitième
+
+--
+   précisément le nombre de diaphragmes AV des ouvertures ne correspondant
+   pas exactement à une valeur entière de AV, ce qui est très souvent le
+   cas des ouvertures maximum des objectifs. Le tableau par tiers de
+   diaphragme permet la même recherche. Sauf exception, les valeurs
+   d'ouverture maximum se situent, le plus souvent, à une distance de 1/8,
+   ¼, 1/3, 3/8 ou ½ diaphragme d'une AV entière. Une fois l'AV de
+   l'ouverture maximum précisément relevée, cette dernière peut ensuite
+   être facilement comparée, en fraction de diaphragme, aux ouvertures
+   normalisées bien connues.
+
+   Par exemple, une ouverture max de 1,1 est proche de 1,09 qui correspond
+   une AV de ¼ de diaphragme. Cette AV est supérieure ¼ de diaphragme à
+   l'AV 0 (ou inférieure de ¾ de diaphragme à l'AV 1). On peut donc dire
+   que l'ouverture 1,1 est supérieure de un peu moins de ¾ de diaphragme à
+   l'ouverture 1,4 (ou inférieure de un peu plus de ¼ de diaphragme à
+   l'ouverture 1).
+
+   Autre exemple, à une ouverture max de 1,7 correspond à une AV de 1½.
+--
+   de ½ diaphragme à l'ouverture 1,4).
+
+   Pour les valeurs d'ouverture non présentes dans le tableau, telle
+   l'ouverture 3,3, il reste toujours la possibilité de calculer l'AV à
+   l'aide de la formule
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+   encoding="application/x-tex">{\displaystyle A_{v}=2\log
+   _{2}(N)}</annotation> </semantics> :MATH]
+   {\displaystyle A_{v}=2\log _{2}(N)} . Dans le cas de l'ouverture 3,3,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>A</mi> <mrow
+--
+   diaphragme à l'ouverture 4).
+
+   Encore un exemple, l'ouverture max de 1,8, très fréquente, est
+   supérieure de ¼ de diaphragme à l'ouverture 2 (ou inférieure de ¾ de
+   diaphragme à l'ouverture 1,4).
+
+   Dernier exemple, une ouverture max de 0,95, proche de 0,96, est
+   supérieure de un peu plus de 1/8 de diaphragme à l'ouverture 1.
+
+   Ne pas oublier qu'aux valeurs croissantes des AV correspondent des
+   valeurs d'ouverture décroissantes !
+
+Ouverture photométrique (T-number)
+
+   [modifier | modifier le code]
+--
+   un objectif parfaitement transparent pour avoir la même luminosité que
+   l'objectif considéré : sa valeur est toujours supérieure à celle de
+   l'ouverture géométrique. L'ouverture photométrique est donc donnée
+   par :
+
+--
+          {t_{p}}{N_{T}^{2}}}} .
+
+   L'ouverture photométrique est généralement notée avec le préfixe
+   « T/ ». Par exemple, « T/3.1 » signifie N[T] = 3,1. Il ne s'agit
+   nullement d'une fraction, mais simplement d'une notation établie par
+--
+   étalonné individuellement^[9].
+
+Ouverture effective
+
+   [modifier | modifier le code]
+--
+       rapport des diamètres des pupilles d'entrée et de sortie.
+
+   Le nombre d'ouverture par le nombre d'ouverture effectif défini par :
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+   </semantics> :MATH]
+   {\displaystyle A} peuvent pénétrer pour traverser la pupille
+   d'ouverture.
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msubsup> <mi>th</mi> <mrow
+--
+   [modifier | modifier le code]
+   Article détaillé : Profondeur de champ.
+   [220px-DoF_fonction_de_l%27ouverture.svg.png] Courbe de la variation de
+   la profondeur de champ (PdC) en fonction de l'ouverture du diaphragme :
+   mise au point à 2 m ; f' = 50 mm ; format 24×36.
+
+--
+   Les deux premières photographies montrent l'influence du diaphragme sur
+   l'étendue de la zone de netteté. La première a été prise avec une
+   grande ouverture, la seconde avec une petite ouverture. La vitesse
+   d'obturation a été ajustée en conséquence mais tous les autres
+   paramètres sont restés identiques.
+--
+     * Diaphragme fermé
+       Diaphragme fermé
+     * Objectif vu pour deux ouvertures
+       Objectif vu pour deux ouvertures
+
+   L'ouverture du diaphragme permet aussi de calculer la valeur
+   l'hyperfocale :
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+   <annotation encoding="application/x-tex">{\displaystyle N}</annotation>
+   </semantics> :MATH]
+   {\displaystyle N} l'ouverture.
+     * En faisant la mise au point sur l'infini, le premier plan net
+       correspond à la distance hyperfocale.
+--
+   intermédiaires, celle-ci étant limitée par les aberrations géométriques
+   à grande ouverture (N petit) et par les phénomènes de diffraction à
+   petite ouverture (N grand).
+
+Diffraction
+--
+   [modifier | modifier le code]
+   courbe de diffraction Diamètre de la tache due à la diffraction en
+   fonction du nombre d'ouverture. Les bandes horizontales représentent le
+   cercle de confusion admissible en fonction du format
+   Articles connexes : Diffraction et Tache d'Airy.
+--
+   La diffraction n'est pas à proprement parler une aberration, elle est
+   constitutive de la nature ondulatoire de la lumière. La lumière passant
+   par l'ouverture du diaphragme est diffractée. Plus l'ouverture est
+   faible, plus le phénomène sera sensible.
+
+--
+   admissible elle devient perceptible et nuit à la netteté. Si dans un
+   premier temps la fermeture du diaphragme compense les aberrations
+   optiques, une ouverture trop petite générera une diffraction trop
+   importante. L'ouverture est généralement limitée à f/16 ou f/22.
+
+   L'influence de la diffraction est plus importante avec des capteurs de
+--
+   [modifier | modifier le code]
+   [220px-MTF_lens.svg.png] Courbes de FTM d'un objectif pour son
+   ouverture minimale et maximale
+   Articles connexes : Aberration géométrique et Aberration chromatique.
+
+--
+
+   Sur les autres projets Wikimedia :
+     * Ouverture (photographie), sur Wikimedia Commons
+     * Diaphragme, sur le Wiktionnaire
+     * Rudiments sur l'appareil photographique, sur Wikiversity
+--
+   [modifier | modifier le code]
+     * Diaphragme
+     * Ouverture numérique
+     * Pouvoir de résolution (optique)
+     * Cercle de confusion
+--
+
+   [modifier | modifier le code]
+     * Ouvertures et pupilles, article très détaillé de Pierre Toscani.
+
+Notes et références
+--
+       focale (d'apr. Sarm. Phys. 1981). »
+    7. ^| L'arrondi conventionnel présente quelques incohérences. Par
+       exemple, l'ouverture pour AV = 3½ (~= 3,3636) est arrondie vers le
+       bas à 3,3, alors que celle pour AV = 4½ (~= 4,7568) est arrondie
+       vers le haut à 4,8. Il y a aussi des ambigüités : la valeur 1,2
+--
+     * Profondeur de champ
+     * Hyperfocale
+     * Ouverture
+     * Distorsion
+     * Vignetage
+--
+     * Additive system of Photography EXposure
+     * Indice de lumination
+     * Ouverture
+     * Temps de pose
+     * Zone system
+--
+   Performances
+     * Angle de champ
+     * Ouverture
+     * Grandissement
+     * Grossissement optique et Grossissement commercial
