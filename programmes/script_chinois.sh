@@ -7,11 +7,11 @@ if [ $# -ne 1 ]; then
 fi
 
 fichier=$1  # Fichier contenant les URLs
-aspirations="/home/hxt/Projet-PPE1/aspirations"
-dumps="/home/hxt/Projet-PPE1/dumps-text"
-contexte="/home/hxt/Projet-PPE1/contextes"
-concordance="/home/hxt/Projet-PPE1/concordances"
-output_html="/home/hxt/Projet-PPE1/tableaux/tableau_chinois.html"
+aspirations="../aspirations"
+dumps="../dumps-text"
+contexte="../contextes"
+concordance="../concordances"
+output_html="../tableaux/tableau_chinois.html"
 concordance_file="$concordance/concordancier_chinois.html"
 mot="开放"
 n=1  # Initialisation du compteur de lignes
@@ -55,7 +55,6 @@ while read -r line; do
         # Téléchargement et création des fichiers nécessaires
         curl -s -L "$line" -o "$aspiration_file"
         lynx -dump -nolist "$line" > "$dump_file"
-        compte=$(grep -o "$mot" "$dump_file" | wc -l)
         compte=$(grep -o "$mot" "$dump_file" | wc -l)
         grep -A2 -B2 "$mot" "$dump_file" > "$context_file" # isoler les occurrences de mot avec 2 lignes
 
