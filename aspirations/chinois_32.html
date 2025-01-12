@@ -1,0 +1,587 @@
+<!DOCTYPE html>
+<html pw-lang="zh-hans">
+<head>
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+<![endif]-->
+<meta charset="UTF-8">
+<title>腾讯“全平台开放”中的黑匣子-品玩</title>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge，chrome=1">
+<meta property="og:type" content="article">
+<meta property="og:title" content="腾讯“全平台开放”中的黑匣子-品玩">
+<meta property="og:description" content="微信游戏中心中少有的第三方游戏有《植物大战僵尸2》和《全民英雄》。我们都知道《植物大战僵尸2》的分发是奇虎360、百度等大型渠道来向游戏开发商证明自己渠道能力的一场关键战役，而《全民英雄》是一款腾讯独家代理的游戏。所以，还没有真正意义上的“第三方"产品入驻腾讯的核心渠道。">
+<meta property="og:url" content="https://www.pingwest.com/a/26458">
+<meta property="og:image" content="https://cdn.pingwest.com/wp-content/uploads/2014/01/tencent-membership-1.png">
+<meta property="og:site_name" content="品玩">
+<meta name="keywords" content="开放平台,腾讯,应用宝,网综网剧" />
+<meta name="description" content="微信游戏中心中少有的第三方游戏有《植物大战僵尸2》和《全民英雄》。我们都知道《植物大战僵尸2》的分发是奇虎360、百度等大型渠道来向游戏开发商证明自己渠道能力的一场关键战役，而《全民英雄》是一款腾讯独家代理的游戏。所以，还没有真正意义上的“第三方"产品入驻腾讯的核心渠道。" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black"/>
+<meta name="apple-mobile-web-app-title" content=""/>
+<meta name="apple-touch-fullscreen" content="YES" />
+<meta name="apple-itunes-app" content="app-id=1249610310">
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="format-detection" content="telephone=no" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="format-detection" content="telephone=no" />
+<meta name="login-status" content="0" />
+<meta property="fb:app_id" content="227726278114021" />
+<meta name="captcha-appid" content="2099135131" />
+<link rel="apple-touch-icon-precomposed" sizes="48x48" href="" />
+<link rel="icon" href="https://cdn.pingwest.com/pw-favicon.png">
+<link rel="shortcut icon" href="https://cdn.pingwest.com/pw-favicon.png">
+<link rel="apple-touch-icon" href="https://cdn.pingwest.com/touch-icon.png"/>
+<link rel="stylesheet" type="text/css" href="//cdn.pingwest.com/static/modules/css/reset_fb6084b.css">
+<link rel="stylesheet" type="text/css" href="//at.alicdn.com/t/font_698792_pj7xo5kt8wr.css">
+<link rel="stylesheet" type="text/css" href="//cdn.pingwest.com/static/css/style_018de75.css">
+<!-- <link rel="stylesheet" type="text/css" href="/static/css/headerShortTime.css"> -->
+<script type="application/ld+json">{
+    "@context": "https://ziyuan.baidu.com/contexts/cambrian.jsonld",
+    "@id": "https://www.pingwest.com/a/26458",
+    "appid": "1544703316321905",
+    "title": "腾讯“全平台开放”中的黑匣子",
+    "images": [
+        "https://cdn.pingwest.com/wp-content/uploads/2014/01/tencent-membership-1.png"
+    ],
+    "pubDate": "2014-01-17T00:44:03.000Z"
+}</script><!-- Global site tag (gtag.js) - Google Analytics -->
+<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-34863888-1"></script> -->
+<!-- <script>
+window.dataLayer = window.dataLayer || []
+function gtag () { dataLayer.push(arguments) }
+gtag('js', new Date())
+gtag('config', 'UA-34863888-1')
+</script>
+<script>
+var _hmt = _hmt || [];
+(function () {
+let hm = document.createElement('script')
+hm.src = 'https://hm.baidu.com/hm.js?f84e8ac4a3dd041a31147de7a5c7263c'
+let s = document.getElementsByTagName('script')[0]
+s.parentNode.insertBefore(hm, s)
+})()
+</script> -->
+<!-- <script>
+(function(para) {
+var p = para.sdk_url, n = para.name, w = window, d = document, s = 'script',x = null,y = null;
+if(typeof(w['sensorsDataAnalytic201505']) !== 'undefined') {
+return false;
+}
+w['sensorsDataAnalytic201505'] = n;
+w[n] = w[n] || function(a) {return function() {(w[n]._q = w[n]._q || []).push([a, arguments]);}};
+var ifs = ['track','quick','register','registerPage','registerOnce','trackSignup', 'trackAbtest', 'setProfile','setOnceProfile','appendProfile', 'incrementProfile', 'deleteProfile', 'unsetProfile', 'identify','login','logout','trackLink','clearAllRegister','getAppStatus'];
+for (var i = 0; i < ifs.length; i++) {
+w[n][ifs[i]] = w[n].call(null, ifs[i]);
+}
+if (!w[n]._t) {
+x = d.createElement(s), y = d.getElementsByTagName(s)[0];
+x.async = 1;
+x.src = p;
+x.setAttribute('charset','UTF-8');
+w[n].para = para;
+y.parentNode.insertBefore(x, y);
+}
+})({
+sdk_url: 'https://cdn.pingwest.com/static/js/sensorsdata.min.js',
+name: 'sensors',
+server_url: '',
+heatmap: {
+clickmap: 'default',
+scroll_notice_map: 'default'
+},
+app_js_bridge: true,
+show_log: false});sensors.registerPage({
+_project: 'main',
+_platform: 'web'
+});sensors.quick('autoTrack');
+</script> -->
+<!-- Matomo -->
+<script>
+var _paq = window._paq = window._paq || [];
+/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+_paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+_paq.push(["setCookieDomain", "*.www.pingwest.com"]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+var u="https://matomo.dev.pingcode.tech/";
+_paq.push(['setTrackerUrl', u+'matomo.php']);
+_paq.push(['setSiteId', '2']);
+var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+})();
+</script>
+<!-- Matomo Tag Manager -->
+<script>
+var _mtm = window._mtm = window._mtm || [];
+_mtm.push({'mtm.startTime': (new Date().getTime()), 'event': 'mtm.Start'});
+var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+g.async=true; g.src='https://matomo.dev.pingcode.tech/js/container_DVNfyJ8s.js'; s.parentNode.insertBefore(g,s);
+</script>
+<!-- End Matomo Tag Manager -->
+</head><body class="article-detail">
+<section class="top-header">
+<style>@media (max-width: 768px) {.kjcxz{display: none}}</style>
+<header class="clearboth">
+<a class="mobile-menu font_family icon-menu1" href="javascript:;" data-type="show" data-common-action="toggleMobileNav"></a>
+<section class="logo">
+<a href="//www.pingwest.com/"><img src="//cdn.pingwest.com/static/modules/images/logo_e67f85d.png" class="img" alt=""></a>
+</section>
+<section class="download-bar">
+<section class="logo">
+<a href="https://s.growingio.com/LWqRgA"><img src="//cdn.pingwest.com/static/modules/images/logo-white_b52707b.png" class="img" alt=""></a>
+</section>
+<section class="content">
+<p class="title"><a href="https://s.growingio.com/LWqRgA">品玩</a></p>
+<p class="description"><a href="https://s.growingio.com/LWqRgA">科技创新者的每日必读</a></p>
+</section>
+<section class="options">
+<a href="https://s.growingio.com/LWqRgA">打开APP</a>
+</section>
+</section>
+<section class="right-wrap drop-down-adom">
+<a href="//www.pingwest.com/app-download" target="_blank" class="down-app">品玩APP</a>
+<a href="//en.pingwest.com" target="_blank" class="margin-left">English</a>
+<!--            <a href="//synclub.pingwest.com" target="_blank" class="margin-left">SYNClub</a>-->
+<a href="//events.pingwest.com" target="_blank" class="margin-left">线下活动</a>
+<a href="//www.pingwest.com/subject" target="_blank" class="margin-left">专题</a>
+<!--<a href="javascript:;" data-common-action="userRegister" class="register-btn margin-left">注册</a>-->
+<a href="javascript:;" data-common-action="userLogin" class="login-btn margin-left">登录</a>
+</section>
+</header>
+<nav class="clearboth">
+<section class="nav-items">
+<a href="//www.pingwest.com" target="_self" class="item">
+首页</a>
+<a href="//www.pingwest.com/status" target="_self" class="item">
+实时要闻</a>
+<a href="//www.pingwest.com/tag/%E5%93%81%E9%A9%BE" target="_self" class="item">
+品驾</a>
+<a href="//www.pingwest.com/tag/%E5%93%81%E7%8E%A9Global" target="_self" class="item">
+品玩Global</a>
+<a href="//www.pingwest.com/tag/%E7%A1%85%E6%98%9F%E4%BA%BA" target="_self" class="item">
+硅星人</a>
+<a href="//www.pingwest.com/tag/%E4%B8%8D%E5%AE%A2%E8%A7%82%E5%AE%9E%E9%AA%8C%E5%AE%A4" target="_self" class="item">
+不客观实验室</a>
+<a href="//www.pingwest.com/Pingraphic" target="_self" class="item">
+PinGraphic</a>
+<a href="//www.pingwest.com/user/feed" target="_self" class="item">
+我的订阅</a>
+<a href="//www.pingwest.com/tag/gpt" target="_self" class="item esp">
+#品玩大模型内刊#</a>
+</section>
+<section class="search">
+<input type="text" data-el-action="search" class="pc-search-icon" placeholder="输入关键词搜索">
+<i class="font_family icon-loupe" data-el="this" data-common-action="search"></i>
+</section>
+</nav>
+</section>
+<section class="mobile-menu-box" id="J_mobileMenu">
+<section class="menu-search-box animate-fade-in">
+<i class="font_family icon-loupe"></i>
+<input type="search" data-el-action="search" placeholder="搜索文章、快讯">
+</section>
+<section class="scroll-flex">
+<ul class="nav">
+<li class="animate-fade-in"><a href="//www.pingwest.com" target="_self">首页</a></li>
+<li class="animate-fade-in"><a href="//www.pingwest.com/status" target="_self">实时要闻</a></li>
+<li class="animate-fade-in"><a href="//www.pingwest.com/tag/%E5%93%81%E9%A9%BE" target="_self">品驾</a></li>
+<li class="animate-fade-in"><a href="//www.pingwest.com/tag/%E5%93%81%E7%8E%A9Global" target="_self">品玩Global</a></li>
+<li class="animate-fade-in"><a href="//www.pingwest.com/tag/%E7%A1%85%E6%98%9F%E4%BA%BA" target="_self">硅星人</a></li>
+<li class="animate-fade-in"><a href="//www.pingwest.com/tag/%E4%B8%8D%E5%AE%A2%E8%A7%82%E5%AE%9E%E9%AA%8C%E5%AE%A4" target="_self">不客观实验室</a></li>
+<li class="animate-fade-in"><a href="//www.pingwest.com/Pingraphic" target="_self">PinGraphic</a></li>
+<li class="animate-fade-in"><a href="//www.pingwest.com/user/feed" target="_self">我的订阅</a></li>
+<li class="animate-fade-in"><a href="//www.pingwest.com/tag/gpt" target="_self">#品玩大模型内刊#</a></li>
+<li class="animate-fade-in"><a href="//en.pingwest.com" target="_blank" class="margin-left">English</a></li>
+<li class="animate-fade-in"><a href="//synclub.pingwest.com" target="_blank" class="margin-left">SYNClub</a></li>
+<li class="animate-fade-in"><a href="//events.pingwest.com" target="_blank" class="margin-left">线下活动</a></li>
+<li class="animate-fade-in"><a href="//www.pingwest.com/subject" target="_blank" class="margin-left">专题</a></li>
+</ul>
+<section class="login-register animate-fade-in">
+<a href="//www.pingwest.com/register" class="register">注册</a>
+<a href="//www.pingwest.com/login" class="login">登录</a>
+</section>
+</section>
+<section class="close-layer animate-fade-in" data-type="hide" data-common-action="toggleMobileNav">
+<a href="javascript:;">关闭</a>
+</section>
+</section>
+<section id="J_articleBox">
+<section class="article-row" data-topic-id="" data-down-id="26452">
+<section class="news-recom-tag">
+<a href="//www.pingwest.com/tag/383" target="_blank" style="color: #E04A1C">开放平台</a>
+</section>
+<section class="article-title" data-article-id="26458">
+<p>腾讯“全平台开放”中的黑匣子</p>
+</section>
+<section class="article-description">
+<i class="font_family icon-quote"></i>
+<p>微信游戏中心中少有的第三方游戏有《植物大战僵尸2》和《全民英雄》。我们都知道《植物大战僵尸2》的分发是奇虎360、百度等大型渠道来向游戏开发商证明自己渠道能力的一场关键战役，而《全民英雄》是一款腾讯独家代理的游戏。所以，还没有真正意义上的“第三方"产品入驻腾讯的核心渠道。</p>
+</section>
+<section class="news-author">
+<section class="author">
+<section class="author-avatar">
+<section class="avatar">
+<a href="//www.pingwest.com/user/7521758967" target="_blank">
+<img src="https://cdn.pingwest.com/default-avatar.jpg?x-oss-process=style/avatar-thumb-md" class="img" alt="">
+</a>
+</section>
+<!--<a class="avatar" href="//www.pingwest.com/user/7521758967"><img src="https://cdn.pingwest.com/default-avatar.jpg?x-oss-process=style/avatar-thumb-md" class="img" alt=""></a>-->
+</section>
+<section class="author-info">
+<p class="name">
+<a href="//www.pingwest.com/user/7521758967" target="_blank">陈粲然 Ray</a>
+<!--<button class="follow-btn sm icon border text " data-common-action="follow" data-status="0" data-id="15017" data-type="0"><span>关注</span></button>-->
+</p>
+<p class="publish-time">
+发布于 2014年1月17日</p>
+</section>
+</section>
+<!--<section class="author-desc">-->
+<!--<p></p>-->
+<!--</section>-->
+</section>
+<section class="article-main clearboth">
+<aside class="article-opts">
+<section class="article-cover">
+<section class="news-img">
+<img src="https://cdn.pingwest.com/wp-content/uploads/2014/01/tencent-membership-1.png?x-oss-process=style/article-thumb-lg" class="img wechat-share-img" alt="">
+</section>
+</section><section id="J_scrollOptions">
+<section id="J_fixedLeftAside">
+<section class="item-tag-list follows block clearboth">
+<button class="tag lg  clearboth" id="KJozj38326458">
+<a href="//www.pingwest.com/tag/383" target="_blank">开放平台</a>
+<span class="follow" data-common-action="follow" data-el="KJozj38326458" data-no-text="no" data-status="1" data-id="383" data-type="2">
+<i class="font_family icon-add a"></i>
+<i class="font_family icon-yes s"></i>
+</span>
+</button>
+<button class="tag lg  clearboth" id="KJozj39426458">
+<a href="//www.pingwest.com/tag/394" target="_blank">腾讯</a>
+<span class="follow" data-common-action="follow" data-el="KJozj39426458" data-no-text="no" data-status="1" data-id="394" data-type="2">
+<i class="font_family icon-add a"></i>
+<i class="font_family icon-yes s"></i>
+</span>
+</button>
+<button class="tag lg  clearboth" id="KJozj280526458">
+<a href="//www.pingwest.com/tag/2805" target="_blank">应用宝</a>
+<span class="follow" data-common-action="follow" data-el="KJozj280526458" data-no-text="no" data-status="1" data-id="2805" data-type="2">
+<i class="font_family icon-add a"></i>
+<i class="font_family icon-yes s"></i>
+</span>
+</button>
+<button class="tag lg  clearboth" id="KJozj1504526458">
+<a href="//www.pingwest.com/tag/15045" target="_blank">网综网剧</a>
+<span class="follow" data-common-action="follow" data-el="KJozj1504526458" data-no-text="no" data-status="1" data-id="15045" data-type="2">
+<i class="font_family icon-add a"></i>
+<i class="font_family icon-yes s"></i>
+</span>
+</button>
+</section>
+<section class="options">
+<ul>
+<li class="circle show">
+<section class="item zan " data-common-action="likeArticle" data-like-id="26458" data-like-type="1" data-like-status="1">
+<i class="font_family icon-dianzan"></i>
+<span class="favor_count"></span>
+</section>
+</li>
+<li>
+<a href="javascript:;" class="" data-common-action="collectArticle" data-c-status="1" data-c-type="1" data-c-id="26458">
+<img src="//cdn.pingwest.com/static/images/icon_shoucang1_8fbaeeb.png" class="ico" />
+</a>
+</li>
+<li>
+<a href="javascript:;" data-common-action="shareWeibo">
+<img src="//cdn.pingwest.com/static/images/icon_weibo_66e0c0a.png" class="ico" />
+</a>
+</li>
+<li>
+<a href="javascript:;" data-common-action="wechatPreview">
+<img src="//cdn.pingwest.com/static/images/icon_weixin_1a7b35c.png" class="ico" />
+</a>
+</li>
+</ul></section>
+</section>
+</section>
+</aside>
+<section class="main">
+<article class="article-style">
+<figure class="image"><img src="https://cdn.pingwest.com/wp-content/uploads/2014/01/tencent-membership-1.png?x-oss-process=style/article-body" title="" alt=""  width='600' height='360' /></figure><p>如果你参加过2013年7月的腾讯开放大会，那么他们在昨天下午举办的《移动.生态》大会可能会让你有种似曾相识的感觉——这次腾讯讲的还是那三件事：多个移动产品所具备的分发规模；对第三方在开发、运营和变现上的支持；以及把去年分成30亿的大饼扩大到了未来两年100亿。
+</p><p>但我们必须注意的一点是，<b>应用宝完全这次成为了整个腾讯在移动互联网开放的主角</b>——任何腾讯移动产品中推送的应用都必须跳转到应用宝去下载。而不是直接通过用户基数和活跃度更有优势的微信、手机QQ或手机QQ空间来实现分发。那么，为什么腾讯要这样刻意延长用户的下载路径，仅仅是为了带动应用宝的安装量么？实际上，腾讯是出于三方面的考量：
+</p><p>第一， 在移动用户下载Apps的场景中，会频繁出现诸如从Wi-Fi网络环境到移动流量环境、从有网环境到无网环境的状况；在每个月末尾时，用户由于流量不足会产生下载量锐减的“月末效应”；不少用户仍习惯在电脑上检索和下载移动应用。而在腾讯的产品线中，只有应用宝有流量增量更新、电脑推送至手机等功能，而微信和手机QQ等产品，甚至连断点续传的能力都没有。
+</p><p>第二，在腾讯眼里，传统意义上的应用商店中，应用下载量与编辑推荐决定了哪些App显示在首页，大部分的长尾应用难以冒头。所以腾讯希望依靠用户在手机QQ、微信等平台中对App下载或分享给好友等社交行为的判定，来做基于“社交图谱”和“兴趣图谱”的个性化应用推荐。那么，无论是产品形态上，还是作为内部“第三方”产品来对QQ账户或微信账户进行整合，应用宝都更加合适。
+</p><p>第三，虽然腾讯号称要对应用进行全腾讯产品平台的分发，但实际上，你很难想象在微信或手机QQ手打开一个“应用商店”，里面罗列着所有第三方的移动应用。
+</p><p>这就引出了下一个问题：<b>到底腾讯口中所说的“一站接入，全平台分发是什么意思？</b>
+</p><p>这并非如许多人理解的那样：一个App在进入应用宝平台后，就会陆续被接入到手机QQ、微信、手机QQ空间等产品中，推荐给用户下载。腾讯的实际意思是——如果你成为了应用宝平台的一员，那么腾讯就会为你开放社交关系链，你的应用能够在微信、手机QQ等产品中被分享或是直接由用户“定向推荐给好友”。
+</p><p>简而言之：<b>除了应用宝外，你的应用在其他的腾讯产品中并不一定能得到真正意义上的官方支持。</b>
+</p><p>这就让整个“移动开放战略”变得很微妙了。虽然腾讯昨天宣布的广告收入零分成，应用和游戏收入和合作伙伴3:7分成的政策看上去足够诱人。但如果第三方无法获得微信、手机QQ等产品真正意义上的分发，那么它的吸引力当然会大打折扣——谁都知道，进入微信、手机QQ的游戏中心，或是被通知Push给用户所带来的效果，要远远高过完全通过“朋友圈”或“好友推荐”这样的社交分享传播。
+</p><p>昨天我问腾讯开放平台、移动应用平台总经理林松涛，什么样的应用或游戏才能在微信、手机QQ这样的平台上被推荐或放入游戏中心？他的答案是：会有一些门槛，但也已经向第三方开放。
+</p><p>这是个很有意思的答案：我们可以看到微信游戏中心中少有的第三方游戏有《植物大战僵尸2》和《全民英雄》，我们都知道《植物大战僵尸2》的分发是奇虎360、百度等大型渠道来向游戏开发商证明自己渠道能力的一场关键战役，腾讯动用全平台资源来推动它是显而易见的。而《全民英雄》是一款腾讯独家代理的游戏。
+</p><p><b>所以目前看起来，在战略上具有重要意义，或是和腾讯的利益紧密联系外，腾讯对第三方施行真正意义上“全面开放”的门槛还有些模糊不清，像微信&amp;QQ游戏中心、通知推送这样的重要分发渠道，仍只是一个腾讯才知道里面到底会放些什么的黑匣子。</b>
+</p><p>而上个月，腾讯的天天飞车月流水超过4亿人民币，腾讯自己还将在2014年再上线20款移动游戏，在这样巨大的利益下要让腾讯把全部资源也分给第三方，显然是一件不大可能的事情。对于不少创业者而言，能够利用腾讯开放的社交关系链通过朋友圈或公众平台来传播产品也已经是一个好消息了。只不过，在许下远景之后，早一点告诉第三方自己开放的边界，还是腾讯必须尽快去做的事情。
+</p><p><b>注：图片来自网络</b></p></article>
+<section class="item-tag-list follows">
+<button class="tag default " id="VKdji9k238326458">
+<a href="//www.pingwest.com/tag/383" target="_blank">开放平台</a>
+<span class="follow" data-common-action="follow" data-el="VKdji9k238326458" data-no-text="no" data-status="1" data-id="383" data-type="2">
+<i class="font_family icon-add a"></i>
+<i class="font_family icon-yes s"></i>
+</span>
+</button>
+<button class="tag default " id="VKdji9k239426458">
+<a href="//www.pingwest.com/tag/394" target="_blank">腾讯</a>
+<span class="follow" data-common-action="follow" data-el="VKdji9k239426458" data-no-text="no" data-status="1" data-id="394" data-type="2">
+<i class="font_family icon-add a"></i>
+<i class="font_family icon-yes s"></i>
+</span>
+</button>
+<button class="tag default " id="VKdji9k2280526458">
+<a href="//www.pingwest.com/tag/2805" target="_blank">应用宝</a>
+<span class="follow" data-common-action="follow" data-el="VKdji9k2280526458" data-no-text="no" data-status="1" data-id="2805" data-type="2">
+<i class="font_family icon-add a"></i>
+<i class="font_family icon-yes s"></i>
+</span>
+</button>
+<button class="tag default " id="VKdji9k21504526458">
+<a href="//www.pingwest.com/tag/15045" target="_blank">网综网剧</a>
+<span class="follow" data-common-action="follow" data-el="VKdji9k21504526458" data-no-text="no" data-status="1" data-id="15045" data-type="2">
+<i class="font_family icon-add a"></i>
+<i class="font_family icon-yes s"></i>
+</span>
+</button>
+</section>
+<section class="download-app-tip">
+<section class="mobile app-icon">
+<img src="//cdn.pingwest.com/static/modules/images/logo_e67f85d.png" class="img" alt="">
+</section>
+<section class="slogan">
+<p class="pc title">下载品玩App，比99.9%的人更先知道关于「开放平台」的新故事</p>
+<p class="mobile title">下载品玩App</p>
+</section>
+<p class="mobile desc">比99.9%的人更先知道关于「开放平台」的新故事</p>
+<section class="buttons">
+<section class="pc">
+<a href="https://s.growingio.com/O1WoZy" target="_blank">
+<i class="font_family icon-ios"></i>
+<span>iOS版本</span>
+</a>
+<a href="https://s.growingio.com/kvkLxz" target="_blank">
+<i class="font_family icon-android"></i>
+<span>Android版本</span>
+</a>
+</section>
+<section class="mobile">
+<a href="https://s.growingio.com/LWqRgA" target="_blank">立即下载</a>
+</section>
+</section>
+</section><section class="article-bottom-options">
+<section class="like">
+<section class="item zan " data-common-action="likeArticle" data-like-id="26458" data-like-type="1" data-like-status="1">
+<i class="font_family icon-dianzan"></i>
+<span><i class="favor_count"></i> 点赞</span>
+</section>
+</section>
+<section class="share">
+<a href="javascript:;" class="" data-common-action="collectArticle" data-c-status="1" data-c-type="1" data-c-id="26458">
+<!-- <i class="icon font_family icon-ribbon"></i> -->
+<img src="//cdn.pingwest.com/static/images/icon_shoucang1_8fbaeeb.png" class="ico" />
+</a>
+<a href="javascript:;" data-common-action="shareWeibo">
+<!-- <i class="font_family icon-weibo"></i> -->
+<img src="//cdn.pingwest.com/static/images/icon_weibo_66e0c0a.png" class="ico" />
+</a>
+<!--<a href="javascript:;" data-common-action="wechatPreview"><i class="font_family icon-weixin"></i></a>-->
+</section>
+</section>
+<section class="author-news" data-id="15017">
+<section class="author">
+<section class="avatar">
+<a href="//www.pingwest.com/user/7521758967" target="_blank"><img src="https://cdn.pingwest.com/default-avatar.jpg?x-oss-process=style/avatar-thumb-md" class="img" alt=""></a>
+</section>
+<section class="info">
+<section class="name-wrap">
+<a href="//www.pingwest.com/user/7521758967" target="_blank" class="name">陈粲然 Ray</a>
+<button class="follow-btn sm icon " data-common-action="follow" data-status="1" data-id="15017" data-type="0"><i class="font_family icon-cc-plus-crude"></i><span>关注</span></button>
+</section>
+<section class="desc">
+<p>不揣测动机、不质疑资格、不定义身份、不混淆概念、诚恳承认错误，做良性讨论。</p>
+</section>
+</section>
+</section>
+<section class="news-list" id="J_userRecommendArticle"></section>
+</section>
+<section id="J_bottomAd"></section>
+</section>
+<aside class="recommend">
+<section class="news-list" id="J_articleRecommend" style="display: none"></section>
+<section id="J_recommendArticle">
+<section class="scroll" id="J_scrollFixed">
+<!--<section class="wire-push" id="J_wirePush"></section>-->
+<section class="day-news" id="J_dayNews">
+<p class="title">每日要闻</p>
+<ul>
+<li class="n n1">
+<section class="in">
+<p class="title">
+<i></i>
+<span></span>
+</p>
+<p class="content c1"></p>
+<p class="content c2"></p>
+</section>
+<section class="back">
+<p class="title">
+<i></i>
+<a id="J_dayTitle" target="_blank"></a>
+</p>
+<a class="content" id="J_dayContent" target="_blank"></a>
+</section>
+</li>
+<li class="n n2">
+<section class="in">
+<p class="title">
+<i></i>
+<span></span>
+</p>
+<p class="content c1"></p>
+<p class="content c2"></p>
+</section>
+<section class="back">
+<p class="title">
+<i></i>
+<a id="J_dayTitle" target="_blank"></a>
+</p>
+<a class="content" id="J_dayContent" target="_blank"></a>
+</section>
+</li>
+<li class="n n3">
+<section class="in">
+<p class="title">
+<i></i>
+<span></span>
+</p>
+<p class="content c1"></p>
+<p class="content c2"></p>
+</section>
+<section class="back">
+<p class="title">
+<i></i>
+<a id="J_dayTitle" target="_blank"></a>
+</p>
+<a class="content" id="J_dayContent" target="_blank"></a>
+</section>
+</li>
+<li class="ewm">
+<img src="//wxcdn.pingwest.com/mina%5Etype=0%5Eaging=0%5E-pages-index-index@from=article-side.png" class="img" alt="">
+<p class="tip">扫码查看每日要闻</p>
+</li>
+</ul>
+</section>
+</section>
+</section>
+</aside>
+</section>
+<section class="comment-box" data-comment-list id="J_comment">
+<section class="comment">
+<p class="comment-count" style="display: none"><span id="J_commentCount">0</span> 条评论</p>
+<section class="write-comment">
+<section class="avatar">
+<img src="https://cdn.pingwest.com/default-avatar.jpg" class="img" alt="">
+</section>
+<section class="input">
+<p class="not-login-tip">请「<a href="javascript:;" data-common-action="userLogin">登录</a>」后评论</p>
+<section class="options">
+<!--<span class="tip" data-not="true">请登录后评论</span>-->
+<section class="btn">
+<a href="javascript:;" class="close">取消</a>
+<a href="javascript:;" data-comment-action="commentArticle" data-not="true" class="submit">发布</a>
+</section>
+</section>
+</section>
+</section>
+<section class="comment-list" id="J_commentList"></section>
+</section>
+</section></section></section>
+<script src="//cdn.pingwest.com/lib/raven.min.js" crossorigin="anonymous"></script>
+<script>
+// Raven.config('https://92284a9768ba4c0c8f79489413ec4a73@sentry.pingwest.com/2', {
+//     release: '1.1.0',
+//     environment: 'production'
+// }).install();
+</script>
+<script src="//cdn.pingwest.com/static/modules/js/prod.ds_14ad023.js" crossorigin="anonymous"></script>
+<script src="//cdn.pingwest.com/static/modules/js/j191_4b46fcb.js" crossorigin="anonymous"></script>
+<script src="//cdn.pingwest.com/static/modules/js/popup.lib_e9df2b7.js" crossorigin="anonymous"></script>
+<script src="//cdn.pingwest.com/static/modules/js/loginRegister.lib_73302fa.js" crossorigin="anonymous"></script>
+<script src="//cdn.pingwest.com/static/modules/js/base.lib_06cba10.js" crossorigin="anonymous"></script>
+<script src="//cdn.pingwest.com/static/modules/js/loadMore.lib_1db04f1.js" crossorigin="anonymous"></script>
+<script src="https://ssl.captcha.qq.com/TCaptcha.js"></script><div class="aiChatBox">
+<div class="aiHeader">
+<div class="headerL">
+<img src="//cdn.pingwest.com/static/images/aiHelper/robotAvatar_f8b4cce.png" alt="" class="robotAvatar">
+<span class="title">AI阅读助手</span>
+<div class="hint">
+<img src="//cdn.pingwest.com/static/images/aiHelper/icon-i_f4f4783.png" />
+<div class="hintText">
+以下有两点提示，请您注意：<br />
+1. 请避免输入违反公序良俗、不安全或敏感的内容，模型可能无法回答不合适的问题。<br />
+2. 我们致力于提供高质量的大模型问答服务，但无法保证回答的准确性、时效性、全面性或适用性。在使用本服务时，您需要自行判断并承担风险；<br />
+感谢您的理解与配合
+</div>
+</div>
+</div>
+<div class="headerR">
+<img src="//cdn.pingwest.com/static/images/aiHelper/fullScreen_2a813b1.png" alt="" class="fullScreen open" data-ai-action="openFullScreen">
+<img src="//cdn.pingwest.com/static/images/aiHelper/closeFullScreen_4b9db96.png" alt="" class="fullScreen close" data-ai-action="closeFullScreen">
+</div>
+</div>
+<div class="aiContentBox"></div>
+<div class="aiInputBox">
+<div class="inputBoxT">
+<div class="reset" data-ai-action="resetChat"><img src="//cdn.pingwest.com/static/images/aiHelper/reset_12f1863.png" alt=""></div>
+<div class="inputBox">
+<textarea class="aiInput" type="text" placeholder="可通过回车发送、shift+回车换行" name="question"></textarea>
+<div class="send un"><img src="//cdn.pingwest.com/static/images/aiHelper/send_60be4b7.png" alt=""></div>
+<div class="send active" data-ai-action="sendQuestion"><img src="//cdn.pingwest.com/static/images/aiHelper/sendActive_b7741f8.png" alt=""></div>
+</div>
+</div>
+<div class="packUp" data-ai-action="packUpAiHelper"><img src="//cdn.pingwest.com/static/images/aiHelper/packUp_946b44b.png" alt=""></div>
+</div>
+</div>
+<div class="dialogBox">
+<div class="dialog">
+<div class="close-btn" data-ai-action="closeDialog"><i class="font_family icon-close"></i></div>
+<span class="text">该功能目前正处于内测阶段，尚未对所有用户开放。如果您想快人一步体验产品的新功能，欢迎点击下面的按钮申请参与内测</span>
+<a href="https://www.wjx.cn/vm/tVl9Rjc.aspx#" target="_blank" class="form-entry">申请内测</a>
+</div>
+</div><script src="https://cdn.jsdelivr.net/npm/dayjs@1/dayjs.min.js"></script>
+<script src="//cdn.pingwest.com/static/modules/js/comment.lib_6a2d26f.js" crossorigin="anonymous"></script>
+<script src="//cdn.pingwest.com/static/js/topic.card.class_bb45c53.js" crossorigin="anonymous"></script>
+<script src="//cdn.pingwest.com/static/js/fetch-event-source_6752f73.js" crossorigin="anonymous"></script>
+<script src="//cdn.pingwest.com/static/js/article.class_bf370c1.js" crossorigin="anonymous"></script>
+<script src="//cdn.pingwest.com/static/js/aiHelper.class_f1dab30.js" crossorigin="anonymous"></script>
+<script>
+// eslint-disable-next-line no-new, no-undef
+new AiHelper({
+type: 1
+})
+</script>
+<script>
+(function(){
+var bp = document.createElement('script');
+var curProtocol = window.location.protocol.split(':')[0];
+if (curProtocol === 'https') {
+bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+}
+else {
+bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+}
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(bp, s);
+})();
+</script>
+</body>
+</html>
