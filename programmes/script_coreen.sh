@@ -121,7 +121,7 @@ while read -r line; do
 
 
     # Sauvegarde des contextes dans un fichier texte
-    awk -v mot="개방" -v mot_variantes="개방성|개방적" '{
+    awk -v mot="$word" -v mot_variantes="개방성|개방적" '{
         if (NF == 0) next;  # Ignore les lignes vides
         if ($0 ~ mot) {
             if ($0 ~ /개방성/) {
