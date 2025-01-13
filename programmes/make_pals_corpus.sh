@@ -39,10 +39,33 @@ for file in "$folder"/*"$language"*; do
         # Utilisation de pykos pour tokeniser le texte en coréen
         pykos "$file" | sed -E 's/([[:punct:]])/\n\1\n/g; s/([[:space:]])+/\n/g' | tr -s '\n' >> "$output_file"
         echo "Langue coréenne détectée et tokenisation effectuée."
+    elif [[ "$language" == "chinois" ]]; then
+        # Utilisation de jieba pour tokeniser le texte en chinois
+        python3 -c "
+import jieba
+import sys
+with open('$file', 'r', encoding='utf-8') as f:
+    text = f.read()
+segmented = ' '.join(jieba.cut(text))
+with open('temp_file', 'w', encoding='utf-8') as f:
+    f.write(segmented)
+"
+        sed -E 's/([[:punct:]])/\n\1\n/g; s/([[:space:]])+/\n/g' temp_file | tr -s '\n' >> "$output_file"
+        echo "Langue chinoise détectée et traitement effectué."
     else
         # Segmentation des mots ou symboles pour les autres langues
         sed -E 's/([[:punct:]])/\n\1\n/g; s/([[:space:]])+/\n/g' "$file" | tr -s '\n' '\n' >> "$output_file"
     fi
+
 done
 
+# Nettoyage du fichier temporaire si utilisé
+if [[ -f "temp_file" ]]; then
+    rm temp_file
+fi
+
 echo "Tous les fichiers ont été combinés dans : $output_file"
+
+
+
+

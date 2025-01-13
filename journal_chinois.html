@@ -193,7 +193,7 @@
     </ul>
   </div>
   <div class="post-content">
-    <p> Dans le cadre du projet, j'ai réalisé un traitement des données en utilisant un script Bash pour extraire le mot "开放" et ses variantes dans les contextes textuels. À partir des pages web récupérées via cURL, j'ai utilisé **lynx** pour convertir les contenus HTML en texte brut et **grep** pour isoler les contextes pertinents, avec deux lignes avant et après chaque occurrence du mot. Ces contextes sont stockés dans des fichiers texte dans un dossier dédié. J'ai également généré un concordancier en HTML, listant les occurrences du mot avec leurs contextes gauche et droit, grâce à des commandes **sed** et **awk**. Les résultats sont organisés en tableaux et accessibles dans des fichiers distincts, facilitant ainsi l'analyse des données.
+    <p> Dans le cadre du projet, j'ai réalisé un traitement des données en utilisant un script Bash pour extraire le mot "开放" et ses variantes dans les contextes textuels. À partir des pages web récupérées via cURL, j'ai utilisé *lynx* pour convertir les contenus HTML en texte brut et *grep* pour isoler les contextes pertinents, avec deux lignes avant et après chaque occurrence du mot. Ces contextes sont stockés dans des fichiers texte dans un dossier dédié. J'ai également généré un concordancier en HTML, listant les occurrences du mot avec leurs contextes gauche et droit, grâce à des commandes *sed* et *awk*. Les résultats sont organisés en tableaux et accessibles dans des fichiers distincts, facilitant ainsi l'analyse des données.
 </div>
 </div>
 <div class="post">
@@ -216,7 +216,11 @@
     </ul>
   </div>
   <div class="post-content">
-    <p> Dans cette étape, j’ai travaillé sur l’uniformisation des styles de tableau avec les membres de l’équipe et sur la modification du site web. Tout d’abord, j’ai adapté les tableaux HTML générés selon le modèle fourni par mes coéquipiers afin de garantir une cohérence visuelle à travers tout le projet. Cela inclut l’application d’un thème de couleurs et de polices unifié, ainsi que l’utilisation du même fichier CSS (par exemple Bulma) pour harmoniser l’apparence générale.</p>
+    <p>
+      Sur la base du script PALS fourni par Léna, j’ai ajouté une section pour traiter les textes en chinois. En utilisant l’outil de segmentation `jieba`, le script lit le fichier texte spécifié, segmente le texte en unités lexicales individuelles, sépare les mots par des espaces, puis écrit le résultat dans un fichier temporaire nommé `temp_file`. Ensuite, la commande `sed` insère des sauts de ligne autour des signes de ponctuation et remplace les espaces par des sauts de ligne, garantissant qu’il n’y ait qu’un mot ou un signe de ponctuation par ligne. Enfin, la commande `tr -s '\n'` supprime les lignes vides supplémentaires, et le texte traité est ajouté au fichier cible `$output_file`.
+      
+      Ce script garantit que les textes chinois sont uniformément standardisés, fournissant des données textuelles cohérentes pour l’analyse PALS à venir. </p>
+    <p> J’ai travaillé sur l’uniformisation des styles de tableau avec les membres de l’équipe et sur la modification du site web. Tout d’abord, j’ai adapté les tableaux HTML générés selon le modèle fourni par mes coéquipiers afin de garantir une cohérence visuelle à travers tout le projet. Cela inclut l’application d’un thème de couleurs et de polices unifié, ainsi que l’utilisation du même fichier CSS (par exemple Bulma) pour harmoniser l’apparence générale.</p>
     <a href="analyse_chinois.html" class="btn btn-main">Voir l'analyse</a>
   </div>
 </div>

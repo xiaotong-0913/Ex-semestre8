@@ -109,8 +109,8 @@
           <h4>Résultats Corpus Dumps-text</h4>
           <ul>
             <li><span><i class="fa fa-shirtsinbulk "></i> Corpus</span><strong>Dumps-text</strong></li>
-            <li><span><i class="fa fa-shield "></i> Taille</span><strong>493332</strong></li>
-            <li><span><i class="fa fa-ils "></i> Occurrences "obertura"</span><strong>1898</strong></li>
+            <li><span><i class="fa fa-shield "></i> Taille</span><strong>166741</strong></li>
+            <li><span><i class="fa fa-ils "></i> Occurrences "开放"</span><strong>2167</strong></li>
           </ul>
         </div>
       </div>
@@ -119,27 +119,49 @@
           <h4>Résultats Corpus Contextes</h4>
           <ul>
             <li><span><i class="fa fa-shirtsinbulk "></i> Corpus</span><strong>Contextes</strong></li>
-            <li><span><i class="fa fa-shield "></i> Taille</span><strong>150822</strong></li>
-            <li><span><i class="fa fa-ils "></i> Occurrences "开放"</span><strong>7400</strong></li>
+            <li><span><i class="fa fa-shield "></i> Taille</span><strong>48835</strong></li>
+            <li><span><i class="fa fa-ils "></i> Occurrences "开放"</span><strong>2116</strong></li>
           </ul>
         </div>
       </div>
       <div class="col-md-12">
         <div class="project-content mt-50">
         <h2 class="mb-3">Analyse des cooccurrents de "开放"</h2>
-        <p>En utilisant le PALS des cooccurrents le but est de retomber sur les mêmes sens que nous avions déterminés lors du choix du mot “ouverture”, c’est-à-dire 1) action de s’ouvrir, 2) être utilisable, praticable, disponible, 3) espace qui permet la communication entre l’extérieur et l’intérieur, 4) moment à partir duquel une infrastructure peut être visitée, ou un évènement commence 5) attitude politique qui vise au rapprochement de deux partis, 6) aptitude à comprendre quelque chose qui n’est pas familier à soi, 7) trait articulatoire en phonologie, 8) introduction d’une œuvre plus longue en musique. J’ai tout d’abord lancé le script sur mon corpus dumps-text avec la commande :</p>
-        <p>`python cooccurrents.py dumps-text-catalan.txt --target "obertura" --match-mode regex --context-length 2`</p>
-          <p>L’option –target permet de préciser le motif que l’on recherche.</p>
-          <p>Parmi les cooccurrents les plus fréquents, on retrouve d'abord le sens de "moment à partir duquel une infrastructure peut être visitée, ou un évènement commence", avec des mots comme "botigues" (boutiques), "caixa" (banque), "horaris" (horaires). On retrouve aussi "cerimònia" (cérémonie), "celebrar" (célébrer), "Jocs" (jeux), qui se rapprochent plus du sens "moment à partir duquel un évènement commence". En effet le début d'un évènement (comme les Jeux Olympiques par exemple) est souvent célébré et accompagné d'une cérémonie.</p>
-          <p>On retrouve également, dans les cooccurrents les plus fréquents, le sens de "l'action de s'ouvrir", ou bien plus métaphoriquement, le sens de "aptitude ) comprendre quelque chose qui n'est pas familier à soi", avec notamment le mot "clau" (clé), qui peut désigner autant l'objet matériel servant à ouvrir une porte, ou un évènement, une parole, un état d'esprit permettant une ouverture plus métaphorique.</p>
-          <p>Le sens de "trait articulatoire en phonologie" est également présent, avec notamment le mot "lingüística" (linguistique), qui revient souvent, mais aussi "llengua" (langue), "vocàlic" (vocalique). La notion d'ouverture, en catalan, est beaucoup utilisée pour désigner soit le degré d'ouverture physique de la bouche en phonologie, soit une caractéristique phonologique d'un son, pour faire la différence entre un "o" ouvert et un "o" fermé, par exemple.</p>
-          <p>Les mots "fronteres" (frontières) et "política" (politique) comptent aussi parmi les cooccurrents les plus fréquents du mot 'obertura' en catalan. On a donc aussi une forte présence du sens politique du terme, avec l'ouverture des frontières et les rapprochements entre différents partis ou pays.</p>
-          <p>On retrouve ensuite le sens musical avec les mots "musical" (musical), "clàssica" (classique), "Beethoven".</p>
-          <p>Pour le sens d' "espace qui permet la communication entre l'intérieur et l'extérieur", on retrouve "entrada" (entrée), "finestra" (fenêtre), "portes" (portes).</p>
-          <p>Le sens d'ouverture culturelle/d'esprit est présent avec le mot "clau" comme nous l'avons vu plus haut, mais il est aussi présent avec "món" (monde), "millor" (meilleur), "entener" (comprendre), "saber" (savoir)...</p>
-          </p>
-<p> On remarque que les sens du mot sont presque exactement identiques en français et en catalan, ce qui est sûrement dû au fait que les deux langues ont les mêmes origines, puisque ce sont toutes les deux des langues romanes.</p>
-  </div>
+        <p>À travers l'utilisation de l'outil d'analyse des cooccurrences PALS, notre objectif était de revenir sur les multiples significations associées au mot cible "开放" (ouverture). Ces significations incluent notamment les cas suivants :</p>
+        <ul>
+            <li>« 博物馆开放参观 » (ouverture des musées au public)</li>
+            <li>« 开放获取代码 » (accès libre au code source)</li>
+            <li>« 公园的花朵开放 » (les fleurs du parc s'épanouissent)</li>
+            <li>« 改革开放 » (la réforme et l'ouverture)</li>
+            <li>« 开放式关系 » (relation ouverte)</li>
+        </ul>
+        <p>Nous avons tout d'abord exécuté l'analyse sur le corpus contextes-chinois.txt avec la commande suivante :</p>
+        <pre><code>python3 /home/hxt/Downloads/cooccurrents.py --target "开放" --match-mode regex --context-length 2 /home/hxt/Projet-PPE1/pals/dumps-text-chinois.txt</code></pre>
+
+        <h2 class="subtitle">Résultats principaux</h2>
+        <p>Le mot cible "开放" (ouverture) apparaît <strong>549 fois</strong> dans le corpus, indiquant qu'il s'agit d'un terme central ou fréquemment utilisé dans le contexte analysé. Les résultats montrent que les cooccurrences fréquentes incluent des mots comme « 获取 » (obtenir), « 期刊 » (revue), et « 沟通 » (communication), ce qui suggère que le mot "开放" (ouverture) est souvent lié aux thématiques suivantes :</p>
+        <ul>
+            <li><strong>L'accès à des ressources ou des connaissances</strong> (par exemple, « 获取 » (obtenir), « 期刊 » (revue)).</li>
+            <li><strong>La communication ou les interactions sociales</strong> (par exemple, « 沟通 » (communication)).</li>
+        </ul>
+        <p>De plus, des expressions telles que « 推动改革 » (promouvoir la réforme) montrent que "开放" (ouverture) joue un rôle significatif dans les discours liés au développement politique ou social, en particulier dans le contexte historique de la « 改革开放 » (réforme et ouverture) en Chine.</p>
+
+        <h2 class="subtitle">Analyse de la spécificité</h2>
+        <p>Certains mots, tels que « 获取 » (obtenir, spécificité : 17,59) et « 推动改革 » (promouvoir la réforme, spécificité : 17,59), présentent un score de spécificité élevé. Cela signifie que ces termes apparaissent de manière significativement plus fréquente dans les contextes entourant le mot "开放" (ouverture) que dans l'ensemble du corpus. Ces résultats renforcent l'idée que "开放" (ouverture) est fortement associé à des thématiques telles que :</p>
+        <ul>
+            <li><strong>La transmission des connaissances</strong> (par exemple, « 获取 » (obtenir)).</li>
+            <li><strong>Les réformes et le développement social</strong> (par exemple, « 推动改革 » (promouvoir la réforme)).</li>
+        </ul>
+
+        <h2 class="subtitle">Conclusion</h2>
+        <p>L'analyse des cooccurrences a permis de mettre en évidence les domaines sémantiques principaux associés au mot "开放" (ouverture). Ces domaines incluent :</p>
+        <ul>
+            <li><strong>La transmission des connaissances</strong> (par exemple, « 获取 » (obtenir), « 期刊 » (revue)).</li>
+            <li><strong>Les réformes politiques</strong> (par exemple, « 推动改革 » (promouvoir la réforme)).</li>
+            <li><strong>Les interactions sociales et culturelles</strong>.</li>
+        </ul>
+        <p>Les résultats fournissent une base solide pour des études linguistiques plus approfondies, telles que l'identification des modèles thématiques ou la construction de réseaux lexicaux. Enfin, les mots ayant une spécificité élevée pourraient constituer des points de départ pour des recherches ciblées sur les usages spécifiques du concept d'ouverture.</p>
+    </div>
 </section>
 <section class="related-projects section-sm bg-gray">
   <div class="container">
@@ -155,7 +177,7 @@
         <div class="content">
           <img class="img-fluid" src="images/portfolio/portfolio-big-2.jpg">
           <div class="content mt-4">
-            <h4>Tableau catalan</h4>
+            <h4>Tableau chinois</h4>
             <p>Ensemble des informations récoltées sur les pages web extraites pour constituer le corpus d'étude.</p>
             <a href="tableaux/tableau_chinois.html" class="btn btn-small">Voir la page</a>
           </div>
@@ -165,7 +187,7 @@
         <div class="content">
           <img class="img-fluid" src="images/portfolio/portfolio-big-3.jpg">
           <div class="content mt-4">
-            <h4>Journal catalan</h4>
+            <h4>Journal chinois</h4>
             <p>Commentaires sur le travail fourni et récapitulatif des étapes réalisées dans le cadre de ce projet.</p>
             <a href="journal_chinois.html" class="btn btn-small">Voir la page</a>
           </div>
